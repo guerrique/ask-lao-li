@@ -1,0 +1,2 @@
+class Trigramme < ApplicationRecord
+end

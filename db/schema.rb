@@ -10,10 +10,69 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_06_16_163222) do
+ActiveRecord::Schema.define(version: 2019_06_16_195002) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "hex_answers", force: :cascade do |t|
+    t.bigint "hexagramme_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["hexagramme_id"], name: "index_hex_answers_on_hexagramme_id"
+  end
+
+  create_table "hex_perspectives", force: :cascade do |t|
+    t.bigint "hexagramme_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["hexagramme_id"], name: "index_hex_perspectives_on_hexagramme_id"
+  end
+
+  create_table "hexagrammes", force: :cascade do |t|
+    t.string "nom"
+    t.string "description"
+    t.string "trait1"
+    t.string "trait2"
+    t.string "trait3"
+    t.string "trait4"
+    t.string "trait5"
+    t.string "trait6"
+    t.string "image"
+    t.integer "numero"
+    t.string "trigramme_haut"
+    t.string "trigramme_bas"
+    t.string "oppose"
+    t.string "reverse"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "tirages", force: :cascade do |t|
+    t.string "question"
+    t.string "jet1"
+    t.string "jet2"
+    t.string "jet3"
+    t.string "jet4"
+    t.string "jet5"
+    t.string "jet6"
+    t.bigint "hex_answer_id"
+    t.bigint "hex_perspective_id"
+    t.bigint "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["hex_answer_id"], name: "index_tirages_on_hex_answer_id"
+    t.index ["hex_perspective_id"], name: "index_tirages_on_hex_perspective_id"
+    t.index ["user_id"], name: "index_tirages_on_user_id"
+  end
+
+  create_table "trigrammes", force: :cascade do |t|
+    t.string "nom"
+    t.string "description"
+    t.string "image"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
@@ -27,4 +86,9 @@ ActiveRecord::Schema.define(version: 2019_06_16_163222) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "hex_answers", "hexagrammes"
+  add_foreign_key "hex_perspectives", "hexagrammes"
+  add_foreign_key "tirages", "hex_answers"
+  add_foreign_key "tirages", "hex_perspectives"
+  add_foreign_key "tirages", "users"
 end
