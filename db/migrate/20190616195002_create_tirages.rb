@@ -8,8 +8,8 @@ class CreateTirages < ActiveRecord::Migration[5.2]
       t.string :jet4
       t.string :jet5
       t.string :jet6
-      t.references :hex_answer, foreign_key: true
-      t.references :hex_perspective, foreign_key: true
+      t.string :hexagramme
+      t.string :perspective
       t.references :user, foreign_key: true
 
       t.timestamps
