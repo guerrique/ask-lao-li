@@ -1,0 +1,22 @@
+.titlearea {
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  // justify-content: center;
+
+}
+
+.formarea {
+  flex: 1;
+    display: flex;
+  align-items: center;
+  // justify-content: center;
+
+}
+
+.buttonarea {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  // justify-content: center;
+}

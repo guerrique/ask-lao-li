@@ -1,0 +1,15 @@
+.question-form {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#question-form {
+  width: 300px;
+  height: 130px;
+  padding: 10px;
+}
+
+#question-form::placeholder {
+  color: $lighter;
+}
