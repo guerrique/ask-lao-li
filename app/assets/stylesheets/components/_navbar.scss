@@ -1,6 +1,19 @@
 .navbar-lewagon {
   justify-content: space-between;
-  background: white;
+  align-items: center;
+  background-color: #F8F8F8;
+}
+
+.navbar-title {
+  h4 {
+    margin: 0;
+    color: #565656;
+    font-size: 22px;
+  }
+}
+
+.navbar-brand {
+  margin: 0;
 }
 
 .navbar-lewagon .navbar-collapse {
@@ -18,4 +31,9 @@
     background-color: transparent;
     border: none;
     /* border-radius: 2px; */
+}
+
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(86,86,86, 0.6)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }

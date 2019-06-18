@@ -1,1 +1,13 @@
 // Specific CSS for your home-page
+.homepage {
+  background-color: white;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  min-height: 91vh;
+}
