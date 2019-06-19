@@ -17,3 +17,19 @@
   font-family: Righteous;
   color: $maintitles;
 }
+
+.lancer-btn {
+  border: 0.5px solid $lighter;
+  border-radius: 3px;
+  margin: 0 30px;
+  padding: 10px 30px;
+  background-color: #F8F8F8;
+  color: $lighter;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-active {
+  border: 0.5px solid $maintitles;
+  color: $maintitles;
+}
