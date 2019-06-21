@@ -1,0 +1,19 @@
+<div class="wrapper">
+  <div>
+    Vous avez obtenu l'hexagramme <%= @tirage.hexagramme.nom %>
+  </div>
+  <div>
+    <%= @tirage.hexagramme.description  %>
+  </div>
+  <div>
+    <% @tirage.traits.each_with_index do |trait, i| %>
+      <% if trait.nom.include? 'mutant' %>
+      trait <%= (i + 1).to_s %>
+      <%= @tirage.hexagramme["trait" + (i + 1).to_s] %>
+      <% end %>
+    <% end %>
+  </div>
+  <div>
+    Perspective: <%= @tirage.perspective %>
+  </div>
+</div>
