@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_06_16_195002) do
+ActiveRecord::Schema.define(version: 2019_06_21_154537) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -36,18 +36,24 @@ ActiveRecord::Schema.define(version: 2019_06_16_195002) do
 
   create_table "tirages", force: :cascade do |t|
     t.string "question"
-    t.string "jet1"
-    t.string "jet2"
-    t.string "jet3"
-    t.string "jet4"
-    t.string "jet5"
-    t.string "jet6"
-    t.string "hexagramme"
     t.string "perspective"
     t.bigint "user_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.bigint "hexagramme_id"
+    t.string "reply_traits"
+    t.index ["hexagramme_id"], name: "index_tirages_on_hexagramme_id"
     t.index ["user_id"], name: "index_tirages_on_user_id"
+  end
+
+  create_table "traits", force: :cascade do |t|
+    t.string "nom"
+    t.string "jet_brut"
+    t.string "jet_ordered"
+    t.bigint "tirage_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["tirage_id"], name: "index_traits_on_tirage_id"
   end
 
   create_table "trigrammes", force: :cascade do |t|
@@ -70,5 +76,7 @@ ActiveRecord::Schema.define(version: 2019_06_16_195002) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "tirages", "hexagrammes"
   add_foreign_key "tirages", "users"
+  add_foreign_key "traits", "tirages"
 end

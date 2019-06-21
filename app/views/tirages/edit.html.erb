@@ -1,25 +1,40 @@
 <div class="wrapper">
   <div class="white-bubble">
     <div class="maintitle">
-    <h4><%= @tirage.question %></h4>
-    </div>
-        <div class="lancer-btn">
-      Lancer 6
-    </div>
-    <div class="lancer-btn">
-      Lancer 5
-    </div>
-    <div class="lancer-btn">
-      Lancer 4
-    </div>
-    <div class="lancer-btn">
-      Lancer 3
-    </div>
-    <div class="lancer-btn">
-      Lancer 2
+      <h4><%= @tirage.question %></h4>
     </div>
     <div class="lancer-btn btn-active">
-      Lancer 1
+      <%= render partial: 'traits/bouton', locals: {
+        tirage: @tirage, trait: Trait.new } %>
+        <%#= link_to 'Lancer 6', set_jet6_tirage_path(@tirage), method: :patch %>
+    </div>
+    <div class="lancer-btn btn-active">
+      <%= render partial: 'traits/bouton', locals: {
+        tirage: @tirage, trait: Trait.new } %>
+        <%#= link_to 'Lancer 5', set_jet5_tirage_path(@tirage), method: :patch %>
+    </div>
+    <div class="lancer-btn btn-active">
+      <%= render partial: 'traits/bouton', locals: {
+        tirage: @tirage, trait: Trait.new } %>
+        <%#= link_to 'Lancer 4', set_jet4_tirage_path(@tirage), method: :patch %>
+    </div>
+    <div class="lancer-btn btn-active">
+      <%= render partial: 'traits/bouton', locals: {
+        tirage: @tirage, trait: Trait.new } %>
+        <%#= link_to 'Lancer 3', set_jet3_tirage_path(@tirage), method: :patch %>
+    </div>
+    <div class="lancer-btn btn-active">
+      <%= render partial: 'traits/bouton', locals: {
+        tirage: @tirage, trait: Trait.new } %>
+        <%#= link_to 'Lancer 2', set_jet2_tirage_path(@tirage), method: :patch %>
+    </div>
+
+    <div class="lancer-btn btn-active">
+      <%= render partial: 'traits/bouton', locals: {
+        tirage: @tirage, trait: Trait.new } %>
+    </div>
+    <div class="lancer-btn btn-active">
+      <%= link_to 'résultat', set_hexagramme_tirage_path(@tirage), method: :patch %>
     </div>
   </div>
 </div>

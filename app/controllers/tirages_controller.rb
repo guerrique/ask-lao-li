@@ -1,5 +1,5 @@
 class TiragesController < ApplicationController
-  before_action :set_tirage, only: [:edit]
+  before_action :set_tirage, only: [:edit, :show, :set_hexagramme]
   def new
     @tirage = Tirage.new
   end
@@ -7,7 +7,7 @@ class TiragesController < ApplicationController
   def create
     @tirage = Tirage.new(tirage_params)
     @tirage.user = current_user
-    if @tirage.save
+    if @tirage.save(validate: false)
       redirect_to edit_tirage_path(@tirage)
     else
       render :new
@@ -15,6 +15,20 @@ class TiragesController < ApplicationController
   end
 
   def edit
+  end
+
+  def show
+  end
+
+  def set_hexagramme
+    trig_bas = TrigName.call([@tirage.traits[0].nom, @tirage.traits[1].nom, @tirage.traits[2].nom])
+    trig_haut = TrigName.call([@tirage.traits[3].nom, @tirage.traits[4].nom, @tirage.traits[5].nom])
+    hexrep = SetHexagramme.call(trig_bas, trig_haut)
+    @tirage.hexagramme = Hexagramme.find_by nom: hexrep
+    @tirage.reply_traits = StringifyTraits.call(@tirage.traits)
+    @tirage.perspective = SetPerspective.call(@tirage.reply_traits.split(', '))
+    @tirage.save
+    redirect_to tirage_path(@tirage)
   end
 
   private
