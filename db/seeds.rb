@@ -1,6 +1,9 @@
 puts "destroying data"
+Trait.destroy_all
+Tirage.destroy_all
 Trigramme.destroy_all
 Hexagramme.destroy_all
+User.destroy_all
 
 puts "creating trigrammes"
 ["trigbrume", "trigciel", "trigeau", "trigfeu", "trigmarais",
@@ -39,3 +42,7 @@ hex = Hexagramme.new(
   )
 hex.save!
 end
+
+# puts "creating admin"
+# guerrique = Admin.new(email: "guerrique@bussiere.fr", password: "guerrique")
+

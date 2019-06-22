@@ -10,26 +10,55 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_06_21_154537) do
+ActiveRecord::Schema.define(version: 2019_06_22_091538) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
+  create_table "admins", force: :cascade do |t|
+    t.string "email", default: "", null: false
+    t.string "encrypted_password", default: "", null: false
+    t.string "reset_password_token"
+    t.datetime "reset_password_sent_at"
+    t.datetime "remember_created_at"
+    t.integer "sign_in_count", default: 0, null: false
+    t.datetime "current_sign_in_at"
+    t.datetime "last_sign_in_at"
+    t.inet "current_sign_in_ip"
+    t.inet "last_sign_in_ip"
+    t.datetime "locked_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["email"], name: "index_admins_on_email", unique: true
+    t.index ["reset_password_token"], name: "index_admins_on_reset_password_token", unique: true
+  end
+
   create_table "hexagrammes", force: :cascade do |t|
-    t.string "nom"
-    t.string "description"
-    t.string "trait1"
-    t.string "trait2"
-    t.string "trait3"
-    t.string "trait4"
-    t.string "trait5"
-    t.string "trait6"
-    t.string "image"
     t.integer "numero"
+    t.string "nom"
+    t.text "description"
+    t.text "jugement"
+    t.text "jugement_description"
+    t.text "trait1"
+    t.text "trait1_description"
+    t.text "trait2"
+    t.text "trait2_description"
+    t.text "trait3"
+    t.text "trait3_description"
+    t.text "trait4"
+    t.text "trait4_description"
+    t.text "trait5"
+    t.text "trait5_description"
+    t.text "trait6"
+    t.text "trait6_description"
+    t.text "grande_image"
+    t.text "dixieme_aile"
+    t.text "nucleaire"
+    t.text "oppose"
+    t.text "renverse"
+    t.string "image"
     t.string "trigramme_haut"
     t.string "trigramme_bas"
-    t.string "oppose"
-    t.string "reverse"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
