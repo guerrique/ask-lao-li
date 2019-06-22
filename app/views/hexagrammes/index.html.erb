@@ -1,0 +1,11 @@
+<div>
+  <ul>
+<% @hexagrammes.each do |hex| %>
+  <%= link_to hexagramme_path(hex) do %>
+  <li>
+    <%= hex.nom %>
+    </li>
+    <% end %>
+<% end %>
+</ul>
+</div>
