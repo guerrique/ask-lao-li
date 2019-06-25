@@ -1,10 +1,67 @@
+numero: 29
 nom: '29 - Ravins'
-trait1: "yin"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "S’ENTRAÎNER AU PASSAGE DES RAVINS\n
+Il y a onde porteuse\n
+Unifier le coeur\n
+Favorisant\n
+Agir amène à se surpasser"
+jugement_description: "Lorsqu’on se trouve devant un gouffre vertigineux, on est surpris, désarmé, et le cœur se serre d’un coup. En de telles circonstances, il ne faut pas céder à la panique mais reprendre confiance en trouvant un courant qui soutienne comme l’air porte les ailes de l’oisillon. Ce courant porteur permet de se centrer et ainsi de stabiliser la disposition intérieure.\n
+La situation n’est donc pas sans issue : quand la peur met le cœur en miettes, il faut le rassembler en recherchant l’appui qui semble manquer. Le tissage évoqué par unifier indique que la consolidation du cœur ne se fait pas par fusion, mais par tressage des différentes fibres de la sensibilité en un solide appui intérieur. Le premier caractère du nom de l’hexagramme évoque aussi ce mouvement : l’apprentissage se tisse brin à brin par la répétition.\n
+Quand le vertige paralyse, c’est par l’action que l’on doit réagir. Oser avancer, tel est le moyen de ne pas se laisser gagner par l’inertie. Qui doute de ses possibilités peut découvrir enfouies au fond de soi, lorsqu’il s’engage, des ressources insoupçonnées."
+trait1: "Au début un six\n
+S’ENTRAÎNER AU PASSAGE DES RAVINS\n
+Rentré dans la fosse des RAVINS\n
+Fermeture"
+trait1_description: "On se trouve ici à l’orée d’une suite de ravins à franchir. A l’inexpérience caractéristique du niveau d’Entrée s’ajoute un certain désarroi marqué par le manque de fermeté du trait, Yin à une place Yang. Que cette ligne soit la seule à comporter le nom complet de l’hexagramme souligne à la fois une tendance à se laisser aspirer par le vide du RAVIN et la nécessité de S’ENTRAÎNER pour y résister.\n
+Si cette incitation à l’exercice est mentionnée d’emblée, c’est que le premier pas est souvent le plus difficile à accomplir. Il demande de ne céder ni à l’affolement ni à la dramatisation. Qui se laisse emporter par l’agitation au lieu d’accompagner le mouvement ne peut que s’enfermer dans une impasse."
+trait2: "Neuf en 2\n
+RAVINS\n
+Il y a un passage difficile\n
+Rechercher peu obtient"
+trait2_description: "Lorsqu’on traverse une passe délicate, on doit se garder de vouloir trop en faire. S’il importe de tenir bon comme à l’autre trait Yang situé en place souveraine – le contexte est suffisamment risqué pour que la fermeté, même en place de Préfet, soit légitime -, il s’agit aussi de savoir s’adapter souplement aux circonstances : concentrer ses forces et aller de l’avant pas à pas permet de trouver son chemin.\n
+Scinder une grande difficulté en petits problèmes auxquels on s’attaque successivement est la meilleure stratégie à suivre pour pouvoir avancer dans de telles conditions. On doit être conforté par l’assurance que ce comportement amène à obtenir, alors que ce résultat sera beaucoup plus problématique à la dernière ligne."
+trait3: "Six en 3\n
+Devant soi RAVINS sur RAVINS\n
+Être dans un passage difficile et\n
+Cependant se reposer un peu\n
+Rentré dans la fosse des RAVINS\n
+Ne pas agir"
+trait3_description: "La 3ème ligne, niveau de Passage souvent malaisé, l’est d’autant plus dans une situation où il s’agit de franchir des ravins. Le texte décrit un chemin ardu où les précipices se succèdent et les difficultés s’accumulent : fosse du ravin comme à la première ligne, passage difficile comme à la ligne précédente.\n
+Dans les passes étroites, on ne doit pas vouloir à tout prix forcer la difficulté, mais se donner le temps de reprendre son souffle, faire une pause afin de retrouver un peu de sérénité. Tomber dans une agitation inutile ne ferait qu’aggraver les choses. Ne rien entreprendre permet en revanche de ne pas se laisser piéger par les circonstances et de reconstituer ses forces."
+trait4: "Six en 4\n
+Calices dorés vins sacrés patelles appariées\n
+Deux fois plus opérantes les jarres argilées\n
+S’ouvrir à l’union venant de la fenêtre\n
+A la fin absence de faute"
+trait4_description: "Bien qu’aucun RAVIN ne soit explicitement mentionné à ce trait, l’évocation d’une lumière venant de la fenêtre suggère une situation analogue à l’enfermement que l’on peut ressentir au fond d’un gouffre. Comme la fenêtre s’ouvrant sur l’extérieur, les calices, les vins et les patelles, ustensiles rituels servant à se relier à l’au-delà, soulignent un besoin d’entrer en communication. Cependant, l’accumulation de termes désignant la vaisselle rituelle a quelque chose d’ironique, comme pour suggérer que les convictions ont quelque chose de surfait, ou du moins qu’elles s’expriment de manière formelle. Les jarres d’argile évoquent en revanche une attitude plus sobre et plus vraie, que l’union et la communication rendent désormais possible. Le chiffre deux évoque, ici comme à l’hexagramme 41 DIMINUER, parité et échange.\n
+Chercher à se relier est légitime, mais pas par le biais d’une intériorisation exagérée, plutôt en se tournant vers autrui et en acceptant de s’impliquer dans des liens réels. On doit être particulièrement attentif à l’aide provenant de l’extérieur, même si les effets de ce soutien ne sont pas immédiatement perceptibles."
+trait5: "Neuf en 5\n
+Les RAVINS ne sont pas remplis\n
+Seulement déjà aplanis\n
+Absence de faute"
+trait5_description: "A la place souveraine, la fermeté du trait est gage d’une capacité à maîtriser les émotions et les troubles qui traversent la situation. Dominant les creux qui immobilisent tant à la ligne précédente qu’à la ligne suivante, cette solidité sert de pôle fort à l’hexagramme entier. Même si on ne peut envisager des actions grandioses qui permettraient de pallier tous les manques, on est en mesure de travailler à l’unification des forces en présence.\n
+Aplanir, comme le montre l’attitude recommandée au moment de SE TENIR, est un travail d’égalisation qui consiste à réduire les prétentions et combler les insuffisances. Tout ce qui peut concourir à apaiser doit être privilégié, car cela répond à la recommandation du Jugement : calmer les émotions et unifier le coeur."
+trait6: "En haut un six\n
+Entrave à l’aide de grosses cordes\n
+Entouré par des buissons épineux\n
+Trois ans sans rien obtenir\n
+Fermeture"
+trait6_description: "A ce niveau de Sortie est décrite une retombée brutale, qui contraste avec le nivellement effectué au trait précédent. Alors que le texte ne fait pas mention de RAVINS et que la peur qu’ils pouvaient provoquer n’est plus de mise, on se retrouve dans une position d’immobilisation et d’isolement.\n
+Les cordes, qu’elles soient utilisées pour empêcher de nuire ou pour éviter un affolement irrationnel, évoquent une rigidité très éloignée de la disposition du cœur nécessaire pour sortir des ravins. On reste bloqué dans une problématique d’enfermement stérile, qui ne conduit qu’à des impasses."
+grande_image: "L’eau s’écoulant de façon répétée\n
+Arrive à tout\n
+S’ENTRAÎNER AU PASSAGE DES RAVINS\n
+L’Être Accompli ainsi\n
+Agissant avec une attitude continue\n
+Apprend et enseigne par REPETITION"
+dixieme_aile: "FILET D’OISELEUR vers le haut et\n
+S’ENTRAÎNER AU PASSAGE DES RAVINS vers le bas"
+nucleaire: '27 - Nourrir'
+oppose: "30 - Filet d'oiseleur"
+renverse:
+image:
 trigramme_bas: "eau"
 trigramme_haut: "eau"
-numero: 29
+
+

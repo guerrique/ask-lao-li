@@ -1,10 +1,58 @@
+numero: 60
 nom: '60 - Mesure'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
+description: "MESURE, c'est trouver le rythme par lequel la vitalité se déploie à sa juste mesure. Comme les nœuds du bambou articulent sa tige, comme les fêtes saisonnières scandent les saisons, comme le tempo canalise l'émotion musicale, MESURE représente tout ce qui régularise, tempère et délimite. Etablir une cadence permet de trouver un souffle, reconnaître des limites permet d'habiter un territoire, poser des frontières permet de modérer les élans et de déterminer un cadre.\n
+Cependant, lorsque tout se mêle et que l'heure est à la régulation, imposer ou s'imposer des règles trop rigoureuses, des barrières trop étanches, c'est dépasser la mesure et aboutir à son contraire. Reconnaître les limites, celles d'autrui et les siennes propres, c'est trouver la juste cadence entre manque et trop-plein, entre laxisme et rigidité, et ainsi créer un espace de circulation fluide où peut s'épanouir le flux vital qui nourrit les dix mille êtres.\n
+A l'image du bambou, symbole de droiture et de souplesse, qui articule vides et pleins comme une onde sonore alterne ventres et nœuds, MESURE est une respiration, une économie, une mise en rythme qui requiert à la fois engagement et tempérance. Une règle harmonieuse n'est pas une suite de préceptes cruels ou de limitations brimantes mais un subtil dosage entre le doux et l'amer."
+jugement: "MESURE\n
+Favorisant\n
+MESURE amère\n
+Présage impossibilité"
+jugement_description: "En Chine, où la modération est une vertu cardinale, la MESURE est une évidence. Sans doute est-ce pour cela que le Jugement de cet hexagramme paraît si banal. Il ne comprend qu'une appréciation mantique, favorisant, et un avertissement: éviter toute mesure amère. Le comportement adéquat ici consiste à agir avec modération, afin d'économiser l'effort et de canaliser l'énergie. Que ce soit pour maîtriser une position ou entreprendre une activité, se donner des règles souples et délimiter son champ d'action permet de déployer sa vitalité sans excès, de trouver le bon rythme et d'avancer sans s'essouffler.\n
+Réguler n'est pas contraindre de manière autoritaire et rigide, mais harmoniser. Lorsqu'on pousse la sévérité trop loin, le nécessaire dosage entre fermeté et souplesse est perdu. La formule présage impossibilité est caractéristique de moments où l'on risque de se laisser emporter par le volontarisme : c'est notamment le cas au dernier trait de cet hexagramme, où l'excès de rigueur fait perdre la fluidité et risque d'entraîner la sclérose. Que ce soit pour soi-même ou pour autrui, il faut savoir à la fois imposer une règle et reconnaître les limites : même la mesure doit être mesurée."
+trait1: "Au début un neuf\n
+Ne pas sortir à la porte intérieure de la cour d'honneur\n
+Absence de faute"
+trait1_description: "Le mouvement est rarement conseillé au niveau d'Entrée d'un hexagramme. Ici, tel un musicien qui accorde son instrument avant de prendre sa place dans l'orchestre, on doit, pour trouver le bon rythme, commencer par un temps de retenue. Cette mise en mesure intérieure est évoquée par les portes qui séparent les différentes cours des grandes maisons chinoises et dont les barres assurent les fondements du CLAN. La délimitation des espaces intérieurs symbolise le travail qui consiste à se donner une règle, à établir ses structures propres. Comme le bambou qui, encore à l'état de pousse, acquiert déjà sa largeur définitive, on doit d'abord réguler son assise personnelle pour être ensuite en mesure de sortir, c'est-à-dire de se déployer à l'extérieur.\n
+La nature Yang du trait, bien que correcte à cette place impaire, peut accentuer la tendance à aller de l'avant, mais elle est atténuée par la correspondance avec la ligne de Ministre où la mesure est paisible. La reconnaissance de ses limites permet ainsi d'accepter ce qui paraît d'abord être une limitation."
+trait2: "Neuf en 2\n
+Ne pas sortir à la grand-porte de la cour d'honneur\n
+Fermeture"
+trait2_description: "Le processus de mise en rythme franchit ici un pas. L’image porte intérieure évocatrice du domaine intime, citée à la ligne précédente, est remplacée ici par celle de la grand-porte, c'est-à-dire le portail qui marque la limite avec l'extérieur, le seuil ouvrant sur le monde. À ce stade, s'enfermer dans son quant- à-soi, si ordonné soit-il, serait se fermer à la rencontre. Comme au moment de S'ENTENDRE AVEC Tous où le sentiment de concorde ne doit pas se limiter au cadre restreint du Clan, c'est par l'échange et la confrontation que l'on peut prendre sa véritable mesure.\n
+Incorrect et séparé des places extérieures de Ministre, et de Souverain où s'installe une mise en rythme fluide, ce trait décrit une indolence sanctionnée par fermeture, appréciation encore plus défavorable que celle associée à la sévérité décrite à la dernière ligne de l'hexagramme."
+trait3: "Six en 3\n
+Comme sans MESURE\n
+Donc comme poussant des gémissements\n
+Absence de faute"
+trait3_description: "À ce niveau de Passage s'opère la transition entre les limites intérieures et les implications extérieures. On quitte maintenant les frontières indiquées aux deux traits précédents par les différentes portes, sans pour autant être déjà capable d'agir avec MESURE. L’apparition pour la première fois du nom de l'hexagramme montre que la régulation devient maintenant indispensable. Comme au moment de FILET D'OISELEUR, où les mêmes gémissements sont mentionnés, la découverte que l'extérieur ne correspond pas toujours aux critères établis pour soi-même provoque une déconvenue qui doit non seulement engager à la modération, mais pousser à établir une règle à la fois rigoureuse et souple.\n
+Incorrect et sans autre relation que le voisinage avec une seconde ligne marquée par une certaine frilosité, ce trait est aussi en résonance avec l'inexpérience indiquée au premier par la mention absence de faute, qui doit inciter à prendre conscience de la nécessité des délimitations."
+trait4: "Six en 4\n
+MESURE paisible\n
+Favorisant"
+trait4_description: "Ici, les atermoiements qui prédominent dans le bas de l'hexagramme prennent fin. Désormais la régulation est à même de s'établir dans la souplesse et la tranquillité. Une disponibilité paisible, caractéristique de la manière Yin, permet d'accueillir la régulation sans qu'elle soit vécue comme une limitation et, comme au même niveau de PLAIDER SA CAUSE, de mettre fin à ce qui empêche une communication fluide. La reprise à ce trait de la seule appréciation mantique du Jugement montre qu'il constitue un moment important de la mise en rythme. Moduler son énergie en établissant délimitations et repères permet à la situation de se déployer et de trouver sa pleine mesure.\n
+Ce trait, Yin en place de Ministre, donc correct, est en correspondance avec la ligne initiale, également correcte, où la temporisation est bienvenue. La relation de voisinage avec la ligne souveraine aide à consolider le rythme qu'on est en mesure d'établir."
+trait5: "Neuf en 5\n
+MESURE sucrée\n
+Ouverture\n
+Aller amène à se surpasser"
+trait5_description: "À la ligne souveraine, la nécessité d'une règle et d'une mise en rythme est évoquée dans un esprit de consentement et de douceur. Après la paix évoquée à la ligne précédente, une autre qualité Yin, le sucré, rattaché à la rectitude, au Milieu Juste et à la Terre, indique la possibilité d'établir la MESURE en sachant conjuguer mansuétude et fermeté. Il ne s'agit pas de tolérance tiède ou passive mais d'une attitude de haute noblesse, évoquée par la sentence agir amène à se surpasser. Les deux autres situations où elle est citée, ABONDANCE et S'ENTRAÎNER au passage des RAVINS, montrent qu'ici, trouver la juste MESURE, c'est autant apprivoiser le vide que canaliser le plein, autant maîtriser la propension au trop que domestiquer la peur du manque.\n
+À l'opposé des contraintes amères mentionnées à la ligne suivante, cette attitude ouvre des perspectives fécondes signalées par l'appréciation ouverture, qui n'apparaît qu'à cette ligne. La correction du trait, Yang à une place impaire, souligne une position d'équilibre entre les deux attitudes, l'une rigide et l'autre amène, décrites aux deux lignes adjacentes."
+trait6: "En haut un six\n
+MESURE amère\n
+Présage fermeture\n
+Tout regret disparaît"
+trait6_description: "À ce niveau de Sortie, la MESURE est dépassée, elle devient amère. L'avertissement déjà donné au Jugement prend ici tout son effet : une rigueur austère qui ne tient pas compte des limites pervertit la recherche d'une mise en rythme harmonieuse. Bien éloigné de la saveur sucrée et de l'atmosphère paisible qui évoquent aux deux lignes précédentes une canalisation tempérée de l'énergie, un excès de sévérité engendre à ce niveau une amertume qui laisse présager un blocage. Cette constatation ne doit ni décourager, ni servir d'excuse pour renoncer : prendre conscience que les exigences sont allées au-delà de ce qui est possible doit inviter à balayer les regrets et pousser à retrouver une plus juste mesure.\n
+Correct et en relation de voisinage avec la ligne souveraine, ce dernier trait résume l'expérience de la limite qui s'effectue à travers les différents degrés de l'hexagramme. La note douce-amère sur laquelle il s'achève doit inciter à ne pas déguiser la faiblesse en rigidité."
+grande_image: "Au-dessus de la brume il y a l'eau\n
+MESURE\n
+L’Être Accompli ainsi\n
+En codifiant les nombres et leurs lois\n
+Pèse les raisons de la conduite et de l'agir"
+dixieme_aile: "MESURE\n
+S’arrêter"
+nucleaire:
+oppose:
+renverse:
+image:
 trigramme_bas: "brume"
 trigramme_haut: "eau"
-numero: 60
+

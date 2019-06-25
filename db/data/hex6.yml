@@ -1,10 +1,68 @@
+numero: 6
 nom: '6 - Plaider sa cause'
-trait1: "yin"
-trait2: "yang"
-trait3: "yin"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
+description:
+jugement: "PLAIDER SA CAUSE\n
+Il y a onde portant au blocage de la vigilance\n
+Au milieu juste ouverture\n
+A la fin fermeture\n
+Profitable d’aller voir quelqu’un d’envergure\n
+Pas profitable de passer le grand fleuve"
+jugement_description: "Dans les joutes oratoires, ou toutes sortes de polémiques, on est souvent aveuglé par son propre point de vue. Emporté comme par un courant, on risque alors de négliger l’attention et le respect dus à autrui et de s’enfermer dans la certitude rigide de son bon droit.\n
+Au moment de PLAIDER SA CAUSE, la controverse ne peut se dénouer et le conflit trouver une issue que si l’on sait, en usant de souplesse, se garder de pousser l’antagonisme à bout (à la fin). Une attitude plus impartiale, celle qui consiste à rester au Milieu Juste, est la seule position offrant la possibilité d’une ouverture. Pour y parvenir, la meilleure stratégie est de se distancier, au besoin avec une aide extérieure, pour regarder la situation de plus haut et ainsi éviter de se lancer dans des entreprises hasardeuses."
+trait1: "Au début un six\n
+Ne pas rendre durable l’affaire en question\n
+Paroles de peu\n
+A la fin ouverture"
+trait1_description: "A l’Entrée d’une situation de controverse, il est prudent d’adopter une attitude modérée, conforme à celle indiquée au Jugement, et de faire prévaloir la souplesse sur la tentation d’aller jusqu’au bout de l’affaire. La première ligne d’un hexagramme décrit rarement un moment d’autorité ou de maîtrise, et la polémique n’a pas atteint ici un point tel que l’on doive s’y engager pleinement (le nom de l’hexagramme n’est pas cité).\n
+Yin à une place Yang, le trait est incorrect, mais en relation de correspondance avec la 4ème ligne, où l’apaisement est conseillé. Ne pas chercher à maintenir son point de vue au prix d’arguments mesquins, éviter de se laisser entraîner dans de
+vaines discussions, tels sont les moyens à ce stade de préparer l’émergence d’une issue positive."
+trait2: "Neuf en 2\n
+On ne peut l’emporter en PLAIDANT SA CAUSE\n
+On s’en retourne chez soi et ainsi se dérobe\n
+La population du fief\n
+Trois cent feux\n
+Absence de faute d’inadvertance"
+trait2_description: "Le dialogue est le meilleur moyen de sortir d’une controverse. Encore faut-il qu’il soit possible, ce qui n’est pas le cas à ce trait. Le nom de l’hexagramme, ici mentionné pour la 1ère fois, souligne le désir d’argumenter pour faire valoir son point de vue. Mais à ce stade de la situation, la plaidoirie est inopérante. Il est préférable de se retirer pour ne pas alimenter la controverse.\n
+Le texte fait sans doute allusion aux procédures judiciaires en usage dans l’ancienne Chine. Après avoir déposé plainte auprès de l’autorité, le plaignant décrit ici ne se sent pas en mesure de poursuivre le procès jusqu’à son terme. Ne voulant pas se soumettre davantage aux contraintes de la procédure, il se retire sur son territoire afin d’échapper aux conséquences de son esquive.\n
+De manière plus générale, à ce stade de la polémique, l’avantage d’un retrait est double : en réduisant le champ de son regard à un domaine connu, on évite de commettre des erreurs d’appréciation et de s’enfermer dans une vision erronée de la situation ; en se préoccupant uniquement de son propre territoire, on ne risquera ni d’imposer son point de vue à autrui, ni de subir les conséquences du sien. On évitera ainsi le blocage de la vigilance dont il est fait mention au Jugement et qui prend ici la forme de faut d’inadvertance."
+trait3: "Six en 3\n
+Vivre sur le patrimoine de ses ancêtres\n
+Présage de danger\n
+A la fin ouverture\n
+Que d’aventure on soit au service d’un roi\n
+Ne pas mener à terme"
+trait3_description: "Situé à un niveau de transition, celui du Passage vers l’extérieur, Yin à une place Yang donc incorrect, ce trait n’indique pas une position de force, plutôt une situation de dépendance vis-à-vis d’éléments extérieurs. Comme au premier trait occupé par l’autre trait Yin de la figue, l’absence du nom de l’hexagramme confirme à la chinoise qu’il serait malvenu à ce stade de chercher à plaider sa cause. Tout, en revanche, y incite à la prudence et au retrait.\n
+Le texte évoque deux situations délicates : tirer profit d’avantages passés, être impliqué dans une tâche en qualité d’auxiliaire. Dans les deux cas, une grande circonspection est nécessaire car, comme à la dernière ligne avec laquelle celle-ci est en correspondance, le rapport avec le pouvoir est difficile. Abuser de la situation grèverait l’éventualité d’une issue heureuse. Le conseil de ne pas mener à terme, qui caractérise le même niveau de ÉLAN RÉCEPTIF, recommande au contraire la plus grande souplesse. On doit donc veiller, dans la conduite de projets ou d’affaires, à ne pas vouloir à tout prix imposer sa manière de faire.
+"
+trait4: "Neuf en 4\n
+On ne peut l’emporter en PLAIDANT SA CAUSE\n
+Retour vers un mandat\n
+Changement\n
+Apaisement présage ouverture"
+trait4_description: "A cette ligne, Yang à une place Yin donc incorrect, on doit se garder, comme à la première ligne avec laquelle celle-ci est en correspondance, de se laisser entraîner dans de vaines discussions. Le nom de l’hexagramme, mentionné ici pour la seconde fois, souligne le désir d’argumenter pour faire valoir son point de vue, mais PLAIDER SA CAUSE s’avérerait tout aussi inutile ici qu’à la 2ème ligne, l’autre place de service, dont le texte s’ouvre par la même phrase. Que ce soit au niveau de Préfet ou de Ministre, une joute oratoire qui ne viserait qu’à obtenir l’approbation d’autrui ne serait pas la bonne manière de communiquer.\n
+Le retour vers un mandat ainsi que la mention d’un changement indiquent que l’on est dans une position suffisamment favorable pour qu’il ne soit pas utile d’alimenter davantage la controverse. A l’approche de la ligne souveraine de l’hexagramme, tout ce qui va dans le sens de calmer le jeu ne peut qu’être bénéfique. Le conseil de rechercher l’apaisement, terme caractéristique du Jugement de ELAN RECEPTIF, indique que la souplesse est la qualité requise pour rétablir l’entente et favoriser une issue positive.
+"
+trait5: "Neuf en 5\n
+On PLAIDE SA CAUSE\n
+Fondamentalement ouvert"
+trait5_description: "La ligne souveraine de PLAIDER SA CAUSE est la seule où la plaidoirie est décrite comme opportune et efficace. On se trouve ici au niveau du prince – celui représenté dans le nom de l’hexagramme – et en mesure de parler – c’est la seule fois où plaider sa cause n’est pas précédé de la mention on ne peut pas l’emporter. La concision du texte, qui ne comporte que trois idéogrammes, accentue le contraste avec les mises en garde du Jugement et les impossibilités décrites aux lignes précédentes.\n
+Non seulement la situation s’ouvre, mais cette ouverture est fondamentale, c’est- à-dire caractérisée par une capacité à reconsidérer les litiges de fond en comble et à initialiser un processus positif. Particulièrement bénéfique, cette appréciation est caractéristique d’une autre ligne souveraine, celle de ELAN RECEPTIF, où est décrite une attitude royale d’écoute impartiale. La capacité à se tenir au Milieu Juste, conseillée au Jugement, trouve ici sa plaine application. C’est le seul trait correct de la figure, et son absence de relation avec les autres traits est un autre gage d’impartialité. Il représente le meilleur moment pour discuter, arguer, énoncer les données du problème, prendre en compte tous ses aspects et envisager de nouveaux dispositifs."
+trait6: "En haut un neuf\n
+D’aventure se voir conférer la grande ceinture\n
+A la fin de l’audience du matin\n
+Par trois fois en être destitué"
+trait6_description: "Culmination de l’hexagramme, la 6ème ligne est souvent le lieu où s’opère un retournement de la situation. Yang à une place Yin, donc incorrect, le trait qui occupe ce niveau de Sortie évoque un excès revendicatif qui risque de faire tout perdre.\n
+La scène est celle d’une audience à la cour royale, où l’on se voit dans un premier temps reconnu et récompensé. Cette faveur n’est-elle que le résultat d’une plaidoirie habile ? Est-on en train d’éterniser une discussion qui n’a plus lieu d’être, ou encore incapable de faire évoluer sa manière de considérer la situation ? Enfermé dans le sentiment rigide de son bon droit, on néglige les conseils de modération et de vigilance donnés au Jugement. A vouloir pousser trop loin son avantage, on risque de perdre le Milieu Juste. Même si on a pu un temps l’emporter, le résultat final pourrait être à l’opposé de la reconnaissance que l’on croyait acquise."
+grande_image: "L’union du ciel avec l’eau\n
+S’oppose à l’agir RÉSOUDRE LE CONFLIT\n
+L’Etre Accompli ainsi en menant des affaires projette leur renouveau"
+dixieme_aile: "PLAIDER SA CAUSE\n
+Pas de cordialité parentale
+"
+nucleaire: '37 - Gens du Clan'
+oppose: '36 - Lumière Obscurcie'
+renverse:
+image:
 trigramme_haut: "ciel"
 trigramme_bas: "eau"
-numero: 6
+

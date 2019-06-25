@@ -1,10 +1,65 @@
+numero: 2
 nom: '2 - Elan Réceptif'
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "ÉLAN RÉCEPTIF\n
+Fondamentalement favorisant\n
+Profitable d’avoir la ténacité d’une jument\n
+Un Chef Accompli a où aller\n
+Qui précède s’égare\n
+Qui suit trouve le principe du profitable\n
+Au Sud-Ouest on trouve des compagnons\n
+Au Nord-Est on perd des compagnons\n
+Apaisement présage ouverture"
+jugement_description: "Yin et Yang, les deux élans sur lesquels repose le Livre des Changements, y sont présentés à parité de puissance. Un souffle unique les anime, décrit dans le Jugement des deux premiers hexagrammes par les idéogrammes traditionnellement interprétés comme les « quatre qualités du ciel » : fondamentalement favorisant et ténacité profitable. Ces capacités marquent des moments où la possibilité de trouver le point de départ d’une situation et de lui faire prendre son essor se conjugue à l’endurance nécessaire pour en récolter les bienfaits.\n
+A ces qualités, qui résultent plus du couplage Ciel-Terre que de l’action d’une seule des deux polarités, est ajoutée ici une précision notable : la ténacité est profitable pour une jument. Si le cheval est l’image d’une force solide et infatigable, la jument précise où se trouve la spécificité du Yin : dans sa capacité à mener à terme. Ce que le Yang impulse, le Yin le porte à maturité. Comment cette force peut être mise à profit est détaillé par la suite du texte, dont la forme manifeste par sa longueur exceptionnelle la complexité et la multiplicité du Yin, ainsi que son aptitude à s’étendre en toutes directions.\n
+Le Chef Accompli est l’emblème de la vaillance et de la lucidité. A la fois souple et solide, il avance avec courage, discrétion et discernement, sachant tenir bon dans les passages difficiles et les périodes de transition. Œuvrer en fonction d’un objectif déterminé ne l’empêche pas de savoir s’adapter à toutes les circonstances. Qu’il soit cité ici comme modèle montre à quel point patience et ténacité sont nécessaires au plein déploiement de l’activité lorsqu’on est amené à servir et non à diriger. Car c’est en répondant à l’appel que la force Yin se manifeste avec efficacité : en prenant la tête, elle perd de sa puissance propre, en étant réceptive au dynamisme du Yang, elle en réalise tout l’avantage. C’est pourquoi, au moment de culmination du Yin, on rencontre écho au Sud-Ouest, domaine où les forces se restaurent et se rassemblent, et on se trouve démuni au Nord-Est, région de l’avancée solitaire et audacieuse. Les compagnons, manifestation de qualités d’accueil et de disponibilité ainsi que d’une capacité à réaliser en commun, sont une autre image de cette convergence.\n
+Le Jugement enfin se clôt sur un conseil rare, apaisement présage ouverture, qui engage à toujours préférer l’écoute bienveillante pour désamorcer les querelles et les rapports de force. Il importe, pour engendrer et mener à terme des perspectives fécondes, de savoir faire sienne la vertu du temps."
+trait1: "Au début un six\n
+MARCHE sur du givre\n
+La glace solide arrive"
+trait1_description: "Givre et glace recouvrent la terre comme un manteau : c’est la saison froide, celle où, enveloppé dans la terre, tout se retire et se repose. Le givre est eau, c’est à dire don du ciel Yin est d’emblée positionné par rapport à Yang. A la fécondité printanière et la floraison estivale succède le long temps de la germination dans les frimas de l’automne et les rudesses de l’hiver.\n
+La marche sur le givre est délicate, elle exige une DEMARCHE souple. Sur la glace aussi, raideur et impétuosité peuvent occasionner certaines déconvenues. Mais la glace, qui deviendra par la suite un attribut du trigramme Ciel, suggère par sa solidité le comportement à adopter à ce niveau d’entrée. Dans l’abandon total du Yin s’opère une cristallisation où la forme prend consistance : plutôt que de se précipiter, on devra attendre une certaine fermeté avant qu’une avancée puisse avoir lieu et une direction s’établir."
+trait2: "Six en 2\n
+Rectitude dans les quatre directions\n
+Grandeur sans Entraînement\n
+Rien qui ne soit profitable"
+trait2_description: "La force encore indécise, qui germe sous un manteau de givre à la ligne précédente, éclot ici pour s’épanouir vers les quatre horizons de la terre. Elle est à même de s’exercer de manière franche et directe dans tous les domaines, et trouve naturellement son efficacité sans qu’aucun ENTRAINEMENT, projet ou préméditation ne soit nécessaire. Cette aisance dans l’adéquation est une marque de grandeur. L’emploi inattendu de cet attribut apparenté au Yang évoque une réceptivité transparente à l’influence du Ciel. Des qualités de droiture méticuleuse et de générosité sans calcul sont nécessaires pour manifester cette influence et lui donner forme.\n
+Savoir, sans s’imposer, accueillir toutes les possibilités qui se présentent permet d’accompagner et de soutenir leur plein déploiement.
+"
+trait3: "Six en 3\n
+Distinction contenue présage des possibilités\n
+Que d’aventure on soit au service d’un roi\n
+Sans mener à terme il y a aboutissement"
+trait3_description: "La pleine expression des capacités Yin décrites en seconde ligne, place même de la souveraineté Yin, pourrait en se prolongeant devenir insistante et conduire à trop d’éclat. Bien qu’une certaine force soit généralement recommandée à la ligne de passage, la tonalité d’effacement caractéristique d’ELAN RECEPTIF, exprimée ici par le service du roi, se traduit par des conseils de réserve.\n
+Qui ne cherche pas à se faire valoir ou à exercer ses talents de manière tapageuse voit s’ouvrir des possibilités d’action. Que d’aventure on se trouve engagé dans quelque projet ou entreprise, le comportement à adopter est du même ordre : quand on sait œuvrer sans imposer son point de vue ou sa manière, on peut mener à bien. A ce niveau de passage vers l’extérieur, ne pas pousser à bout est la meilleure manière d’aboutir."
+trait4: "Six en 4\n
+Sac ficelé\n
+Absence de faute Absence d’éloge"
+trait4_description: "A ce niveau de ministre, position à la fois de service et de pouvoir, le sac, métaphore de retenue et d’enveloppement, prolonge et accentue les conseils de contention donnés à la ligne précédente. Entre l’effacement au service du roi (ligne 3) et l’exercice immobile du pouvoir (ligne 5), cette poche enclose décrit un retrait prudent permettant de mettre ses talents à l’abri. Elle engage à se garder de tout emportement envers l’autorité que l’on sert et à garder une forme respectueuse et dénuée d’éclat dans la manière d’adresser des reproches ou de signifier son refus de servir.\n
+Laissant à celui qui est concerné le soin de décider de l’opportunité de ce retrait, le texte insiste seulement sur la prudence, déjà recommandée au trait initial, à observer dans la manière de l’accomplir."
+trait5: "Six en 5\n
+Robe jaune\n
+Fondamentalement ouvert"
+trait5_description: "La cinquième ligne d’un hexagramme est le lieu d’une souveraineté qui ne s’opère pas nécessairement de manière ferme ou directive. A ce trait Souverain d’ELAN RECEPTIF est suggérée une attitude de noble réserve, d’écoute impartiale, de disponibilité secrète, de justesse calme et bienveillante, dépeinte par un symbole trois fois Yin : une robe tout d’abord, vêtement souple, enveloppant et protecteur ; de dessous ensuite – pas une robe d’apparat, manifestant un pouvoir vis à vis de l’extérieur, mais cachée, en rapport avec l’interne, le positionnement profond, invisible ; jaune enfin, couleur de la Terre, du Milieu Juste, du centre qui, tel un pivot vide, permet de prendre en compte tous les aspects d’une situation pour les harmoniser.\n
+La robe jaune était une allégorie si familière aux Chinois de jadis qu’elle évoquait immédiatement les Rois fondateurs de l’Antiquité, dont l’habit restait immobile car ils savaient gouverner par le non-agir. Cette conduite est marquée ici par une appréciation particulièrement faste, fondamentalement ouverte, qui ne caractérise que deux situations dans leur ensemble : DIMINUER et CHAUDRON, deux moment où élimination et densification permettent d’opérer un saut qualitatif. Comme à GRAND REALISE, où la place souveraine est occupée par la seule ligne Yin de l’hexagramme, l’équilibre entre la nature Yang de la place et la qualité Yin du trait permet à la puissance du non-faire d’opérer fructueusement.
+"
+trait6: "En haut un six\n
+Dragons corps à corps aux confins\n
+Sang noir et jaune"
+trait6_description: "Le niveau de sortie d’un hexagramme marque souvent un retournement, qui se manifeste ici par la disparition de la retenue Yin. A la différence de la 3ème ligne où il est conseillé de ne pas mener à terme, il y a aux confins dépassement du
+
+domaine où patience et souplesse permettent d’aboutir. Surgit alors le dragon, emblème de l’ELAN CREATIF et d’une fermeté Yang particulièrement inadaptée à ce contexte, dans une ambiance de lutte trouble où se mêlent le jaune de la Terre et l’une des teintes sombres du Ciel.\n
+Le sang mentionné est-il celui de la guerre et de la mort ou bien celui de l’amour et de la naissance ? Les lettrés chinois en ont débattu pendant des siècles, l’interprétation penchant du côté de la lutte aux époques de bouleversement politique, et du côté de l’étreinte aux moments d’harmonie et de stabilité. Aucune appréciation mantique ne permet de trancher entre ces deux points de vue."
+grande_image: "La terre manifeste l’ÉLAN RÉCEPTIF\n
+L’Etre Accompli ainsi par une attitude ouverte et cordiale soutient tous les êtres vivants"
+dixieme_aile: "ÉLAN RÉCEPTIF Souplesse"
+nucleaire: '2 - Elan Réceptif'
+oppose: '1 - Élan Créatif'
+renverse:
+image:
 trigramme_bas: "terre"
 trigramme_haut: "terre"
-numero: 2
+
+
+
+

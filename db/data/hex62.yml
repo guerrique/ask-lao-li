@@ -1,10 +1,75 @@
+numero: 62
 nom: '62 - Petit Excès'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description: "Dans PETIT EXCÈS, le Yin passe la mesure, les comportements achoppent, l'incertitude et l'inconsistance prédominent. Lorsqu'elles ne sont pas centrées autour d'une direction unique, les qualités propres au Yin - pluralité, densité, largesse, indulgence, endurance - jouent à contre courant et, par leur insistance, se transforment en défauts : c'est parfois quand on cherche à trop en faire que l'on en fait trop peu. L’EXCÈS de PETIT se traduit par des initiatives disparates et volatiles qui s'éparpillent et peinent à aboutir, ou encore par des attitudes hésitantes et agitées qui manifestent un sentiment d'écartèlement et un manque de confiance. Alors que, dans l'hexagramme opposé JUSTE CONFIANCE, la convergence des forces laisse un espace libre pour l'échange, l’absence de complémentarité entre Yin et Yang se solde ici par l'incompréhension et la séparation. Tout comme le Yang, dont la propension est à s'élever, se caractérise par de la lourdeur lorsqu'il outrepasse, les excès du Yin , dont la nature est de descendre, se manifestent par de la légèreté. Dans un tel contexte, la seule attitude profitable est de s'abstenir de toute envolée grandiose et de réduire ses objectifs. C'est en s'enracinant dans le possible par le terre à terre, le petit à petit, la répétition, la méticulosité, que l'on retourne à son avantage les forces Yin et que l'on traverse la situation.\n
+Si l'inadéquation qui caractérise PETIT EXCÈS est soulignée trois fois par la mention fermeture, il ne s'agit pourtant que d'un excès petit, comme le montre la présence d'appréciations rares comme ouverture en grand au jugement et durablement tenir bon à la quatrième ligne. En compensant les tendances à l'illusion par un excès d'attention et de précaution, et en ramenant ses objectifs à un niveau plus réaliste, il est possible de traverser la situation sans dommage."
+jugement: "PETIT EXCÈS\n
+Favorisant\n
+Ténacité profitable\n
+Des petites affaires sont possibles\n
+Des grandes affaires sont impossibles\n
+L’oiseau qui s'envole ne laisse qu'un cri\n
+Il ne convient pas de monter\n
+Il convient de descendre\n
+Ouverture en grand"
+jugement_description: "Quand on traverse un moment de PETIT EXCÈS, on ne peut pas réorganiser la situation de fond en comble, mais seulement en développer les potentialités avec constance : favorisant, qui indique cette possibilité d'essor, n'est pas ici qualifié par fondamentalement, signe de la capacité d'initialisation. En évitant la folie des grandeurs et en se restreignant à des affaires petites, on s'en tient à ce qui est réalisable. Un comportement inconséquent, tel celui de l'oiseau qui s'envole vers le ciel, ne peut que se solder par des revers cruels. Que l'avantage doive être donné à une stratégie réaliste, consciencieuse, terre à terre, cela est redit par les verbes utilisés : monter représente l'expansion verticale du Yang, descendre incite au resserrement des forces et à l'enracinement dans le quotidien.\n
+L’insistance de ces conseils restrictifs ne ferme pas pour autant la porte à tout développement. Pour qui sait ajuster son attitude à ses possibilités, il y a ouverture en grand. Caractéristique des moments où l'on favorise la communication et la convergence des énergies, cette formule indique que par, un effort excessivement routinier, on peut dépasser l'incertitude et créer l'appui solide qui permet de transformer la situation."
+trait1: "Au début un six\n
+L’oiseau qui s'envole\n
+Et ainsi fermeture"
+trait1_description: "À l'Entrée d'une situation où prédomine le manque de lucidité et de confiance, la tendance à une attitude inconsidérée, caractéristique souvent des premières lignes, risque de tourner à l'égarement complet. Symbole de la tendance à l'aveuglement, l'oiseau inconstant et frivole sera, à la dernière ligne de l'hexagramme, capturé par le filet de l'oiseleur. Que cette image d'envol soit ici reprise à l'identique du Jugement indique que la propension à se fourvoyer est particulièrement aiguë à cette ligne de début.\n
+Incorrect et en correspondance avec la quatrième ligne où l'annonce d'un danger engage à couper court au désir d'aller de l'avant, ce trait décrit un manque de réalisme qui ne peut conduire qu'à des impasses. Il est urgent à ce stade d'abandonner ses illusions et de s'en tenir à des objectifs plus terre à terre."
+trait2: "Un six en 2\n
+DÉPASSANT l'aïeul\n
+Se trouver juste face à l'aïeule\n
+Sans parvenir jusqu'au chef\n
+Se trouver face au serviteur\n
+Absence de faute"
+trait2_description: "Le second niveau, représentatif dans tout hexagramme de la place la plus centrale et la plus juste du Yin, prend une valeur particulière dans cette situation où le Yin prévaut. Le texte y relate des efforts multiples en direction d'une position Yang, symbolisée par l’aïeul et le chef. Qu'ils soient soutien recherché auprès des ascendants, besoin d'un guide ou encore désir d'occuper soi-même ce rang, ces efforts n'aboutissent pas. Dans le monde de l'ombre et de l'indéterminé, le DÉPASSEMENT a pour résultat le retour à une position seconde dont l'aïeule est l'image. Dans le monde du jour et de la réalisation quotidienne, l'insuffisance conduit également à occuper une fonction plus conforme aux possibilités réelles, celle de serviteur. Cette double image donne l'idée d'une recherche hésitante, alternance de manques et d'exagérations caractéristique d'une situation où l'inquiétude prédomine. Que l'excès soit du côté des morts et l'insuffisance du côté des vivants montre à quel point la tendance à l'imaginaire doit être compensée par l'ancrage dans le réel : constater la petitesse des moyens dont on dispose conduit à réduire ses prétentions pour s'en tenir à ce qui est possible.\n
+Le trait est correct et entouré de deux lignes où l'appréciation fermeture sanctionne des excès d'inconséquence ou de faiblesse. L’absence de correspondance avec le cinquième trait suggère des rencontres remises à plus tard, les deux lignes étant toutefois en résonance par la mise en valeur de personnages Yin. Toutes chaotiques qu'elles soient, les tentatives de rencontres s'avèrent légitimes puisqu'elles permettent finalement de déterminer une attitude plus réaliste. Expérimenter le manque et l'excès apprend à doser son mouvement et à trouver sa juste place."
+trait3: "Un neuf en 3\n
+Sans DÉPASSER s'en prémunir\n
+Se conformer peut-être blessure\n
+Fermeture"
+trait3_description: "Dans une situation où le Yin prédomine et où les rencontres achoppent, les deux places médianes, occupées par les deux seuls traits Yang de l'hexagramme, sont dans une position d'encerclement qui peut blesser tout espoir d'expression.
+Ici comme à la ligne suivante, on ne peut y répondre qu'en s'abstenant de conduites excessives. À ce niveau de Passage, des réactions de peur et d'émotivité peuvent pousser à se protéger de manière exagérée des dangers qui menacent ; elles peuvent aussi amener à se prêter à la situation de manière complaisante, voire servile. L’excès de crédulité autant que de méfiance ne peut conduire qu'à des impasses.\n
+Bien que correct, ce trait est trop peu soutenu pour que puisse s'y déployer la fermeté qui convient à une place de passage. Sa correspondance avec le sixième, où l'on se fourvoie complètement, est soulignée par la même appréciation fermeture, impasse à laquelle conduit également l'attitude décrite à la première ligne. Ces résonances doivent inciter à ne pas chercher à échapper à la situation par une conduite fébrile."
+trait4: "Un neuf en 4\n
+Absence de faute\n
+Sans DÉPASSER se trouver juste en place\n
+Aller danger\n
+Il est impératif de se tenir sur ses gardes\n
+Ne pas agir\n
+Durablement tenir bon"
+trait4_description: "Dans une situation où le Yin prédomine et où les rencontres achoppent, les deux places médianes, occupées par les deux seuls traits Yang de l’hexagramme, sont dans une position d'encerclement qui rend dangereuse toute tentative d'avancer. Ici comme à la ligne précédente, on ne peut y répondre qu'en s'abstenant de conduites excessives. À ce niveau, la tentation est grande d'échapper à la situation par l'activisme et le volontarisme. Il suffit pourtant, pour trouver sa place, de s'empêcher de prendre des initiatives autres que celles consistant à se maîtriser et se préserver. Tous les conseils donnés vont dans ce sens de manière insistante : ne pas chercher à aller de l'avant, car ce serait aller au devant du danger ; se tenir sur ses gardes, car lorsqu'une situation apparemment établie se délite de l'intérieur, le trouble menace ; s'abstenir d'entreprendre, quand les moyens dont on dispose ne sont pas adaptés à la situation ; enfin économiser sa force par une attitude prudente et, en se tenant en retrait, faire du temps un allié.\n
+Bien qu'elle soit signe d'incorrection, la nature Yang de ce trait est un avantage si on sait utiliser la fermeté à bon escient. La position de Ministre donne la maturité nécessaire pour résister aux envols de la ligne initiale en correspondance ; le voisinage avec la ligne souveraine représente de son côté un facteur positif de retenue."
+trait5: "Un six en 5\n
+Nuages épais pas de pluies\n
+En nos domaines de l'Ouest\n
+Le Duc lance une flèche\n
+Et tire à lui celui-là qui est\n
+Dans la caverne"
+trait5_description: "Aucun EXCÈS n'est indiqué à cette ligne souveraine. Il y est par contre montré la manière royale d'apprivoiser un dépassement Yin: par la modération et la rencontre. Les nuages épais évoquent l'atmosphère sombre qui précède l'orage : ils symbolisent une tension que la pluie résoudra à son heure, - allusion directe au destin du Roi Wen, dont l'excellence des qualités Yin est mise en valeur à PETIT APPRIVOISE. Modèle de qui sait user de patience pour circonscrire des forces tyranniques et ainsi exercer une influence déterminante sur l'ensemble d'une situation, le Roi Wen montre ici comment transformer un enfermement en une position finalement féconde.\n
+Un autre emblème d'effacement productif vient seconder cette image, le Duc, vraisemblablement le sage Duc des Zhou qui, à la mort de son frère aîné, assura la régence jusqu'à la maturité de son neveu à qui il remettra le pouvoir. Il montre ici comment gérer une situation où écartèlement et séparation génèrent des blocages : agir avec l'habileté nécessaire pour faire sortir de l'ombre les énergies et en permettre la réunion (voir l'hexagramme 35 AVANCER AU GRAND JOUR). De la présence de ces deux personnages ressort que la maîtrise du petit, c'est l'apprivoisement et le contact. La modération n'y est pas faiblesse et l'initiative se limite à ce qui permet de stimuler le rapprochement.\n
+Située au voisinage de la place de Ministre où la retenue est possible, la ligne est également en résonance avec celle du Préfet par la présence de personnages Yin. L’équilibre entre la nature souple du trait et la position ferme de la place indique la possibilité d'une régulation que la difficulté du contexte réserve à des personnages de haute valeur."
+trait6: "En haut un six\n
+Sans se trouver juste en place DÉPASSER\n
+L’oiseau qui s’envole est pris au FILET\n
+Fermeture\n
+En fait désastres et fautes d'inadvertance"
+trait6_description: "Des trois emplacements Yin de I ‘hexagramme, celui-ci est le seul où on ne se trouve pas en place. Alors qu'il n'empêche pas de trouver le niveau adéquat à la seconde ligne, alors qu'il est évitable à la quatrième, le DÉPASSEMENT tourne ici à l'excès. L’oiseau inconstant et frivole, déjà cité au Jugement, symbolise la tendance à l'illusion et à l'aveuglement, particulièrement forte tout au long de PETIT EXCÈS. Son envol, à la place la plus haute d'un hexagramme où il convient de ne pas monter, indique que l'on ne sait pas doser son action. Le refus de considérer les possibilités de s'enraciner, qui entraîne dès la première ligne des perspectives néfastes, prend ici une tournure désastreuse. Qui se laisse aller à une impulsivité excessive ou au désir d échapper au réel se retrouve pris dans les filets de l'oiseleur, et voit la situation brutalement se fermer.\n
+La relation de correspondance avec la troisième ligne, où est décrite une attitude instable, ainsi que l'écho avec l'image d'envol utilisée à la première ligne indiquent que les conseils du Jugement n'ont pas été intégrés. Ce surplace stérile est sanctionné par un redoublement d'appréciations mantiques négatives parmi lesquelles désastres et fautes d'inadvertance, mentions caractéristiques de SPONTANÉMENT, une situation où la plus grande attention aux signes du moment est requise."
+grande_image: "Sur la montagne il y a le tonnerre\n
+PETIT EXCÈS\n
+L’Être Accompli ainsi dans\n
+L’agir est d'une politesse EXCESSIVE\n
+Le deuil d'une compassion EXCESSIVE\n
+Les dépenses d'une économie EXCESSIVE"
+dixieme_aile: "PETIT EXCÈS\n
+DÉPASSEMENT"
+nucleaire: '28 - Grand Excès'
+oppose: '61 - Juste Confiance'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "tonnerre"
-numero: 62
+

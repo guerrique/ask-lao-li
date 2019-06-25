@@ -1,10 +1,61 @@
+numero: 5
 nom: '5 - Attendre'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "ATTENDRE\n
+Il y a onde porteuse\n
+Brillamment favorisant\n
+Présage d’ouverture\n
+Profitable de passer le grand fleuve"
+jugement_description: "ATTENDRE n’est pas se mettre passivement en retrait, c’est faire confiance au temps. Accepter qu’un aboutissement soit différé laisse à la situation la possibilité d’évoluer et d’éclore ainsi à son heure. Un flux porteur pousse en avant, comme au Jugement de l’hexagramme retourné PLAISER SA CAUSE, mais à l’inverse de ce dernier, ce flux ne bloque pas le dispositif à l’œuvre ni n’empêche une attitude ouverte et cordiale.\n
+ATTENDRE ne consiste pas non plus à rester amèrement confiné. Il faut au contraire utiliser ce moment d’inaction forcée pour se manifester franchement et ouvertement. Que l’essor signalé par l’appréciation favorisant, sur la quarantaine de Jugements où ce terme apparaît, ne soit qu’ici qualifié par brillamment renforce l’idée d’une extériorisation claire et sûre de son fait. L’autre conseil, passer le fleuve, va dans le même sans : ne pas s’enfermer et s’isoler dans son anxiété mais faire le pas vers l’autre pour entrer en relation. Une attitude lumineuse et conviviale est la meilleure manière d’accompagner les moments d’attente et de laisser mûrir les potentialités favorables qu’ils recèlent."
+trait1: "Au début un neuf\n
+ATTENTE aux faubourgs\n
+Profitable d’employer la CONSTANCE Absence de faute"
+trait1_description: "A ce niveau d’Entrée, le plus intérieur de l’hexagramme, l’ATTENTE a lieu au point le plus extérieur de la cité chinoise, les faubourgs. Des différentes positions décrites à chacun des six niveaux, celle-ci est la plus éloignée autant de ce qu’on espère atteindre que de la manière juste de se préparer à l’accueillir. A ce stade initial ce que l’on attend se situe dans un horizon si lointain qu’il serait vain d’imaginer pouvoir l’atteindre de manière précipitée.\n
+La fermeté du trait, accentuée par sa position dans un ensemble de trois traits Yang, est le signe d’une propension à agir qui ne correspond pas à la situation. Il est de plus en relation de correspondance avec la quatrième ligne où la tension est à son maximum. Il est préférable de s’en tenir à l’attitude prudente conforme à la place initiale d’un hexagramme. Qu’il soit réalité objective ou sentiment personnel, l’éloignement dans lequel on se trouve requiert la stratégie décrite
+par le nom de l’hexagramme 32, CONSTANCE : s’armer le cœur de patience et cultiver son endurance."
+trait2: "Neuf en 2\n
+ATTENTE au sable\n
+Paroles de peu\n
+A la fin ouverture"
+trait2_description: "A ce niveau, l’ATTENTE est désignée par un terrain mouvant et incertain. Le sable, dont la mobilité rappelle la fluidité de l’eau, suggère peut-être la proximité d’une rivière qui sépare de ce que l’on désire et dont la traversée paraît pour le moment impossible. Il est l’image d’une manière d’attendre inquiète et nerveuse qui entraîne des disputes et des mesquineries, analogues à celles décrites au début de l’hexagramme retourné PLAIDER SA CAUSE.\n
+Incorrect et seul du groupe formé par les trois traits Yang à être sans aucune relation, ce trait représente le niveau où l’on est retenu par les circonstances et contraint à une attente que l’on vit mal. Garder son calme en évitant bavardages et réprimandes est le meilleur moyen de favoriser une ouverture ultérieure."
+trait3: "Neuf en 3\n
+ATTENTE à la vase\n
+Provoque l’arrivée des brigands"
+trait3_description: "Aux deux traits médians de l’hexagramme – les deux niveaux associés à l’être humain – sont décrites les manières d’attendre les plus anxieuses. Ici la vase suggère que l’on s’enlise dans une attente lourde et craintive qui provoque l’agressivité de l’entourage. S’immobiliser dans la confusion ou se tenir peureusement à l’écart ne peut qu’enfoncer davantage et va à l’encontre du conseil donné au Jugement de rechercher rencontre amicale et convivialité.\n
+Situé au niveau du Passage vers l’extérieur, ce trait est pris dans les tensions et contradictions de l’hexagramme : correct et situé au sommet du bloc des trois traits Yang inférieurs, il est dans une position qui pousse à la fermeté ; sa relation avec les deux traits Yin supérieurs, par voisinage avec le 4ème et correspondance avec le 6ème, est en revanche un facteur de retenue. Bien qu’aucune appréciation mantique défavorable ne soit mentionnée, on doit se garder de s’enliser dans un attitude incertaine où se mélangent la crainte et l’impatience.
+"
+trait4: "Six en 4\n
+ATTENTE au sang\n
+Sortir de la caverne"
+trait4_description: "La même atmosphère frileuse et agressive se retrouve aux deux traits médians de l’hexagramme – les deux niveaux associés à l’être humain. Soumis à la forte poussée des trois Yang qui le précèdent, ce premier trait Yin n’est pas en mesure de les contenir. Le sang, qu’il soit signe d’angoisse ou indication d’une blessure possible, prend dans ce contexte une signification inquiétante. Quant à la caverne, qu’elle évoque une simple habitation ou un lieu plus intime, elle est l’image d’un endroit sombre et retiré où l’on est à l’écart du monde extérieur, position qui est en désaccord avec les conseils donnés au Jugement.\n
+Le texte ne comportant aucune appréciation mantique, il est difficile de décider si le mouvement qu’il mentionne est une description de ce qui arrive ou une indication de ce qu’il faut faire. Cependant les deux lectures se rejoignent : demeurer dans une attente craintive équivaut à un décentrement, à une sortie hors de son centre d’énergie qui n’est pas ici l’attitude appropriée ; par ailleurs, le risque d’être submergé par la force Yang accumulée dans le bas de l’hexagramme incite à sortir de cette position cachée pour opérer un rapide mouvement vers le dehors."
+trait5: "Neuf en 5\n
+ATTENTE aux offrandes de vins et de nourriture\n
+Présage d’ouverture"
+trait5_description: "A la ligne souveraine, l’ATTENTE est mise en rapport avec des mets rituels qui représentent la meilleure manière de tirer parti de la circonstance. Se conforter et se nourrir, se renforcer moralement et physiquement, n’est-ce pas en effet la manière idéale d’attendre ? Il y a là un grand optimisme quant aux potentialités que recèle la situation, y compris dans ses éléments cachés, puisque les repas rituels comportent traditionnellement en Chine une part réservée aux ancêtres défunts. Cette allusion est aussi bien une marque de confiance dans l’indéterminé que l’allégorie du geste consistant à nourrir ce qui vous nourrit.\n
+La reprise de la formule du Jugement présage d’ouverture montre que l’on est à même d’adopter à ce stade le comportement adéquat pour bien ATTENDRE : accepter la nécessité du temps en optant pour une attitude de convivialité heureuse. C’est en se renforçant par la nourriture et l’échange que l’on maîtrise les périodes d’attente et que se prépare le brillant essor mentionné au Jugement."
+trait6: "En haut un six\n
+Rentrer à la caverne\n
+Trois personnes s’en viennent qui n’étaient pas invitées\n
+Respecter cela\n
+A la fin ouverture"
+trait6_description: "Au dernier stade de l’hexagramme, niveau de Sortie de ATTENTE, la situation change de nature. Alors que le nom de l’hexagramme ouvre le texte de chacun
+des cinq premiers traits, il n’est plus cité ici : l’ATTENTE prend fin. Les peurs disparaissent également, notamment celles décrites à la 3ème ligne avec laquelle celle-ci est en correspondance. Les brigands qu’une immobilisation craintive attiraient à ce stade deviennent ici des personnes inattendues : ce qui se présentait sous une forme hostile perd maintenant son aspect inquiétant. Cette fin des tensions permet de se recentrer et ainsi de respecter la tournure imprévue prise pas les événements.\n
+Situé au voisinage de la ligne la plus favorable de l’hexagramme, ce trait est celui où se parachève l’attitude détendue et confiante décrite à la place souveraine. Cela permet de retrouver son « chez soi » - caverne ou centre d’énergie – et de se rendre attentif aux éléments qui pénètrent de manière inattendue dans la situation. Leur accorder l’importance qu’ils méritent peut permettre d’ouvrer des perspectives et d’intégrer ainsi le bénéfice de cette période de latence."
+grande_image: "Nuages montant vers le ciel\n
+ATTENDRE\n
+L’Etre Accompli ainsi en buvant et en mangeant\n
+Se repose dans la joie"
+dixieme_aile: "ATTENDRE\n
+Ne pas avancer"
+nucleaire: '38 - Divergence'
+oppose: '35 - Avancer au Grand Jour'
+renverse:
+image:
 trigramme_bas: "ciel"
 trigramme_haut: "eau"
-numero: 5
+
+
+

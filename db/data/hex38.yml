@@ -1,10 +1,67 @@
+numero: 38
 nom: '38 - Divergence'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "DIVERGENCE\n
+Pour des petites affaires ouverture"
+jugement_description: "DIVERGENCE n’est pas un moment de grands bouleversements, plutôt l’occasion, par atténuation progressive des tensions, de modifier le regard que l’on porte sur une personne ou une situation. Ne comportant que trois idéogrammes, le texte évoque des affaires qui ont pour seule caractéristique d’être petites, c’est-à- dire Yin. Des réalisations peuvent abouter pour peu que l’on se conforme aux possibilités du contexte. C’est là une invitation à agir, mais lentement, avec précaution et en réduisant ses ambitions, comme au moment de PETIT EXCÈS, seul autre hexagramme où cette phrase est citée.\n
+Chercher à avoir raison contre l’autre, affirmer fermement son point de vue, pareil comportement serait néfaste ici comme dans les situations où un équilibre est à instaurer ou à maintenir, celles où une stratégie Yin est explicitement mise en avant par le terme petit. Avancer à petits pas, avec souplesse, réduire petit à petit les contradictions en percevant ce qui les relie est le moyen de surmonter les divergences et de les rendre fécondes."
+trait1: "Au début un neuf\n
+Tout regret disparaît\n
+Perte du cheval\n
+Ne pas s’efforcer de poursuivre\n
+Spontanément RETOUR\n
+On voit des êtres méchants\n
+Absence de faute"
+trait1_description: "Le premier contact avec l’extérieur se produit dans des circonstances difficiles : on perd sa force symbolisée par le cheval – et on est entouré d’éléments négatifs qui se manifestent par leur laideur. Ces difficultés, concevables à l’entrée d’une situation de DIVERGENCE, ne doivent pas décourager. On doit laisser sans crainte la situation se rétablir d’elle-même. L’activisme ne pourrait que gaspiller les aspects bénéfiques qu’elle recèle, bien qu’ils ne soient qu’en germe et donc difficiles à percevoir en l’état actuel. La toute première phrase, signalant la disparition des regrets, indique que quelque chose est derrière soi, tandis que RETOUR, le nom de l’hexagramme 24, annonce un regain naturel qui permettra de retrouver force et moyens d’action.\n
+A cette première ligne, la seule de tout l’hexagramme à n’avoir aucune relation avec les autres traits, la tentation de s’isoler est d’autant plus forte que l’entourage paraît repoussant. On ne doit pas se sentir responsable de cet état de fait ni s’accrocher à ce que l’on a perdu. La ligne est également la seule à être correcte : patience et détermination à ne pas se laisser entraîner par des gens malfaisants permettent de progresser vers une meilleure vision de la situation."
+trait2: "Neuf en 2\n
+Rencontrer un maître dans une ruelle sinueuse\n
+Absence de faute"
+trait2_description: "Aussi incorrecte que les suivantes, cette ligne est cependant centrale et sa position n’est pas aussi difficile que celles qui l’entourent. En correspondance avec la ligne souveraine, elle décrit une rencontre réelle, plutôt bienvenue dans un contexte où les désaccords abondent. Toutefois, cette rencontre se produit dans des circonstances particulières, hasardeuses et inattendues : dans une ruelle, c’est-à-dire un endroit extérieur, inadéquat, inconfortable. Elle pourrait être considérée comme fautive, mais c’est avec un maître qu’elle a lieu, c’est pourquoi il faut y souscrire sans hésiter.\n
+La correspondance entre ce trait et le 5ème est renforcée par le fait que MORDRE, un des caractères du nom de l’hexagramme 21, dérivé de cette ligne, se retrouve dans le texte de la 5ème ligne. Cet écho doit inciter à une vigilance particulière quant aux obstacles, préséances ou rivalités, qui pourraient entraver la relation."
+trait3: "Six en 3\n
+On voit le chariot freiné\n
+Un boeuf trainé\n
+Des gens le crâne rasé le nez coupé\n
+Sans début il y a aboutissement"
+trait3_description: "Située au niveau de Passage d’un hexagramme où les relations sont difficiles, cette ligne décrit une position très inconfortable. Incorrect et isolé entre des traits fermes où les rencontres sont effectives, en correspondance avec le 6ème où est décrite une attitude méfiante et agressive, ce trait est celui où se concentrent toutes les tensions de la situation. Non seulement la description de personnages portant les traces de châtiments évoque un contexte pénible, mais les éléments symbolisant le couplage Yin-Yang (char, bœuf) sont malmenés, ce qui entraîne le blocage du mouvement.\n
+Le texte ne comporte cependant aucune indication mantique négative. Le discernement évoqué par le terme voir peut permettre de se rendre compte que, sans que l’on puisse agir sur l’origine de ces complications, il est possible avec le temps d’arriver à un résultat. Que sans début il puisse y avoir un aboutissement – une phrase citée à la ligne souveraine de l’hexagramme 57 SE MODELER – laisse supposer que ce début malaisé n’empêche pas de travailler à façonner autrement les relations et d’aboutir finalement à une amélioration. C’est ce que suggère la présence à la 6ème ligne, niveau de sortie de DIVERGENCE, de l’unique mention d’ouverture."
+trait4: "Neuf en 4\n
+Esseulé en DIVERGENCE\n
+Rencontrer un être d’initiative\n
+Onde portant à nouer des relations\n
+Danger\n
+Absence de faute"
+trait4_description: "Au premier trait extérieur, la discorde est effective. Elle est marquée par l’apparition du nom de l’hexagramme, associé à l’idée d’esseulement, c’est-à-dire d’absence d’appariement. Elle est également soulignée par l’incorrection du trait et son absence de correspondance avec la première ligne. Cependant la mention pour la deuxième fois d’une rencontre montre une réelle possibilité d’entrer en relation.\n
+Le couplage se produit de manière aussi spontanée et hasardeuse qu’à la seconde ligne, mais il a lieu cette fois avec un être d’initiative. Ce personnage singulier évoque une capacité à instaurer un renouveau qui fait écho à celui suggéré au premier trait par RETOUR, le nom de l’hexagramme 24. Malgré les risques que comporte cette propension à l’alliance, se laisser porter par la confiance correspond à l’esprit de concorde qui permet de dépasser les divergences."
+trait5: "Six en 5\n
+Tout regret disparaît\n
+Dans le temps familial MORDRE la peau !\n
+Comment aller pourrait-il être une faute"
+trait5_description: "A la ligne souveraine de DIVERGENCE est décrite la volonté d’en finir avec les tensions et les malentendus regrettables qui s’accumulent depuis le bas de l’hexagramme. Le désir d’éliminer vigoureusement les occasions de regrets est manifesté par MORDRE, un des deux idéogrammes qui sert à nommer MORDRE ET UNIR, l’hexagramme où une intervention déterminée permet de rétablir la circulation des énergies.\n
+Le temple familial est l’espace rituel où la nourriture est partagée avec les ancêtres, le lieu le plus intérieur où les personnes d’un même clan se rassemblent autour de ce qui les unit. Qu’il soit cité dans un hexagramme où désaccords et mésententes prédominent pourrait surprendre. Mais c’est précisément pour ramener les choses vers un centre unificateur qu’il faut maintenant trancher énergiquement dans ce qui empêche les éléments ou protagonistes de la situation de se rejoindre. On ne doit pas hésiter à agir de façon déterminée pour en finir avec les apparences et établir des relations vivantes à partir de ce qui réunit profondément. La correspondance avec la seconde ligne, où l’on rencontre un maître, fait écho à la capacité requise ici d’agir avec force au-dehors en fonction d’une référence intérieure également forte."
+trait6: "En haut un neuf\n
+Esseulé en DIVERGENCE\n
+On voit un porc couvert de boue\n
+Un char chargé de fantômes\n
+D’abord on tend l’arc\n
+Ensuite on détend l’arc\n
+N’est pas brigand qui scelle l’union par mariage\n
+En allant on rencontre la pluie\n
+Donc l’ouverture s’ensuit."
+trait6_description: "Au niveau de Sortie de DIVERGENCE, les différentes tensions évoquées dans l’hexagramme sont reprises, - dans le texte le plus long de toutes les 6ème lignes -, cela dans une optique de résolution. Comme à la 4ème ligne, la discorde est effective, indiquée par le nom de l’hexagramme également associé à l’idée de solitude, c’est-à-dire d’une absence d’appariement. Or on n’est pas seul, puisqu’on a sous les yeux toute une scène dont l’imagerie rappelle celle de la 3ème ligne, avec laquelle ce trait est en correspondance. Cependant ce qui était entraves réelles à la ligne de passage prend ici une allure étrange, fantasmagorique, voire hallucinatoire qui provoque d’abord de la crainte, réflexe au demeurant injustifié puisqu’il n’est nulle part fait mention de danger.\n
+Il y a lieu de dépasser cette vision pour reconsidérer le regard qu’on porte sur ce qui se présente. L’arc, ici image d’une réaction agressive, doit devenir idéal de justesse. Il faut aller au-delà de l’impression première pour rechercher détente et union. N’en rester qu’à l’apparence serait à la fois se conduire en brigand et perdre les possibilités d’appariement que le moment recèle. Comme à la ligne de passage de SE MONTRER RÉSOLU, aller de l’avant permet de rencontrer la pluie c’est-à-dire de résoudre les tensions et de réaliser l’union qui semblait impossible. La rencontre, inattendue à la 2ème ligne et dangereuse à la 4ème, est qualifiée par la seule formule positive de tous les traits. Alors qu’au Jugement, l’ouverture ne concernait que les petites affaires, elle est ici la conséquence d’une avancée déterminée qui permet d’entrer en relation et de sortir de la DIVERGENCE."
+grande_image: "Le feu monte la brume descend\n
+DIVERGENCE\n
+L’Être Accompli ainsi\n
+En CONCORDANT\n
+Alors se différencie\n"
+dixieme_aile: "DIVERGENCE\n
+Extérieur"
+nucleaire: '63 - Déjà traversée'
+oppose: '39 - Obstruction'
+renverse:
+image:
 trigramme_bas: "brume"
 trigramme_haut: "feu"
-numero: 38
+

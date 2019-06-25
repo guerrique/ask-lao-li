@@ -1,10 +1,60 @@
+numero: 40
 nom: '40 - Délivrance'
-trait1: "yin"
-trait2: "yang"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "DÉLIVRANCE\n
+Profitable le Sud-Ouest\n
+Absence d’endroit où aller\n
+Vient le RETOUR ouverture\n
+Il y a où aller\n
+De bon matin ouverture"
+jugement_description: "Pour créer les conditions d’un soulagement, il importe de faire place nette en séparant ce qui dépend de nous de ce qui, échappant à notre contrôle, doit être abandonné sans regrets. Il faut commencer par surseoir à toute conduite précipitée en se retirant au Sud-Ouest, l’orient qui, aux moments d’OBSTRUCTION, permet également de prendre du recul pour considérer ce qui entrave.\n
+Ce temps d’arrêt permet ici de différencier ce qui est passé ou hors d’atteinte de ce qui reste possible. Désimbriquer ces deux territoires est le moyen de dénouer la situation. Dans les domaines où il n’y a pas de perspective, il ne faut plus intervenir et laisser les choses renaître d’elles-mêmes. Dans ceux où l’on peut avancer, il faut intervenir sans attendre pour saisir les opportunités de se détacher de ce qui pèse. Distinguer soigneusement ces deux champs permet de réagir de manière rapide et féconde."
+trait1: "Au début un six\n
+Absence de faute"
+trait1_description: "Le texte de cette première ligne, qui compte parmi les plus brefs du Yi Jing, ne comporte que deux idéogrammes : une simple incitation à entrer dans le processus de DÉLIVRANCE.\n
+Sa relation avec les deux traits Yang de la figure contrebalance l’inertie due à sa nature souple. Elle l’amène à se laisser facilement emporter dans le mouvement par sa correspondance avec le 4ème trait. Le voisinage avec l’autre trait ferme, le second, va dans le même sens. Les trois traits étant incorrects, on peut douter de cette manière un peu innocente de se laisser entraîner. Mais cette légèreté s’accorde à l’esprit de détente caractéristique de la situation dans son ensemble."
+trait2: "Neuf en 2\n
+Dans les champs capturer trois renards\n
+Obtenir une flèche jaune\n
+Présage d’ouverture"
+trait2_description: "A cette ligne, l’indolence n’est pas de mise. Comme à la sixième ligne, la plus favorable de l’hexagramme, il est question d’une chasse, et même d’une capture. Cependant celle-ci se passe au niveau de la terre, des champs, c’est-à-dire des tâches concrètes et quotidiennes. La nature Yang du trait suggère de sortir de la réserve habituelle d’une place de Préfet pour passer à l’action de manière habile et efficace. Difficile à chasser en raison de sa prudence, le renard évoque la recherche d’éléments cachés et nombreux (trois) qui se dérobent.\n
+La correspondance avec la ligne souveraine, où se trouve la même mention d’ouverture, accentue la valeur de ce travail pour l’ensemble du processus. La flèche, récompense honorifique couronnant ces efforts, accroît le potentiel de celui qui l’obtient. Le jaune, emblème de l’idée de Milieu, est gage de l’attitude juste dans la manière de l’obtenir. La même récompense est mentionnée à l’hexagramme MORDRE ET UNIR, lorsqu’un Ministre particulièrement méritant travaille à la réduction des obstacles qui empêchent une circulation fluide des énergies."
+trait3: "Six en 3\n
+Être chargé de biens et en plus voyager en char\n
+Provoque l’arrivée des brigands\n
+Présage de gêne"
+trait3_description: "Situé au niveau de Passage, stade d’extériorisation, ce trait, incorrect et enserré entre les deux lignes Yang de l’hexagramme, décrit une conduite inadéquate et néfaste. Alors qu’au second trait est montré comment se délivrer du passé et qu’au 4ème est indiqué comment préparer l’avenir, l’attitude décrite ici est grotesque et présage mal de l’avenir : on porte quelque chose sur son dos alors qu’on est monté sur un char. Non seulement on continue de s’alourdir de ce qui n’a plus lieu d’être, mais ce faisant on diminue l’efficacité de ce qui pourrait emmener plus loin et on attire dangereusement l’attention sur soi.\n
+DÉLIVRANCE requiert de la légèreté, pas de l’inconséquence. Si on se refuse, par convoitise ou forfanterie, à abandonner ce qui alourdit et empêche d’avancer, on ne peut que s’attirer des ennuis. Il y a contradiction entre le poids de ce que l’on veut conserver et le dynamisme requis pour aller au-delà. Ce manque de discernement évoque l’Etre Petit auquel il est fait allusion à la 5ème ligne."
+trait4: "Neuf en 4\n
+DÉLIVRANCE\n
+Et puis démarrage\n
+Les compagnons arrivent\n
+S’ensuit une onde porteuse"
+trait4_description: "Comme le montre la mention pour la première fois du nom de l’hexagramme, la DÉLIVRANCE devient patente à ce niveau de Ministre. Bien que le trait soit incorrect, sa fermeté est ici un atout, car elle marque une capacité d’initiative propre à éloigner des attachements susceptibles de retenir le mouvement. Ces entraves sont suggérées par les relations de ce trait avec les deux Yin intérieurs, par voisinage avec le 3ème et correspondance avec le premier.\n
+La construction du texte insiste deux fois sur la continuité à l’œuvre (et puis, s’ensuit). C’est en se libérant des attachements que la légèreté revient et que le mouvement en avant redevient possible. On ne doit pas craindre pour autant de se retrouver seul : une fois le mouvement enclenché, un tri s’opère naturellement : ce ne sont plus des brigands qui arrivent comme à la ligne précédente mais des compagnons qui convergent vers soi. Le rôle de Ministre, axé sur la communication, est particulièrement complémentaire ici de celui de Préfet, tourné vers l’intérieur. C’est par un mouvement en avant déterminé, analogue à celui spécifié à la fin du Jugement, que l’on se rend capable d’attirer les énergies et de permettre que s’amorce, que s’ensuive, un courant de confiance."
+trait5: "Six en 5\n
+Seul un Chef Accompli réalise la DÉLIVRANCE\n
+Ouverture\n
+Il y a onde porteuse vers l’Être Petit"
+trait5_description: "Lorsque le Chef Accompli est mentionné à la ligne souveraine d’un hexagramme, c’est que la maîtrise de la situation est particulièrement difficile. Cela n’arrive qu’en deux autres situations : lorsqu’il s’agit de voir dans l’obscurité, ou pour assurer une transition. Ici, il s’agit d’assumer la responsabilité d’une situation dont les liens internes se dénouent. A l’inverse de l’Etre Petit qui ne considère que son intérêt immédiat, l’une des qualités maîtresses du Chef Accompli est sa capacité à élargir son champ de vision : il sait comment embrasser d’un même regard l’avant et l’après et déceler dans le présent ce qui prépare le futur.\n
+Le trait est en relation avec les deux Yang de la figure, par voisinage avec le 4ème et correspondance avec le second. Ces deux traits, situés l’un et l’autre à des places subordonnées, se caractérisent par la grande activité déployée, par le Préfet pour découvrir des éléments cachés, par le Ministre pour enclencher l’avenir. Cette activité appelle en retour courage et fermeté, ce que l’incorrection du trait, Yin à une place Yang, ne garantit pas. Une propension à la mesquinerie et à l’égoïsme, symbolisée par l’Etre Petit, est susceptible de réduire d’ouverture. La situation ne peut évoluer favorablement que si l’on conduit fermement la transition, ce qui exige de savoir solder le passé et envisager l’avenir avec sérénité."
+trait6: "En haut un six\n
+Le Duc tire à l’arc sur un épervier\n
+Du haut d’un mur élevé\n
+Il le capture\n
+Rien qui ne soit profitable"
+trait6_description: "A ce niveau de Sortie, la Délivrance opère un saut, marqué par une des formules mantiques des plus favorables. Non seulement ce trait est le seul correct de la figure, mais il est également le seul à n’avoir aucune relation avec les 5 autres. Cette position dégagée fait écho au mur élevé d’où l’on peut apercevoir l’ensemble de la situation.\n
+Comme à PETIT EXCES, autre situation où il intervient avec un arc, le Duc a pour rôle d’assurer une transition du pouvoir. Ce qu’il capture n’est pas un renard qui se cache comme à la seconde ligne, mais un rapace qui domine le paysage. Allusion possible à la domination des Shang dont les Zhou ont délivré le peuple, l’épervier au regard aiguisé évoque aussi l’acuité nécessaire à la séparation qui doit être opérée entre le passé et les forces de renouvellement. Que cette capture n’ait pas lieu au niveau des champs, comme à la 2ème ligne, mais depuis une hauteur accentue le détachement et la légèreté nécessaires au parachèvement de la DELIVRANCE. L’action vigoureuse commencée aux deux premières places paires trouve ici son point d’orgue et sa meilleure application possible. Le temps est venu de passer à une ère nouvelle : toute intervention adroite et déterminée allant dans le sens de se débarrasser des entraves passées est non seulement légitime, mais très bénéfique."
+grande_image: "Tonnerre pluie stimulent\n
+DÉLIVRANCE\n
+L’Être accompli ainsi\n
+En amnistiant les EXCÈS\n
+Pardonne les fautes"
+dixieme_aile: "DÉLIVRANCE\n
+Relâcher"
+nucleaire: '63 - Déjà traversée'
+oppose: '37 - Gens du Clan'
+renverse:
+image:
 trigramme_bas: "eau"
 trigramme_haut: "tonnerre"
-numero: 40

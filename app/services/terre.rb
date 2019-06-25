@@ -5,7 +5,7 @@ def trig_bas_terre(trig)
     "16 - S'enthousiasmer"
   elsif trig == 'montagne'
     '23 - Usure'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '20 - Regarder'
   elsif trig == 'brume'
     '45 - Réunion'

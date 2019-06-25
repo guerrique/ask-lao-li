@@ -16,7 +16,7 @@ class SetHexagramme
     elsif trig1 == 'montagne'
       trig_bas_montagne(trig2)
     elsif trig1 == 'marais'
-      trig_bas_marais(trig2)
+      trig_bas_bois(trig2)
     elsif trig1 == 'brume'
       trig_bas_brume(trig2)
     elsif trig1 == 'eau'

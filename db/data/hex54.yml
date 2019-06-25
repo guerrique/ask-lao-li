@@ -1,10 +1,69 @@
+numero: 54
 nom: '54 - Mariage de la Cadette'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "MARIAGE DE LA CADETTE\n
+Impasse pour des expéditions\n
+Aucun lieu n'est profitable"
+jugement_description: "Il arrive d'être à la merci de circonstances que l'on n'a pas choisies ou de se trouver pris dans une situation dont les ressorts échappent. Pour sortir du trouble que produisent ces moments, il importe de commencer par en prendre conscience, ce à quoi invite le nom même de l'hexagramme: comme la CADETTE, on se trouve en porte-à-faux, soumis à des événements qui nous dépassent, emporté par des flux qui nous débordent. Lorsqu'on se sent mû par une ardeur inhabituelle, il faut se garder de dilapider ses forces en se lançant dans des entreprises intempestives ou en cherchant à s’imposer : les initiatives dynamiques sont inopérantes quand on est impliqué dans une situation dont on ne contrôle ni les tenants ni les aboutissants.\n
+À la place des formules mantiques usuelles dans les Jugements, généralement favorables, on trouve ici l'indication sévère aucun lieu n'est profitable. Pareille appréciation n'intervient qu'une autre fois dans un Jugement: à l'hexagramme 64 où il s'agit de traverser une situation de désordre. Alors qu'au moment de PROGRESSER PAS À PAS (hexagramme 53 opposé de celui-ci), l'attitude Yin est fortement recommandée, ici le conseil est « en creux » : il s'agit seulement de s'abstenir d'une attitude Yang.\n
+L’impossibilité de peser sur la situation est illustrée par le destin des deux héros du mariage qui sert de toile de fond à cet hexagramme. Le Roi Wen passera des années en prison (voir hexagramme 9) et sa seconde épouse restera en position seconde tant que la stérilité de sa sœur ne sera pas avérée. Ils seront l'un comme l'autre les instruments d'une histoire qui les dépasse largement mais qui aura, par la patience dont ils sauront faire preuve, une fin heureuse."
+trait1: "Au début un neuf\n
+MARIAGE DE LA CADETTE\n
+En tant que seconde épouse\n
+Un boiteux peut MARCHER\n
+Ouverture pour des expéditions"
+trait1_description: "Dès le niveau d'Entrée, le MARIAGE est présenté sans ambages comme une position dépendante. Cependant, même dans un contexte où les moyens sont limités il est encore possible à ce stade d'intervenir de manière positive. C'est là une particularité de ce trait : alors que le Jugement conseille globalement de ne pas entreprendre des expéditions, on a ici encore l'opportunité de le faire car on n'est pas encore complètement engagé dans la situation. Il importe seulement de ne pas méconnaître ses limites et ses insuffisances : comme le borgne cité à la ligne suivante, le boiteux est un personnage caractéristique de l’hexagramme 10, qui décrit la DÉMARCHE à adopter lorsqu'on se trouve impliqué par inadvertance dans des tensions soudaines.\n
+Que ce premier trait soit à la fois correct et sans relations avec les autres lignes est le signe d'une autonomie opportune dans une situation de dépendance. Deux hexagrammes seulement, PROSPÉRITÉ (11) et MARIAGE DE LA CADETTE, comportent dès le premier trait le conseil d'aller de l'avant pour remettre de l'ordre. Il y a lieu ici de profiter de la tension que suscitent des circonstances non choisies pour agir à la fois avec prudence et fermeté."
+trait2: "Neuf en 2\n
+Un borgne peut observer\n
+Profitable d'avoir la ténacité\n
+D’un être retiré et solitaire"
+trait2_description: "À ce niveau de Préfet, la situation est vue sous un angle trop limité pour qu'il soit possible de s'engager. Incorrect et en relation avec une cinquième ligne également incorrecte, ce trait est l'un des deux, avec le sixième, où le nom de l'hexagramme n'est pas cité: il n'y est pas question de MARIAGE mais, à travers l'image de quelqu'un qui ne voit que d'un œil et vit sans compagnon, d'une insuffisance de perception et d 'une absence de relation.\n
+Lorsqu'on ne peut avoir qu'une vision partielle d'une situation, il est préférable de ne pas s'y impliquer. En refusant de se laisser entraîner et en prenant ses distances sans craindre l'isolement, on peut échapper aux aspects troubles de la conjoncture. Le borgne et l'être solitaire sont des personnages caractéristiques de l'hexagramme 10 DÉMARCHE, où seule une vigilance et une prudence soutenues permettent de ne pas se jeter dans la gueule du tigre - symbole dans le Yi Jing de désir insatiable. Quand la lucidité est réduite, il est préférable de rester opiniâtrement à l'écart."
+trait3: "Six en 3\n
+MARIAGE DE LA CADETTE\n
+En tant que position d'attente\n
+Retour à un MARIAGE\n
+En tant que seconde épouse"
+trait3_description: "Dans cet hexagramme, les troisième et quatrième traits - les deux niveaux plus spécifiquement rattachés à l'être humain - sont ceux où l'on est le plus soumis aux flux contradictoires traversant la situation. Leurs textes, construits à l'identique sur un balancement qu'aucune indication mantique ne vient trancher, y présentent chacun le MARIAGE DE LA CADETTE dans une perspective temporelle. Mais les attitudes à adopter diffèrent.\n
+Incorrect et pris dans des relations de voisinage qui l'enserrent et le bousculent, le troisième trait représente un moment où il est inutile de chercher à échapper rapidement à la situation. Qu'elles apparaissent sous un jour imprévu ou qu'elles aient insensiblement changé, souvent le temps sert de révélateur aux véritables motivations d'une association. L’union à laquelle on est contraint peut représenter une solution provisoire même au prix d'ambitions ou des espoirs déçus. Revenir en arrière et consentir, comme à la première ligne, à une position subalterne est la seule attitude qui convienne à ce niveau de Passage."
+trait4: "Neuf en 4\n
+MARIAGE DE LA CADETTE\n
+Manqué au moment fixé\n
+Retarder le MARIAGE l'assure\n
+Au moment opportun"
+trait4_description: "Les traits de cet hexagramme situés en troisième et quatrième positions -niveaux plus spécifiquement rattachés à l'être humain - sont les plus soumis aux flux contradictoires qui traversent la situation. Leurs textes, construits à l'identique sur un balancement qu'aucune indication mantique ne vient trancher, y présentent le MARIAGE DE LA CADETTE dans une perspective temporelle. Mais les réponses à apporter diffèrent à chaque niveau.\n
+Incorrect et pris dans des relations de voisinage qui l'enserrent et le ralentissent, ce trait représente un moment où il est inutile de chercher à précéder la situation. Alors qu'au trait précédent, il importe de faire un pas en arrière et de reconnaître sa position seconde mais obligée dans un mariage déjà effectué, il s'agit à ce stade de se retenir et de retarder le mouvement pour ne pas hypothéquer la possibilité d'une union future. Ce contretemps, peut-être dû au fait que les relations s'articulent sur des désirs différents, doit être vécu comme un délai laissant à la rencontre le temps de devenir un véritable couplage."
+trait5: "Six en 5\n
+Le Souverain Yi\n
+MARIE SA CADETTE\n
+Les manches de la princesse\n
+Ne sont pas aussi\n
+Fastes que les manches\n
+De la seconde épouse\n
+À l’approche de la lune pleine\n
+Ouverture"
+trait5_description: "À cette ligne souveraine, la plus positive de l'hexagramme, le MARIAGE du roi Wen et de la CADETTE est décrit dans les mêmes termes et au même niveau qu'à l'hexagramme PROSPÉRITÉ. Toutefois ce n'est pas tant l'union entre deux personnes qui importe ici que la fécondité qui s'ensuivra, particulièrement pour le clan des Zhou auquel l'avenir appartient. S'appuyant sur une interprétation superficielle du mot faste et une lecture au premier degré des manches, cet épisode a longtemps été commenté comme prêchant la modestie aux épouses vertueuses. L’affaire est tout autre et c'est une réalité historique importante qui est évoquée ici avec élégance : la première épouse du roi Wen n'ayant donné naissance qu'à un enfant mort-né, ce qui est sorti de sa manche – image délicate du conduit utérin - fut bien moins faste que ce qui est sorti de la manche de sa sœur CADETTE, dont les fils devinrent les glorieux fondateurs de la future dynastie.\n
+Il arrive souvent de se trouver à son corps défendant impliqué dans des situations qui apportent plus de désagréments que de satisfactions. Et pourtant, de cette contrainte peuvent naître malgré nous des fruits inattendus. L’astre de la nuit, emblème Yin par excellence, est ici montré à son point culminant, au moment où il est à parité de rondeur avec le soleil. La lune presque pleine évoque l'imminence de l'éclosion par où le long et patient travail du Yin se renverse en acte créateur. Dans cet hexagramme où les termes favorables sont rares, l'appréciation ouverture est sans équivoque: la position est idéale pour mettre au jour la fertilité d'une union même non choisie."
+trait6: "En haut un six\n
+Une femme présente une corbeille\n
+Sans rien de consistant\n
+Un chevalier égorge un bélier\n
+Sans aucun sang\n
+Aucun lieu n'est profitable"
+trait6_description: "À ce niveau de Sortie, comme souvent au dernier trait des hexagrammes, la situation bascule. On n'y trouve ni MARIAGE ni CADETTE, mais un rituel étrange, ou plutôt une caricature de rituel, décrit par un couple de phrases aussi rimées que rythmées. Les ustensiles sont pourtant conformes : la corbeille de la femme est carrée comme la Terre et l'animal que sacrifie le chevalier est Yang. Mais si les formes sont respectées, l'esprit n'est pas là, et les acteurs ne sont pas ceux qu'il faudrait. Femme, chevalier, ils sont désignés de la manière la plus générale qui soit alors que au terme d'un hexagramme traitant de mariage, on attendrait au moins les appellations épouse et époux. L’union n'a pas lieu. La femme n'a rien à offrir dans son couffin carré, l'homme ne fait rien jaillir de sa dague pointue. Ni Yin, ni Yang ne sont adéquats, a fortiori leur relation. Les flux vitaux ne s'échangent pas et, le sacrifice ne pouvant nouer le lien qu'il devait établir, le rituel se révèle vide et vain.\n
+Isolé au-dessus de la ligne souveraine, celle où se réalise le MARIAGE, ce trait est sans relation avec les autres lignes où, malgré contretemps et incompréhensions, les associations finissent par aboutir à une organisation féconde. A ce niveau, les partenaires sont là, mais leurs rapports n'ont pas de consistance. Cette stérilité passagère est sanctionnée par la reprise à l'identique de l'appréciation négative formulée au Jugement."
+grande_image: "Au-dessus de la brume\n
+Il y a le tonnerre\n
+MARIAGE DE LA CADETTE\n
+L’Être Accompli ainsi\n
+à la lumière de ce qui dure\n
+Prend conscience de ce qui s’use"
+dixieme_aile: "MARIAGE DE LA CADETTE\n
+Aboutissement du féminin"
+nucleaire: '63 - Déjà traversée'
+oppose: '53 - Pas à Pas'
+renverse:
+image:
 trigramme_bas: "brume"
 trigramme_haut: "tonnerre"
-numero: 54

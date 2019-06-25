@@ -18,7 +18,7 @@ class TrigName
     elsif trig == %w[yang yang yin]
       'brume'
     elsif trig == %w[yin yang yang]
-      'marais'
+      'bois'
     end
   end
 end

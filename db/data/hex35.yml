@@ -1,10 +1,68 @@
+numero: 35
 nom: '35 - Avancer au Grand Jour'
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "AVANCER AU GRAND JOUR\n
+Prospère prince de Kang\n
+Emploi de nombreux chevaux\n
+En don d’investiture\n
+En un jour triple audience"
+jugement_description: "S’avançant au grand jour, le Prince de Kang est reçu en audience trois fois de suite, c’est-à-dire avec ostentation et apparat. Le don d’investiture est spectaculaire : les chevaux sont en si grand nombre qu’ils semblent former une haie. Un personnage de rang secondaire est amené en pleine lumière et convié à mettre ses talents au service du pays.\n
+Il ne faut pourtant pas se laisser éblouir par ce faste : le cheval, symbole de force et de ténacité, est une invite à mettre en œuvre sa capacité personnelle. Le pouvoir conféré ici est une charge, une mission difficile, en l’occurrence pacifier une révolte. L’acceptation de dons honorifiques comporte un aspect risqué. Bien que le texte ne mentionne aucune appréciation mantique ni favorable, ni défavorable, il est notable que les deux autres contextes d’investiture cités par le Yi Jing – dont l’emphase est marquée comme ici par le chiffre trois – concernent des situations dont le développement n’est pas très heureux : le début d’une guerre dans ARMÉE, une destitution dans PLAIDER SA CAUSE. Quelles que soient les difficultés à affronter, on doit être conscient que la circonstance demande de se rendre visible et de se manifester avec à-propos."
+trait1: "Au début un six\n
+Comme en PROGRESSION\n
+Comme en régression\n
+Présage d’ouverture\n
+Pas d’onde porteuse\n
+Largesse absence de faute"
+trait1_description: "Les premiers efforts pour AVANCER AU GRAND JOUR tournent à vide, comme un moteur qui patine. Yin à une place Yang, ce trait est situé au niveau le plus intérieur, au seuil d’un groupe de traits Yin qui « pèsent » sur lui. Même la correspondance avec la 4ème ligne n’est pas profitable, en raison de l’attitude égoïste décrite à ce trait.\n
+Lorsqu’on entre sur un terrain difficile sans recevoir aucun soutien de l’extérieur, il se peut qu’on commence par tourner en rond. Cela ne bloque pas la situation pour autant et peut même ouvrir des horizons dans une position où il s’agit d’avancer en ne comptant que sur ses propres forces. Que l’on ne se sente guère en confiance ou que l’on se heurte à la défiance de l’entourage, il ne faut pas hésiter à adopter une attitude souple, généreuse et compréhensive. L’ouverture d’esprit qu’elle demande permet de dépasser l’impression de
+« surplace » qu’on pourrait ressentir."
+trait2: "Six en 2\n
+Comme en PROGRESSION\n
+Comme en dépression\n
+Présage d’ouverture\n
+Recevoir un important bonheur\n
+De la Reine-Mère"
+trait2_description: "Alors que le Jugement évoque une gratification, on découvre à ce stade les difficultés de la tâche à réaliser, ce qui provoque une certaine mélancolie. Mais la situation n’est pas fermée pour autant : non seulement la place de Préfet s’accorde à une position de grand vassal telle celle du Prince de Kang, mais ce trait, Yin à une place Yin, est le seul correct de l’hexagramme et son affinité avec la ligne souveraine renforce la justesse de sa position centrale.\n
+La Reine-Mère, l’épouse Shang du Roi Wen, est un personnage central de l’histoire des Zhou. Un hexagramme entier lui est consacré, MARIAGE DE LA CADETTE, qui évoque les moments où l’on est emporté par des circonstances qu’on ne contrôle pas. Pourtant, les situations d’union forcée comportent elles aussi leur fécondité. L’apparition de l’aide inattendue apportée au Prince de Kang par l’ascendance de sa mère est de cet ordre.\n
+Bien que l’on soit placé dans une situation difficile, une attitude de vassal courageux et tenace, où prédominent l’écoute et la disponibilité, met en rapport avec la source Yin profonde. Sans se laisser miner par les embûches et les doutes, il est possible, en mettant en lumière les éléments consensuels, de faire progresser la situation."
+trait3: "Six en 3\n
+La foule consent\n
+Tout regret disparaît"
+trait3_description: "La place de transition marque le passage à l’extériorisation. Après les difficultés décrites aux deux premières lignes, un changement de rythme dans la construction du texte et l’absence du nom de l’hexagramme signalent une accalmie dans les contrariétés et une pause dans la progression. L’accent n’est plus mis comme au Jugement sur la cérémonie d’investiture elle-même, mais sur la foule de ceux que son apparat doit impressionner.\n
+Comme le Prince de Kang, on se trouve au grand jour, sans appui, mais on est en mesure d’obtenir un certain consensus, et un assentiment devient perceptible. La souplesse évoquée par la nature Yin du trait est ici plus adéquate que l’attitude belliqueuse signalée au 6ème trait pour dissoudre les résistances et amadouer l’adversité."
+trait4: "Neuf en 4\n
+Comme en PROGRESSION\n
+Rongeur nuisible\n
+Présage de danger"
+trait4_description: "Au premier niveau extérieur, occupé par le premier trait Yang de la figure, l’avancée se manifeste par la réapparition du nom de l’hexagramme. Le texte évoque celui de la première ligne, avec laquelle celle-ci est en correspondance. Cependant la construction est différente et l’appréciation mantique également. Ce qui empêche d’AVANCER AU GRAND JOUR n’est plus un sentiment intérieur, mais une réalité extérieure représentée par un rongeur, élément nocif dont l’activité nocturne est malvenue dans un contexte d’éclairement.\n
+La place de Ministre exigerait une attitude plus claire et plus désintéressée : utiliser l’obscurité pour progresser à des fins personnelles mine l’ensemble de la situation. Du coup, la perspective devient dangereuse, et on voit déjà se profiler les violences décrites au 6ème trait, l’autre trait Yang de l’hexagramme, où le danger n’est plus potentiel, mais bien réel."
+trait5: "Six en 5\n
+Tout regret disparaît\n
+Manques ou gains pas de craintes à avoir\n
+Aller ouverture\n
+Rien qui ne soit profitable"
+trait5_description: "La manière souveraine d’AVANCER AU GRAND JOUR, c’est assumer la situation en déployant ses capacités d’action sans se soucier de résultats immédiats. A cette place Yang, la nature Yin du trait renforce l’affinité avec les trois traits Yin du bas de l’hexagramme, particulièrement avec le 3ème : même incitation à aller de l’avant, même absence du nom de l’hexagramme.\n
+Sans se laisser atteindre par la réussite ou l’échec, il faut faire preuve d’une disponibilité semblable à celle du PUITS, qui demeure égal sans qu’il y ait à s’inquiéter de ses variations. L’évolution favorable, posée comme probable aux deux premiers traits, est ici réelle, et cela de la meilleure manière possible. Qui sait se rendre capable à la fois d’action et de détachement ne doit pas hésiter à aller de l’avant pour développer toutes les possibilités de la situation."
+trait6: "En haut un neuf\n
+AVANCER les cornes hautes\n
+Seulement opérer la soumission du fief par les armes\n
+Danger\n
+Ouverture\n
+Absence de faute\n
+Présage de gêne"
+trait6_description: "A ce niveau de Sortie, la situation se retourne. L’avancée n’est plus bienveillante, elle devient agressive. La confusion s’installe, suggérée par une profusion discordante de formules mantiques. Le danger, seulement probable au 4ème trait – l’autre trait Yang de l’hexagramme – est maintenant réel. Il est couplé avec la mention ouverture, ce qui est rare : il n’y a que lorsque des turbulences agitent les membres d’un même CLAN que la situation est à la fois dangereuse et riche de possibilités.\n
+S’il est correct d’affronter les périls, la force n’est opportune qu’à condition de l’utiliser à établir la discipline sur son propre territoire : elle ne doit pas tourner à la crispation. Quand une situation est à la fois périlleuse et prometteuse, il importe d’agir avec discernement avant que sa fluidité ne se restreigne."
+grande_image: "La LUMIERE sort au-dessus de la terre\n
+AVANCER AU GRAND JOUR\n
+L’Être Accompli ainsi\n
+En s’éclairant et en veillant sur lui-même\n
+Rend sa conduite LUMINEUSE"
+dixieme_aile: "AVANCER AU GRAND JOUR\n
+Au grand jour"
+nucleaire: '39 - Obstruction'
+oppose: '5 - Attendre'
+renverse:
+image:
 trigramme_bas: "terre"
 trigramme_haut: "feu"
-numero: 35

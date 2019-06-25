@@ -1,10 +1,51 @@
+numero: 23
 nom: '23 - Usure'
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "USURE\n
+Pas profitable d’avoir où aller"
+jugement_description: "Sans fioritures, comme le moment auquel il s’applique, le texte du Jugement de cet hexagramme va droit à l’essentiel : il souligne l’inadéquation d’une stratégie qui consisterait à lutter contre l’usure de manière rigide en se crispant sur un objectif extérieur.\n
+Le peu de force dont on dispose ne permet pas d’agir sur la situation. Quand on est fatigué ou affaibli, il est préférable de s’abstenir de toute initiative et de rester chez soi. Tout comme la taille des branches a pour effet le renforcement des racines, la restriction de l’activité est une opportune mesure de consolidation."
+trait1: "Au début un six\n
+USURE du lit par les pieds\n
+Mal discerner présage fermeture"
+trait1_description: "A ce trait d’Entrée, le plus intérieur, les points d’appui se désagrègent. Image d’une structure solide posée sur le sol, le lit, qui évoque la position horizontale, celle du repos, est une allusion à l’assise qui rend la verticalité possible. Le pied, en revanche suggère généralement une mise en route. Or l’heure n’est pas à se dresser pour entreprendre, mais à épargner ses forces. Symbole – ici comme à l’hexagramme 57 SE MODELER – de ce qui est obscur, le lit est aussi le lieu des rêves, où les réalités s’estompent et la perception devient floue. Dans les moments d’usure, la fatigue peut être telle qu’elle empêche d’y voir clair et de se rendre compte qu’il s’agit avant tout de travailler à la restauration de ses bases."
+trait2: "Six en 2\n
+USURE du lit par les traverses\n
+Mal discerner présage fermeture"
+trait2_description: "L’USURE qui concerne au trait précédent les points d’appui du lit, les pieds, atteint à présent le bâti qui donne sa solidité à l’ensemble. Ce n’est plus l’assise qui est touchée mais la structure qui, soutenant le lit, en permet l’usage. L’horizontalité des traverses est en accord avec une place seconde, celle du Préfet sur lequel on peut compter et s’appuyer.\n
+La correction du trait, Yin à une place Yin, suggère la présence des qualités nécessaires pour servir. Mais l’heure n’est pas à vouloir trop en faire. Dans une situation qui appelle avant tout le repos, soutenir au-delà du possible ne peut déboucher sur rien. Comme à la première ligne, la difficulté de rester conscient des réalités risque d’empêcher de voir qu’apprendre à économiser ses forces est la seule conduite envisageable."
+trait3: "Six en 3\n
+USURE d’elle-même\n
+Absence de faute"
+trait3_description: "L’USURE, appliquée aux deux traits précédents comme au trait suivant à des parties spécifiques du lit, interrompt ici sa progression pour être considérée dans son ensemble. A ce niveau de Passage, on se trouve au cœur même de l’usure, là où il semble n’y avoir d’autre perspective qu’un élagage complet. Cependant, bien que perdu au milieu d’un groupe de 5 lignes Yin, le trait est en relation par correspondance avec l’unique Yang qui surplombe l’hexagramme, comme la 5ème ligne l’est par voisinage. Qu’il partage avec la ligne souveraine le privilège d’être relié au seul niveau où s’envisage une transition est une perspective qui ouvre l’horizon et doit amener à changer le regard qu’on porte sur la situation.\n
+L’incorrection du trait n’est pas ici un handicap, car ne pas forcer la situation est l’attitude adéquate dans un contexte où le Yin prédomine. Contrairement aux lignes voisines, le texte ne mentionne aucune appréciation mantique négative, mais une incitation à accepter le dépouillement en cours sans se laisser dominer par un sentiment de désagrégation, afin de se mettre déjà en accord avec le renouvellement esquissé à la dernière ligne."
+trait4: "Six en 4\n
+USURE du lit par la peau\n
+Fermeture"
+trait4_description: "L’USURE du lit, un temps interrompue à la ligne précédente, ne s’applique plus à présent à une partie spécifique du lit comme aux deux premiers traits, mais à sa surface. A l’image d’autres symboles Yin, comme les différents tissus évoqué dans le texte d’ÉLAN RÉCEPTIF, la peau mentionnée ici représente une frontière entre l’interne et l’externe. D’un côté, elle est l’enveloppe qui retient et protège ce qui travaille dans le caché ; de l’autre, du côté du visible, elle est ce qui apparaît aux regards. A ce 4ème niveau, première place extérieure, cette frontière est attaquée par l’usure. On ne doit pas se préoccuper de l’extérieur, mais privilégier l’interne et économiser ses forces pour leur permettre de se reconstituer."
+trait5: "Six en 5\n
+Poissons enfilés par les ouïes\n
+Faveurs par les dames du palais\n
+Rien qui ne soit profitable"
+trait5_description: "A cette ligne souveraine, la seule où le nom de l’hexagramme n’est pas cité, l’USURE n’est plus subie, comme aux 4 traits précédents, dans une atmosphère de désintégration inévitable. Après la peau qui marquait au 4ème niveau la frontière entre l’interne et l’externe, un pas est franchi : poissons, faveur, profit, le texte abonde en indications avantageuses. L’USURE qui pourrissait la structure est circonscrite, maîtrisée par l’être humain dont la présence, évoquée ici par les dames du palais, remplace aux deux dernières lignes de l’hexagramme l’image du lit qui prédomine dans les traits inférieurs. Les poissons, mis à sécher sur des bâtons passés au travers de leurs ouïes, évoquent une réserve de nourriture suffisante pour passer la période hivernale. Mais le poisson est aussi, de par son ovulation abondante, un signe de fécondité orienté vers l’avenir. Il n’est pas comme le lit un symbole statique, mais une image qui s’inscrit dans le temps comme transition entre passé et futur.\n
+L’appréciation rien qui ne soit profitable tranche nettement sur celles des autres lignes. Particulièrement favorable, elle indique qu’on est en position de discerner dans la situation les éléments passés susceptibles d’être à la fois nourriciers et porteurs d’avenir."
+trait6: "En haut un neuf\n
+Un fruit excellent n’est pas consommé\n
+Un Chef Accompli obtient un chariot\n
+L’Etre Petit l’USURE de sa cabane"
+trait6_description: "A ce trait de Sortie se concentre la seule force Yang de l’hexagramme : toute la vitalité restante se trouve à la place la plus élevée, symbolisée par le fruit excellent. Plus qu’une réserve de nourriture, tels les poissons mentionnés à la ligne précédente, ce fruit restant représente à la fois, grâce à ses graines qui retombent en terre, une promesse de renaissance, et la part non touchée, prélevée sur l’immédiat afin de garantir le RETOUR.\n
+Mais cette façon de considérer les temps d’usure n’est pas accessible à tous. Elle demande de prendre de la hauteur afin de savoir déceler au creux de l’hiver les signes annonciateurs du printemps à venir. Le nom de l’hexagramme, qui n’était pas mentionné à la ligne souveraine, réapparaît à cette dernière ligne mais pour ne plus concerner que l’Etre Petit. Lui seul, enfermé dans un regard étroit, en demeure à la saison présente et la ressent comme une disparition. Le Chef Accompli en revanche, symbole de la force intérieure capable d’envisager le devenir de la situation, sait utiliser les énergies restantes pour assurer la transition.\n
+Chariot et cabanes sont deux objets carrés en rapport avec la Terre. Mais le char, ajoutant à la capacité de supporter une charge la possibilité du mouvement, est une image plus active du couplage Yin-Yang et du fonctionnement de l’univers. Il symbolise l’attitude du Chef Accompli, capable d’aller au-delà de l’assombrissement en cours et de franchir le seuil conduisant au renouvellement."
+grande_image: "Montagne d’appuyant sur la terre\n
+USURE\n
+Qui est en haut ainsi\n
+En épaississant qui est en bas\n
+Apaise les situations"
+dixieme_aile: "USURE\n
+Désagrégation"
+nucleaire: '2 - Elan Réceptif'
+oppose: '43 - Se Montrer Résolu'
+renverse:
+image:
 trigramme_bas: "terre"
 trigramme_haut: "montagne"
-numero: 23

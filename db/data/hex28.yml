@@ -1,10 +1,63 @@
-nom: '28 - Grand Excès'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yang"
-trait6: "yin"
-trigramme_bas: "marais"
-trigramme_haut: "brume"
 numero: 28
+nom: '28 - Grand Excès'
+description:
+jugement: "GRAND EXCÈS\n
+La poutre faîtière ploie\n
+Profitable d’avoir où aller\n
+Favorisant"
+jugement_description: "Débordante de force Yang, la situation est riche de possibilités. Pourtant, que l’essor marqué par favorisant ne soit pas qualifié par fondamentalement – modulation qui souligne une capacité à initialiser – indique que l’heure est moins à entreprendre du nouveau qu’à se rendre infatigable pour aller jusqu’au bout de la circonstance présente.\n
+La poutre maîtresse, pièce principale de la charpente, symbolise la force qui soutient toute la structure. Or, la charge qui pèse sur elle, signe d’une fatigue ou d’un vieillissement, la fait ployer. Dans un tel contexte, rester inerte amènerait à courber encore plus sous le fardeau. C’est au contraire en tendant ses forces vers son objectif, au besoin en le redéfinissant clairement, que l’on peut déployer toutes les potentialités de la situation."
+trait1: "Au début un six\n
+Comme natte utiliser des roseaux blancs\n
+Absence de faute"
+trait1_description: "Entrer dans une situation de démesure demande d’être à la fois sûr de soi et prudent. Yin à une place Yang, ce trait compense par sa souplesse la fermeté de la place. Dans le même ordre d’idées, les images utilisées par le texte évoquent la délicatesse à même de prévenir les excès de la force Yang : souplesse du roseau, simplicité de la blancheur, aspect protecteur de la natte. Support sur lequel faire reposer ce qui est pesant ou imposant, cette natte symbolise le comportement approprié : on ne doit pas hésiter à adopter une attitude souple et sans apprêt, qui relève de l’art de recevoir avec précaution un poids trop lourd."
+trait2: "Neuf en 2\n
+D’un peuplier desséché\n
+Naissent des surgeons\n
+Un vieux mari obtient\n
+Pour épousée une jeune damoiselle\n
+Rien qui ne soit profitable"
+trait2_description: "A ce niveau comme à la 5ème ligne, le dépassement des rythmes habituels est décrit en deux temps à l’aide d’images prises dans le monde végétal puis dans le monde humain, selon un type de progression métaphorique fréquent dans les textes de l’époque (le Livre des Odes). Le Yang, dont les forces arrivent à terme, passe la mesure et retrouve grâce au Yin les ressources nécessaires pour reprendre vie : l’arbre desséché reverdit et engendre des pousses nouvelles ; l’homme âgé rajeunit et trouve dans l’union avec une femme jeune un surcroît de vigueur, qui peut être l’annonce d’un renouvellement inattendu (ce type d’union entre époux d’âges très différents n’est pas sans évoquer celle dont naquit Confucius lui-même, union heureuse mais qui fut qualifiée d’ « excessive » par le nom de cet hexagramme).\n
+La qualité Yin de cette place de Préfet permet de compenser la force Yang du trait ; cette position est également influencée par le voisinage avec le premier trait dont le texte se caractérise par des images de souplesse et de prudence. Ce sont là les signes d’une fluidité qui favorise à la fois le regain de vitalité et son prolongement dans l’environnement extérieur, permettant ainsi de manifester de manière créative un surcroît de possibilités. Aussi cette ligne reçoit-elle l’appréciation la plus favorable de l’hexagramme."
+trait3: "Neuf en 3\n
+La poutre faîtière ploie\n
+Fermeture"
+trait3_description: "Que l’image de la poutre maîtresse, emblématique de cet hexagramme, soit reprise aux deux lignes médianes indique que la problématique de l’EXCES est particulièrement aiguë au niveau humain. A cette place de passage, c’est toute la phrase du Jugement qui est répétée à l’identique, signe qu’à ce niveau se trouve le point focal de la situation. La poutre maîtresse est le cœur de la force qui soutient l’ensemble de la structure, et c’est ici que le fardeau pèse le plus. La pression est telle et le poids si pénible que l’on se sent dans une impasse. Bien que le conseil de garder son cap ne soit pas mentionné, on peut ici se souvenir de la stratégie indiquée au Jugement : ne pas rester inerte.\n
+La relation de correspondance de ce trait avec le 6ème, où se trouve la même appréciation mantique négative, est à prendre comme un avertissement. Il convient de se demander s’il y a lieu de mettre toutes ses forces en jeu et dans ce cas d’en trouver la manière."
+trait4: "Neuf en 4\n
+La poutre faîtière se déploie\n
+Ouverture\n
+En rajouter gêne"
+trait4_description: "Que l’image de la poutre maîtresse, emblématique de cet hexagramme, soit reprise aux deux lignes médianes indique que la problématique de l’EXCES est particulièrement aiguë au niveau humain. Ployant sous une charge épuisante au 3ème trait, niveau de Passage, la poutre reprend maintenant des forces et se raffermit. Telle une plante qui retrouve l’eau, elle se redresse comme on bombe le torse pour répondre à une situation inhabituelle.\n
+Comme à la seconde ligne, la qualité Yin de la place, renforcée par la relation de correspondance avec le premier trait, apporte une fluidité qui permet aux forces concentrées de se déployer à leur rythme. Outrepasser ce mouvement ne ferait que le figer."
+trait5: "Neuf en 5\n
+D’un peuplier desséché\n
+Naissent des fleurs éclatantes\n
+Une vieille épouse obtient\n
+Pour mari un jeune damoiseau\n
+Absence de faute absence d’éloge"
+trait5_description: "A ce niveau, le dépassement des rythmes habituels est décrit en deux temps, de la même façon qu’au deuxième trait. Un surcroît inhabituel d’énergie permet de passer outre au vieillissement qui atteint aussi bien le peuplier que l’humain : le bois desséché reverdit, la femme âgée trouve un regain de vigueur dans le mariage avec un homme jeune. Bien qu’aucun jugement ne soit porté sur une union aussi inhabituelle – le texte ne mentionne ni ouverture, ni fermeture – l’appréciation qu’il comporte est nettement moins positive que celle donnée à la seconde ligne. La position du trait, ferme et situé à la place souveraine d’un hexagramme de force, peut accentuer la tentation de s’imposer. Il est de plus en relation de voisinage avec la 6ème ligne, où l’EXCÈS devient patent.\n
+Les fleurs sont des promesses plus ténues que les surgeons. Le Yin parvenu à ce stade peut-il être aussi fécond que le Yin jeune ? Il est opportun de se demander ce qui est réellement recherché ici, et de prendre quelques précautions, surtout lorsqu’un sentiment de force intérieure rend sûr de son fait. Mais il peut être également utile d’adopter parfois des conduites hors norme, jusqu’à être amené à en trouver par soi-même les limites, ou la légitimité."
+trait6: "En haut un six\n
+Traversée à gué EXCESSIVE\n
+Le sommet de la tête est submergé\n
+Fermeture\n
+Absence de faute"
+trait6_description: "Même si elles peuvent être le signe de circonstances exceptionnelles, ou parfois mettre au jour des capacités extraordinaires, toutes les démesures ont une fin. Que le nom de l’hexagramme soit mentionné au dernier stade de GRAND EXCÈS – c’est la seule ligne où il apparaît – suggère que la situation se révèle à présent réellement excessive. Le moment est venu de se départir d’un agencement trop lourd à supporter, et d’effectuer la transition vers une autre rive.\n
+Ce passage est d’autant moins aisé que le poids réduit la mobilité et empêche de lutter contre le courant. Il faut veiller à ce que la tête – ce qui dirige – ne soit pas dépassée. Aller courageusement de l’avant sans se laisser emporter permet de se retirer d’un dispositif qui a fait son temps."
+grande_image: "La brume submerge les arbres\n
+GRAND EXCES\n
+L’Etre Accompli ainsi\n
+En s’établissant dans la solitude\n
+Ne s’inquiète pas\n
+En vivant dans la RETRAITE\n
+Ne s’attriste pas"
+dixieme_aile: "GRAND EXCÈS\n
+Apogée"
+nucleaire: '1 - Élan Créatif'
+oppose: '27 - Nourrir'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "brume"
+

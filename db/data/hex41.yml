@@ -1,10 +1,71 @@
+numero: 41
 nom: '41 - Diminuer'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "DIMINUER\n
+Il y a onde porteuse\n
+Fondamentalement ouvert\n
+Absence de faute\n
+Présage de possibilités\n
+Profitable d’avoir où aller\n
+Comment accomplir cela\n
+Deux patelles peuvent accomplir Les rites d’hommage"
+jugement_description: "Cela peut sonner comme un paradoxe : plus qu’une simple réduction, DIMINUER est le point de départ d’une organisation nouvelle. Caractérisée par une accumulation d’appréciations positives, notamment les mentions d’un courant de confiance et d’une capacité à entrer dans un flux nouveau et fécond, la diminution ne doit pas être vécue seulement comme une privation. Se laisser troubler par les désagréments qu’elle entraîne masquerait les possibilités qu’elle offre. Deux hexagrammes seulement, tous deux axés sur le rituel aux ancêtres, sont caractérisés par la formule fondamentalement ouvert qui marque la possibilité d’un réagencement général et fécond : CHAUDRON et DIMINUER. Le premier, à dominante Yang, est tourné vers l’expression de ce qui est établi – son nucléaire est SE MONTRER RESOLU – et qu’une condensation parachève. Le second, à dominante Yin, est centré sur la retenue qui permet la concentration des forces en vue de floraisons nouvelles – son nucléaire est RETOUR.\n
+Dans le mouvement énergétique global constitué par le couple DIMINUER – AUGMENTER, l’hexagramme 41 représente la phase Yin, où il importe de ne pas agir de manière turbulente. Cette réserve est maqué par la formule présage de possibilités, caractéristique de la ligne de passage d’ELAN RECEPTIF, situation Yin par excellence, où il est déconseillé de se faire valoir et de s’exprimer de manière trop voyante. La concentration des moyens doit être considérée comme le temps préparatoire d’une action à plus longue échéance : le resserrement Yin est préalable au déploiement décrit par l’hexagramme 42 AUGMENTER, dont le nom est cité trois fois dans le texte de DIMINUER, notamment à la ligne souveraine.\n
+Comment rendre cette diminution opérante ? En allant au fond de la réduction, qu’elle soit effectuée ou subie, de ce qui est visible et manifeste au profit de forces cachées et nourricières. Les patelles symbolisent ce travail en le reliant à la transmutation dont le CHAUDRON est l’image. Servant à la fois au nourrisse ment des ancêtres et à la nourriture des vivants, les récipients rituels, patelles et chaudrons, étaient utilisés ensemble pour les offrandes, mais se distinguaient pas leur nombre. Le Livre des Rites indique que celui des chaudrons est toujours impairs (de 3 à 9 selon le rang) et celui des patelles toujours pair (de 2 à 8). Ici la mention de deux patelle a une double signification : emblème du Yin, deux met en avant la parité nécessaire au maintien d’un équilibre ; il donne aussi une image concrète de la diminution puisque c’est le chiffre pair le plus bas, correspondant à une position subalterne.\n
+DIMINUER est un moment privilégié du processus de régulation. Le resserrement des moyens ne doit pas être ressenti comme une insuffisance, mais être vécu avec confiance et sincérité, comme la phase préalable d’une augmentation à venir."
+trait1: "Au début un neuf\n
+L’affaire finie rapidement s’en aller\n
+Absence de faute\n
+Réfléchir sur la DIMINUTION"
+trait1_description: "Lorsqu’on est amené à jouer un rôle dans des situations qui ne sont pas entièrement de notre fait, on ne doit pas s’y laisser trop impliquer, surtout si elles nous pèsent. Il est préférable de ne pas intervenir à tout propos et, sa tâche accomplie, de s’en aller : tourner rapidement la page est conforme au processus d’allégement que représente DIMINUER. L’injonction de se départir de préoccupations exagérées et de complications émotionnelles est renforcée par la nature Yang du trait, correct et en correspondance avec le 4ème ou l’idée d’un mouvement rapide est également évoquée.\n
+Entrer dans un processus de décantation ne signifie pas pour autant tout abandonner. Il est opportun, à ce niveau d’Entrée, d’apprendre à évaluer l’aspect positif de la diminution, notamment de n’y consentir que si elle n’est pas abusive et permet un rééquilibrage."
+trait2: "Neuf en 2\n
+Ténacité profitable\n
+Impasse pour des expéditions\n
+Ce n’est pas DIMINUER\n
+C’est AUGMENTER"
+trait2_description: "A ce niveau, central et en correspondance avec la ligne souveraine, le processus d’amoindrissement est engagé. Cependant, les privations que la DIMINUTION implique ne doivent pas être imposées de façon brutale ni entraîner des réactions agressives. La nature Yang du trait, incorrect et en contact avec les trois Yin qui le surplombent, accentue une tendance à la précipitation en désaccord avec l’aspect souple et longanime de la situation.\n
+A forcer le mouvement, on empêcherait la DIMINUTION d’aboutir à son renversement naturel, l’AUGMENTATION, également mentionnée à la 5ème ligne. A cette place de Préfet, où l’endurance est particulièrement recommandée, s’abstenir d’interventions impétueuses est le meilleur moyen de favoriser un rééquilibrage qui doit, pour être profond et durable, trouver sa respiration et s’effectuer à son rythme. La reprise à l’identique de la phrase clé de ce trait à la 6ème ligne, ce n’est pas DIMINUER c’est AUGMENTER, doit inciter à rester dans une attitude de retenue conforme à cette place de service, afin de laisser le temps accomplir son œuvre."
+trait3: "Six en 3\n
+Trois personnes en marche\n
+Donc DIMINUTION d’une personne\n
+Une personne en marche\n
+Donc gain d’un ami"
+trait3_description: "A ce niveau de Passage, le processus de rééquilibrage est en marche. Il est décrit de manière à la fois imagée et abstraite, l’anonymat des personnages renforçant la valeur symbolique des opérations mentionnées. Il y a un trop-plein ? Le superflu est éliminé. Il y a un manque ? Un élément est rajouté. Que ce soit par addition ou soustraction, un et trois, chiffres impairs Yang, disparaissent pour faire advenir le deux, nombre Yin explicitement mentionné au Jugement et ici simplement suggéré – ce qui est bien dans la manière effacée du Yin.\n
+L’appariement du Yin et du Yang est à la base du processus vital. L’excès de l’un ou de l’autre conduit au blocage ou à l’épuisement. Prévenir ces extrémités demande d’être par avance conscient des trop-pleins qui appellent décantation et des manques qui veulent être comblés, de manière à conserver aux processus leur indispensable fluidité.\n
+La relation de correspondance entre les 3ème et 6ème traits a beaucoup été utilisée pour expliquer ce rééquilibrage. Selon Wang Bi, ce trait Yin ne doit pas faire bloc avec les deux autres afin de ne pas « provoquer la suspicion du dernier trait Yang » avec lequel il est apparié. D’autres lectures, notamment celle de Wang Fuzhi, se placent en amont de cet hexagramme et situent le départ du processus au niveau de l’hexagramme 11 PROSPERITE dans lequel, par échange entre les 3ème et 6ème traits, le Yang réduit volontairement son expansion afin de maintenir la cohésion de l’ensemble."
+trait4: "Six en 4\n
+DIMINUER la fébrilité\n
+Entraîne rapidement la joie\n
+Absence de faute"
+trait4_description: "A cette ligne est montrée une tendance à l’agitation et à l’égarement. La position du trait au milieu d’un bloc de trois traits Yin dénote un isolement qui pousse à réagir de façon hésitante et inquiète au processus de DIMINUTION. Cette fébrilité est caractéristique de situations où le partenariat et la communication sont difficiles.\n
+Situé en place de Ministre, le trait est en correspondance avec la première ligne, position qui est peut-être mise à profit pour chercher à combler la sensation de manque. On doit plutôt rechercher l’apaisement et renoncer à trop en vouloir. Privilégier non le plus mais le moins permet de mettre rapidement fin aux difficultés et d’amener un rétablissement de l’harmonie."
+trait5: "Six en 5\n
+AUGMENTATION indéfinissable\n
+Dix couples de tortues\n
+Sont incapables de faire dévier\n
+Fondamentalement ouvert"
+trait5_description: "A cette place souveraine, la nature Yin du trait est essentielle. Ce n’est que par une attitude Yin en effet qu’on peut être en mesure d’accueillir les diminutions qui s’opèrent aux autres lignes et d’en manifester les aspects bénéfiques. Ce niveau est le seul où le nom de l’hexagramme n’est pas cité. Il est remplacé par celui de l’hexagramme retourné : il n’y a pas ici DIMINUTION mais ébauche d’AUGMENTATION. La perte n’est pas ressentie comme telle, car elle est replacée dans une perspective globale. Que cette augmentation soit pour le moment indéfinissable précise que c’est le fonctionnement même du processus diminution/augmentation qui est maîtrisé, sans préoccupation de résultats.\n
+Les couples de tortues font référence aux opérations divinatoires, qui aident à trouver l’attitude appropriée au moment. Elles ne sont ici d’aucune utilité, tant l’assurance et la confiance en soi sont profondes. Diminution des doutes et augmentation des certitudes, l’opération divinatoire est magnifiée par le nombre dix, qui évoque une totalité. Cependant, plus important peut-être que cette précision chiffrée est le rappel de l’utilisation couplée des carapaces de tortues, qui fait écho aux opérations naturelles de rééquilibrage décrites au 3ème trait. Clé de l’hexagramme, cette parité équilibrante déjà énoncée par les deux patelles du Jugement est le moyen souverain de mettre la DIMINUTION en pratique.\n
+Qui sait, par une attitude constante de retrait, maintenir un équilibre n’a pas à se poser de questions. L’assurance d’être à la juste place favorise une ouverture fondamentale : comme le montre la reprise de l’appréciation mantique du Jugement, une des plus bénéfiques du Yi Jing, la confiance est telle qu’elle permet un réaménagement profond de la situation."
+trait6: "En haut un neuf\n
+Ce n’est pas DIMINUER c’est AUGMENTER\n
+Absence de faute\n
+Présage d’ouverture\n
+Profitable d’avoir où aller\n
+Gain de serviteurs pas de CLAN"
+trait6_description: "Mettre un frein à l’activité ne doit pas être considéré comme un amoindrissement, mais comme un rééquilibrage des forces permettant à l’ensemble du processus de DIMINUTION de se poursuivre. La restriction qui s’exerce à ce niveau de Sortie est mise en rapport avec le profit qu’elle entraîne, rappelé par le nom de l’hexagramme 42 AUGMENTER. Le processus est similaire à celui qui s’effectue au niveau de la 2ème ligne, où l’on conseille de ne pas dilapider ses forces mais de les resserrer dans l’optique d’une expansion. Il est aussi en relation avec le jeu de compensations qui se produit à la 3ème ligne, en correspondance avec celle-ci, où la perte équivaut également à un gain.\n
+Cependant, la reprise de l’injonction donnée au Jugement de garder une vision claire de la direction à suivre (profitable d’avoir où aller) montre que cet équilibre est délicat à maintenir. Bien que les serviteurs que l’on obtient représentent une augmentation du yin, l’absence de CLAN suggère que ce moment n’est peut-être pas celui d’un rassemblement des forces dans une structure organisée et durable."
+grande_image: "Sous la montagne il y a la brume\n
+DIMINUER\n
+L’Être Accompli ainsi\n
+En contenant sa colère\n
+Modère ses passions"
+dixieme_aile: "DIMINUER AUGMENTER\n
+Début de la floraison et du déclin"
+nucleaire: '24 - Retour'
+oppose: '31 - Inciter'
+renverse:
+image:
 trigramme_bas: "brume"
 trigramme_haut: "montagne"
-numero: 41

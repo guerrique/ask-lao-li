@@ -1,10 +1,73 @@
-nom: '53 - Pas à Pas'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "montagne"
-trigramme_haut: "marais"
 numero: 53
+nom: '53 - Pas à Pas'
+description:
+jugement: "PROGRESSER PAS À PAS\n
+La femme se MARIE\n
+Ouverture\n
+Ténacité profitable"
+jugement_description: "PROGRESSER PAS À PAS, c’est avancer malgré les revers et les déceptions passagères. Cette stratégie a un emblème : la femme, symbole de la capacité à œuvrer avec ténacité quelles que soient les circonstances. Cette attitude Yin est également appropriée dans les autres hexagrammes où ce personnage est cité : quand le moment est à INCITER ou à ÊTRE ACCUEILLANT, sa présence engage à faire perdurer de manière féconde les agitations passagères ; au moment de GENS DU CLAN, elle symbolise la force par laquelle la situation perdure et se renouvelle. Ici, où il s’agit non seulement de PROGRESSER mais de le faire PAS À PAS, son mariage représente l’alliance entre la force Yang d’avancée et la force Yin d’endurance.\n
+Même si le modèle historique à pu être terni par les déconvenues de la princesse aînée, ce mariage est représenté comme fécond car, malgré les pas en arrière, la complémentarité Yin-Yang est ce qui permet d’inscrire les efforts dans une action suivie et ainsi de les faire aboutir. À travers le personnage de la femme, ce sont non seulement des capacités de gestation et de génération qui sont mises en valeur – voir les images d’enfantement dans le texte des traits – mais aussi les qualités d’adaptabilité et d’endurance qui permettent, en procédant par étapes, de mener à terme des projets de longue haleine."
+trait1: "Au début un six\n
+L’oie des moissons PROGRESSE\n
+À hauteur de rive\n
+Danger pour l’enfant petit\n
+Il y a des mots\n
+Point de faute"
+trait1_description: "À ce niveau d’Entrée, où l’oie des moissons entame sa PROGRESSION, la rive suggère un envol, et l’enfant petit une filiation espérée ou le départ d’un long parcours vers la maturité. Mais ce début est entravé par des inquiétudes et des discussions, peut-être entre partenaires. À l’orée d’un aussi long périple, ces difficultés peuvent être source de danger. La ligne initiale évoquant souvent un moment d’inexpérience, ma mention de ces démêlés est une invite à la patience et au réalisme. On doit particulièrement veiller à ne pas compromettre ses efforts par des disputes.\n
+Incorrect et sans relation, ce trait se trouve dans une position isolée qui se traduit par des désaccords et une certaine défiance. Dépasser ses réticences permet d’entrer avec souplesse dans le processus de progrès."
+trait2: "Six en 2\n
+L’oie des moissons PROGRESSE\n
+À hauteur de roches plates\n
+Boire et manger en grande aise\n
+Ouverture"
+trait2_description: "Au second niveau, la PROGRESSION de l’oie des moissons se déroule de manière positive et plaisante. Falaise ou roc solide, les roches plates marquent une étape tranquille où l’on prend le temps de se nourrir. Le progrès passe ici par une consolidation et un renforcement qui s’effectuent dans une ambiance joyeuse et conviviale. C’est un moment dénué d’inquiétude où l’on se donne le temps et les moyens de se développer, ce qui est en adéquation avec le caractère Yin d’une place de Préfet.\n
+Le trait est non seulement correct mais sa nature souple est en accord avec le symbole de la femme cité au Jugement : on est ici dans la phase Yin de la créativité de l’épouse mentionnée à la ligne souveraine, où en est décrite la phase Yang. La correspondance entre les deux lignes, toutes deux centrales et marquées par la même mention d’ouverture, accentue l’aspect heureux de ce patient renforcement intérieur qui participe pleinement de l’objectif final."
+trait3: "Neuf en 3\n
+L’oie des moissons PROGRESSE\n
+À hauteur de coteau\n
+Le mari parti en expédition\n
+Ne RETOURNE pas\n
+L’épouse enceinte n’enfante pas\n
+Fermeture\n
+Profitable de s’opposer aux brigands"
+trait3_description: "Niveau de Passage, la 3ème ligne est le moment le plus ardu de la PROGRESSION. Il n’y est question que de lointain, de séparation et de blocages. Le palier atteint à présent par l’oie des moissons est symbolisé par un coteau, une hauteur isolée et aride. Qu’elles soient de type Yang comme les expéditions du mari, ou de type Yin comme l’enfantement de l’épouse, aucune des actions entreprises ne parvient à son terme. L’atmosphère de partage joyeux qui prévaut à la ligne précédente laisse place à l’absence de relation entre Yin et Yang, si bien que chacun échoue de son côté : les initiatives extérieures du Yang n’aboutissent pas, ce qui empêche le mouvement Yin de RETOUR ; le travail interne du Yin n’atteint pas sa phase Yang d’extériorisation. Ce désaccord rappelle la situation évoquée au même niveau de PETIT APPRIVOISE où mari et épousée se regardent de travers. Les conséquences de cette mésalliance, sanctionnées par fermeture, la seule appréciation négative de l’hexagramme, exigent d’autant plus de vigilance que l’isolement qui en résulte attire les brigands, image de forces dangereuses qui peuvent chercher à profiter de la situation.\n
+Entreprises infécondes, accouchement improductif, toutes les épreuves évoquées à cette ligne sont dues au fait que, bataillant chacun de son côté, aucun des partenaires ne fait confiance au temps. La nature Yang du trait, bien que correct à cette place impaire, peut être le signe d’une opiniâtreté excessive, qui se traduit par le non-respect de l’alternance entre phases d’action et de repos. Bien que le trait soit sans correspondance avec le 6ème, l’écho créé par l’emploi à ces deux lignes du même terme coteau sous-entend, à ces deux niveaux, la capacité à prendre de la hauteur. En sachant voir le recul comme une péripétie au regard de la progression d’ensemble, on peut surmonter la déception et retrouver la conviction permettant de tenir bon malgré les pas en arrière."
+trait4: "Six en 4\n
+L’oie des moissons PROGRESSE\n
+À hauteur d’arbre\n
+Peut-être atteindra-t-elle branche lisse ou chevron\n
+Absence de faute"
+trait4_description: "À ce premier niveau extérieur, la PROGRESSION de l’oie des moissons change de domaine. Alors qu’aux trois lignes précédentes elle s’appuyait sur une rive, des rochers ou un coteau, milieux consistants et proches de la terre, elle se déploie maintenant dans des espaces plus élevés. L’arbre fait écho aux piliers de bois avec lesquels sont consolidées les berges de la rive citée au trait initial. Associé dans la symbolique des Cinq Éléments au printemps et à l’aube, il évoque un redémarrage bienvenu après la décourageante phase de stérilité décrite au trait précédent.\n
+Située entre deux lignes où il est question d’enfantement, ce niveau invite, comme le second, à un moment de pause. Le parcours vertical, qui va de la rive du premier trait à la colline du 5ème, passe ici par une étape horizontale : l’oiseau est à la recherche d’une branche où se poser pour faire une halte légitime et réparatrice. Correct et en relation de bon voisinage avec la ligne souveraine, ce trait de Ministre, à fonction de communication, fait le lien entre les efforts déjà accomplis et l’objectif final situé plus faut dans l’hexagramme. Pour continuer à progresser, il faut à ce stade savoir trouver un point stable où se poser."
+trait5: "Neuf en 5\n
+L’oie des moissons PROGRESSE\n
+À hauteur de colline ancestrale\n
+L’épouse trois ans durant n’est pas enceinte\n
+À la fin rien ne peut empêcher de réussir\n
+Ouverture"
+trait5_description: "À la ligne souveraine, l’oie des moissons touche au degré le plus élevé de sa PROGRESSION. Des différents niveaux qu’elle atteint lors de son périple, la colline est le plus proche du ciel, et celui qui recèle en ses fondements l’énergie des ancêtres. On se trouve ici au point de passage entre générations passées et filiations futures, dont le lient est assuré par l’épouse. À cette 3ème place impaire, qui fait suite aux dangers évoqués à la ligne 1 et aux échecs de la ligne 3, la 3ème référence à l’enfantement est synonyme de réussite. À l’inverse de la ligne de passage où séparation et activisme étaient cause de stérilité, la rencontre entre les profondeurs souterraines et les hauteurs célestes se manifeste ici par la conception de l’enfant : c’est la phase Yang de la créativité de l’épouse, en relation de complémentarité avec l’autre place centrale, la seconde ligne, où est décrite la phase Yin.\n
+La colline ancestrale pourtant ne se gravit pas aisément. Ici, comme à l’hexagramme 51 ÉBRANLER, elle est associée à une longue période de latence. Mais c’est précisément le juste rapport entre action créatrice et prise en compte du temps qui permet d’envisager un résultat. Correct et en relation avec les deux places de service, Préfet au second niveau et Ministre au 4ème, ce trait est également en rapport avec la ligne supérieure, autre place du ciel, par la même mention d’ouverture. Cette excellente position permet l’aboutissement des efforts effectués à chaque palier de la progression : c’est le moment où, après un cheminement lent et difficile, il est enfin possible d’entrevoir la réalisation de ses objectifs."
+trait6: "En haut un neuf\n
+L’oie des moissons PROGRESSE\n
+À hauteur de coteau\n
+Les plumes peuvent être utilisées\n
+Pour les rites dansés\n
+Ouverture"
+trait6_description: "Le cheminement de l’oie des moissons ni ne se poursuit indéfiniment, ni ne se déploie linéairement. Le dernier pas de sa PROGRESSION est à la fois un pas en arrière et un pas de danse. Après l’aboutissement décrit au niveau précédent et comme souvent au 6ème trait des hexagrammes, le mouvement se retourne. Ici nettement un repli s’opère et la trajectoire de l’hexagramme se boucle sur elle- même. Ce retournement est montré sans ambiguïté par la reprise du terme coteau, strictement le même que celui utilisé pour décrire le niveau atteint par la progression à la 3ème ligne.\n
+Il faut d’abord y voir une indication sur la manière de progresser dans toute entreprise de longue haleine : non point pousser toujours plus avant, mais savoir revenir sur ce qui a déjà été travaillé pour le renforcer. Cependant, même s’il marque un pas en arrière, le coteau dont il s’agit ici n’est plus signe de séparation aride, mais occasion de danses et de rites de couplage. À ce niveau de Sortie, dernière place Yin de l’hexagramme, la halte déjà évoquée aux second et 4ème traits signifie enfin délassement et joie de parvenir à une meilleure maîtrise des rythmes de l’action. Le coteau représente ainsi la double face du travail humain : à la fois douleur solitaire et joie partagée. Le rituel invoqué ici est bien différent de celui qui lui fait pendant au même niveau de l’hexagramme 54, où il n’est que faux-semblant. Il se manifeste au contraire en relation avec les ancêtres : la danse rituelle entretient ce lien et nourrit la force qui permet de transcender les difficultés.\n
+L’absence de relation avec d’autres traits, atténuée par la mention d’ouverture qui l’associe aux deux lignes centrales, est bien à l’image de cette position dégagée, où se fête le concours du latent et du manifesté. Comme à la dernière ligne de l’hexagramme 64 PAS ENCORE TRAVERSÉE, il y est suggéré un achèvement transitoire et donc toujours à reprendre, mais qui suit un rythme fidèle."
+grande_image: "Sur la montagne il y a un arbre\n
+PROGRESSER PAS À PAS\n
+L’Être Accompli ainsi\n
+En demeurant dans une conduite irréprochable\n
+Améliore les moeurs de tous les jours"
+dixieme_aile: "PROGRESSER PAS À PAS\n
+La femme se MARIANT attend\n
+L’homme agit"
+nucleaire: '64 - Pas encore traversée'
+oppose: '54 - Mariage de la Cadette'
+renverse:
+image:
+trigramme_bas: "montagne"
+trigramme_haut: "bois"
+

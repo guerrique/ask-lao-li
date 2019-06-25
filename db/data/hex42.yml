@@ -1,10 +1,69 @@
-nom: '42 - Augmenter'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "tonnerre"
-trigramme_haut: "marais"
 numero: 42
+nom: '42 - Augmenter'
+description:
+jugement: "AUGMENTER\n
+Profitable d’avoir où aller\n
+Profitable de passer le grand fleuve"
+jugement_description: "Au moment d’AUGMENTER, des éléments nouveaux interviennent dans la situation. Cela provoque des bouleversements mais représente aussi une extension des possibilités d’action qu’il s’agit d’accompagner avec détermination. Le texte du Jugement ne comporte aucune appréciation mantique : la situation dans son ensemble n’est jugée ni favorisante, ni ouverte, ni génératrice de danger ou de gêne. Elle est une donnée à laquelle il s’agit de répondre. Pour cela deux conseils d’attitude sont proposés, deux stratégies spécifiques, l’une et l’autre mentionnées en différentes situations du Yi Jing, mais conjointes uniquement ici.\n
+Un accroissement de possibilités provoque des turbulences et des remises en question qui appellent des transformations concrètes. Pour ne pas se laisser déborder par cette effervescence, il importe de donner une orientation claire à son action et de garder son cap malgré les remous. Par ailleurs, une augmentation de l’activité est difficile à maîtriser si l’on s’en tient aux fonctionnements habituels : des réformes sont nécessaires pour étendre son champ d’action au-delà du territoire connu. AUGMENTER est une situation qui appelle le mouvement. Plutôt que de chercher à s’y soustraire, on doit la mettre à profit en prenant le risque d’effectuer d’importants réaménagements."
+trait1: "Au début un neuf\n
+Profitable d’être employé\n
+Pour initier de grandes choses\n
+Fondamentalement ouvert\n
+Absence de faute"
+trait1_description: "Dès l’Entrée de la situation, on est appelé à accompagner sans hésiter le mouvement qui s’enclenche. Alors que souvent au premier trait sont prodigués des conseils de freinage et de prudence, ici l’injonction à se lancer dans l’action est répétée de trois manières différentes : par le profit qu’il y a à initier, par la référence à la vigueur fondamentale des débuts, et par l’incitation absence de faute. Il faut non seulement prendre conscience du réveil qui secoue la situation mais participer pleinement à ce démarrage de l’AUGMENTATION."
+trait2: "Six en 2\n
+AUGMENTATION indéfinissable\n
+Dix couples de tortues\n
+Sont incapables de faire dévier\n
+Rendre durable présage ouverture\n
+Le Roi accomplit les rites d’hommage\n
+Auprès du souverain\n
+Ouverture"
+trait2_description: "On est ici poussé par une profusion de possibilités dont la forme est indéterminée mais la fertilité certaine. La seconde ligne d’AUGMENTER est très proche par son texte de la 5ème ligne de DIMINUER. Que ce soit pour assumer le
+« moins » ou pour aider à mettre en place le « plus », la consultation de la tortue n’est pas nécessaire : la même confiance inébranlable prédomine aux deux temps du rééquilibrage que constitue le couple réduction/expansion. Savoir se placer au point de convergence pour permettre aux énergies de circuler dans un sens ou dans l’autre n’est pas une question d’oracle ou de place mais de conviction intérieure.\n
+Le trait est non seulement correct mais en relation avec les deux niveaux qualifiés par l’appréciation fondamentalement ouvert : par voisinage avec la première ligne où se créent les conditions de l’augmentation ; par correspondance avec la ligne souveraine où il est également inutile d’interroger.\n
+Toutefois, si prendre part à l’AUGMENTATION demande des capacités de Roi, c’est aussi une opération qui exige des qualités Yin, comme le montre la mention de cette figure emblématique en place seconde. Dans l’histoire du Yi Jing, un seul personnage remplit ces deux exigences : le Roi Wen, fondateur de la dynastie des Zhou. A l’époque où se situe le fait historique évoqué ici, il n’est encore qu’un vassal, appelé à rejoindre par mariage la maison royale des Shang. Sa présence dans le temps ancestral pour prendre part aux rites de la famille régnante constitue une reconnaissance, une augmentation. Cette promotion a toutefois ses contraintes : le Roi Wen n’est pas sur son territoire ; il participe à une œuvre au futur brillant, mais aux contours pour l’instant indécis. L’opération en cours exige de la patience. La mention rendre durable présage ouverture n’intervient qu’une autre fois sous cette forme, dans un contexte qui requiert une lente imprégnation. Il s’agit ici, non seulement d’agir en pleine confiance dans le devenir de la situation, mais de matérialiser l’AUGMENTATION dans des formes solides et durables."
+trait3: "Six en 3\n
+AUGMENTATION à l’aide d’affaires malheureuses\n
+Absence de faute\n
+Il y a onde portant à agir au Milieu Juste\n
+Avertir les ducs à l’aide des tablettes d’accréditation"
+trait3_description: "Au niveau de Passage, le processus d’AUGMENTATION se grippe. Cette résistance est décrite par un événement historique : la révolte des nobles Shang après la conquête des Zhou. La difficulté de la situation requiert pour agir de manière impartiale des qualités de haut niveau. Ce n’est pas comme à la ligne précédente le Roi Wen qui en est l’emblème : bien qu’aucun personnage ne soit formellement mentionné, le contexte porte à y voir le Prince de Kang, son 3ème fils, dont un chapitre entier, l’hexagramme 35, raconte comment il sut, en AVANCANT AU GRAND JOUR face à ceux qui s’insurgeaient contre les changement en cours, assurer le pouvoir des Zhou.\n
+Incorrect et isolé au milieu de trois traits Yin, le trait est de plus en correspondance avec le 6ème, seul autre trait incorrect, où une attitude rigide est sanctionnée par la seule autre formule négative de l’hexagramme. Pareille conjoncture ne rend pas facile une tâche pour laquelle on a besoin de consensus. Mais les désagréments rencontrés ne doivent pas empêcher d’aller de l’avant. Lorsqu’on peut s’appuyer sur une capacité à agir de manière juste et impartiale, il importe, à ce trait comme au suivant, de se faire reconnaître en tant qu’investi d’une autorité supérieure et de s’assurer ainsi le concours de tous ceux qui doivent participer aux changements."
+trait4: "Six en 4\n
+Agir au Milieu Juste\n
+Avertir les ducs pour se conformer\n
+Profitable d’être employé à un poste de confiance\n
+Pour le transfert du royaume"
+trait4_description: "Bien que l’AUGMENTATION n’y soit pas nommée, cette place de Ministre est le stade où il est possible d’agir avec le plus d’assurance pour la rendre effective. Plus encore qu’au trait précédent, premier des deux niveaux de l’être humain, il faut dépasser les résistances et imposer son autorité de manière juste et impartiale afin que tous les éléments impliqués participent aux bouleversements en cours. Il ne s’agit pas d’une mince affaire : le lieu central de l’activité doit être déplacé et on a la responsabilité de ce transfert. C’est une tâche imposante qui exige à la fois fermeté et compétence.\n
+Correct et en relation de voisinage avec la ligne souveraine, ce trait est surtout en correspondance étroite avec la première ligne. Les efforts effectués de part et d’autre sont complémentaires : le mouvement est vigoureusement impulsé au niveau du trait initial, tandis qu’à celui-ci correspond un moment de responsabilité et d’organisation."
+trait5: "Neuf en 5\n
+Il y a onde porteuse\n
+Bienveillance du coeur\n
+Ne pas interroger\n
+Fondamentalement ouvert\n
+Il y a onde porteuse\n
+Bienveillance de mon attitude"
+trait5_description: "A ce trait, plus aucun doute ne subsistant quant à l’expansion en cours, l’AUGMENTATION s’effectue de manière souveraine. Le flux qui parcourt la situation devient particulièrement porteur et nourricier. Le trait, correct et en relation avec les deux places de service, celle de Préfet par correspondance, celle de Ministre par voisinage – l’une et l’autre également occupées par des traits corrects -, bénéficie d’appuis solides. Plus que d’intervenir directement, l’important ici est de répondre aux forces qui oeuvrent avec loyauté et efficacité par une attitude positive de soutien et de compréhension.\n
+Comme à la première ligne où elle est également mentionnée, l’appréciation fondamentalement ouvert doit inciter à soutenir le travail de régénération qui s’enclenche à ce stade. La formule ne pas interroger fait écho de son côté à la confiance infaillible évoquée par les tortues à la place de Préfet. Enfin, qu’elle provienne d’un sentiment intime ou soit le fruit d’une attitude extérieure, la bienveillance envers tout ce qui participe du changement en cours est la meilleure manière de l’aider à prendre forme."
+trait6: "En haut un neuf\n
+AUGMENTATION nulle\n
+Attaque possible\n
+Coeur figé ne DURE pas\n
+Fermeture"
+trait6_description: "A ce niveau de Sortie, comme souvent au dernier trait d’un hexagramme, la situation se renverse. L’AUGMENTATION n’a plus lieu, la confiance a disparu et on se trouve en dehors de l’expansion décrite aux cinq traits précédents. Cette fermeture de la situation est sanctionnée par la seule appréciation mantique franchement défavorable de tout l’hexagramme. Que l’on se refuse à apporter son concours à l’augmentation, ou que l’on vise à un accroissement sans vouloir faire l’effort de la mise en jeu qu’il suppose, l’attitude négative décrite risque de provoquer de violents retours de bâton.\n
+Le cœur, bienveillant à la ligne précédente, est à présent figé, gagné par une dureté qui rend toute évolution improbable. Pour perdurer, une situation doit pouvoir se transformer par l’intégration d’éléments nouveaux. La mention dans ce texte du mot ENDURER, nom de l’hexagramme opposé à celui-ci, le souligne : la rigidité n’a rien à voir avec la véritable constance."
+grande_image: "Vent Tonnerre\n
+AUGMENTER\n
+L’Être Accompli ainsi\n
+Il voit un bien donc le promeut\n
+Il y a un EXCÈS donc le réforme"
+dixieme_aile: "DIMINUER AUGMENTER\n
+Début de la floraison et du déclin"
+nucleaire: '23 - Usure'
+oppose: '32 - Endurer'
+renverse:
+image:
+trigramme_bas: "tonnerre"
+trigramme_haut: "bois"

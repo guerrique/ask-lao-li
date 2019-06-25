@@ -1,10 +1,63 @@
 nom: '12 - Adversité'
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
+description:
+jugement: "ADVERSITÉ des vauriens\n
+Pas profitable d’être tenace tel\n
+Un Chef Accompli\n
+Le Grand va\n
+Le Petit vient"
+jugement_description: "Lorsque le temps n’est plus au couplage des énergies et à la prospérité que cette rencontre entraîne, apparaissent les forces négatives symbolisées par les vauriens. La réponse spontanée en pareils cas est souvent de vouloir contrer le cours des choses et de se conduite avec la vaillance d’un Chef Accompli. C’est oublier qu’en Chine la droiture, qui sera pour cela symbolisée par le bambou, consiste à savoir plier sans perdre sa force afin de pouvoir se redresser ensuite. La ténacité, qualité maîtresse du Chef Accompli, tourne à la rigidité quand on l’applique sans discernement. La référence à l’Etre Grand, mis en scène aux deux traits centraux de l’hexagramme, le montre : les temps d’ADVERSITÉ requièrent plus de fermeté morale que de bravoure. Le vrai courage consiste alors à se désolidariser de ceux qui profitent de la montée du déclin et à refuser de mettre ses talents à leur service. Que le conseil de ténacité donné au Jugement de l’hexagramme suivant soit mentionné ici de façon négative indique clairement qu’aux moments d’ADVERSITÉ, il n’est pas opportun de chercher à S’ENTENDRE AVEC TOUS. L’attitude adaptée est suggérée en revanche par l’idéogramme nommant cet hexagramme : dire « non », se retirer pour se préserver, effectuer le mouvement de repli conforme à l’image de la saison.\n
+Vouloir s’opposer à la montée de l’hiver ne l’empêchera pas d’arriver. Un mouvement profond est à l’œuvre, comme le montre le reste du texte, composé uniquement d’indications énergétiques : les forces Yang s’échappent vers le haut, les forces Yin se replient vers le bas, il n’y a plus ni croisement ni couplage fécond. Aucune appréciation mantique, ni bonne, ni mauvaise, ne vient ponctuer ce mouvement inexorable. L’époque doit être acceptée et traversée comme telle : l’automne aussi est une saison nécessaire."
+trait1: "Au début un six\n
+Arracher les roseaux à racines enchevêtrées\n
+Chacun selon son espèce\n
+Présage d’ouverture\n
+Favorisant"
+trait1_description: "L’automne, comme le printemps, débute par une poussée de végétation. Comme dans PROSPERITÉ dont le premier trait s’ouvre sur le même texte, cet « été indien » marque un regain de vigueur en résonnance avec l’atmosphère neuve d’un niveau d’entrée. Ce surcroît de vitalité demande qu’une main ferme vienne désherber et éclaircir le terrain afin de permettre aux plantes de se renforcer. Il s’agit, ici encore, de sortir de la confusion, de se désolidariser du même, en rompant avec des attitudes peut-être trop souples et trop facilement manipulables. Qu’il soit question d’espèce suggère de procéder à cet arrachage avec discernement, mouvement renforcé par la correspondance avec le 4ème trait, où l’on est appelé à accomplir une mission.\n
+Les indications mantiques soulignent que ce stade initial est encore en deçà des inconvénients de l’ADVERSITÉ : la vigueur qui s’exprime ici est porteuse de fécondité et d’essor. Ce n’est qu’au second trait qu’une différenciation plus nette s’opère entre des possibilités de développement immédiat (marquées par ouverture) et un déploiement de la qualité personnelle (indiqué par favorisant)."
+trait2: "Six en 2\n
+Supporter une promotion\n
+Pour l’Etre Petit ouverture\n
+Pour l’Etre Grand ADVERSITÉ favorisante"
+trait2_description: "A ce niveau auquel correspond la fonction de Préfet, miroir et représentant du pouvoir central, se pose avec acuité le problème de la vassalité en période de blocage. Etre vassal ne pèse pas quand le suzerain est juste, mais lorsque l’autorité se manifeste par une promotion qui semble plus de l’ordre de la gratification que du véritable mandat (comme à la 4ème ligne), on doit être conscient de la dépendance qu’implique son acceptation. Seul un être de peu d’envergure se réjouit d’un cadeau venant d’un vaurien. Qui a une parole à défendre voit plus loin : en disant « non », il accroît sa capacité personnelle ; en ne craignant pas les revers que ne manquera pas d’entraîner son refus d’une position, il favorise un renforcement intérieur conforme à la saison et œuvre à l’évolution ultérieure de la situation dans son ensemble.\n
+La correspondance de ce trait avec la 5ème ligne implique le contact avec la place d’autorité. Cependant la correction de sa nature Yin laisse ouverte l’alternative entre subir la pression extérieure et s’y opposer selon un point de vue plus élevé."
+trait3: "Six en 3\n
+Supporter la honte"
+trait3_description: "Moment de Passage, le 3ème niveau d’un hexagramme décrit rarement une conjoncture favorable. Le texte de ce trait, un des plus courts de tout le Yi Jing, suggère un sentiment de confusion, qui n’est pas surprenant dans un environnement où la communication est impossible. Il évoque un moment où des implications passées, dont il est encore difficile de se défaire, empêchent d’accompagner le mouvement de la saison et d’accepter sereinement la période automnale.\n
+Situé à un lieu de contact entre lignes Yin et Yang ce trait est dans une positon malaisée. Son manque de fermeté – il est Yin à une place Yang – le tire vers le bas et semble prolonger l’attitude de l’Etre Petit décrite au niveau précédent ; sa correspondance avec la dernière ligne permet en revanche d’entrevoir des perspectives plus heureuses. Aucune appréciation négative n’est mentionnée : on ne peut que supporter la contradiction actuelle et accepter l’incertitude des moments où il est à la fois trop tard et trop tôt pour intervenir."
+trait4: "Neuf en 4\n
+Il y a un mandat\n
+Absence de faute\n
+Catégoriser et Clarifier\n
+Heureuse félicité"
+trait4_description: "A ce premier niveau extérieur de la figure, occupé par le premier trait Yang de l’hexagramme, le mouvement d’ADVERSITÉ change de nature. Il ne s’agit plus comme en seconde ligne, niveau de Préfet, de résister à des gratifications douteuses, ni d’endurer la position de porte-à-faux décrite à la ligne précédente, mais de prendre les responsabilités qui incombent à une place de Ministre. S’ouvrant sur la mention d’un mandat, le texte indique la possibilité d’agir sans tergiverser pour sortir de la confusion engendrée par l’absence de communication.\n
+La relation de correspondance entre le premier trait et celui-ci est accentuée par le terme catégoriser qui renvoie au regroupement par espèces mentionné en première ligne ; on est appelé ici à mettre de l’ordre dans ce qui est enchevêtré et à distinguer genres et territoires afin d’y voir plus clair. Situé au niveau où traits Yin et Yang sont en contact, position qui indique une implication dans les nœuds internes de la situation, ce trait est également emmené par la forces des deux Yang supérieurs où s’effectue la sortie du blocage. La possibilité d’envisager le rétablissement de relations fécondes est signalée par la mention heureuse félicité, une appréciation inhabituelle qui n’est citée ailleurs qu’à la ligne souveraine de PROSPERITÉ."
+trait5: "Neuf en 5\n
+L’ADVERSITÉ fait une pause\n
+Pour l’Etre Accompli ouverture\n
+Ça disparaît ça disparaît !\n
+S’attacher à la souche du mûrier"
+trait5_description: "A la place souveraine de l’ADVERSITÉ, les éléments entraînant blocage et manque de communication commencent à s’essouffler. Que les vauriens n’y apparaissent pas, alors qu’ils sont mentionnés au Jugement comme symboles de l’atmosphère incertaine de la situation, montre que la véritable maîtrise ne leur appartient pas. L’Etre Grand en revanche qui, au niveau de la seconde ligne a su résister au poids de leur domination et refuser d’y apporter son concours, reprend de la vigueur et entrevoit des possibilités d’ouverture pour son action.\n
+La relation de correspondance entre les deux traits centraux souligne la complémentarité entre l’attitude intérieure de refus, conseillée à la place de Préfet, et la plus grande visibilité de cette place souveraine. Cependant, à l’étonnement de voir l’obstruction s’épuiser d’elle-même, s’ajoute la crainte que ce ne soit là qu’un entracte. L’image du mûrier, arbre solide qui même des coupes répétées ne font pas disparaître, doit engager à juguler cette inquiétude : les saisons passent, la qualité de l’être de parole s’enracine profondément dans le long terme."
+trait6: "En haut un neuf\n
+L’ADVERSITÉ se fane\n
+D’abord ADVERSITÉ\n
+Ensuite joie"
+trait6_description: "Au dernier stade de l’ADVERSITÉ, comme au niveau de Sortie de beaucoup d’hexagrammes, la tendance se renverse. Ce n’est plus une pause dans l’obstruction comme au trait précédent, mais un déclin. Et ce qui décline ici, c’est le déclin lui-même puisque c’est maintenant l’ADVERSITÉ qui se fane. Cette flétrissure, qui fait écho au regain de végétation décrit à la première ligne, signale la fin du blocage automnal. L’ensemble du processus est résumé en quatre mots, comme pour inviter à le considérer de haut : le temps des vauriens est replacé dans un processus global où les difficultés finissent par le céder à des possibilités de couplages plus féconds.\n
+La fermeté du trait, Yang à une place Yin, indique une aptitude à se dégager de la confusion intérieure, particulièrement celle indiquée à la 3ème ligne avec laquelle il est relié par une relation de correspondance. On est à même à ce stade d’œuvrer à défaire tout ce qui entraîne obstruction, tromperie et manque de cohésion."
+grande_image: "Ciel et Terre ne sont pas en relation\n
+ADVERSITÉ\n
+L’Etre Accompli ainsi\n
+En ménageant sa conduite\n
+Esquive les difficultés\n
+Il refuse honneurs et revenus\n
+D’un poste officiel"
+dixieme_aile: "ADVERSITÉ et PROSPERITE\n
+Se retournent par nature"
+nucleaire: '53 - Pas à Pas'
+oppose: '11 - Prospérité'
+renverse:
+image:
 trigramme_bas: "terre"
 trigramme_haut: "ciel"
 numero: 12
+

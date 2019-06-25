@@ -5,7 +5,7 @@ def trig_bas_tonnerre(trig)
     '51 - Ebranler'
   elsif trig == 'montagne'
     '27 - Nourrir'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '42 - Augmenter'
   elsif trig == 'brume'
     '17 - Suivre'

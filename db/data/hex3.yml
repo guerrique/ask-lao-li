@@ -1,10 +1,67 @@
+numero: 3
 nom: '3 - Difficultés Initiales'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "DIFFICULTÉS INITIALES\n
+Fondamentalement favorisant\n
+Ténacité profitable\n
+Ne pas agir\n
+Il y a où aller\n
+Profitable d’instituer des vassaux"
+jugement_description: "Placé à la suite des 2 hexagrammes fondateurs, DIFFICULTES INITIALES marque le véritable début du Yi Jing, et traite analogiquement du comportement à adopter lors de tout commencement – un moment essentiel puisqu’il contient en germe tout le développement ultérieur. Le Jugement de cet hexagramme s’ouvre sur les mêmes termes que ceux d’ELAN CREATIF et ELAN RECEPTIF : Fondamentalement favorisant et Ténacité profitable. Signalant les capacités d’initialisation, d’essor, de profit et d’endurance, ces appréciations marquent des moment où la possibilité de trouver le point de départ d’une situation et de lui faire prendre son essor se conjugue à la ténacité nécessaire pour en assurer l’épanouissement.\n
+Le texte porte ensuite deux indications qui paraissent si contradictoires qu’elles ont longtemps été réunies en une seule phrase. Conseiller en même temps de ne pas agir et d’avoir où aller relève pourtant de deux niveaux différents. La contradiction s’évanouit dès lors qu’on replace le moment présent dans le long terme en le considérant par rapport à un but. Quand on se trouve pris dans le tohu-bohu des commencements, la première initiative à prendre est de ne pas céder à l’emballement qui pousse à sortir de la confusion par une action précipitée. La seconde est de réaliser que freiner n’est pas renoncer à son objectif, mais le meilleur moyen de s’en approcher : s’arrêter pour analyser la situation permet de dégager la stratégie appropriée.\n
+Au tout début d’un mouvement, tous les cycles, court terme, long terme, moyen terme, se superposent en une problématique déconcertante. La solution est de les distinguer puis de les organiser selon une échelle de priorité. Cette hiérarchisation préalable, conseillée par l’expression instituer des vassaux, est la réponse spécifique des moments où l’on S’ENTHOUSIASME. La Grande Image en précise ici la modalité : savoir démêler fils de trame et fils de chaîne, c’est à dire distinguer l’essentiel de l’accessoire, et ainsi mettre de l’ordre dans ses objectifs."
+trait1: "Au début un neuf\n
+Pierre dressée\n
+Profitable d’être tenace comme qui demeure\n
+Profitable d’instituer des vassaux"
+trait1_description: "Première ligne du « premier » hexagramme, niveau d’Entrée d’une situation de commencement, ce trait est d’emblée au cœur des difficultés du début. La reprise à l’identique du conseil donné au Jugement d’instituer des vassaux confirme qu’à ce stade se trouve le point focal de l’hexagramme, et donc le lieu où la stratégie d’organisation qu’il requiert doit être plus particulièrement mise en œuvre. En revanche, le sens précis de cette pierre qui se dresse devant soi est plus difficile à cerner. S’agit-il d’un obstacle qui retient d’avancer, d’une hésitation devant la direction à prendre, ou bien marque-t-elle le point de départ d’une action à longue échéance ? Aucune formule mantique ne vient qualifier cette incertitude, le texte indique seulement comment la dépasser.\n
+Le conseil donné au Jugement de ne pas agir est remplacé à ce stade par celui de demeurer, c’est-à-dire de prendre le temps de se recentrer et, plutôt que de se perdre dans des tergiversations sans fin, d’organiser sa stratégie afin, en hiérarchisant ses priorités, de passer les obstacles l’un après l’autre."
+trait2: "Six en 2\n
+Comme en DIFFICULTÉS INITIALES\n
+Comme tournant en rond\n
+Attelé et pourtant restant en place\n
+N’est pas brigand qui scelle l’union par mariage\n
+Pour une femme pas de présage d’enfantement\n
+Dix années et alors enfantement"
+trait2_description: "Après l’impulsion décrite à la ligne initiale, ce trait représente un moment où l’on se trouve confronté à des difficultés de toutes sortes, énumérées par un texte d’une longueur inhabituelle. Des possibilités nouvelles et multiples se présentent sans qu’il soit encore possible de s’engager. L’incertitude prédomine, et l’impression de tourner en rond que souligne la construction particulièrement rimée du texte. Bien que l’attelage soit prêt, il faut rester en rang et tenir la bride au désir d’avancer. Le défrichage de terres nouvelles ne s’effectue pas de façon impétueuse et inconsidérée, mais en tenant compte du contexte et des circonstances. Pour pacifier des éléments rebelles, des brigands, il faut savoir les intégrer à son action en considérant qu’ils peuvent adhérer à des règles et des rites. Cependant il faudra beaucoup de patience avant qu’une attitude à la fois tenace et cordiale puisse porter ses fruits.\n
+Yin à une place de préfet, c’est-à-dire correcte, cette ligne est aussi en relation avec les deux traits Yang de la figure. Le voisinage avec le premier attise l’envie de bouger, tandis que la correspondance avec le 5ème est facteur de retenue. A l’orée d’un groupe de 3 traits Yin, il faudra un long temps d’efforts soutenus avant que la souplesse, symbolisée par la femme, ne trouve réponse. Mais la fécondité ne peut lui manquer : elle est indiquée à la ligne souveraine par l’ouverture promise au Petit."
+trait3: "Six en 3\n
+Courir le cerf sans s’y préparer\n
+N’est-ce point s’enfoncer au milieu profond d’une forêt\n
+Un Chef Accompli au tout premier indice préfère renoncer\n
+Aller gêne"
+trait3_description: "Cette ligne décrit une position inadéquate et isolée. On va ici de manière inconsidérée au devant de complications pour le moment imperceptibles. Quand on ne possède pas les informations ou les concours nécessaires pour chasser le cerf, qu’il soit chimère ou territoire inconnu, il est préférable de s’abstenir.\n
+Renoncer pendant qu’il est encore temps, c’est se conduire en Chef Accompli. Alternative à l’attitude de l’impétueux qui s’égare en milieu obscur, le Chef Accompli personnifie la perspicacité aiguisée qui permet de discerner le devenir d’une situation dès son tout premier commencement. Qui s’aperçoit à temps qu’il est en train de se fourvoyer n’hésite pas à changer ses plans et garde ainsi ses forces intactes."
+trait4: "Six en 4\n
+Attelé et pourtant restant en place\n
+Rechercher l’union par mariage\n
+Aller ouverture\n
+Rien qui ne soit profitable"
+trait4_description: "A ce premier niveau extérieur se trouve la position la plus propice de l’hexagramme, marquée par une formule mantique particulièrement favorable. Comme à la seconde ligne, l’image de l’attelage prêt à partir mais encore retenu indique la nécessité de la maîtrise. Cependant il ne s’agit plus à ce stade de tergiverser en tournant en rond, mais de mettre à profit la fonction de communication dévolue à cette place de Ministre. L’union, longtemps inféconde au niveau du Préfet, doit maintenant être activement recherchée. Les initiatives permettant d’aller de l’avant, inadéquates au niveau de passage, sont à présent bienvenues.\n
+La correspondance avec le trait initial permet de profiter de la poussée sans en être déstabilisé ; le voisinage avec la ligne souveraine, où la situation est conduite avec prudence, est un facteur d’organisation. L’impatience et la confusion étant maîtrisées, un véritable début peut désormais s’enclencher sur des perspectives positives."
+trait5: "Neuf en 5\n
+DIFFICULTÉS INITIALES fécondes\n
+Petit présage ouverture\n
+Grand présage fermeture"
+trait5_description: "A la ligne souveraine convergent toutes les potentialités contenues dans ce moment de DIFFICULTÉS INITIALES. On est à ce stade en mesure de diriger les impulsions désordonnées qui naissent au niveau du trait initial, le seul autre Yang de la figure. La maîtrise des complications inhérentes au commencement permet de mettre à profit la vitalité que tout début comporte. La stratégie à tenir précise celle énoncée au Jugement sous la forme d’une alternative : choisir le Yin, le Petit, au détriment du Yang, le Grand, c’est ne pas vouloir en faire trop et trop vite. Agir de façon ferme et volontariste ne ferait que bloquer la situation : souplesse et endurance seules peuvent permettre à ce qui n’en est qu’à ses débuts de fructifier avec le temps. En scindant une grande difficulté en petits problèmes examinés l’un après l’autre, on économise l’énergie et on épanouit des potentiels prometteurs.\n
+La longue attente d’un enfantement annoncé en 2ème ligne trouve ici une juste réponse dans la fécondité et l’ouverture promise à ce qui est petit."
+trait6: "En haut un six\n
+Attelé et pourtant restant en place\n
+Pleurer silencieusement des larmes de sang se succédant comme des rides à la surface de l’eau
+"
+trait6_description: "Souvent à la dernière ligne des hexagrammes, la situation tourne. A ce niveau de sortie d’une situation de commencement, on se retrouve complètement à contre- courant. L’image de l’attelage prêt au départ mais toujours retenu y est mentionnée comme aux deux autres niveaux Yin, mais dans un contexte devenu bien différent. Ce qui était maîtrise de l’impatience au second trait et temps d’organisation au 4ème n’est plus maintenant qu’attentisme. A force de se retenir et de se préparer, on a laissé passer l’opportunité de se lancer. Qu’il y ait là de quoi fondre en larmes, le Yi Jing en convient, mais avec une certaine ironie que marque le contraste entre le ton dramatique du texte et l’absence de toute appréciation mantique négative.\n
+Qu’à l’inverse d’autres dernières lignes de situations dominantes Yin aucune appréciation défavorable ne vienne ici qualifier ces ratés sonne comme une incitation à ne pas en rester là."
+grande_image: "Nuages tonnerre\n
+DIFFICULTÉS INITIALES\n
+Ainsi l’Etre Accompli\n
+Démêle fils de trame et fils de chaîne"
+dixieme_aile: "
+DIFFICULTÉS INITIALES\n
+Devenir visible\n
+Et ne pas quitter sa demeure"
+nucleaire: '23 - Usure'
+oppose: '50 - Chaudron'
+renverse:
+image:
 trigramme_bas: "tonnerre"
 trigramme_haut: "eau"
-numero: 3

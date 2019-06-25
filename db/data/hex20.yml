@@ -1,10 +1,54 @@
-nom: '20 - Regarder'
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "terre"
-trigramme_haut: "marais"
 numero: 20
+nom: '20 - Regarder'
+description:
+jugement: "REGARDER l’ablution\n
+Et non la libation\n
+Il y a onde portant à se conformer\n
+A une tenue très digne"
+jugement_description: "Expression d’une période où l’on cherche à se rapprocher de sources invisibles et cachées, l’acte de voir est placé d’emblée dans un contexte ritualisé et sans aucune appréciation mantique. L’heure n’est pas à lever les yeux vers le ciel, mais à percevoir ce qui nous échappe en mettant l’accent sur la concentration, le regard intérieur et le détachement. L’assonance entre les idéogrammes ablution et regarder est significative : un regard véritable constitue un dépouillement, au sens propre du terme, une purification des regards répétitifs et approximatifs qui émoussent l’acuité de l’esprit.\n
+Aucune des formules mantiques habituellement mentionnées dans les Jugements n’est citée ici. Ni favorisant, ni profitable, le moment est cependant traversé par un flux qui porte à une attitude droite et juste. La rigueur dans la manière de se tenir permet d’éloigner les dispersions et de stabiliser la disposition intérieure."
+trait1: "Au début un six\n
+REGARD enfantin\n
+Pour l’Etre Petit absence de faute\n
+Pour le Chef Accompli gêne"
+trait1_description: "Au niveau d’Entrée, stade le plus inexpérimenté de la situation, le tout premier regard a les qualité set les défauts de l’enfance. Il s’exprime ingénument et spontanément mais ne saurait viser très loin. Regard de l’instant présent, il est sans passé donc inapte à tirer des bilans ou prendre de la hauteur. S’il ne peut être reproché à quelqu’un d’immature ou de peu d’ambition quant à sa qualité personnelle, il est en revanche insuffisant pour celui que son expérience et sa perspicacité rendent capable d’un point de vue plus large."
+trait2: "Six en 2\n
+REGARD à la dérobée\n
+Profitable d’être tenace comme une femme"
+trait2_description: "Tout aussi instantané que le regard enfantin mentionné à la ligne précédente, le coup d’œil rapide et furtif décrit à ce niveau de Préfet est cependant capable de saisir au vol l’étendue d’une situation. Plus englobant et plus mûr, il demande seulement à être nourri afin de ne pas disparaître aussitôt qu’apparu. Le personnage de la femme est l’emblème adapté à ce trait Yin, correct à une place paire et en correspondance avec la 5ème ligne. Elle y personnifie les qualités d’adaptabilité, d’endurance et de compréhension nécessaires à quiconque jugerait la situation à la va-vite."
+trait3: "Six en 3\n
+REGARDER ma vie\n
+Avances et reculs"
+trait3_description: "Succédant aux regards plus terre à terre mentionnés aux deux premiers traits, la manière de voir décrite à ce niveau de Passage, bien qu’empreinte d’incertitude, prépare l’élargissement du point de vue qui intervient à la ligne suivante. On a déjà la capacité de considérer globalement les résultats de son action, mais le regard est encore attaché aux formes du passé. C’est en adoptant une conduite ferme et déterminée que l’on peut traverser cette période d’hésitations.\n
+L’absence de formule mantique défavorable, l’écho avec le texte de la ligne souveraine, la correspondance réconfortante avec la 6ème ligne, tout ici engage à endurer les peines nécessaires à la maturation et à la naissance d’un autre regard."
+trait4: "Six en 4\n
+REGARDER l’éclat du royaume\n
+Profitable d’accepter l’hospitalité\n
+Du Roi"
+trait4_description: "Le regard décrit ici prend place entre les deux niveaux où l’on tente d’avoir une vue entière sur la manière de conduire sa vie. Il sert de transition entre les tergiversations évoquées à la ligne précédente et le regard du Chef Accompli à la ligne suivante. A ce premier niveau extérieur, il est temps d’abandonner les seules considérations personnelles pour élargir son point de vue. En place de Ministre, proche de la ligne souveraine de l’hexagramme, il est indiqué de se placer sous la lumière d’un Roi, seul personnage à même de relier aux souffles fondamentaux de l’univers, et donc emblème de toute personne capable d’éclairer un territoire.\n
+De l’être humain au pays, il y a dans la pensée chinoise changement d’échelle, pas de structure. Lorsque l’organisation du pays est éclatante, elle apparaît de manière suffisamment transparente pour que chacun puisse la comprendre : un pays bien gouverné est une invite à y étendre son regard et à y conformer son propre territoire."
+trait5: "Neuf en 5\n
+REGARDER ma vie\n
+Pour le Chef Accompli absence de faute"
+trait5_description: "La place souveraine est l’un des deux niveaux où l’on est capable d’un véritable regard. Occupée par le premier trait Yang de l’hexagramme, elle est le lieu où se résume l’expérience effectuée aux différentes lignes Yin qu’elle surplombe, l’endroit d’où l’on peut embrasser du regard tout ce qui a été accompli et le replacer dans un contexte cyclique global.\n
+Comme à la 3ème ligne, ce regard concerne les implications personnelles, mais le temps des craintes et des hésitations s’est éloigné pour laisser place à une maîtrise que seul un Chef Accompli est en mesure d’exercer. Présent au cœur de la situation, le Chef Accompli est l’emblème de qui est à la fois en mesure de faire sereinement la lumière sur les réalisations effectuées et d’envisager sans découragement le resserrement des forces que l’heure appelle."
+trait6: "En haut un neuf\n
+REGARDER la vie\n
+Pour le Chef Accompli absence de faute"
+trait6_description: "A ce niveau, le plus élevé de l’hexagramme, les similitudes avec la place souveraine sont nombreuses. Les deux traits ont la même fermeté et la même luminosité Yang : leur textes, très proches, décrivent la même capacité à agir sur l’élévation du regard, la même incitation à regarder courageusement la vie en face.\n
+Prenant acte ici de l’ensemble du mouvement vital, le Chef Accompli est capable d’en discerner, par-delà toute implication personnelle, les fondements, et de dispenser sur toute la situation une lumière d’autant plus dense qu’elle est rare."
+grande_image: "Le vent circule-et-agit au-dessus de la terre\n
+REGARDER\n
+Les anciens Rois ainsi\n
+En visitant les régions\n
+REGARDAIENT le peuple\n
+Et instituaient l’enseignement"
+dixieme_aile: "Le sens de APPROCHER et REGARDER\n
+Parfois donner parfois demander"
+nucleaire: '23 - Usure'
+oppose: '34 - Grand Force'
+renverse:
+image:
+trigramme_bas: "terre"
+trigramme_haut: "bois"
+

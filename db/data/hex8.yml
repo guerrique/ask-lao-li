@@ -1,10 +1,61 @@
+numero: 8
 nom: '8 - Alliance'
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "ALLIANCE\n
+Ouverture\n
+Réexaminer à l’aide des tiges d’achillée\n
+Présage fondamentalement durable\n
+Absence de faute\n
+Que surviennent les inquiets\n
+Pour qui vient après fermeture"
+jugement_description: "Cas unique, le Jugement de cet hexagramme s’ouvre sur l’appréciation ouverture. Cette singularité souligne l’opportunité de répondre à ce qui préoccupe par l’engagement clair dans une problématique de recentrage et d’union. Cependant, si ALLIANCE stipule la nécessité de constituer le pivot autour duquel les énergies pourront se regrouper, une seule réponse ne suffit pas toujours à déterminer quel peut être ce pôle de rassemblement, et un second tirage peut s’avérer nécessaire pour en cerner les caractéristiques. Car il s’agit avant tout d’établir ce sur quoi on se fonde et ce sur quoi on fonde son action. Ce projet se doit par ailleurs d’être suffisamment solide pour qu’on puisse le défendre sans cesse, réitérer de manière durable ce choix initial, c’est-à-dire fondamental.\n
+C’est lorsque ce point d’ancrage est posé de manière ferme que les éléments inquiets viennent s’y fixer pour se réorienter ou s’y résorber. L’établissement d’une référence permet ainsi de sortir de la période de confusion ou de malaise. Il importe pour cela de ne pas tarder : tout « jet fondateur » comporte une part de risque et nécessite une mise en œuvre immédiate. Il s’agira ensuite de consolider dans la durée l’élan initial."
+trait1: "Au début un six\n
+Il y a onde portant à S’ALLIER\n
+Absence de faute\n
+Il y a onde portant à remplir les jarres\n
+A la fin se rajoutent d’autres choses\n
+Ouverture"
+trait1_description: "Orienter son énergie autour d’un pôle commun permet d’emblée de sortir de l’incertitude. Dès l’Entrée dans la situation, on ne doit pas hésiter à se laisser porter par la propension à s’associer ou, de manière plus générale, à unir ses forces. Un mouvement de recentrage étant immédiatement productif et
+ gratifiant, il faut mettre à profit cette dynamique d’entraînement pour participer à des réalisation concrètes. Le courant porteur qui pousse à mettre ses efforts au service d’une œuvre collective ou unifiante n’est cité qu’à ce trait où il est répété à deux reprises. Il garantit un résultat supérieur à celui que la simple addition des forces laisse espérer.\n
+Malgré son incorrection à cette place initiale, la souplesse du trait crée une cohésion avec les traits voisins. Que la participation à l’ALLIANCE ne puisse être que bénéfique, cela est confirmé par l’écho produit par la présence de la même appréciation mantique à la ligne souveraine, pivot de tout l’hexagramme."
+trait2: "Six en 2\n
+S’ALLIER de l’intérieur\n
+Présage d’ouverture"
+trait2_description: "A ce niveau de préfet, situé au centre interne de l’hexagramme, les flux porteurs qui entraînent les énergies au trait précédent se prolongent dans la même dynamique de convergence. La position privilégiée du trait permet d’y prêter spontanément son concours : Yin à une place Yin, il est correct et en relation avec la ligne souveraine en 5ème place par la seule correspondance à l’œuvre dans cette figure. Il est par ailleurs en résonance avec la place de Ministre par la reprise de la même formule mantique favorable.\n
+Ce dispositif doit être mis à profit pour répondre à l’appel et participer au mouvement d’alliance en en coordonnant les forces profondes. Le mouvement possible à ce niveau va au-delà d’une simple adhésion : intérieur est en effet le terme résumant l’organisation durable dont traite l’hexagramme 37 GENS DU CLAN, particularité qui renforce l’incitation à tenir sa place dans la consolidation du processus en cours."
+trait3: "Six en 3\n
+S’ALLIER à des vauriens"
+trait3_description: "A ce niveau de transition vers l’extérieur, le désir de s’ALLIER demeure, mais les choix sont mauvais. Personnages caractéristiques des moments d’ADVERSITÉ, les vauriens symbolisent l’inaptitude à une véritable communication. Egaré au milieu d’un groupe de lignes Yin, où l’union s’effectue pourtant de manière heureuse, ce trait représente le moment où l’on ne trouve pas d’orientation solide, ni une manière adéquate de s’associer.\n
+Incorrect, le trait annonce la retombée décrite au niveau de sortie. Bien qu’il n’y ait pas de correspondance entre les deux traits, ce sont les deux seuls de l’hexagramme où il n’est pas fait mention d’une ouverture."
+trait4: "Six en 4\n
+A l’extérieur S’ALLIER\n
+Présage d’ouverture"
+trait4_description: "A la différence des errances décrites à la ligne précédente, on est ici en mesure de retrouver des possibilités d’association fécondes. Toutefois, bien que ces possibilités soient décrites par des termes équivalents et qualifiées par une appréciation mantique similaire à celle utilisée à la place de Préfet, il ne s’agit pas à ce niveau de propension personnelle à s’allier, mais de participation à des réalisations concrètes et publiques. La position de cette ligne au premier niveau extérieur de l’hexagramme suggère en effet une plus grande visibilité.\n
+Cependant, située en place de Ministre, à proximité de la ligne souveraine, elle est aussi un moment de plus grande responsabilité. Le trait est correct et en relation de voisinage favorable avec la ligne souveraine : assister et soutenir l’œuvre collective préfigure ainsi l’éclat avec lequel le Roi y manifeste l’ALLIANCE."
+trait5: "Neuf en 5\n
+Manifester l’ALLIANCE\n
+Le Roi à la battue sur trois côtés\n
+Laisse au-devant échapper le gibier\n
+Les gens du fief ne se mettent pas en garde\n
+Ouverture"
+trait5_description: "La 5ème ligne est la place souveraine. Celle-ci l’est d’autant plus que c’est la seule ligne Yang de l’hexagramme, et que le Roi y paraît avec majesté. Il s’agit non seulement d’instaurer un pôle solide permettant la convergence des énergies, mais de le manifester de manière évidente afin que tous, particulièrement les éléments troubles ou égarés, puissent s’y référer.\n
+La chasse est, dans la plupart des civilisations anciennes, un plaisir de roi. La battue en revanche, qui requiert la participation des sujets, est une illustration spécifique de la mutualité. Elle permet aussi de remplir un double objectif : d’une part faire le tri entre ceux qui courent la compagne et ceux qui l’habitent, c’est-à- dire entre nomades et gens du fief, et d’autre part inciter les éléments extérieurs à rejoindre le fonctionnement collectif sans les y obliger, puisque la possibilité est laissée au gibier de s’échapper c’est-à-dire de refuser cette intégration.\n
+Laisser libre l’adhésion à la mutualité est une manière d’inciter autrui à se départir de toute méfiance. A l’opposé d’une conduite contraignante qui serait trop à l’image de la brutalité qu’elle entend résorber, cette politique ouverte permet à celui qui appelle, comme l’unique trait Yang, de s’affirmer de manière détachée et à ceux qui répondent, à l’image des traits Yin, de se sentir en phase."
+trait6: "En haut un six\n
+S’ALLIER sans tête\n
+Fermeture"
+trait6_description: "A la retombée qui se produit généralement à la 6ème ligne s’ajoute ici le fait que ce trait se situe au-dessus du Roi, pivot du rassemblement, évoqué à la place souveraine. S’il est encore question d’ALLIANCE, comme à toutes les autres lignes, il est maintenant soit trop tard pour la réaliser, soit téméraire d’imaginer pouvoir le faire en dehors d’un projet fédérateur.\n
+Le texte, en résonance avec celui de la 3ème ligne, décrit une autre forme de mésalliance : là, on s’allie aux mauvaises personnes, ici on ne s’allie plus, on s’agrège sans principe commun."
+grande_image: "Au-dessus de la terre il y a l’eau\n
+ALLIANCE\n
+Les Anciens Rois ainsi\n
+En instituant les dix mille pays\n
+Posèrent les relations de hiérarchie parentale entre féodaux"
+dixieme_aile: "ALLIANCE joies ARMÉE chagrins"
+nucleaire: '23 - Usure'
+oppose: '14 - Grand Réalise'
+renverse:
+image:
 trigramme_bas: "terre"
 trigramme_haut: "eau"
-numero: 8

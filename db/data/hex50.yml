@@ -1,10 +1,66 @@
-nom: '50 - Chaudron'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
-trigramme_bas: "marais"
-trigramme_haut: "feu"
 numero: 50
+nom: '50 - Chaudron'
+description:
+jugement: "CHAUDRON\n
+Fondamentalement ouvert\n
+Favorisant"
+jugement_description: "CHAUDRON est un moment de grande opportunité : le texte du Jugement n’est constitué que de deux formules mantiques et parmi les plus favorables. Aucune stratégie spécifique n’y est détaillée : son dispositif est d’une puissance telle qu’il ne peut être rendu que par des abstractions caractéristiques d’une grande propension à réaliser, comme aux Jugements de GRAND FORCE et GRAND RÉALISE. Ce riche potentiel de refondation est marqué par fondamentalement ouvert, une appréciation particulièrement rare au Jugement puisqu’elle n’y est mentionnée que dans une autre situation : DIMINUER. Mentionnant l’un et l’autre des vases rituels, ces deux hexagrammes rendent tous deux compte d’un processus de densification qui entraîne un accroissement de la qualité. Si DIMINUER, à dominante Yin, est axé sur la retenue qui condense les forces en vue de floraisons nouvelles, la réduction qui s’opère au moments de CHAUDRON, à dominante Yang, œuvre à fondre des éléments anciens pour fonder une manière neuve de se poser dans la réalité.\n
+Ouverture et favorisant, deux appréciations très positives, ne sont rassemblées dans un Jugement qu’à un autre hexagramme : PROSPÉRITÉ, image de la relation la plus fluide entre le Ciel et la Terre. Quel que soit le domaine auquel il répond, le CHAUDRON, instrument de communication avec l’invisible, établit par l’entrecroisement d’une élimination et d’un épanouissement une circulation et, par là, une transformation qui touche à l’essentiel."
+trait1: "Au début un six\n
+CHAUDRON aux pieds renversés\n
+Profitable de faire sortir ce qui OBSTRUE\n
+Obtenir une concubine et ainsi un fils\n
+Absence de faute"
+trait1_description: "Pour mettre en route le processus de transmutation décrit par CHAUDRON, il faut commencer par se débarrasser de ce qui est vieux et mort. À ce niveau d’entrée, le chaudron retourné évoque un renversement permettant de se séparer des éléments qui bloquent la communication et empêchent une relation
+
+fertile entre le Ciel et la Terre. Que soit évoqué le recours à une concubine suggère que les relations habituelles ne fonctionnent pas. L’élimination des résidus du passé permet d’utiliser les éléments encore féconds et ainsi d’assurer une transition. La perpétuation de la lignée est le souci constant de la famille chinoise car la présence d’un fils garantit la poursuite du rituel aux ancêtres. Le texte incite donc à se redonner sans hésitation les moyens de remettre en route un fonctionnement permettant le contact avec la source cachée de la vitalité.\n
+La correspondance de ce trait avec le 4ème, où la base est également remise en question, indique une complémentarité dans le renouvellement qui s’enclenche : à l’intérieur le nettoyage des scories et l’inépuisable continuité Yin, à l’extérieur la souillure qui amène à reconsidérer la manière Yang d’exercer le pouvoir. Que cette mise à plat soit nécessaire ne doit pas inquiéter : le passé est la matière à partir de laquelle se réalise l’opération de transmutation."
+trait2: "Neuf en 2\n
+CHAUDRON rempli\n
+Mon partenaire est fébrile\n
+Ce n’est pas moi qui peux approcher\n
+Ouverture"
+trait2_description: "Le second trait représente le niveau où la transmutation se prépare concrètement. Le chaudron, retourné pour en vider les résidus à la première ligne, est ici empli d’une nourriture consistante. Mais s’il y a là une substance à offrir, dont les fumets sont prêts à s’élever vers le Ciel, le défaut de communication empêche qu’elle soit utilisée. La consommation ne peut avoir lieu que si un lien s’établit, ce qui ne peut s’envisager dans l’agitation. La cuisson lente et sûre suggérée à ce stade est à l’opposé d’une attitude volontariste visant à tout établir à l’avance.\n
+À l’orée d’un bloc de trois traits Yang qui l’entraînent vers le haut, ce trait est également retenu par sa relation avec la ligne initiale. Situé à la place de Préfet où se condensent les qualités de la Terre, il est par sa correspondance avec la ligne souveraine en relation étroite avec l’opération qui s’effectue aux deux places du Ciel, particulièrement la 6ème ligne où la fécondité, signalée là aussi par ouverture, prend toute son ampleur. La matière contenue dans la panse du chaudron participe pleinement de la transmutation, même si on ne peut ici en maîtriser tous les paramètres."
+trait3: "Neuf en 3\n
+CHAUDRON aux anses à RENOUVELER\n
+L’agir est empêché\n
+La graisse du faisan n’est pas consommée\n
+Que survienne la pluie se dissipent les regrets\n
+À la fin ouverture"
+trait3_description: "Niveau de Passage entre l’intérieur et l’extérieur, ce trait est au cœur de la transition entre l’ancien et le nouveau à l’œuvre dans cet hexagramme. Comme à la ligne suivante, autre place de l’être humain, le pouvoir symbolisé par le CHAUDRON est remis en question. Un type de fonctionnement issu du passé arrive à terme et nécessite une RÉVOLUTION car il ne remplit plus son office. La graisse du faisan indique la présence d’une nourriture, comme à la ligne précédente, mais bien que raffinée, savoureuse, elle est pour l’instant inaccessible. Le manque de communication appelle un changement important afin que le fonctionnement soit à nouveau possible et cette nourriture utilisable. La mention de la pluie, allégorie de l’échange fluide et fécond entre Ciel et Terre, indique la possibilité de rétablir le lien qui fait défaut et de restaurer un processus conforme.\n
+Seul trait correct de l’hexagramme, ce trait est également le seul sans aucune relation, ni de voisinage ni de correspondance. Cependant sa position au cœur d’un bloc de trois Yang sous-entend la présence d’une force qui permet de sortir de cet isolement. Bien qu’ils nécessitent une profonde réorganisation, les éléments de la fécondité sont là et s’inscrivent dans une perspective positive marquée ici, comme aux deuxième et 6ème traits, par l’appréciation ouverture."
+trait4: "Neuf en 4\n
+CHAUDRON au pied brisé\n
+Le repas du Duc est répandu\n
+La forme est trouble\n
+Fermeture"
+trait4_description: "À cette place de Ministre, le texte décrit une attitude cassante et irrespectueuse qui provoque une rupture dans le processus de transmutation. La nourriture contenue dans le chaudron est renversée, le rituel aux ancêtres n’a pas lieu. L’allusion au Duc suggère pourtant le début d’un nouvel exercice du pouvoir, mais qui peine à se faire reconnaître. Ce manque de déférence, dû à un excès de force ou peut-être d’avidité, crée un désordre qui brouille la communication, empêche la transformation d’avoir lieu et un nouvel ordre, plus à même que l’ancien d’entrer en relation avec le Ciel, de s’établir.\n
+L’opposition rencontrée à ce stade est illustrée par la position de la ligne. Située au voisinage de la ligne souveraine, elle exprime également la force, difficile à contenir, du groupe de traits Yang qu’elle surplombe. La correspondance avec le premier trait indique des implications encore très prégnantes dans les résidus du passé. La seule appréciation négative de l’hexagramme, fermeture, le souligne : participer au processus de sublimation ne peut se faire dans la brutalité. À proximité des deux places du Ciel, la souillure due au manque de respect des formes doit amener à reconsidérer la manière de s’approcher des sphères supérieures."
+trait5: "Six en 5\n
+CHAUDRON aux anses jaunes\n
+Et barre de bronze\n
+Ténacité profitable"
+trait5_description: "À la ligne souveraine, première des deux places du Ciel, le processus de transmutation franchit un pas décisif. Les anses, en réparation au niveau de la 3ème ligne, sont ici en état de recevoir la barre qui permet de sortir le chaudron du feu et de l’utiliser pour le repas rituel réunissant vivants et ancêtres. La nourriture est à même de se prêter à la transmutation grâce au lien spirituel qui s’établit avec le Ciel. La matière du Chaudron, le bronze, mentionné ici pour la première fois, souligne un passage à une alliance d’une qualité supérieure, raffinement rendu possible par l’attitude disponible, centrale et juste indiquée par la couleur jaune. Le processus n’est pourtant pas achevé : appelé à se poursuivre au trait suivant par la transformation en jade, il nécessite encore de la ténacité. Cependant, c’est à ce niveau, le seul où les anses (Yin) et la barre (Yang) sont évoquées ensemble, que se noue l’élaboration du lien entre terrestre et céleste.\n
+La relation de correspondance avec le second trait situé en place de Préfet représente la complémentarité nécessaire à ce passage du matériel au spirituel. Le voisinage avec la ligne supérieure souligne d’autre part une aptitude à accueillir les flux oeuvrant au parachèvement du processus. Ténacité profitable prolonge les capacités d’initiative et de déploiement indiquées au Jugement par fondamentalement et favorisant, complétant ainsi les Quatre Qualités du Ciel- Terre."
+trait6: "En haut un neuf\n
+CHAUDRON avec barre de jade\n
+Ouverture en grand\n
+Rien qui ne soit profitable"
+trait6_description: "À ce niveau supérieur, le CHAUDRON et la barre qui sert à le déplacer ne sont plus cités en tant qu’objets matériels, mais comme métaphores d’une transmutation qui parvient à son achèvement. Extérieure mais essentielle, la barre, qui permet d’apporter la nourriture là où elle est consacrée aux ancêtres, est l’image du lien qui s’établit avec le Ciel. Qu’elle soit en jade, ce qui est matériellement impossible, marque la qualité atteinte à ce stade de la transmutation. Le bronze cité à la 5ème ligne se métamorphose ici en un matériau rare, le plus fin et le plus noble qui soit pour l’esprit chinois : image même de l’alliance entre vertus céleste et terrestre, le jade est associé à la créativité du dragon et à l’éternité de la vie. En résonance avec la concubine requise à la première ligne pour assurer la descendance, en accord avec la pluie annoncée au niveau de la 3ème ligne, le jade fait plus qu’indiquer le raffinement de la nourriture offerte, il symbolise la capacité de la vie à se transmettre, se renouveler et se dépasser sans cesse.\n
+Une transmutation fondamentale se parachève ici, une transition s’opère d’une ancienne matière à une nouvelle. C’est une transformation subtile d’une qualité interne qui dépasse l’humain. Reliée par son voisinage avec la place souveraine aux forces intérieures de l’hexagramme, la ligne située au niveau le plus élevé condense et couronne tout le processus décrit par le CHAUDRON. Cette position éminente est marquée par l’association de deux appréciations parmi les plus favorables du Yi Jing, ouverture en grand et rien qui ne soit profitable. Ce couplage est le signe d’un potentiel de fécondité exceptionnel qui ne se retrouve qu’une autre fois, également en 6ème ligne : au moment où le GRAND RÉALISE."
+grande_image: "Au-dessus du bois il y a le feu\n
+CHAUDRON\n
+L’Être Accompli ainsi\n
+En rectifiant la place qu’il occupe\n
+Condense sa position"
+dixieme_aile: "CHAUDRON\n
+Accueillir le nouveau"
+nucleaire: '43 - Se Montrer Résolu'
+oppose: '3 - Difficultés Initiales'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "feu"
+
+

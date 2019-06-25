@@ -5,7 +5,7 @@ def trig_bas_ciel(trig)
     '34 - Grand Force'
   elsif trig == 'montagne'
     '26 - Grand Apprivoise'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '9 - Petit Apprivoise'
   elsif trig == 'brume'
     '43 - Se Montrer Résolu'

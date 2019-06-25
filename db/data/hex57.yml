@@ -1,10 +1,62 @@
-nom: '57 - Se Modeler'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "marais"
-trigramme_haut: "marais"
 numero: 57
+nom: '57 - Se Modeler'
+description:
+jugement: "SE MODELER\n
+Petit favorisant\n
+Profitable d'avoir où aller\n
+Profitable d'aller voir quelqu'un d'envergure"
+jugement_description: "Lorsqu'il s'agit de modeler, a fortiori de SE MODELER, une intervention de type Yang, vive et rapide, est moins appropriée qu'une attitude Yin de consentement et de disponibilité. Ce n'est pas par la fermeté mais par la souplesse et la répétition patiente qu'il est possible de se vaincre soi-même ou de convaincre autrui, et de faire prendre à la situation une tournure nouvelle. Cela comporte un aspect contraignant qui peut décourager, voire provoquer des réactions d'incertitude et d'hésitation analogues à celles évoquées dans VOYAGEUR, seul autre hexagramme où la stratégie du «faire petit» est présentée comme favorisante. Cependant, alors qu'en voyage, il n'est pas mauvais de vagabonder sans s'en tenir à une direction strictement établie, les moments où il faut SE MODELER exigent plus de hauteur et de rigueur. Pour sortir du flou qui porte à l'hésitation, il est impératif d'avoir une direction clairement établie et de s'y tenir : les détours que les circonstances imposent se réduisent à des péripéties quand on garde constamment présent à l'esprit le but qu'on s'est fixé.\n
+Mais cette direction, des conditionnements passés souvent très prégnants rendent difficile de la percevoir avec netteté. Il est alors profitable de prendre les conseils d'une personne de confiance, moins impliquée dans la situation. Car on a besoin pour la remodeler d'un regard qui en fasse apparaître la forme, aussi bien celle que le passé impose, qu'une autre en devenir et que le présent appelle."
+trait1: "Au début un six\n
+Avances et reculs\n
+Profitable d'avoir la ténacité d'un guerrier"
+trait1_description: "À ce niveau d'Entrée, le plus bas et le plus intérieur de l'hexagramme, on est soumis à des fluctuations auxquelles on ne fait que réagir sans aucune maîtrise. Le trait est incorrect et en deçà du travail de remodelage qui ne commence véritablement qu'à la ligne suivante où le nom de l'hexagramme apparaît pour la première fois.\n
+Lorsqu'on est en proie à l'hésitation et à l'incertitude, il ne faut pas chercher à dominer la situation, mais s'y conformer en s'appuyant sur des armes simples : la rigueur, la discipline, la régularité, l'endurance. Ces qualités de guerrier permettent de résister à la confusion et à l’indécision."
+trait2: "Neuf en 2\n
+SE MODELER est au-dessous du lit\n
+Utiliser archivistes et chamanes en grand nombre\n
+Ouverture\n
+Absence de faute"
+trait2_description: "À ce niveau de Préfet, le travail de modelage, marqué par la mention du nom de l'hexagramme, commence réellement. Symbole même du Yin par son horizontalité, sa forme carrée et sa proximité du sol, le lit, en tant que lieu de repos et de restauration des forces, suggère un ralentissement de l'activité. Mais il est aussi ce lieu indéterminé où le rêve le dispute au sommeil, où le présent s'estompe dans les images venues du passé. Il s'agit de traverser cette frontière ambiguë protégeant une activité qui échappe à notre contrôle, afin de ne plus être assujetti à des conditionnements révolus.\n
+Comme à l'hexagramme 23, USURE, dont il est l'image principale, le lit doit inciter à se défaire des éléments qui ne fonctionnent plus dans la situation actuelle. Pour pénétrer cette aire du caché, il est favorable d'éclairer le présent par le passé comme le font les archivistes, et le visible par l'invisible comme le font les chamanes. On ne doit pas hésiter à procéder à cette élucidation, car elle est le préalable indispensable à la réorientation décidée et dirigée à la ligne souveraine, le seul autre niveau qualifié comme celui-ci par la mention ouverture."
+trait3: "Neuf en 3\n
+SE MODELER à la hâte\n
+Gêne"
+trait3_description: "Situé au niveau du Passage entre intérieur et extérieur, ce trait est pris entre les places de Préfet et de Ministre, les deux niveaux où s'effectue le travail de recherche des éléments qui perturbent l'actualisation de la situation. C'est une position inconfortable, où l'on est malmené par les efforts de renouvellement, peut-être même emporté par le désir précipité d'y participer. À la fois retenu par des implications anciennes et pressé de les faire évoluer, on court le risque de tomber dans un comportement émotif et fébrile.\n
+Pourtant, comme à la ligne de Passage de l'hexagramme 24 RETOUR seul autre endroit où cette hâte est mentionnée, l'amorce d'un renouveau est là. Le sentiment de déstructuration qui en est le préalable ne doit pas affoler, ni le désir de formes nouvelles entraîner la précipitation. Un remodelage nécessite du temps, un comportement agité ne pourrait que le gêner."
+trait4: "Six en 4\n
+Tout regret disparaît\n
+Dans les champs capturer trois espèces"
+trait4_description: "Au premier trait extérieur de l'hexagramme, la disparition des regrets indique l'opportunité de commencer à se détacher du passé pour aller de l'avant. Loin de l'hésitation qui décontenance au premier trait, l'action n'est plus située dans le domaine des ombres comme au second trait ou dans celui des émotions comme au troisième, mais au niveau des champs c'est-à-dire à l'extérieur, en dehors de soi.\n
+Il s'agit à présent de passer énergiquement à l'action pour mettre la main sur les éléments qui échappent au regard et freinent l'avancée. Il faut amener au jour les restes cachés d'attitudes passées afin de leur faire perdre leur emprise. Comme au second trait de l'hexagramme 40 DÉLIVRANCE, où il est aussi question de capture, cette traque est de l'ordre d'une séparation libératoire."
+trait5: "Neuf en 5\n
+Présage d'ouverture\n
+Tout regret disparaît\n
+Rien qui ne soit profitable\n
+Sans début il y a aboutissement\n
+Avant le jour Geng trois jours\n
+Après le jour Geng trois jours\n
+Ouverture"
+trait5_description: "La ligne souveraine marque la meilleure position pour remodeler la situation de fond en comble. Correct et assisté de serviteurs efficaces en places de Ministre et de Préfet, ce trait décrit une capacité à réorienter radicalement le moment dans un sens nouveau. Peu importe que l'origine des circonstances actuelles ne puisse être déterminée avec précision, ou que celles-ci aient dévié par rapport à un projet initial : ce qui compte c'est de l'actualiser, en mettant de l'ordre dans la situation telle qu'elle est. Il faut pour cela se donner le temps de cadrer son action. Pour exprimer cette nécessité, le texte emploie des caractères spécifiques, comme au Jugement de REMÉDIER AU CORROMPU. Que cet hexagramme soit par ailleurs le dérivé de ce trait est une particularité qui souligne l'opportunité de recréer les conditions d'une saison nouvelle.\n
+Marquant le début d'un temps Yin, le jour Geng, rattaché à l'automne, à l'ouest, au métal et à la justice, incite à effectuer un important travail de nettoyage. Il convient d'abord de se tourner vers le futur en décidant de l'orientation que l'on veut désormais imprimer au contexte, puis d'établir un plan précis permettant d'éliminer les éléments périmés qui pourraient empêcher ce rajeunissement. Une situation ancienne ne peut se déconstruire dans la précipitation : l'application d'un tel programme demande du temps et ne peut se réaliser qu'à pas comptés. Ce pouvoir de mise à jour est mis en valeur par un texte inhabituellement fourni - c'est le texte le plus long associé à une cinquième ligne - et souligné par une accumulation d'appréciations mantiques positives, dont la plus favorable est rien qui ne soit profitable et la plus caractéristique une ouverture décrite comme potentielle au début du texte et comme effective à la fin. Ce sont là des signes qui doivent être pris comme de nettes incitations à la décision et à l'action."
+trait6: "En haut un neuf\n
+SE MODELER est au-dessous du lit\n
+Perte des biens et de la hache d'honneur\n
+Présage de fermeture"
+trait6_description: "À ce niveau de Sortie, comme souvent à la dernière ligne des hexagrammes, la situation bascule. Alors que la possibilité de courber et de rajeunir la forme est atteinte à la ligne souveraine, on recommence, comme à la deuxième ligne, à fouiller le passé. Nécessaire en place de Préfet, ce travail d'élucidation tourne maintenant à l'insistance stérile.\n
+La pression déplacée que produit pareille investigation ne fait que traduire une incapacité à assumer correctement le pouvoir que symbolise la hache d'honneur. Du coup on le perd, ainsi que la position acquise. Le trait est incorrect et isolé, sans voisinage ni correspondance avec aucun autre trait. En rester de manière vindicative et répétitive à des zones indistinctes, sans passer au stade de réelle mise à jour qui fait tout le sens de SE MODELER, ne peut conduire qu'à des impasses."
+grande_image: "Vents se SUIVANT\n
+SE MODELER\n
+L’Être Accompli ainsi\n
+En répétant les commandements\n
+Fait avancer leur exécution"
+dixieme_aile: "ÉCHANGER se montrer et\n
+SE MODELER s'effacer."
+nucleaire: '38 - Divergence'
+oppose: '51 - Ebranler'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "bois"
+
+

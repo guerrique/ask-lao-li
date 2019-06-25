@@ -1,10 +1,67 @@
+numero: 43
 nom: '43 - Se Montrer Résolu'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "RÉSOLUMENT se manifester à la cour du Roi\n
+Appel porteur\n
+Il y a danger\n
+Avertir son propre fief\n
+Pas profitable de recourir aux armes\n
+Profitable d’avoir où aller"
+jugement_description: "SE MONTRER RÉSOLU, c’est s’exprimer sans craindre, faire entendre son point de vue là où il doit être entendu. Il n’est plus temps de tergiverser, de remettre à plus tard des décisions ou de retenir des paroles qui pourraient se manifester malgré soi et avec trop de violence. Car s’il importe à présent de parler haut et clair, il convient aussi de ne pas se laisser emporter par ce qu’on a à dire. La cour du roi représentant le lieu souverain où les décisions sont prises et les ordres donnés, s’y manifester avec force peut se révéler aventureux : agir à la cour exige calme et modération, car il y a danger à parler devant le roi – danger d’autant plus effectif que ce Jugement est le seul à comporter la mention d’un risque réel. Mais le péril peut venir aussi de l’intérieur : il est également recommandé de ne pas recourir aux armes, c’est-à-dire de se garder de recourir à la violence pour se faire entendre.\n
+Cependant des paroles résolues ne suffisent pas : on doit aussi veiller à appuyer cette extériorisation sur un intérieur fort. Comme le conseille la phrase avertir son propre fief, il convient de s’assurer que ce qui doit être dit, avant d’être clamé en haut lieu, soit connu et approuvé de ceux qui sont appelés à le soutenir. On peut aussi comprendre ce conseil dans une optique plus personnelle, et s’assurer que ce que l’on veut faire passer à l’extérieur ne soit pas exagéré par rapport à ce qui est intérieurement ressenti. Il importe enfin de ne pas se laisser aveugler par la pression et l’émotivité en confondant détermination et agressivité : une action vraiment résolue ne s’appuie pas sur la force, mais sur la durée. Prévoir les lendemains de ses véhémences permet d’en prévenir les outrances et d’en désamorcer les risques."
+trait1: "Au début un neuf\n
+FORCE dans l’avancée des pieds\n
+Aller sans vaincre quelle faute"
+trait1_description: "A ce niveau d’Entrée, il n’y a pas encore de résolution, seulement de la FORCE, et uniquement au niveau des pieds, qui sont généralement la marque d’une tendance à s’engager de manière immédiate et irréfléchie. Que le désir d’agir se manifeste par l’envie de bouger, quoi de plus légitime à la place la plus expérimentée d’un hexagramme ? Mais la référence à l’hexagramme 34 GRAND FORCE montre plus une impulsion irrésistible qu’une détermination réelle, et le tour ironique du texte suggère qu’il pourrait n’y avoir ici qu’agitation vaine et coups d’épée dans l’eau.\n
+La correction du trait, Yang à une place impaire, et sa position à l’orée d’un bloc de traits Yang peuvent induire un entraînement facile à l’action. Il importe de ne pas en rester à de simples démangeaisons et de s’assurer que la volonté d’aller de l’avant est bien réelle. On ne doit pas faire seulement semblant d’y aller, mais donner corps à son désir d’agir et caractère à ses interventions."
+trait2: "Neuf en 2\n
+Appel à vigilance\n
+Le soir la nuit il y a des combats\n
+Pas de craintes à avoir"
+trait2_description: "A cette ligne, la capacité à se manifester peut prendre consistance, si l’on tient compte des conseils de prudence donnés ici dans des termes proches de ceux du Jugement. L’appel qui, dans le contexte tendu de cette situation, risque de tourner à la vocifération, doit être tempéré par la vigilance permettant de discerner entre les périls qui rôdent quand l’heure est incertaine. On ne doit pas se laisser impressionner par des réactions agressives, qu’elles résultent des vérités que l’on exprime ou qu’elles se déclenchent en raison d’une tension devenue insupportable.\n
+La fermeté du trait, augmentée par celle des traits Yang qui l’entourent, est compensée par la qualité Yin de la place qui, comme à la 4ème ligne, est un facteur de retenue. Caractéristique des moments de crispation, le conseil de vigilance va dans le même sens. Lorsqu’entre chien et loup, on se trouve entraîné dans des rivalités difficiles à maîtriser, il importe de ne pas se laisser gagner par le désarroi et de savoir tempérer les ardeurs."
+trait3: "Neuf en 3\n
+FORCE sur le visage\n
+Il y a fermeture\n
+Le Chef Accompli est RÉSOLUMENT RÉSOLU\n
+Agir autonome\n
+Rencontrer la pluie en être comme imprégné\n
+Il y a des rancoeurs absence de faute"
+trait3_description: "A cette ligne de Passage est posée l’alternative entre deux manières de s’exprimer avec fermeté. La première se rapproche du comportement décrit à la ligne initiale : la FORCE qui se manifeste là dans les pieds apparaît ici sur le visage : un trépignement impatient devient vocifération grimaçante. La seconde est représentée par le Chef Accompli, comme à la 3ème ligne de l’hexagramme 34 GRAND FORCE. A la différence de celui qui, emporté par son impulsivité, tente de forcer le passage, un Chef Accompli sait faire la part entre agitation vaine et détermination réelle. Plutôt que de se laisser enfermer dans des disputes stériles, il se détermine seul et va de l’avant sans hésiter. Cette attitude doublement RESOLUE permet, comme à la ligne de sortie de DIVERGENCE, de rencontrer la pluie c’est-à-dire de résoudre les tensions et de rétablir la communication, quelles que soient les aigreurs que cette fermeté pourrait provoquer.\n
+Correct et en correspondance avec la seule ligne Yin de la figure, ce trait est en outre relié à la ligne souveraine, la plus positive de l’hexagramme, par l’inhabituelle répétition du nom de la figure. La force qui se condense à cette ligne, située au milieu d’un bloc de cinq Yang, peut soit exploser de manière brutale, soit se fluidifier et se canaliser dans une action concrète. Si colère et invectives sont le signe d’une attitude rigide et d’une incapacité à se faire entendre – incapacité sanctionnée comme à la sixième ligne par la mention d’une fermeture effective – une démarche assurée et autonome permet de renouer la communication."
+trait4: "Neuf en 4\n
+Fesses sans peau\n
+L’agir fait étape un moment\n
+Bélier tenu par une longe\n
+Tout regret disparaît\n
+Des paroles sont entendues sans être entendues"
+trait4_description: "A cette ligne, la propension à s’exprimer se heurte à des résistances. L’activisme rencontre de lui-même sa limite : comme à la ligne de passage de l’hexagramme retourné, l’image des fesses sans peau indique qu’il est temps de faire une pause. Lorsqu’il n’y a plus rien pour protéger ou voiler, la réalité se révèle nue et crue : on est alors amené à calmer ses ardeurs. Si ce n’est de plein gré, il faut procéder à ce ralentissement par la contrainte : le bélier, animal emblématique de la FORCE impulsive, doit être retenu par la longe, la corde avec laquelle on tire les animaux qui refusent d’entrer ou de sortir de l’enclos.\n
+La fermeté du trait, augmentée par celle des Yang qui l’entourent est compensée par la qualité Yin de la place, qui représente, comme à la seconde ligne, un facteur de retenue. La contrainte qui s’exerce ici est d’autant plus adéquate qu’il s’agit d’une place de Ministre dont la fonction principale est la communication. Or, comme au moment d’EPUISEMENT, les paroles ne sont pas entendues et la confiance ne s’établit pas. Il est préférable d’en prendre conscience et, plutôt que de chercher à forcer la situation, d’adopter une tactique d’apprivoisement."
+trait5: "Neuf en 5\n
+Le pourpier comestible\n
+Est RÉSOLUMENT RÉSOLU\n
+Agir au Milieu\n
+Juste Absence de faute"
+trait5_description: "A ce niveau se résout la contradiction entre force et détermination qui parcourt tous les niveaux précédents de l’hexagramme. Une décision pour être Juste, ne nécessite aucune brutalité mais une RÉSOLUTION redoublée : elle doit être prise au bon endroit et au bon moment. La ligne souveraine représente la position idéale pour agir, car il s’y manifeste la qualité nécessaire pour aller de l’avant de manière franche et impartiale. Cette capacité y est symbolisée par une plante, image qui a rendu perplexe les commentateurs. Bien que les éléments botaniques mentionnés dans le Yi Jing soient rarement désignés avec précision, la plupart voient dans cette plante une mauvaise herbe qu’il conviendrait d’arracher. Cependant, le pourpier comestible offre dans le contexte de cet hexagramme une perspective intéressante. En effet, cette plante qui donne de jolies fleurs pourpres et dont les petites feuilles charnues sont un peu poisseuses, comporte une particularité singulière : les tiges de ses pousses se dressent vigoureusement mais elles se cassent quand elles reçoivent un coup sec. Ce mélange de fragilité et de fermeté, qui se retrouve par exemple dans le geste résolu du vitrier rompant le verre d’un coup sec, est une métaphore élégante de l’attitude à adopter sans hésitation ici. Lorsque les différentes données d’un problème ont été suffisamment pesées, arrive le moment où il peut se résoudre aisément pour peu que l’on sache concentrer sa force au bon endroit et l’appliquer avec doigté.\n
+La répétition du nom de l’hexagramme, point commun avec la 3ème ligne où se fait le partage entre brutalité et détermination, montre également qu’au voisinage de la seule ligne Yin de la figure, résumer la force dans un geste clair permet de ne pas se laisser submerger par l’hésitation."
+trait6: "En haut un six\n
+Pas d’appel\n
+A la fin il y a fermeture"
+trait6_description: "A ce niveau de Sortie, la capacité à communiquer, seule qualité à même de compenser l’accumulation de force caractéristique de SE MONTRER RÉSOLU, est en passe de se tarir. L’appel, qu’il soit parole virulente ou plus prudente, est primordial pour résoudre les tensions : il fait à présent défaut, indiquant que l’échange s’amenuise et devient de plus en plus difficile.\n
+La qualité Yin du trait, tournée vers le latent et le caché, n’est pas en accord avec une situation où il s’agit de s’exprimer. Bien qu’il soit correct à ce niveau pair, le fait qu’il soit le seul de sa nature l’empêche d’équilibrer efficacement la propension au débordement représentée par les 5 traits Yang qu’il surplombe. De plus, les deux traits avec lesquels il est en relation sont ceux où il est question de se déterminer de façon RÉSOLUMENT RÉSOLUE : le voisinage avec la ligne souveraine, où la décision peut être prise de manière juste, ne suffit pas à résorber les tensions ; la correspondance avec la 3ème ligne, où la détermination peut prendre une figure grimaçante, accentue le risque d’incompréhension. Cette absence de contact est marquée aux deux traits par la mention d’une fermeture effective."
+grande_image: "Brume montant vers le Ciel\n
+SE MONTRER RÉSOLU\n
+L’Être Accompli ainsi\n
+En répandant ses bienfaits jusqu’en bas\n
+Demeure dans la juste conduite\n
+Donc pour le reste préfère s’abstenir"
+dixieme_aile: "SE MONTRER RÉSOLU\n
+Ouvrir un passage\n
+Fermeté ouvre un passage vers Souplesse"
+nucleaire: '1 - Élan Créatif'
+oppose: '23 - Usure'
+renverse:
+image:
 trigramme_bas: "ciel"
 trigramme_haut: "brume"
-numero: 43
+

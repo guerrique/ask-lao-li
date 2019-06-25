@@ -1,10 +1,65 @@
-nom: '48 - Puits'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
-trigramme_bas: "marais"
-trigramme_haut: "eau"
 numero: 48
+nom: '48 - Puits'
+description:
+jugement: "PUITS\n
+Les fiefs changent pas les PUITS\n
+Ni pertes ni gains\n
+Allées et venues en BON ORDRE\n
+Qu’arrive l’étiage\n
+Que manque la corde du PUITS\n
+Que se brise la cruche\n
+Fermeture"
+jugement_description: "Creux, enfoui en terre, filtrant l’eau souterraine, le PUITS accumule les symboles Yin. Lieu de convergence qui demeure malgré les turbulences et les vicissitudes, il n’est altéré ni par le déplacement horizontal des frontières tracées à la surface de la terre, ni par les variations verticales de son niveau. Y puiser ne diminue pas l’eau qu’il contient mais la renouvelle. Le PUITS n’étant pas un endroit d’accumulation mais d’échange, ni pertes ni gains ne l’affectent. Ce qui le fait fonctionner, c’est le mouvement qui s’organise dans et autour de ce point central dont chacun a la responsabilité mais dont personne ne peut s’approprier le contrôle.\n
+L’accès à cette base Yin, constante et nourricière, n’est pas pour autant aisé. Il requiert des efforts et un soin particulier dans les moyens utilisés : une tension soutenue pour établir le lien avec les forces profondes, une attention précautionneuse pour s’en approcher. Comme l’indique la fermeture, seule formule négative de tout l’hexagramme, un comportement désordonné ou brutal éloigne de cette source vivifiante et conduit à l’impasse."
+trait1: "Au début un six\n
+Vase du PUITS\n
+On ne s’en nourrit pas\n
+PUITS vétuste nul oiseaux"
+trait1_description: "Ce trait d’Entrée représente le niveau à la fois le plus profond et le moins utilisable du PUITS. On imagine des restes de construction ancienne autour d’une mare boueuse qui ne propose aucune nourriture vivifiante mais une eau croupie dont personne ne veut, pas même les nomades – lesquels, s’ils ignorent les frontières, savent toujours où sont les puits.\n
+Incorrect et sans autre relation que le voisinage avec la seconde ligne, ce trait est isolé. Ne participant pas au mouvement ascensionnel du reste de l’hexagramme, il représente un stade d’immobilité où le passé se sédimente et sur lequel le vouloir n’a pas directement prise."
+trait2: "Neuf en 2\n
+Val du PUITS\n
+On tire à l’arc des bébés carpes\n
+L’amphore usée coule goutte à goutte"
+trait2_description: "A ce niveau de Préfet, le PUITS commence à prendre forme. Mare boueuse au trait précédent, il est maintenant un creux fertile où l’eau commence à jaillir et se rassembler. A l’errance nomade des oiseaux se substituent les outils du sédentaire, mais inutilisables ou employés à contre-courant. L’arc, projection Yang, sert à chasser les animaux de la terre et du ciel, pas les poissons ; l’amphore, contenant Yin, fuit et ne peut remplir son office. Excès d’impatience et incapacité à rassembler empêchent la nourriture de croître (les carpes sont minuscules) et le système de s’installer. Le désir avide de se procurer de quoi se nourrir provoque un comportement turbulent qui est à l’opposé de l’attitude patiente caractéristique du fonctionnement des PUITS et qui tue dans l’œuf les potentialités de nourrissement.\n
+Incorrect et situé au voisinage du seul autre trait incorrect, ce trait est sans relation avec la partie extérieure de l’hexagramme. L’absence de correspondance avec l’autre ligne centrale, la ligne souveraine en 5ème place, marque un dysfonctionnement : l’eau qui fuit de la cruche retombe vers le bas, suivant un trajet opposé au mouvement ascensionnel qui assure l’utilisation du puits. L’incapacité à s’apparier est révélée par l’agressivité envers des poissons qui vont par paire. Des moyens coercitifs brutaux gâchent la nourriture potentielle qui ne peut survenir que par l’échange et la communication."
+trait3: "Neuf en 3\n
+Nettoyage du PUITS\n
+On ne s’en nourrit pas\n
+Pour mon cœur quelle douleur\n
+On pourrait l’utiliser et puiser\n
+Un Roi éclairé en s’appariant\n
+Reçoit le bonheur"
+trait3_description: "Terreuse à la première ligne, insaisissable à la seconde, la nourriture issue du PUITS devient consommable grâce au travail de nettoyage décrit à ce niveau. Pourtant, comme au trait initial, on ne s’en nourrit pas, ce qui provoque une grande tristesse. A cette place de Passage, il est temps de se tourner vers l’extérieur avec plus d’audace. Il ne suffit pas en effet que l’eau du puits soit claire, il faut aussi en rendre possible l’accès. La présence du Roi, inhabituelle à cette place de passage, indique la nécessité d’un pôle – personnage, projet ou orientation – capable de centraliser et d’organiser les relations. Pivot neutre qui permet à une vie imperceptible d’alimenter l’activité humaine tout comme la parcelle centrale du système PUITS met en contact avec une vie souterraine, le personnage du Roi résonne comme une incitation à établir des liens permettant de tirer l’eau disponible, de la faire circuler, et de rendre ainsi le consommable véritablement nourricier.\n
+Ce premier des deux niveaux associés à l’être humain est occupé par le premier trait correct de l’hexagramme. Il préfigure l’ouvrage mentionné au trait suivant, avec lequel il y a relation de voisinage. La nécessité de l’extériorisation est accentuée par la correspondance avec la 6ème ligne, où l’eau devenue saine permet un partage, une pleine ouverture qui répond à la possibilité de bonheur mentionnée ici. Caractéristique de contextes relationnels forts où des personnages importants sont en cause, l’évocation de ce bonheur doit inciter à donner désormais solidité et consistance à la manière de se manifester."
+trait4: "Six en 4\n
+Maçonnerie du PUITS\n
+Absence de faute"
+trait4_description: "Cette ligne, seconde des deux associées à l’être humain, représente le stade où l’intervention humaine est nécessaire pour établir le fonctionnement du PUITS. Après la prise de conscience effectuée à la ligne précédente, où l’eau ne peut être nourricière faute de partenariat et d’organisation, il s’agit à présent de construire une voie, un conduit qui permette d’accéder à l’eau et de l’extraire.\n
+C’est à ce trait, correct et en relation avec les deux lignes adjacentes, que s’établit le lien entre le haut et le bas de l’hexagramme, selon le rôle de communication dévolu à une place de Ministre. L’appréciation mantique sonne comme une incitation à se mettre à l’ouvrage."
+trait5: "Neuf en 5\n
+Fraîcheur du PUITS\n
+Source froide et pure\n
+On s’en nourrit"
+trait5_description: "A la ligne souveraine, le texte met en avant la fraîcheur vivifiante du PUITS, décrit comme une source aussi froide que pure. Qu’il soit pour la première fois possible de s’en nourrir suppose que les étapes précédentes ont été franchies, notamment la mise en commun des efforts nécessaires au dégagement et à la consolidation de l’ouvrage. On se trouve au cœur de la situation, au niveau où le système fonctionne de manière juste, où l’eau est devenue une véritable nourriture.\n
+La ligne est correcte, à l’instar de celles qui l’entourent. Le voisinage avec la 4ème ligne garantit l’accès à l’eau, celui avec la 6ème est gage d’une utilisation collective, ce qui est précieux pour une position souveraine. C’est un moment où il faut profiter pleinement de ce contact fortifiant avec les forces profondes."
+trait6: "En haut un six\n
+Récolte du PUITS\n
+Ne pas le couvrir\n
+Il y a onde porteuse\n
+Fondamentalement ouvert"
+trait6_description: "Cette ligne est le couronnement de tout le système symbolisé par le PUITS. C’est à ce niveau qu’il est établi comme centre de la vie communautaire, et chacun peut s’en approcher librement. Le conseil de le laisser accessible fait écho au partenariat recherché au niveau de la 3ème ligne : le puits est ouvert à tous parce que l’eau n’appartient à personne. Il n’a besoin ni de protection ni de mesures contraignantes car il est l’image d’un fonctionnement sain, collectif, garanti par le pouvoir invisible qu’il représente. Tous les paysans savent que l’utilisation régulière d’un puits est gage de la bonne santé de son eau.\n
+Correct et en relation de voisinage avec la ligne souveraine, ce trait est également en contact avec l’intérieur de l’hexagramme par sa correspondance avec la 3ème ligne. Le texte conjugue deux appréciations mantiques rares à ce niveau d’un hexagramme : le présence effective d’un courant de confiance et une capacité exceptionnelle à créer des situations fécondes. Cette position est très favorable pour alimenter une circulation d’échanges confiants et créatifs avec l’entourage."
+grande_image: "Au-dessus du bois il y a l’eau\n
+PUITS\n
+L’Être Accompli ainsi\n
+En consolant le peuple de ses fatigues\n
+L’encourage à l’organisation mutuelle"
+dixieme_aile: "PUITS communication sans entraves et\n
+ÉPUISEMENT se trouver mutuellement face à face"
+nucleaire: '38 - Divergence'
+oppose: '21 - Mordre et Unir'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "eau"

@@ -1,10 +1,60 @@
-nom: '37 - Gens du Clan'
-trait1: "yang"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "feu"
-trigramme_haut: "marais"
 numero: 37
+nom: '37 - Gens du Clan'
+description:
+jugement: "GENS DU CLAN\n
+Profitable d’être tenace comme une femme"
+jugement_description: "S’organiser pour durer demande une seule qualité : la ténacité. Le Jugement de GENS DU CLAN, un des plus courts du Yi Jing, n’évoque rien d’autre mail il prend pour emblème de cette qualité un personnage : la femme. En dehors de toute représentation sociale, la femme symbolise dans le contexte du Yi Jing une force : celle qui permet de perdurer. Si dans le clan chinois, le culte aux ancêtres doit être tenu par le fils aîné, il exige pour être effectif la collaboration de son épouse, dont la fécondité est le symbole de ce qui prolonge la famille au-delà des existences individuelles.\n
+À travers celle à qui incombe la perpétuation de la lignée, ce sont des capacités de gestation et de génération qui sont mises en valeur. La CONSTANCE quotidienne – le nom de l’hexagramme 32 est mentionné dans le texte de la Grande Image – fait appel à des qualités d’adaptabilité, d’endurance, de retrait et de compréhension qui concernent tout un chacun."
+trait1: "Au début un neuf\n
+Les madriers verrouillant les portes\n
+Réalisent le CLAN\n
+Tout regret disparaît"
+trait1_description: "Une organisation, quelle qu’elle soit, ne peut s’établir qu’à l’intérieur de limites claires, symbolisées par les madriers qui bloquent les portes de la maison. Frontière par rapport à l’extérieur – le CLAN est résumé à la Dixième Aile comme l’interne – mais aussi définition des places et des règles, cette délimitation est nécessaire pour établir et structure un dispositif durable.\n
+À ce trait d’Entrée, correct et en relation avec les deux traits Yin de la figure, sont posées les bases qui permettent de réaliser le clan, expression qui définit la tâche du roi à la 5ème ligne. Accepter les limitations contribue à fonder l’espace clos, intérieur et organisé du clan. Le sentiment de contrainte que provoque la définition des différents champs est normal et ne saurait durer."
+trait2: "Six en 2\n
+Il n’y a pas lieu de pousser en avant\n
+Être au Milieu Juste en charge des offrandes de repas\n
+Présage d’ouverture"
+trait2_description: "Située à l’intérieur d’un hexagramme axé sur l’organisation de l’interne, le second niveau, celui de Préfet, est en position centrale et sa qualité Yin résonne particulièrement avec la ténacité de la femme indiquée au Jugement. Que le nom de l’hexagramme n’y soit pas cité confirme à la chinoise qu’il s’agit moins ici du clan que du mouvement organique qui l’entretient et le nourrit. Ce mouvement ne consiste pas à forcer les choses mais à être là, veillant à l’entretien de ce qui, bien que caché, sous-tend toute la structure.\n
+En correspondance avec la 5ème ligne, lieu de l’invocation de la lignée, ce trait évoque le lien qui se tisse au quotidien par le culte que le clan rend à sa continuité. Nourrir les ancêtres, c’est tenir sa place dans la chaîne qui relie aux défunts, c’est nourrir le contact avec les forces invisibles en se préoccupant des vivants. La justesse de cette attitude est si importante qu’un hexagramme entier, JUSTE CONFIANCE, lui est consacré. Il y est montré comment la confiance naît d’une position médiane entre ascendants et descendants, entre interne et externe, entre manifesté et virtuel, entre ce qui précède et ce qui suit.\n
+Le trait est correct et en relation avec les trois places Yang de la figure – qualité qu’il partage avec l’autre trait Yin situé en place de Ministre, également place de service. Il s’agit, non de prendre des initiatives, mais de savoir accueillir la force invisible sur laquelle se fonde la structure, de trouver la position juste permettant l’entretien de cette force et d’en assurer ainsi la régénération."
+trait3: "Neuf en 3\n
+GENS DU CLAN poussent de hauts cris\n
+Regrets\n
+Danger\n
+Ouverture\n
+Épouse et enfants rient sans mesure\n
+À la fin gêne"
+trait3_description: "A ce niveau de Passage entre l’intérieur et l’extérieur, l’organisation du CLAN a tendance à se gripper. La maison où habite le clan représente l’interne par rapport au monde extérieur. Elle se partage elle-même en un domaine Yang, la grande cour exposée au Sud et un domaine Yin, le gynécée, regroupant tous les bâtiments situés au Nord. Ceux qui habitent ici ricanent, ceux qui agissent là-bas maugréent : dans l’un comme dans l’autre, l’individualisme prend le pas sur le sentiment d’appartenance. Le texte reflète cette situation grinçante par une accumulation déconcertante d’onomatopées et d’appréciations mantiques.\n
+Ces dissonances provoquent un va-et-vient hésitant entre fermeté et laxisme. La correction de la place, Yang à une place Yang, pousse à une certaine rigueur qui, si elle comporte des dangers, peut permettre d’éviter la confusion. Le laisser- aller en revanche, surtout envers ceux que l’on considère comme ses proches, peut se révéler à la longue plus gênant."
+trait4: "Six en 4\n
+Enrichissement du CLAN\n
+Ouverture en grand"
+trait4_description: "A l’inverse des réactions égoïstes décrites à la ligne précédente, le sentiment d’appartenance prend maintenant le pas sur l’individualisme. L’enrichissement indiqué ici est signe d’échange et de reconnaissance. La formule rare ouverture en grand engage à mettre à profit des possibilités de relation et de fécondité exceptionnelles.\n
+Porté par son bon voisinage avec la ligne souveraine, ce 4ème trait est celui où le rôle de communication dévolu à la place de Ministre se joue de la manière la plus satisfaisante. Correct et en relation avec les trois places Yang de la figure, reprenant et parachevant l’action du Préfet en seconde ligne, il représente le moment le plus favorable de l’hexagramme."
+trait5: "Neuf en 5\n
+Le Roi en se reliant réalise le CLAN\n
+Pas de craintes à avoir\n
+Ouverture"
+trait5_description: "À la croisée du quotidien et du rituel, le Roi compte parmi les personnages les plus importants du Yi Jing. Dans le contexte de la Chine ancienne comme dans tous ceux où le civil et le religieux se confondent, il est à la fois la référence suprême de l’organisation sociale et, grâce au lien qu’il assure avec les ancêtres, le représentant de l’ordre universel. Complémentaire de celui de la femme dont l’importance est soulignée au Jugement, le rôle du Roi est de se relier, c’est-à-dire d’établir un lien avec l’invisible et de le manifester aux yeux de tous. Plus riche que le mot français, l’idéogramme rendu par se relier permet d’approfondir la signification du rituel évoqué par le texte. A l’idée d’invoquer il associe celle de simuler : on attire l’esprit de l’ancêtre en imaginant sa présence. Ainsi le geste rituel dépasse l’aspect formel pour établir un processus plus subtil au travers duquel l’imaginaire convoque le réel.\n
+Le Roi est rarement cité en ligne souveraine. Pôle manifeste autour duquel se fonde la communauté aux temps d’ALLIANCE, référence intangible lorsque les structures se défont au moment de DÉNOUER, le roi symbolise ici, à l’intersection du vertical et de l’horizontal, la force capable de faire se manifester ce qui dépasse les individus. Établir un lien avec le caché pour organiser les relations entre les êtres en un ensemble qui fonctionne et leur survit est une attitude royale. Si elle requiert une certaine noblesse, on ne doit pas craindre de l’assumer ni se laisser impressionner par les forces ainsi mises en œuvre."
+trait6: "En haut un neuf\n
+Il y a onde porteuse\n
+Comme elle en impose !\n
+À la fin ouverture"
+trait6_description: "
+Ce niveau, le plus élevé de l’hexagramme, se situe en dehors de l’organisation humaine du CLAN. Il est sans relations avec les autres traits comme si, à ce stade, l’absence d’implication directe permettait de jouer un autre rôle.\n
+Un flux est là auquel il faut s’accorder avec confiance et respect. A la différence de la tâche du Roi décrite à la ligne précédente, c’est par une position de réserve et d’effacement, sans intervention directe, que les êtres pourront être mis en relation favorable avec les forces mystérieuses qui sont entretenues par le CLAN et le nourrissent en retour. On retrouve ici l’écho de l’attitude décrite à la ligne souveraine de GRAND RÉALISE, où l’unique ligne Yin est particulièrement mise à l’honneur. Dans les deux cas, c’est la noblesse intérieure qui inspire à l’entourage une confiance inébranlable."
+grande_image: "Le vent sort du feu\n
+GENS DU CLAN\n
+L’Être Accompli ainsi\n
+En donnant consistance à ses paroles\n
+Alors donne CONSTANCE à son agir"
+dixieme_aile: "GENS DU CLAN\n
+Intérieur"
+nucleaire: '64 - Pas encore traversée'
+oppose: '40 - Délivrance'
+renverse:
+image:
+trigramme_bas: "feu"
+trigramme_haut: "bois"

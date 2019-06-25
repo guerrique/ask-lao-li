@@ -1,10 +1,57 @@
+numero: 26
 nom: '26 - Grand Apprivoise'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "GRAND APPRIVOISE\n
+Ténacité profitable\n
+Se nourrir hors du CLAN ouverture\n
+Profitable de passer le grand fleuve"
+jugement_description: "Apprivoiser une force riche de possibilités mais fougueuse exige courage et endurance. Cela demande aussi de savoir prendre ses distances avec un fonctionnement routinier et clos sur ses références propres. La nécessité du contact avec l’extérieur est affirmée de deux façons : d’une part aller hors du CLAN, c’est-à-dire rompre avec ses habitudes, quitter son entourage ; ensuite passer le grand fleuve, c’est-à-dire s’éloigner du territoire connu pour se diriger vers d’autres rives. Comment mettre cela en pratique, la Grande Image le précise : en se remémorant les situations identiques auxquelles on s’est déjà trouvé confronté.\n
+Des talents qui ne se nourrissent que de leurs propres références ne peuvent que s’étioler. Pour se développer, ils ont besoin d’être expérimentés dans des confrontations avec le monde afin de trouver une forme et une orientation. Il faut donc avoir l’attitude ouverte et conviviale qui permet d’exercer ses talents au-dehors, et ainsi de les affiner par une pratique. Etre nourri par l’extérieur permet d’ouvrir les yeux sur l’intérieur, de sortir de fonctionnements répétitifs, d’évaluer et forger ses propres capacités."
+trait1: "Au début un neuf\n
+Il y a danger\n
+Profitable de cesser"
+trait1_description: "Au début de l’APPRIVOISEMENT, tout est encore à apprivoiser. Le premier trait, niveau le plus inexpérimenté de l’hexagramme, est de plus entraîné par la puissance d’un bloc de trois traits Yang : on y court le danger de se laisser aller sans contrôle à une vigueur qui émerge dans toute sa jeunesse. Cette impétuosité est celle d’une force instinctive, qui fait écho à celle du taurillon mentionné à la 4ème ligne.\n
+La correspondance avec ce trait, où sont décrits les moyens de maîtriser l’animalité et de la transformer, suggère la possibilité de ne pas succomber à cette énergie débridée."
+trait2: "Neuf en 2\n
+Les essieux du chariot lâchent prise"
+trait2_description: "Particulièrement bref et sans aucune considération mantique, le texte de cette ligne pointe une seule chose : une mauvaise relation entre charge et mouvement en arrive à immobiliser le char. Comme dans le PETIT APPRIVOISE, l’autre situation d’apprivoisement où la même image est mentionnée, une tension excessive bloque le fonctionnement de la situation. Ici comme là, cette tension est le résultat d’une mauvaise circulation entre énergies Yin et Yang, due à un excès de volontarisme ou à un manque de souplesse.\n
+La fermeté du trait, encore accentuée par sa position au milieu d’un groupe de traits Yang, est inadéquate à cette place de Préfet. La correspondance avec la ligne souveraine, où la mise au pas du marcassin s’effectue de manière assez contraignante, est un autre signe de la retenue qui s’exerce ici."
+trait3: "Neuf en 3\n
+Un bon cheval s’efforce de poursuivre\n
+Présage de difficultés profitables\n
+Chaque jour contrôler les chariots et les gardes\n
+Profitable d’avoir où aller"
+trait3_description: "A ce niveau de Passage, la force Yang peut se concentrer grâce à une discipline régulière. Portée par la vitalité du bloc de traits fermes auquel elle appartient, cette ligne se trouve aussi à proximité de l’apprivoisement qui s’effectue aux deux traits Yin voisins. En résonance avec l’action céleste exposée à la 6ème ligne, elle est le lieu où l’énergie se prête courageusement à un apprentissage nécessaire.\n
+Le texte décrit un entraînement auquel on se contraint soi-même, sans qu’une intervention extérieure soit nécessaire comme aux deux lignes suivantes. Il y est question de bloquer les entrées et de faire des rondes. A condition que la méticulosité ne fasse pas oublier le but global, l’exercice ne peut qu’aider à la concentration des forces et au développement de la vigilance. Les images utilisées évoquent une force tranquille, le cheval, et un couplage efficace entre fermeté et souplesse, le chariot, qui fonctionne de nouveau après son immobilisation à la ligne précédente."
+trait4: "Six en 4\n
+La planchette frontale du jeune taureau\n
+Fondamentalement ouvert"
+trait4_description: "A cette ligne, première des deux seules Yin de l’hexagramme, il est question comme à la ligne suivante d’apprivoiser une force vigoureuse. Sa violence est évoquée à travers deux images d’animaux : ici les cornes d’un jeune taureau, là les dents d’un marcassin. La correspondance avec la première ligne suggère l’idée que la planchette a pour rôle d’intervenir dès le départ du Yang naissant pour empêcher que les cornes du taurillon ne prennent une forme agressive.\n
+A cette place de Ministre, l’apprivoisement du Yang peut s’effectuer de la meilleure manière possible. Fondamentalement indique qu’il y a la possibilité de prendre le problème à la base et de l’engager dans un processus riche de possibilités."
+trait5: "Six en 5\n
+Les dents du marcassin châtré\n
+Ouverture"
+trait5_description: "A la place souveraine, seconde des deux seules Yin de l’hexagramme, il est question d’apprivoiser, de manière tout aussi déterminée qu’à la ligne précédente, une force vigoureuse, également évoquée par une image d’animal. Pointues et dangereuses comme les cornes mentionnées à la 4ème ligne, les dents sont l’image d’une agressivité ou d’une avidité qu’il convient de brider ; le marcassin symbolise une vivacité aussi imprévisible que celle du jeune taurillon dont on prévient les blessures. Toutefois on n’intervient plus ici sur l’origine de l’agressivité, mais sur sa manifestation. Bien que le texte ne soit pas assuré, il semble que l’on doive plutôt se préoccuper d’affiner l’aspect extérieur, et mettre moins de brutalité ou d’arrogance dans la manière de s’exprimer.\n
+La maîtrise de la situation, caractéristique de la place souveraine, est facilitée par la souplesse du trait, gage d’équilibre entre la force brute qui s’exprime au niveau de la seconde ligne, en correspondance, et l’influence du trait supérieur."
+trait6: "En haut un neuf\n
+Ne serait-ce pas là un chemin\n
+Détourné du Ciel\n
+Favorisant"
+trait6_description: "Le Ciel est l’image même de ce qui n’a pas d’autre modèle que soi-même. Symbole d’un ordre impersonnel et universel, il n’est pas expansion infinie mais régulation constante en mesure de déterminer naturellement sa propre limite. Par cette capacité d’autorégulation, sa force se manifeste sans brutalité et se canalise d’elle-même dans des formes durables. Cette limitation spontanée par laquelle la force s’apprivoise, on la voit s’exprimer notamment à la ligne souveraine d’ÉLAN CRÉATIF, où la créativité s’exerce de manière juste par le fait que la mesure ne soit pas dépassée.\n
+Que le Ciel puisse s’abstenir de suivre un mouvement rectiligne et univoque pour s’imposer des détours, est une réalité surprenante seulement pour ceux qui n’envisagent la créativité que directe, voire brutale. La forme interrogative du texte renvoie ironiquement le lecteur à lui-même, afin que l’expérimentation de sa force instinctive lui fasse conclure de lui-même à la nécessité d’un tel détour.\n
+La dernière ligne d’un hexagramme représente en général un retournement. Le mouvement général de GRAND APPRIVOISE- une contention exercée sur le bas, l’intérieur, le passé, - s’inverse ici dans la promesse d’une floraison spécifiée par favorisant, qui décrit l’échange communicatif entre les flux du Ciel et de la Terre."
+grande_image: "Le ciel est au coeur de la montagne\n
+GRAND APPRIVOISE\n
+L’Être Accompli ainsi\n
+En gravant dans son esprit\n
+Beaucoup de paroles et d’actions passées\n
+APPRIVOISE ainsi sa conduite"
+dixieme_aile: "GRAND APPRIVOISE\n
+Moment opportun"
+nucleaire: '54 - Mariage de la Cadette'
+oppose: '45 - Réunion'
+renverse:
+image:
 trigramme_bas: "ciel"
 trigramme_haut: "montagne"
-numero: 26
+

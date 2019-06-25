@@ -1,10 +1,63 @@
-nom: '44 - Etre Accueillant'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "ciel"
-trigramme_haut: "ciel"
 numero: 44
+nom: '44 - ÊTRE Accueillant'
+description:
+jugement: "ÊTRE ACCUEILLANT\n
+La femme est en PUISSANCE\n
+Ne pas agir\n
+Prendre femme"
+jugement_description: "Tout comme les nuits commencent à rallonger après le solstice d’été, quand le flamboiement du soleil de juillet masque encore le renversement à l’œuvre, ÊTRE ACCUEILLANT montre le RETOUR des forces Yin à un moment où leur essor n’est encore qu’à peine perceptible. Cette dynamique a un emblème : la femme. Qu’elle soit ici déterminée par la FORCE qui qualifie le Yang à l’hexagramme 34 n’est contradictoire qu’en apparence. D’abord parce que cette force est solidité – l’idéogramme force s’écrit avec le signe de la terre – ensuite parce qu’elle est potentialité : la femme est en puissance, la fécondité que porte le Yin est à venir.\n
+La prépondérance du Yang est en revanche bien visible, manifestée par la masse des cinq traits fermes qui s’appuient sur le germe Yin naissant à la base de la figure. Ne pas tenir compte de ce germe, l’empêcher de se former, pourrait – comme le suggèrent les variantes de l’idéogramme force – entraîner des blessures. Le temps des initiatives est passé, la puissance se trouve désormais dans une attitude souple et accueillante. L’impulsion est maintenant à contre- courant et doit faire place à une force endurante et cachée qui laisse au temps le soin de la faire croître et prendre forme. Comme au Jugement de l’hexagramme 31, le conseil de prendre femme symbolise la capacité à intégrer des INCITATIONS multiples dans un processus à longue échéance. C’est la rencontre entre faculté d’activation et capacité de durer qui permet désormais à la créativité de s’enraciner."
+trait1: "Au début un six\n
+Attaché par une cale de métal\n
+Présage d’ouverture\n
+Il y a où aller\n
+Fermeture visible\n
+Porc maigre\n
+Onde porteuse hésitante et bloquée"
+trait1_description: "L’importance du seul trait Yin de la figure, situé à la base d’un bloc Yang, est manifestée par la longueur du texte qui lui est associé. A l’orée d’une situation qui marque elle-même l’entrée dans un processus à long terme, le freinage représenté par le retour de la polarité Yin est explicite. S’il est évoqué par une cale, mécanisme spécifique du char, c’est pour signaler l’arrêt de la relation fluide entre Yin et Yang et généralement symbolisée par le char. Le texte précise que cette cale est en métal, ce qui souligne la force de ce freinage. Pourtant ce ralentissement ne doit pas désarçonner, ni être vécu comme un blocage définitif : pour peu qu’il soit replacé dans un processus global d’intériorisation, il peut ouvrir des perspectives fécondes.\n
+Le trait est incorrect et en relation de correspondance avec le 4ème, incorrect également et placé au milieu d’un groupe de cinq Yang. Le rapport entre freinage interne et implication active au-dehors peut provoquer un affolement inopportun. Le porc, image de ce qui relie à l’invisible lors du culte aux ancêtres, représente aussi ce qui croît avec le temps. Qualifié de maigre, il symbolise le tout début d’un processus de maturation qu’une tendance à l’agitation inquiète ne peut que perturber. Entrer dans un jeu de tensions brusques reviendrait à transformer la fermeture visible, c’est-à-dire probable, en une fermeture croissante, c’est-à-dire effective, celle décrite à la 4ème ligne. On doit accepter le ralentissement et l’inclure dans un processus créatif à long terme, sous peine de le vivre dans une agitation inquiète entravant la confiance et l’échange."
+trait2: "Neuf en 2\n
+Dans l’enceinte il y a des poissons\n
+Absence de faute\n
+Pas profitable d’accepter l’hospitalité"
+trait2_description: "Premier Yang de l’hexagramme, incorrect à ce niveau de Préfet, ce trait est le premier où il est question d’une enceinte, c’est-à-dire d’un enveloppement. Que le poisson soit l’image d’une nourriture ou le symbole d’une fécondité abondante, il est à l’intérieur d’une matrice close qui le protège en empêchant le contact avec l’extérieur.\n
+Comme à la ligne précédente avec laquelle celle-ci est en relation privilégiée de voisinage, on doit éviter de s’engager de façon intempestive. Le repli sur soi est ici tout à fait adéquat : en s’abstenant de commencer, que ce soit pour donner ou pour recevoir, on évite de dépenser ses réserves et on favorise une croissance dont le fruit devient visible au niveau de la ligne souveraine."
+trait3: "Neuf en 3\n
+Fesses sans peau\n
+L’agir fait étape un moment\n
+Danger\n
+Absence de grande faute"
+trait3_description: "Yang à une place Yang, entraînée par le bloc des 5 traits Yang auquel elle appartient, cette ligne de passage n’est pas de celles où l’on accepte facilement de modérer sa vivacité. Mais un activisme excessif finit par trouver de lui-même sa limite. Lorsqu’il n’y a plus rien pour protéger ou voiler, les choses apparaissent nues et crues : on est alors amené à calmer ses ardeurs et à ralentir naturellement son activité.\n
+Tenter de réagir à ce freinage contraint en essayant de forcer les choses, ce serait s’exposer au danger d’une confrontation agressive, comme celle décrite à la 6ème ligne. Cependant la situation affaiblie dans laquelle on se trouve interdit d’en faire trop, ce qui permet d’éviter ces inconvénients."
+trait4: "Neuf en 4\n
+Dans l’enceinte il n’y a pas de poissons\n
+Fermeture croissante"
+trait4_description: "A cette ligne est décrite une attitude d’incompréhension devant la transformation qui s’opère au moment d’ËTRE ACCUEILLANT. L’image de l’enceinte pleine de poissons, déjà utilisée à la seconde ligne, est reprise mais négativement : le vivier est vide. Alors que l’attitude décrite à la place de Préfet est toute de prudence, la nature de ce trait, Yang à une place Yin, et sa position au milieu d’un groupe de cinq Yang suggèrent une fermeté exagérée qui pousse à reprendre l’agitation un temps retenue à la ligne précédente.\n
+Même la relation de correspondance avec la première ligne, seul trait Yin de l’hexagramme, joue de manière négative, les deux traits étant incorrects. Le commerce Yin-Yang ne s’effectue pas normalement : à la première ligne, le char est bloqué, ici il n’y a pas de nourriture disponible. Une attitude intransigeante ne fait qu’accroître l’incapacité à entrer en relation et ferme la porte aux possibilités de fécondité contenues dans la situation."
+trait5: "Neuf en 5\n
+Melons enveloppés dans une enceinte en osier\n
+Distinction contenue\n
+Il y a quelque chose tombant\n
+D’en haut du ciel"
+trait5_description: "Loin des agitations et incertitudes précédentes, la rencontre s’effectue ici sous le signe de la fécondité et de la retenue. La description conjointe de l’action du Ciel et des fruits de la Terre indique quelle est la manière souveraine d’ÊTRE ACCUEILLANT. Le melon rappelle les autres symboles Yin mentionnés dans les lignes précédentes : le porc dont il a la rondeur accomplie, les poissons dont le frai rappelle ses graines abondantes. Après ces différentes promesses de gestation, le fruit est là, mûr mais encore caché, réservé, soigneusement enveloppé dans une enceinte en osier. Le saule, dont les branches poussent vers le bas, évoque ce qui se courbe vers la Terre comme pour aller à la rencontre de ce qui croît dans l’invisible tout au long de l’hexagramme : il est l’image même de qui sait se plier pour recevoir.
+Cette manière accueillante et noble résonne harmonieusement avec la mention d’une distinction contenue. Que cette réserve, caractéristique de la disponibilité Yin décrite à la ligne de passage d’ÉLAN RÉCEPTIF, soit nommée ici à la place souveraine et au milieu d’un groupe de traits Yang, est une indication de l’attitude juste par laquelle chaque polarité s’ouvre à l’influence de l’autre. La capacité à servir sans se mettre en avant est une invite adressée au Yang d’avoir à œuvrer de manière complémentaire : le Ciel ne s’enferme pas dans une attitude hautaine, mais donne un horizon à son action en s’ouvrant à la Terre. C’est l’image même de la rencontre féconde, en écho à la retenue qui s’exerce opportunément à la place de Préfet – il n’y a d’ailleurs qu’au niveau des deux lignes centrales de l’hexagramme que l’on est à même de considérer le contact, et le ralentissement qu’il provoque, comme une possibilité de fécondation et de croissance. Bien que le texte ne comporte pas d’appréciation mantique particulière, l’aspect favorable du moment apparaît dans le contraste avec la fermeture indiquée à la ligné précédente et la gêne citée à la ligne suivante. Une attitude précautionneuse et attentive, prête à recevoir tout élément inconnu, est la manière juste de se tourner vers ce qui peut survenir."
+trait6: "En haut un neuf
+ÊTRE ACCUEILLANT les cornes hautes\n
+Gêne\n
+Absence de faute"
+trait6_description: "Alors qu’ÊTRE ACCUEILLANT est entièrement axé sur l’idée d’intégration sereine d’un élément Yin appelé à croître dans l’imperceptible, l’apparition du nom de l’hexagramme à ce niveau de sortie dénote le passage à une visibilité qui est de l’ordre du Yang. La retombée est nette, annoncée par le danger signalé à la 3ème ligne. Tandis que le déroulement des cinq premiers traits décrit une croissance intérieure du frein jusqu’au fruit, on se dresse ici agressivement vers l’autre, à la manière des dragons se combattant à la dernière ligne d’ÉLAN RÉCEPTIF.\n
+La position de ce trait, incorrect et situé au plus loin de la seule ligne Yin de la figure, rend une relation fluide particulièrement difficile : c’est ici que la suprématie du Yang est la plus entière car elle est confortée par tous les traits Yang qui précèdent. Se conduire comme le jeune bélier qui, à l’hexagramme 34 GRAND FORCE, fonce tête baissée contre ce qui lui fait face est une attitude blessante qui provoque la gêne, c’est-à-dire le rétrécissement des potentialités d’accueil. Absence de faute est une incitation à ne pas en rester à une conduite aussi négative."
+grande_image: "Sous le ciel il y a le vent\n
+ÊTRE ACCUEILLANT\n
+Les Souverains ainsi\n
+En déployant les mandats\n
+Informaient les quatre régions"
+dixieme_aile: "ÊTRE ACCUEILLANT\n
+Se trouver face à face\n
+Souplesse rencontre Fermeté"
+nucleaire: '1 - Élan Créatif'
+oppose: '24 - Retour'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "ciel"

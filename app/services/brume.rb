@@ -5,7 +5,7 @@ def trig_bas_brume(trig)
     '54 - Mariage de la Cadette'
   elsif trig == 'montagne'
     '41 - Diminuer'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '61 - Juste Confiance'
   elsif trig == 'brume'
     '58 - Echanger'

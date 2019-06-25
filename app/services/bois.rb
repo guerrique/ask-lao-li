@@ -1,11 +1,11 @@
-def trig_bas_marais(trig)
+def trig_bas_bois(trig)
   if trig == 'ciel'
     '44 - Etre Accueillant'
   elsif trig == 'tonnerre'
     '32 - Endurer'
   elsif trig == 'montagne'
     '18 - Remédier au Corrompu'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '57 - Se Modeler'
   elsif trig == 'brume'
     '28 - Grand Excès'

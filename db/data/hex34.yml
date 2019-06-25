@@ -1,10 +1,59 @@
 nom: '34 - Grand Force'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "GRAND FORCE\n
+Ténacité profitable"
+jugement_description: "Ni personnage modèle, ni précision d’attitude, ni allusion d’aucune sorte, le Jugement de GRAND FORCE compte parmi les plus brefs du Yi Jing, où cette concision est en général signe d’aisance et de fluidité. Le nom de l’hexagramme est en soi une description de la situation et de la manière de s’y comporter. Ensuite, comme au Jugement de GRAND RÉALISE, deux caractères seulement résument un dispositif énergétique suffisamment fort pour pouvoir s’appliquer sans plus de détails à n’importe quel contexte.\n
+Pour accompagner la puissance du Yang de manière harmonieuse, il faut agir sans forcer mais de façon suivie. La fatigue est le danger qui guette aux moments de grande dépense d’énergie. Si l’aptitude à faire prospérer est caractéristique des moments de grande force, encore faut-il savoir faire preuve d’endurance et ne pas faiblir dans la tâche entreprise."
+trait1: "Au début un neuf\n
+FORCE aux pieds\n
+Impasse pour des expéditions\n
+Il y a onde porteuse"
+trait1_description: "Au tout premier niveau de la situation, la FORCE commence à se manifester par l’envie de bouger et d’agir. Dans le Yi Jing, le pied est généralement un signe de mise en route, et parfois d’irrépressible démangeaison. Cependant, la première ligne d’un hexagramme représente un stade trop inexpérimenté pour qu’on laisse ce désir s’exprimer de manière immédiate et irréfléchie. Happé par une grande réserve de force Yang, on pourrait facilement être emporté par une tendance à outrepasser les limites et à s’imposer brutalement. Il importe de ne pas se laisser aveugler par une trop grande confiance et de maîtriser son élan : enraciner sa force permet de lui donner ampleur et assurance."
+trait2: "Neuf en 2\n
+Présage d’ouverture"
+trait2_description: "Comme dans le Jugement, la concision de ce texte est signe d’aisance et de fluidité. Il se résume à une appréciation mantique favorable, comparable à celles que reçoivent les deux autres niveaux pairs de l’hexagramme, les 4ème et 6ème lignes. La retenue qui incombe à cette place de Préfet est à même de modérer et d’équilibrer la GRANDE FORCE qui s’y exprime.\n
+L’incorrection du trait étant atténuée par sa position seconde, ainsi que par sa correspondance avec la ligne souveraine, il est possible ici de déployer sa créativité et, sans forcer, de mettre à profit les possibilités de réalisation présentes dans la situation."
+trait3: "Neuf en 3\n
+L’Etre Petit opère par FORCE\n
+Le Chef Accompli opère sans\n
+Présage de danger\n
+Le jeune bélier donne de la tête contre la haie\n
+Il s’y lie les cornes"
+trait3_description: "La 3ème ligne d’un hexagramme représente une transition vers l’extérieur, trop facilitée ici par la nature Yang du trait et sa position au milieu d’un bloc de quatre traits Yang. Lorsqu’on ressent intérieurement une GRANDE FORCE, on peut être tenté de forcer le Passage sans tenir compte ni de l’entourage, ni des effets de sa propre puissance. C’est le piège dans lequel tombe l’Etre Petit, image de qui ne sais que réagir au premier degré sans prendre de recul. Un Chef Accompli saura quant à lui saisir au moment voulu les lignes de force qui traversent la situation, sans précéder les événements ni se jeter au-devant du danger.\n
+Réserve et perspicacité permettent de ne pas se comporter comme un bélier fougueux que sa vigueur et son intrépidité précipitent dans la plus grande confusion. Sa mésaventure est un avertissement donné à qui s’entêterait à forcer la situation. Le bélier réapparaît en effet à la 6ème ligne de l’hexagramme dans une posture similaire, que son obstination rend encore plus inextricable."
+trait4: "Neuf en 4\n
+Présage d’ouverture\n
+Tout regret disparaît\n
+La haie s’ouvre\n
+On n’est plus lié\n
+FORCE à l’essieu d’un grand chariot"
+trait4_description: "Situé au contact des traits Yin qui occupent les deux places supérieures de l’hexagramme, ce trait ferme, surplombant un ensemble de quatre traits Yang, est celui où la vitalité peut se manifester sans abus. La FORCE, qui est pur élan aux traits précédents, trouve ici une direction et devient capacité à faire progresser la situation sans dommages. L’habileté consiste à faire s’évanouir les obstacles sans les forcer et à éviter ainsi les confrontations qui emprisonnent encore au stade précédent.\n
+Appliquée aux pieds à la première ligne, la force est ici rapportée au chariot, symbole de l’univers en marche et donc d’une capacité à faire progresser la situation : ce n’est plus une propension instinctive à aller de l’avant qui est décrite, mais une canalisation efficace de la vitalité. Placé au contact du Yin, l’élan Yang est ralenti et gagne en possibilités de réalisation, le maintien de l’équilibre entre les deux polarités permettant un fonctionnement harmonieux et fluide. Qualifié comme le second trait par un présage d’ouverture, ce moment est le plus favorable de l’hexagramme."
+trait5: "Six en 5\n
+Perte des béliers à la ville de Yi\n
+Pas de regrets"
+trait5_description: "Le sens du texte de cette ligne n’est pas complètement assuré. Il est possible qu’il y soit fait allusion aux aventures de Wang Hai, personnage légendaire de la dynastie des Shang et marchand de troupeaux de son état, qui aurait perdu plusieurs fois ses biens pour cause de galanterie trop empressée envers les épouses de ses hôtes. Un comportement irréfléchi qui peut être rapproché de celui du bélier impulsif se prenant les cornes dans la haie aux 3ème et 6ème lignes.\n
+Les deux traits Yin qui surplombent GRAND FORCE aux 5ème et 6ème niveaux expriment la même difficulté à contenir la poussée du Yang. La vigueur combative du bélier n’est pas à sa place à cette ligne souveraine, et l’incitation à réagir signalée par la formule pas de regrets suggère que sa perte n’est pas si fâcheuse. La position centrale de la ligne, ainsi que les relations qu’elle entretient avec les deux traits où se trouvent les formules mantiques les plus favorables – correspondance avec le 2ème, voisinage avec le 4ème – confirment que les déconvenues subies peuvent s’avérer des expériences positives, si elles amènent à prendre conscience de l’avantage qu’il y a à brider l’impétuosité."
+trait6: "En haut un six\n
+Le jeune bélier donne de la tête contre la haie\n
+Il ne peut pas reculer\n
+Il ne peut pas aller de l’avant\n
+Aucun lieu n’est profitable\n
+Difficultés donc ouverture"
+trait6_description: "Les deux traits Yin qui surplombent GRAND FORCE aux 5ème et 6ème niveaux expriment la même difficulté à contenir la poussée du Yang. Le texte mentionne ici les mêmes errements qu’à la 3ème ligne, avec laquelle celle-ci est en relation de correspondance. Le désir de foncer tête baissée symbolisé par l’ardeur juvénile du bélier se solde cette fois par un blocage complet. La vivacité fougueuse ne conduit à rien quand elle n’est pas maîtrisée, et aucune initiative ne peut être envisagée à ce niveau de sortie si on en reste encore au stade de l’élan.\n
+Paradoxalement, cette immobilisation peut se révéler positive. Le trait, Yin à une place Yin, est correct, et on y trouve même une appréciation mantique plus favorable qu’aux autres places Yin de l’hexagramme. C’est la capacité à endurer les difficultés qui permet de se sortir de cette situation. Réaliser qu’on est le jouet d’une force instinctive est le premier pas vers un réagencement constructif."
+grande_image: "Le tonnerre est au-dessus du ciel\n
+GRAND FORCE\n
+L’Être Accompli ainsi\n
+En ne dérogeant pas aux rites\n
+Ne se trompe pas dans sa DEMARCHE"
+dixieme_aile: "GRAND FORCE\n
+Donc s’arrêter"
+nucleaire: '43 - Se Montrer Résolu'
+oppose: '20 - Regarder'
+renverse:
+image:
 trigramme_bas: "ciel"
 trigramme_haut: "tonnerre"
 numero: 34
+
