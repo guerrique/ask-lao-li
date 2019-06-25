@@ -5,7 +5,7 @@ def trig_bas_eau(trig)
     '40 - Délivrance'
   elsif trig == 'montagne'
     '4 - Jeune Fou'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '59 - Dénouer'
   elsif trig == 'brume'
     '47 - Epuisement'

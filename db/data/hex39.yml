@@ -1,10 +1,58 @@
+numero: 39
 nom: '39 - Obstruction'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "OBSTRUCTION\n
+Profitable le Sud-Ouest\n
+Pas profitable le Nord-Est\n
+Profitable d’aller voir quelqu’un d’envergure\n
+Présage d’ouverture"
+jugement_description: "Les moments d’OBSTRUCTION sont ceux où un obstacle empêche d’avancer. Ce blocage se manifeste par l’absence des appréciations mantiques usuelles dans les Jugements : la situation n’est ni une circonstance favorisante, ni un moment où l’on peut amorcer quelque chose de fondamentalement nouveau, ni non plus un contexte où un ténacité obstinée serait profitable.\n
+Cependant, pour réel que soit le blocage, il résulte moins de l’agencement de la situation elle-même, comme aux moments d’ADVERSITÉ, que du comportement que l’on y adopte. Non seulement il n’y a pas de fermeture, mais le moment peut même devenir porteur d’ouverture si on sait mettre à profit cet empêchement pour réexaminer la manière dont on se positionne. Comment réaliser cela ?le Jugement l’indique de deux manières, horizontalement par l’utilisation des points cardinaux, verticalement par l’incitation à aller voir quelqu’un d’envergure.\n
+La démarche à adopter est d’abord résumée par les indications Sud-Ouest et Nord-Est : se diriger vers le nord-est, ce serait attaquer le problème de manière Yang, stratégie décrite à différents traits par le verbe aller ; rester dans le sud- ouest permet en revanche de prendre du recul pour reconsidérer ce qui fait obstacle, attitude représentée dans les traits par le verbe venir. Il s’agit ensuite de prendre de la hauteur : si l’obstacle paraît infranchissable, c’est parce qu’on est trop proche ; s’en distancier en consultant un point de vue extérieur permet de reconsidérer le regard que l’on porte sur lui et ainsi de lui donner une dimension plus raisonnable."
+trait1: "Au début un six\n
+En allant OBSTRUCTION\n
+En venant éloges"
+trait1_description: "A ce niveau d’Entrée comme à tous les autres de l’hexagramme à l’exception des deux lignes centrales, est posée l’équation qui permet de dépasser l’obstacle : aller de l’avant mène au blocage ; revenir en arrière permet de reconsidérer la manière dont on se positionne. Malgré le désir qu’on pourrait avoir de s’élancer, prendre des initiatives serait aller au-devant d’ennuis. Rester à l’intérieur, c’est occuper la position légitime d’une place de début.\n
+A l’orée d’une situation où avancer est préjudiciable, la nature Yin du trait, incorrecte à cette place impaire, ainsi que son absence de relation avec les autres traits deviennent des atouts. La stratégie de repli est si opportune qu’elle reçoit des éloges habituellement réservés aux places supérieures d’un hexagramme."
+trait2: "Six en 2\n
+OBSTRUCTION sur OBSTRUCTION\n
+Pour le serviteur d’un roi\n
+C’est n’est pas sa personne qui est en cause"
+trait2_description: "A cette place de Préfet, comme à la 5ème ligne, il n’est question ni d’aller ni de venir : l’équation qui, à tous les autres niveaux, montre comment dépasser l’obstacle n’est pas citée. Le nom de l’hexagramme est en revanche redoublé : impossible ici d’échapper au blocage. Toutefois, central, correct et surtout en correspondance avec la ligne souveraine, ce trait réunit assez de potentialités pour que la situation soit vécue sans dommage : pas plus qu’aux autres lignes on ne trouve ici de formule mantique négative.\n
+Le serviteur, bien qu’il ne soit pour rien dans les obstructions actuelles, ne peut rester en dehors. Sa position seconde implique de se tenir disponible et d’apporter son concours à la partie qui, placée au comble des difficultés, les assume et cherche une issue à la situation."
+trait3: "Neuf en 3\n
+En allant OBSTRUCTION\n
+En venant retour"
+trait3_description: "A ce trait, comme aux autres niveaux de l’hexagramme à l’exception des deux lignes centrales, est posée l’équation qui permet de dépasser l’obstacle : aller de l’avant mène au blocage, revenir en arrière permet de reconsidérer la manière dont on se positionne. La fermeté du trait, correcte à cette place de Passage, peut indiquer une propension à pousser en avant qui serait, là encore, préjudiciable.\n
+D’autres éléments viennent cependant contrebalancer le désir d’avancer. Yang comme la ligne souveraine et comme elle en relation avec les trois niveaux Yin de la figure (les 2ème, 4ème et 6ème positions), ce trait est surtout en correspondance avec la 6ème ligne, seul niveau d’ouverture de la situation, où un conseil d’envergure incite à voir les choses de plus haut. Ces conditions favorisent le retrait, le retour en arrière qui permet un opportun recentrage – possibilité confirmée par l’absence de formule mantique négative. La sagesse consiste ici à ne pas intervenir directement, mais à savoir se tenir en concentrant toutes les forces vers l’intérieur."
+trait4: "Six en 4\n
+En allant OBSTRUCTION\n
+En venant union"
+trait4_description: "A ce trait, comme aux autres niveaux de l’hexagramme à l’exception des deux lignes centrales, est posée l’équation qui permet de dépasser l’obstacle : aller de l’avant mène au blocage, revenir en arrière permet de reconsidérer la manière dont on se positionne. Du fait de son voisinage avec les deux traits Yang de la figure, le trait, bien que correct à ce niveau pair, se trouve dans une position contradictoire entre le mouvement général vers l’intérieur et sa position extérieure de Ministre.\n
+A la fois impliqué dans les problèmes évoqués plus bas et amené comme à la 2ème ligne, à participer à la gestion des obstacles, on n’a pas d’autre choix que d’assumer le rôle de communication dévolu à cette place, et de faire le lien entre ce qui est ressenti intérieurement et les implications extérieures. Averti des difficultés auxquelles se heurte le mouvement vers le dehors, on peut jouer son rôle en organisant de manière efficace les potentialités qui convergent vers la place souveraine."
+trait5: "Neuf en 5\n
+OBSTRUCTION en Grand\n
+Des compagnons viennent"
+trait5_description: "A cette place de Souverain comme à la place de Préfet en seconde ligne, il n’est question ni d’aller ni de venir : l’équation qui, aux autres traits, montre comment dépasser l’obstacle n’est pas citée. En revanche, l’obstruction y est qualifiée de grande : c’est ici qu’on subit le blocage le plus important. Pour le maîtriser, la meilleure stratégie ne consiste pas à forcer le passage mais à savoir se placer au point où toutes les forces peuvent affluer vers soi.\n
+Correcte et centrale, la ligne est en relation avec les 3 niveaux Yin de l’hexagramme (en seconde, 4ème et 6ème positions), ce qui indique la possibilité de s’ouvrir à toutes les énergies et de les regrouper. La correspondance avec la seconde ligne et le voisinage avec la 4ème suggèrent l’assistance d’excellents serviteurs ; la proximité avec la 6ème, où l’on profite du point de vue d’un être d’envergure, apporte une influence positive. Alors que partout ailleurs dans l’hexagramme le verbe venir indique le repli à accomplir pour ne pas se précipiter dans les difficultés, ce sont ici les compagnons qui viennent vers soi, comme à l’hexagramme 24 RETOUR, où ils représentent le mouvement de resserrement par lequel un renouveau commence, par consolidation patiente, à prendre forme."
+trait6: "En haut un six\n
+En allant OBSTRUCTION\n
+En venant excellence\n
+Ouverture\n
+Profitable d’aller voir quelqu’un d’envergure"
+trait6_description: "A ce trait de Sortie, comme aux autres niveaux de l’hexagramme à l’exception des deux lignes centrales, est posée l’équation qui permet de dépasser l’obstacle : aller de l’avant mène au blocage, revenir en arrière permet de reconsidérer la manière dont on se positionne. Cependant ici, le texte ne se réduit pas à ce simple énoncé. Deux autres éléments montrent qu’à ce niveau, le plus élevé d’OBSTRUCTION, se produit un saut qualitatif : d’abord la mention de la seule formule mantique citée dans les traits, qui est une appréciation favorable ; ensuite la reprise à l’identique du conseil donné au Jugement de prendre de l’envergure.\n
+A ce trait, non seulement correct mais en relation avec les deux seuls Yang de la figure dont la ligne souveraine, l’intervention d’un point de vue extérieur apporte une hauteur de vue qui aide à ne pas s’épuiser vainement contre l’obstacle et favorise la transition vers des perspectives nouvelles. On est en mesure de réaliser que le pas en arrière est le meilleur moyen de sortir de l’obstruction, de considérer le mouvement de concentration intérieure comme un facteur de progrès, et de prendre conscience de la capacité enfouie de renouvellement symbolisée par l’excellence – terme utilisé au sommet de l’hexagramme 23 pour décrire la qualité du fruit qui permet de dépasser l’USURE."
+grande_image: "Au-dessus de la montagne il y a l’eau\n
+OBSTRUCTION\n
+L’Être Accompli ainsi\n
+En faisant retour sur lui-même\n
+Aiguise sa conduite"
+dixieme_aile: "OBSTRUCTION\n
+Difficultés"
+nucleaire: '64 - Pas encore traversée'
+oppose: '38 - Divergence'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "eau"
-numero: 39
+

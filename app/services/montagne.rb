@@ -5,7 +5,7 @@ def trig_bas_montagne(trig)
     '62 - Petit Excès'
   elsif trig == 'montagne'
     '52 - Stabiliser'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '53 - Pas à Pas'
   elsif trig == 'brume'
     '31 - Inciter'

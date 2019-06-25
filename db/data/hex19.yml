@@ -1,10 +1,59 @@
+numero: 19
 nom: '19 - Approcher'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "APPROCHER\n
+Fondamentalement favorisant\n
+Ténacité profitable\n
+Arrive le 8ème mois\n
+Il y a fermeture"
+jugement_description: "APPROCHER appartient à un ensemble de sept hexagrammes caractérisés par un groupement particulier de formules mantiques : les Quatre Qualités du Ciel Terre. Ces qualités marquent des moments où la possibilité de trouver le point de départ d’une situation et de lui faire prendre son essor se conjugue à l’endurance nécessaire pour en récolter les bienfaits. Les hexagrammes caractérisés par ce groupement de formules représentent des moments de réveil exubérant où il importe de savoir se mettre rapidement en adéquation avec l’instant présent. La situation n’est que propension à accomplir et le potentiel qu’elle recèle doit être mis à profit sans tarder.\n
+Ouvert à tous les possibles, ce jaillissement ne saurait en effet durer toujours. Pour ne pas se laisser emporter par la légèreté et l’ivresse printanières, il faut le considérer par rapport à un cycle temporel plus large. Un rétrécissement automnal surviendra à son heure, conformément aux variations régulières du Yin-Yang. Saisir le moment, c’est ici laisser sourdre les forces telles qu’elles se présentent en les accompagnant avec compréhension."
+trait1: "Au début un neuf\n
+APPROCHE INCITANTE\n
+Présage d’ouverture"
+trait1_description: "Le moment d’APPROCHE débute dans une atmosphère de fraîcheur et de vitalité qui permet de se tourner vers le monde avec appétit. Qu’il soit qualifié d’INCITANT dès ce premier niveau sous-entend l’entrée dans un jeu de réactions et stimulations qui peut s’avérer aussi turbulent que jubilatoire.\n
+Cet allant, fait d’émotions et de contacts, est ouvert à tous les possibles. Il est accentué par le fort rapport de solidarité avec la ligne suivante – seul autre trait Yang de l’hexagramme – où se retrouve un texte identique, ainsi que par la correspondance avec la 4ème ligne. Ces deux appuis, favorisant ouvertures multiples et expérimentations de toutes sortes, permettent de prolonger l’effervescence initiale en mouvement ouvert sur l’extérieur."
+trait2: "Neuf en 2\n
+APPROCHE INCITANTE\n
+Ouverture\n
+Rien qui ne soit profitable"
+trait2_description: "Au second niveau de l’hexagramme, le mouvement de réveil décrit à la ligne précédente se prolonge et se renforce. L’APPROCHE s’y manifeste par une même disposition à s’ouvrir au monde et une même aptitude à entrer dans le jeu de stimulations indiqué par INCITER, le nom de l’hexagramme 31. A ces dispositions s’ajoutent ici la qualité centrale dévolue à la place de Préfet et la correspondance avec la ligne souveraine, où un grand Chef peut faire profiter de son expérience. La position du trait au point de jonction entre forces d’impulsion et capacités d’accomplissement permet de consolider la poussée printanière, la nature Yin de la place venant équilibrer la poussée commune des deux traits Yang.\n
+Cette ligne enfin est au cœur de la situation. A la fois dérivé du trait et nucléaire de la situation dans son ensemble, l’hexagramme RETOUR indique une vitalité qui ne demande qu’à être guidée pour que ses forces puissent s’affermir. Pareille convergence explique pourquoi ce niveau est le plus profitable de l’hexagramme : tout ce qu’on tente ici est porté à se réaliser."
+trait3: "Six en 3\n
+APPROCHE sucrée\n
+Aucun lieu n’est profitable\n
+Après s’en être attristé\n
+Absence de faute"
+trait3_description: "Le 3ème niveau, place d’une transition souvent difficile entre l’intérieur et l’extérieur, est de plus ici l’endroit du contact entre traits Yang et Yin. Pressé par les impulsions décrites aux deux Yang précédents, on ne trouve pas d’emblée la manière adéquate de répondre à cette exubérance. Parmi les 5 saveurs, le sucré évoque la disponibilité propre au Yin, une disposition à l’acceptation qui pousse à aller jusqu’à consentir de bonne grâce à quelque chose de désagréable. Cependant, accepter tout ce qui se présente n’est pas à ce stade la manière adéquate de mettre à profit le temps de l’APPROCHE, et un état d’esprit de facilité mêlée de contrainte ne peut conduire à rien.\n
+La souplesse du trait n’est pas adaptée à ce niveau de Passage qui requiert des orientations plus précises. La situation n’est pas fermée pour autant : réaliser que l’on se prête trop mollement à ces vives montées d’énergie, et le déplorer, permet de sortir de l’incertitude et d’installer un autre dispositif."
+trait4: "Six en 4\n
+APPROCHE arrivée\n
+Absence de faute"
+trait4_description: "A ce niveau de Ministre est décrite une manière simple et directe de se pencher sur les choses pour les accueillir. Souple et correcte, la ligne est aussi en correspondance avec le premier trait. Cependant, plus éloignée que la précédente de l’effervescence des deux traits Yang, elle n’en subit pas inconsidérément la poussée.\n
+Arrivée à une double signification : d’une part on parvient ici à l’attitude de bienveillance suggérée dans le nom de l’hexagramme, d’autre part on aide ce qui pousse dans le bas de l’hexagramme à arriver, c’est-à-dire à éclore. On ne doit avoir aucune hésitation quant au bien-fondé d’une telle attitude."
+trait5: "Six en 5\n
+APPROCHE expérimentée\n
+Le devoir d’un grand Chef\n
+Ouverture"
+trait5_description: "Le mouvement d’APPROCHE, déjà bien soutenu à la ligne précédente, l’est de manière encore plus efficace à la ligne souveraine, où l’on est pleinement en mesure de se pencher vers les forces neuves qui jaillissent en bas de l’hexagramme. L’écho entre les idéogrammes qualifiant l’APPROCHE, expérimentée ici et arrivée au niveau précédent est subtil : la flèche, qui désignait le stade atteint au 4ème trait, suggère ici une parole efficace et juste.\n
+Le grand Chef évoque un personnage qui sait guider et mettre son expérience à la disposition des autres. La relation de correspondance avec la seconde ligne de l’hexagramme apparaît aussi dans la reprise de la même formule mantique. A ces deux niveaux peut se produire l’échange parfait entre incitation et accueil, entre jeunesse et expérience."
+trait6: "En haut un six\n
+APPROCHE magnifiée\n
+Ouverture\n
+Absence de faute"
+trait6_description: "La position de cette dernière ligne, éloignée des forces neuves qui s’expriment au bas de l’hexagramme et sans aucune relation avec les autres traits, pourrait laisser supposer un isolement. Mais, après la parole dispensée à la 5ème place, il s’agit d’un saut qualitatif marqué par la manière dont l’APPROCHE est qualifiée : magnifiée rend compte d’une attitude non seulement solide, loyale, généreuse, mais évocatrice de liens rituels qui sont le signe d’un raffinement et d’un positionnement supérieurs. Cette façon de se courber vers le monde pour favoriser et affermir son éveil représente un achèvement de l’APPROCHE qui en prolonge le sens."
+grande_image: "Au-dessus de la brume il y a la terre\n
+APPROCHER\n
+Ainsi l’Etre Accompli\n
+Inépuisable dans son affectueux soucis d’enseigner\n
+Est au-delà des frontières dans\n
+Son tolérant soucis du peuple"
+dixieme_aile: "Le sens de APPROCHER et REGARDER\n
+Parfois donner parfois demander"
+nucleaire: '24 - Retour'
+oppose: '33 - Retraite'
+renverse:
+image:
 trigramme_bas: "brume"
 trigramme_haut: "terre"
-numero: 19
+

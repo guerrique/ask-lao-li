@@ -1,10 +1,54 @@
-nom: '32 - Endurer'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
-trigramme_bas: "marais"
-trigramme_haut: "tonnerre"
 numero: 32
+nom: '32 - Endurer'
+description:
+jugement: "ENDURER\n
+Favorisant\n
+Absence de faute\n
+Ténacité profitable\n
+Profitable d’avoir où aller"
+jugement_description: "ENDURER ne signifie pas s’arc-bouter sur une position acquise, ni maintenir simplement les choses en l’état par une gestion routinière. Il faut poursuivre dans l’orientation choisie, sans craindre de faire vivre et se déployer la situation, c’est-à-dire trouver à la fois constance et vitalité.\n
+Le nageur, le montagnard et tous ceux qui réalisent de longues traversées savent bien que la longanimité ne dépend ni du résultat immédiat ni de la proximité du but. Il importe de garder en tête l’objectif à atteindre et de mesurer l’instant à l’aune du long temps."
+trait1: "Au début un six\n
+CONSTANCE qui s’enfonce\n
+Présage de fermeture\n
+Aucun lieu n’est profitable"
+trait1_description: "La position initiale de ce trait le met en contradiction avec l’orientation générale de l’hexagramme : l’endurance est affaire de temps. Le mouvement décrit est un creusement impatient et volontariste qui risque plus d’immobiliser, et même d’enfoncer que de faire évoluer la situation.\n
+Yin à une place Yang, le trait est incorrect et en correspondance avec le 4ème où est décrite une chasse inopportune et vaine. Une agitation excessive éloigne de la solidité requise dans ce contexte, et des initiatives vers l’extérieur qui se décideraient dans un tel état d’esprit ne peuvent conduire à rien de profitable. La construction est similaire à celle de la 6ème ligne, également trop éloignée du « coeur » que demande la CONSTANCE."
+trait2: "Neuf en 2\n
+Tout regret disparaît"
+trait2_description: "La sobriété et la concision du texte de cette ligne sont à l’image d’une attitude simple où l’on maintient calmement sa position. On ne se laisse attirer ni par l’agitation exprimée au premier trait, ni par le désir d’amélioration rapide indiqué au 3ème.\n
+Bien que le trait, Yang à une place Yin, soit incorrect, la centralité de la place permet de conserver une position médiane bienvenue entre ces deux niveaux où l’on s’avère incapable de régler correctement son comportement. La correspondance avec la 5ème ligne est un autre point positif : c’est là qu’apparaît le présage d’ouverture, seule formule mantique favorable de l’hexagramme, appliquée au personnage de la femme, symbole Yin en affinité avec cette place de Préfet."
+trait3: "Neuf en 3\n
+Sans CONSTANCE dans son attitude\n
+Peut-être la honte d’une promotion\n
+Présage de gêne"
+trait3_description: "Yang à une place Yang et situé au milieu d’un bloc de trois Yang, ce trait indique une tendance à rechercher une élévation ou une évolution rapides. A ce niveau de Passage, il conviendrait au contraire d’assurer la transition entre l’intérieur et l’extérieur, c’est-à-dire de ramasser ses forces pour assumer la situation actuelle, et non de chercher un soulagement en la quittant. Cette incapacité à tenir correctement sa place est sanctionnée par deux formules mantiques particulièrement défavorables.\n
+En écho au blocage auquel aboutissent l’opportunisme et le manque d’endurance décrits dans les mêmes termes à l’hexagramme ADVERSITÉ, l’éventuelle promotion mentionnée ici n’entraîne que confusion et stérilité."
+trait4: "Neuf en 4\n
+Dans les champs pas d’oiseaux"
+trait4_description: "Assortie d’un texte presque aussi bref que celui du 2ème trait, cette ligne située en place de Ministre n’a pas l’avantage de la centralité dévolue à la place de Préfet. Poussée par les traits Yang qui la précèdent, et Yang à une place Yin donc incorrecte, elle décrit comme la 3ème ligne une tendance à s’échapper de la situation par un mouvement vers l’extérieur. Mais chercher à exercer son activité au-dehors, dans un territoire éloigné, plutôt que de travailler à sa disposition intérieure, est inutile. L’espoir d’une gratification immédiate, obtenue au loin et peut-être par hasard, est infondé. Le texte, purement descriptif, ne contient aucune mention négative, cependant la notion de CONSTANCE en est absente."
+trait5: "Six en 5\n
+CONSTANCE dans son attitude\n
+Présage\n
+Pour l’épouse ouverture\n
+Pour le mari fermeture"
+trait5_description: "La ligne souveraine comporte à la fois le nom de l’hexagramme et la seule formule mantique favorable de tous les traits. L’attitude de droiture qui fait défaut à la 3ème ligne est là, mais la mention de personnages symbolisant des démarches Yin et Yang révèle une incertitude quant à la manière de l’exercer.\n
+Le mari est l’emblème de la conduite ferme par laquelle on cherche à imposer sa volonté. Persister dans un tel comportement serait signe de rigidité, non d’endurance. L’épouse en revanche, image d’une attitude Yin, est à même, sans se mettre en avant, d’équilibrer variations et turbulences. Sa qualité de souplesse, rattachée au centre et à la terre, permet de préserver la situation tout en la renouvelant. La position centrale de cette ligne n’autorise pas le dirigisme, elle exige disponibilité et courage."
+trait6: "En haut un six\n
+CONSTANCE qui s’agite\n
+Fermeture"
+trait6_description: "La CONSTANCE est affaire de force intérieure. A ce trait de Sortie, le plus extérieur de l’hexagramme, la capacité d’endurer fait défaut, comme au trait d’entrée – les deux textes sont construits de manière identique. Creuser constamment ou s’agiter constamment, ces mêmes façons remuantes d’envisager la constance aboutissent à une impasse similaire, encore plus effective à cette dernière ligne."
+grande_image: "Tonnerre Vent\n
+CONTANCE\n
+Ainsi l’Être Accompli\n
+En se tenant fermement debout\n
+Est sans mutation dans son orientation"
+dixieme_aile: "CONSTANCE\n
+Longtemps"
+nucleaire: '43 - Se Montrer Résolu'
+oppose: '42 - Augmenter'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "tonnerre"
+

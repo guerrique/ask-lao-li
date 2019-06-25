@@ -1,10 +1,60 @@
 nom: '14 - Grand Réalise'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "GRAND RÉALISE\n
+Fondamentalement favorisant"
+jugement_description: "Ni personnage modèle, ni conseil d’attitude, ni allusion d’aucune sorte, le Jugement de GRAND RÉALISE est l’un des plus brefs du Yi Jing. Outre le nom de l’hexagramme, qui constitue déjà par lui-même une description de la situation et une indication sur la manière de s’y comporter, il ne compte que deux caractères – concision qui est souvent signe d’aisance et de fluidité. Quand vient le moment où le GRAND RÉALISE, il y a une telle aptitude à réaliser qu’il est possible de déployer son énergie créatrice quelle que soit l’action envisagée.\n
+La seule phrase du texte est une formule mantique classique indiquant la possibilité de combiner une grande capacité d’initiative (fondamentalement) à une puissante force de déploiement (favorisant). Elle prend un relief particulier dans la mesure où elle appartient au groupement appelé les Quatre Qualités du Ciel-Terre. Que seuls les deux premiers termes en soient mentionnés, sans les deux qualités complémentaires (ténacité profitable), souligne que le moment n’est pas caractérisé par une situation acquise qu’il conviendrait de perpétuer mais par une force de matérialisation susceptible de s’appliquer à n’importe quel contexte, quelles que soient les circonstances ou les moyens à disposition. Si elle ne peut être davantage décrite, c’est que la situation n’est que propension à accomplir. Même si les formes sous-jacentes qu’elle contient ne sont pas encore apparentes, le potentiel qu’elle recèle est immense."
+trait1: "Au début un neuf\n
+Absence de relation avec ce qui nuit\n
+Aucune faute\n
+Difficultés donc absence de faute"
+trait1_description: "A tous les niveaux de GRAND RÉALISE, la capacité à entrer en relation est le moyen principal d’aider la situation à se réaliser. Mais la première place d’un hexagramme indique souvent un moment d’inexpérience ou d’impétuosité, surtout au départ d’une série de traits Yang. On a donc de fortes chances de ne pouvoir pour l’instant aboutir de la manière espérée.\n
+Il ne faut pas s’émouvoir de ces relations difficiles ou impossibles. Qu’il soit impossible dès l’entrée dans la situation d’entretenir des liens avec des éléments négatifs ne doit pas décourager. Ce n’est qu’au 3ème niveau de l’hexagramme qu’une distinction peut se faire entre gens de peu et personnages capables de se relier. Et ce n’est qu’à la place souveraine que l’on est en mesure de trouver l’attitude susceptible d’en imposer à tous, y compris aux plus malfaisants. Les empêchements actuels ne doivent pas décourager, mais stimuler."
+trait2: "Neuf en 2\n
+Un grand char à charger\n
+Il y a où aller\n
+Absence de faute"
+trait2_description: "Signe de position sociale et marque honorifique, le char est également le symbole du couplage Yin-Yang, qui permet à l’univers de fonctionner. Ce couplage s’effectue ici de manière particulièrement efficace : Yang au milieu d’un groupe de traits Yang, ce trait est en correspondance avec la seule ligne Yin de la figure, située à la place souveraine. Créativité et disponibilité sont en mesure de s’apprivoiser mutuellement et d’entretenir une relation très efficace.\n
+C’est le seul endroit où le texte insiste sur la capacité du char à recevoir un chargement : il y a donc de grandes possibilités mais beaucoup à faire, et la fonction de Préfet dévolue à cette place implique de se mettre au service de tâches concrètes et multiples. Il n’y a pourtant pas lieu de se laisser effrayer par le travail à accomplir. Le meilleur moyen de tirer parti de ce potentiel est de s’orienter en fonction d’un but clairement déterminé et de toujours le garder en vue."
+trait3: "Neuf en 3\n
+Le Duc favorise l’essor par un rite\n
+Auprès du Fils du Ciel\n
+L’Etre Petit en est incapable"
+trait3_description: "Place de transition entre le haut et le bas, la 3ème ligne est généralement l’endroit où se condense la difficulté de l’hexagramme. C’est particulièrement le cas dans GRAND RÉALISE où la capacité à se mettre en contact avec les souffles qui animent l’univers est primordiale pour faire passer les choses du virtuel au réel. Bien que le terme de relation ne soit pas utilisé comme à la première et à la cinquième ligne, cet objectif requiert du sujet de savoir se tourner vers ce qui le dépasse, tout comme le vassal se tourne vers son suzerain dans une disposition intérieure d’abnégation et de gratitude.\n
+Il ne s’agit pas pour autant de rester passif. Un véritable vassal n’est pas un simple exécutant soumis et fataliste, mais il prend les choses à son compte et cultive la relation qu’il entretient avec les sphères supérieures, répondant par un mouvement symétrique d’accueil aux potentiels offerts. Tout comme le Roi prend modèle sur le Ciel, le Duc calque son attitude sur celle du Fils du Ciel, qui lui-même redistribue les dons du Ciel, sa généreuse disponibilité étant le canal permettant au Yang de se manifester. Un grand vassal sait se rendre capable d’assumer et de redonner les dons du Ciel, aussi difficiles soient-ils. L’homme de peu au contraire n’est capable ni de les reconnaître, ni à fortiori d’en prendre la responsabilité ; il n’entrevoit même pas la possibilité d’une relation certes exigeante mais d’une qualité supérieure."
+trait4: "Neuf en 4\n
+N’amplifier aucunement son importance\n
+Absence de faute"
+trait4_description: "La proximité de ce trait avec la 5eme ligne le met en contact direct avec l’attitude noble et compréhensive qui caractérise la place souveraine. Il ne s’agit pas pour autant de se laisser aveugler par cette avantageuse position et de gâcher par une attitude inconséquente les possibilités qu’elle offre.\n
+Incorrect et poussé par le bloc des traits Yang qui le précèdent, ce qui peut conduire à des imprudences, ce trait fait écho à la première ligne, axée sur l’idée de nuisance. L’importance indiquée sonne comme une injonction à éviter toute intervention tonitruante – le dessin de l’idéogramme suggère de ne pas résonner comme un tambour. Veiller à rester à sa place est ici la meilleure façon de faire évoluer la situation."
+trait5: "Six en 5\n
+Quelle onde porteuse !\n
+Comme elle met en relation\n
+Comme elle en impose\n
+Ouverture"
+trait5_description: "L’attitude décrite à la place souveraine est soulignée par un texte au lyrisme assez inhabituel. La mise en valeur du Yin à cette place centrale indique une disposition à entendre et soutenir telle qu’elle permet de se prêter à toutes les tendances. Cette position exceptionnelle entraîne l’apparition de deux qualités rares : un sentiment d’être porté tellement fort qu’il inspire à l’entourage une confiance inébranlable ; une capacité impressionnante à mettre individus et situations en contact avec l’énergie qui les nourrit et les anime. Ces qualités doivent être cultivées et mises à profit, sans qu’il soit nécessaire d’intervenir directement, pour soutenir la réalisation des projets qui se présentent.\n
+Le niveau souverain est celui du Fils du Ciel, auquel il est fait référence à la 3ème ligne. Qu’il n’y soit fait allusion qu’indirectement est bien dans la tonalité d’effacement du Yin, ici mis à l’honneur. L’autorité naturelle qui s’exerce à ce stade n’est citée qu’une autre fois, au niveau supérieur de l’hexagramme 37 GENS DU CLAN, ce qui précise la position décrite ici : le rôle de pivot par lequel un Roi rassemble, hiérarchise et relie. Cette attitude souple et majestueuse est à la racine de la force qui s’exerce à toutes les autres lignes."
+trait6: "En haut un neuf
+De lui-même le ciel vient en aide\n
+Ouverture\n
+Rien qui ne soit profitable"
+trait6_description: "La dynamique globale d’un hexagramme se renverse souvent à la ligne de Sortie, particulièrement quand la position supérieure du dernier trait se double d’une tendance à surpasser la ligne souveraine. Mais comment pourrait-on ici dépasser un Souverain lui-même tourné vers le Ciel et accomplissant parfaitement le rôle qui consiste à en transmettre la puissance ? Ce niveau est au contraire celui où se prolonge et s’amplifie l’esprit de réalisation qui s’exprime à tous les traits précédents.\n
+Qui se situe sur ce plan est en mesure de rester en relation constante avec des forces non encore inscrites dans le réel, à la lisière de toute manifestation : le contact avec la source créative est direct, le souffle du Ciel aidant à trouver spontanément les formes et s’écoulant dans les œuvres sans autre modèle que le Ciel lui-même. Cette élévation ne coupe pas pour autant des forces décrites aux autres lignes. Par sa nature Yang, ce trait est en résonance avec la créativité qui parcourt l’hexagramme entier : par l’évocation du Ciel, il fait écho à la 3ème ligne, tandis qu’il est associé à la ligne souveraine par la reprise de l’appréciation ouverture, encore amplifiée par l’assurance que tout est profitable. Rares sont les moments qualifiés comme celui-ci par deux appréciations aussi bénéfiques : quel que soit l’action à mener, le réel ne pourra résister à une telle capacité de transformation."
+grande_image: "Le feu se trouve au-dessus du ciel\n
+GRAND POUVOIR DE RÉALISATION\n
+L’Etre Accompli ainsi\n
+En atténuant les défauts\n
+Et en rendant manifeste les bonnes actions\n
+Se conforme au ciel\n
+Parfait les mandats"
+dixieme_aile: "GRAND RÉALISE\n
+Tous"
+nucleaire: '43 - Se Montrer Résolu'
+oppose: '8 - Alliance'
+renverse:
+image:
 trigramme_bas: "ciel"
 trigramme_haut: "feu"
 numero: 14
+
+

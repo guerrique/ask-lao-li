@@ -1,5 +1,5 @@
 class HexagrammesController < ApplicationController
-  # before_action :must_be_admin
+  before_action :authenticate_admin!
   before_action :set_hex, only: [:edit, :update, :show]
 
   def index

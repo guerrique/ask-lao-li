@@ -1,10 +1,63 @@
+numero: 56
 nom: '56 - Voyageur'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "VOYAGEUR\n
+Petit favorisant\n
+VOYAGER présage ouverture"
+jugement_description: "Qui parcourt en territoire inconnu doit se montrer réservé et discret : quand on sait voyager, on se pose sans s'imposer. Dans la mesure où l'on ignore les usages et les codes des endroits que l'on traverse, cette faculté d'adaptation n'est pas seulement prudence, elle est lucidité. C'est en évitant de se montrer arrogant, en se tenant à !'écoute et prêt à la découverte que l'on peut trouver les bienfaits d'un parcours en dehors de son domaine habituel.\n
+Cette souplesse est aussi celle qui est requise lorsqu'on on est amené à SE MODELER. Cependant si le petit est conseillé dans les mêmes termes à l'hexagramme 57, il n'est cependant pas impératif quand on voyage d'avoir où aller, c'est-à-dire de se tenir à une direction préétablie. Ne pas avoir de plan préconçu permet de porter un regard neuf aussi bien sur ce qu'on découvre que sur ce que l'on croyait déjà connaître. C'est en avançant à petits pas qu'on s'ouvre le chemin d'une période de rencontres et de commerces féconds."
+trait1: "Au début un six\n
+VOYAGEUR se dispersant dans d'insignifiantes vétilles\n
+En conséquence n'en retire que désastres"
+trait1_description: "L’inexpérience est une des caractéristiques du niveau d'Entrée d'un hexagramme. Elle se manifeste ici par un fait courant au commencement d'un voyage : on se retrouve tout à coup confronté à la perte de ses repères. La réaction est une attitude agitée, instable, une effervescence superficielle qui se manifeste par des discussions vaines ou des fixations sur des détails secondaires.\n
+Le trait est non seulement incorrect mais en relation de correspondance avec la quatrième ligne, où l'humeur est chagrine. Contraires à l'attitude réservée conseillée au Jugement, l'excitation et le manque de vigilance peuvent transformer un incident inopiné en désastre. Ce terme, caractéristique de l'hexagramme 25 SPONTANÉMENT, est ici un avertissement des désagréments qui s'accumulent à la dernière ligne, également qualifiée par une formule mantique négative."
+trait2: "Six en 2\n
+VOYAGEUR s'approchant de l'étape\n
+Serre ses biens contre son sein\n
+Obtenir un jeune aide\n
+Tenir bon"
+trait2_description: "À ce niveau, le VOYAGEUR qui piétine au trait précédent a réellement commencé son périple. Mais si la première étape est en vue, elle n'est pas encore atteinte et le chemin pour y parvenir semble jonché de périls. Bien qu'il soit central et correct, le trait n'a pas d'autre relation que le voisinage avec la troisième ligne, où une attitude inconséquente se révèle désastreuse.\n
+L’incertitude est le lot du voyageur, l'inquiétude son compagnon de route. Pourtant, contrairement aux première et troisième lignes, aucun danger ni aucune calamité ne sont signalés ici. Il suffit de tenir bon, avec prudence mais sans appréhension exagérée. En effet, ce niveau de Préfet est, avec celui de Ministre, le seul où l'on obtienne quelque chose: ici un coup de main qui allège, là une charge qui honore."
+trait3: "Neuf en 3\n
+VOYAGEUR ravageant son étape par le feu\n
+Perdre son jeune aide\n
+Présage de danger"
+trait3_description: "À ce niveau de Passage se trouve le premier trait Yang de la figure. Alors que cette fermeté est généralement gage d'une attitude correcte en place de transition, elle est plutôt malvenue ici car elle pousse à commettre des imprudences : le gîte ainsi que l'aide obtenus à la ligne précédente sont à présent perdus.\n
+Le voyageur ne semble guère prendre garde à l'instabilité de sa position : il oublie qu'il ne maîtrise pas le territoire où il se trouve, et que ce qui lui est accordé ne l'est qu'à titre provisoire. Il est encore temps d'en prendre conscience, sous peine de voir s'aggraver les catastrophes que l'on provoque par son inconséquence. Comme indiqué au sixième trait, ce n'est plus l'étape mais le nid qui risque d'être détruit si on persévère dans un tel comportement."
+trait4: "Neuf en 4\n
+VOYAGEUR se posant en un lieu\n
+Obtenir biens et hache d'honneur\n
+Mon coeur n'est pas joyeux"
+trait4_description: "À ce niveau de Ministre un palier important est atteint dans le cheminement du voyageur. Il n'y a plus ici de gîte temporaire comme à la seconde ligne, mais un lieu où il est possible de se poser. Ensuite, alors qu’on craignait de perdre des biens à la seconde ligne, ici on en obtient. Enfin, l'aide qui n'était que temporaire aux stades précédents devient reconnaissance sociale. Et pourtant, les insignes d'honneur et de pouvoir dont on est gratifié semblent causer plus de peine que de joie. Le cœur n'y est pas : on a l'humeur vagabonde.\n
+Bien que le voisinage avec la place souveraine suggère l'aboutissement proche du voyage - la fin de l'errance ou de la quête - la position du trait, incorrect et en correspondance avec le trait initial où est décrite une attitude superficielle, induit une réaction négative qui n'a pas lieu d'être. Peut-être les propositions offertes sont-elles décevantes, ou bien se chagrine-t-on avec nostalgie de la stabilisation qu'elles risquent d'entraîner? C'est oublier que tout voyage n'est que passage, et que l'heure est à un resserrement des forces - d'ailleurs aussi mal accepté à la seconde ligne de STABILISER, hexagramme dérivé de ce trait. Qu'il n'y ait pas réellement lieu de s'attrister ici est indiqué - à la chinoise - par l'absence de formule mantique négative."
+trait5: "Six en 5\n
+Tirer le faisan à l'arc\n
+La première flèche disparaît\n
+À la fin grâce aux éloges mandat"
+trait5_description: "La cinquième ligne de VOYAGEUR est la seule où le nom de l'hexagramme n'est pas mentionné. L’absence de cette scansion au niveau souverain suggère ou la fin du voyage, ou du moins une étape essentielle dans la manière de l'envisager : la quête ne représente pas une fin en soi, elle se nourrit de l'espoir de trouver une position satisfaisante. Les périples qui ne mènent nulle part ne sont pas des voyages mais des errances.\n
+Le voyageur sait maintenant non seulement entrer adroitement en relation avec ses hôtes, mais aussi faire preuve d'adresse dans les rencontres auxquelles il est convié à participer, ici probablement une chasse. Son habileté lui offre l'opportunité de s'insérer dans un cercle, de s'épanouir dans un réseau. L’arc est symbole de la justesse, le faisan, image de splendeur et de vivacité. Le mandat que l'on reçoit avec des éloges, vaut plus que les biens ou les honneurs obtenus à la ligne précédente : il représente reconnaissance et responsabilités.\n
+Cependant, bien que sa nature Yin soit en harmonie avec la stratégie du petit à petit conseillée au Jugement, l'incorrection du trait et ses relations contradictoires avec les deux traits voisins suggèrent une tendance à l'hésitation - comme un reste de l'humeur chagrine évoquée à la ligne précédente - qui se manifeste par la perte de la première flèche. Ce n'est qu'avec le temps qu'un changement s'opère et que l'on arrive à maîtriser l'art d'atteindre son but."
+trait6: "En haut un neuf\n
+Oiseau ravageant son nid par le feu\n
+Gens qui VOYAGENT\n
+D'abord rient\n
+Ensuite pleurent et gémissent\n
+Perte des boeufs à la ville de Yi\n
+Fermeture"
+trait6_description: "À ce niveau de Sortie, comme souvent à la dernière ligne d'un hexagramme, la situation retombe. Alors que le voyage débouchait sur une position assurée à la ligne souveraine, la réapparition ici du nom de l'hexagramme indique que le voyage reprend, et de la pire manière qui soit. Les calamités s'accumulent, toutes dues au comportement du voyageur : à sa cervelle d'oiseau et son comportement de coucou. Rarement de bon augure, l'oiseau évoque généralement dans le Yi Jing les désagréments promis à qui ne sait pas s'enraciner. Celui mentionné ici est l'emblème de PETIT EXCÈS, hexagramme dérivé de cette ligne, où son imprudence le conduit à se faire tuer.\n
+Le feu, qu'il soit celui de la passion ou de l'incendie, détruit le nid, et non une étape temporaire comme à la troisième ligne : c'est le lieu même du repos qui est à présent réduit en cendres. Ceux qui se sont laissé éblouir par la facilité, le plaisir ou l'imprévoyance n'ont plus que leurs yeux pour pleurer car leur capital aussi est perdu. En écho aux désastres promis en première ligne à celui qui ne sait pas se préparer, la fermeture sanctionne l'attitude de qui, en terre lointaine, ne sait ni trouver ni tenir sa place."
+grande_image: "Au-dessus de la montagne il y a le feu\n
+VOYAGEUR\n
+L'Être Accompli ainsi\n
+En étant perspicace éclairé et attentif\n
+Veille à rendre opératoires les peines\n
+Et à ne pas faire traîner les procès"
+dixieme_aile: "Relations de cordialité parentale réduites\n
+VOYAGEUR"
+nucleaire: '28 - Grand Excès'
+oppose: '60 - Mesure'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "feu"
-numero: 56
+

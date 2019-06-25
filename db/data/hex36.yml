@@ -1,10 +1,64 @@
+numero: 36
 nom: '36 - Lumière Obscurcie'
-trait1: "yang"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "LUMIÈRE OBSCURCIE\n
+Présage des difficultés profitables"
+jugement_description: "Le nom de l’hexagramme décrit une éclipse de la lumière. Mais il peut également être lu en termes de stratégie : lorsque l’on subit des moments d’oppression ou que l’on se trouve dans des circonstances d’étouffement, on doit y répondre par la mise à l’abri de sa propre lumière, pour la protéger en vue d’une renaissance ultérieure.\n
+Malgré le contexte amer et les efforts pénibles qu’il annonce, le texte de ce Jugement, un des plus brefs du Yi Jing, ne doit pas décourager. L’épreuve est révélatrice du caractère, tout comme le noir permet en photographie au cliché d’apparaître."
+trait1: "Au début un neuf\n
+OISEAU BLESSE en vol\n
+Laisse pendre ses ailes\n
+Chef Accompli en marche\n
+Trois jours sans manger\n
+Il y a où aller\n
+Le maître a des mots"
+trait1_description: "Les difficultés annoncées au Jugement de LUMIÈRE OBSCURCIE commencent dès ce niveau d’Entrée, et elles y sont décrites sans complaisance. Le texte de ce trait, un des plus longs de tout le livre, est composé à la façon des anciennes odes chinoises sur un balancement entre une image naturelle et un personnage humain.\n
+Dans le contexte du Yi Jing, l’oiseau est l’image d’une conduite imprudente et inconséquente. Au sommet de VOYAGEUR, il met le feu à son nif ; au Jugement de PETIT EXCÈS, il se laisse prendre au filet. Ici, sa présence est un avertissement : qui se manifeste clairement ou se met à découvert risque d’avoir à en rabattre.\n
+En contrepoint le Chef Accompli, dont les qualités de courage et de ténacité sont particulièrement mises en valeur à l’hexagramme SE TENIR, sais s’appuyer sur sa force intérieure pour ne pas se laisser atteindre. Il ne craint pas les difficultés d’un chemin long et pénible et agit sans dévier de son but malgré les restrictions et les réprimandes. Il faut, comme lui, savoir combiner prudence et vaillance pour traverser les moments d’impuissance et de dénuement sans se laisser égarer par le manque de soutien ou les murmures de désapprobation.
+La correspondance de ce trait avec le 4ème où les circonstances s’aggravent doit inciter à la plus grande prudence. Ce n’est pas le moment de se conduire de façon impulsive ou irréfléchie, mais de garder les pieds sur terre et de se préserver avec lucidité, quels que soient les efforts que le chemin exige.
+Alors que Confucius traversait avec ses disciples les landes du pays de Chen, les vivres vinrent à manquer. Certains tombèrent malades au point de ne plus pouvoir se lever. Zilu, trouvant la situation insupportable, vint voir le maître et lui dit avec rage : « comment se peut-il que des êtres accomplis puissent être réduits à cet état ? » Confucius lui répondit :
+« Bien sûr qu’un être accompli peut tomber dans la détresse, mais lui sait l’affronter. C’est l’être petit qui dans de pareilles circonstances se laisse aller aux excès. »"
+trait2: "Six en 2\n
+OISEAU BLESSE\n
+BLESSURE au côté gauche de la cuisse\n
+Opérer la délivrance avec la FORCE d’un cheval\n
+Ouverture"
+trait2_description: "Lorsque aucune clarté ne préside plus aux décisions du souverain, les places en contact étroit avec le pouvoir – Préfet en 2ème ligne, Ministre en 4ème – sont celles où l’ont court le plus de risques. Dans LUMIÈRE OBSCURCIE, il est fait mention à l’une comme à l’autre de blessures. Ici, la blessure touche le haut de la jambe, provoquant une immobilisation qui évoque celle d’un grand vassal, le Roi Wen, enfermé de longues années durant pour sa muette désapprobation des débordements de son suzerain.\n
+Wen fut un vassal modèle car, au lieu de se révolter contre l’ordre hiérarchique en heurtant de front le souverain, il sut mettre à profit une période de difficultés pour réaliser son œuvre : écrire le Yi Jing. Comme lui, il ne faut pas subir l’oppression de manière stérile mais réagir avec la force et l’endurance que symbolise le cheval, cité également au début de DÉNOUER, autre moment où il faut s’extirper rapidement d’une situation délicate. Centrale et correcte, entourée de traits également corrects, cette ligne bénéficie de l’appréciation la plus favorable de l’hexagramme."
+trait3: "Neuf en 3\n
+OISEAU BLESSE au cours de la chasse au Sud\n
+Atteindre au grand capitaine\n
+Présage de fébrilité inefficace"
+trait3_description: "Yang à une place Yang et située en place de passage, cette ligne suggère de manière ambiguë un désir de se manifester à l’extérieur. S’agit-il de l’envie d’atteindre celui qui gouverne, c’est-à-dire les forces qui dans cette conjoncture sont à la source de l’oppression, ou bien d’arriver à se conduire soi-même en grand chef ? Les deux options sont possibles, bien que le conseil enjoignant d’éviter la hâte fasse plutôt pencher vers la seconde.\n
+Sans doute compréhensible, la précipitation ne serait guère opportune en la circonstance, d’autant plus que la ligne est en correspondance avec le 6ème trait, qui décrit une chute ou une retombée. Comme aux deux lignes précédentes, c’est une attitude de force personnelle et de prudence qui est recommandée."
+trait4: "Six en 4\n
+Entrer au côté gauche du ventre\n
+Saisir le coeur de l’OISEAU BLESSÉ\n
+Au sortir de la grand-porte\n
+De la cour d’honneur"
+trait4_description: "A ce niveau de Ministre comme à celui du Préfet, on se trouve dans la position d’un vassal qui subit l’oppression, et de façon directe : plus proche de la ligne souveraine, la place est encore plus exposée. Une rupture dans la construction du texte – le nom de l’hexagramme n’est plus cité en tête du texte – marque cette aggravation, mettant ainsi en valeur l’évocation de la circonstance tragique qui coûta la vie à Bi Gan, tué par son frère le tyran Di Xin qui lui fit saisir le coeur.\n
+La grand-porte est celle de la cour royale où l’on expose ses remontrances. S’y présenter est extrêmement risqué dans une situation où la plus grande réserve est conseillée. A ce niveau de l’hexagramme, l’écartèlement s’exacerbe entre le plus interne – le cœur, le ventre – et le plus extérieur – la cour d’honneur - . Yin à une place Yin, le trait est correct et en accord avec les 4 lignes inférieures de l’hexagramme, mais pas avec la 5ème. Une trop grande correction peut s’avérer dramatique dans une situation où il faudrait savoir, comme à la ligne suivante, simuler."
+trait5: "Six en 5\n
+Tel le Sire de Ji OBSCURCIR SA LUMIÈRE\n
+Ténacité profitable"
+trait5_description: "Frappante par la concision de son texte et par l’évocation nominale du frère cadet du tyran, cette ligne éclaire tout l’hexagramme. Le Sire de Ji, provoqué par son cruel aîné, ne put échapper à sa folie meurtrière qu’en obscurcissant sa lumière, c’est-à-dire en simulant la folie. Cette stratégie libératoire lui permit de sortir du dilemme aux conséquences terribles, décrites à la ligne précédente, dans lequel s’était enfermé son second frère Bi Gan.\n
+Mettre en pleine lumière des conduites négatives n’est pas toujours l’attitude la plus efficace. L’influence secrète de qui sait garder son savoir dans l’ombre est parfois bien plus opérante. Dans une situation de conflit provoquée par une tyrannie extérieure, l’attitude souveraine consiste à ne pas répondre à la provocation, à ne pas se conduire comme un héros qui se fera inévitablement et inutilement massacrer. Il est préférable, à l’instar du Sire de Ji, de masquer son intelligence de la situation – Ming, lumière, signifie également intelligence – afin de préserver des richesses intérieures qui pourront resurgir quand la tourmente sera apaisée. En plus de l’habilité à séparer clairement le vrai du faux – Ji signifie également tamis – l’endurance est ici la seule qualité qui puisse permettre à la situation de porter ses fruits."
+trait6: "En haut un six\n
+Obscurité sans LUMIÈRE\n
+Au début élevé au ciel\n
+Ensuite rentré en terre"
+trait6_description: "Ce niveau de Sortie est le premier où il n’est pas fait mention de blessure. Seule la LUMIÈRE est citée. Il ne s’agit plus d’obscurcissement, mais d’obscurité ; plus de stratégie, mais du cours naturel du temps. Bien que le texte ait souvent été lu comme décrivant simplement le destin du tyran Di Xin, dont les excès entraînèrent la chute, il peut aussi être compris de manière plus générale. Comme dans le mécanisme des rêves, l’image utilisée condense deux évocations, celle de l’oiseau et celle du Sire de Ji.\n
+En écho avec celui de la première ligne, et comme toujours dans le contexte du Yi Jin, l’oiseau qui s’est trop élevé doit à présent en rabattre. Le Sire de Ji, cadet qui s’est élevé jusqu’à une attitude royale, part s’exiler en Corée après avoir refusé la promotion proposée par le Roi Wu. Le prince rentre en terre et se dissimule à nouveau après avoir mis en lumière les bienfaits de la simulation. Pour amère qu’elle puisse paraître, la situation n’est présentée sans aucune formule mantique positive ni négative : c’est un déclin qu’il s’agit de reconnaître."
+grande_image: "LUMIÈRE rentrée au coeur de la terre \n
+LUMIÈRE OBSCURCIE\n
+L’Être Accompli ainsi\n
+En gouvernant la foule\n
+Utilise l’obscurité pour ensuite ÉCLAIRER"
+dixieme_aile: "OISEAU BLESSÉ\n
+Être blessé"
+nucleaire: '40 - Délivrance'
+oppose: '6 - Plaider sa cause'
+renverse:
+image:
 trigramme_bas: "feu"
 trigramme_haut: "terre"
-numero: 36

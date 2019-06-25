@@ -1,10 +1,60 @@
 nom: '15 - Se Tenir'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "SE TENIR\n
+Favorisant\n
+Un Chef Accompli fait aboutir"
+jugement_description: "Globalement féconde, SE TENIR n’est pas pour autant une situation facile. Elle demande courage et lucidité, ténacité et modestie. Ces qualités sont personnifiées dans le Yi Jing par le Chef Accompli, dont cet hexagramme est un des emblèmes. Un Chef Accompli est un être courageux qui, sans se mettre en avant, œuvre en fonction d’un but déterminé. A la fois souple et solide, il avance sans relâche, avec discrétion et discernement, sachant « tenir » dans les passages difficiles et les périodes de transition, où sa vaillance lui permet de franchir le dernier pas, le plus difficile, pour atteindre l’autre rive.\n
+Un Chef Accompli ne se leurre pas sur ses capacités sans pour autant fuir devant l’effort. Ne pas présumer de ses forces lui permet de mener à bien ce qu’il décide d’accomplir. Il se tient à ce qu’il fait et ne se disperse pas dans des objectifs multiples, prenant par exemple le prétexte de faire mieux en s’attelant à autre chose. En se consacrant simplement et totalement à la tâche qu’il s’est fixée, il se rend capable de la mener à bien."
+trait1: "Au début un six\n
+MODESTIE qui se TIENT\n
+Un Chef Accompli opère\n
+Le passage du grand fleuve\n
+Ouverture"
+trait1_description: "Située au niveau d’Entrée, cette ligne, la plus intérieure et la plus cachée, est celle où commence le resserrement des forces. Un redoublement de contention est nécessaire car la situation requiert une solidité et une perspicacité particulières. Ce n’est pas le moment de se cacher derrière sa modestie ou de démissionner devant la difficulté en arguant de son incapacité. Il s’agit plutôt de mettre son courage à l’épreuve en ne comptant que sur soi-même : il est possible, sous couvert d’audace et de constance, d’atteindre un rive qui semble inaccessible.\n
+Incorrect et isolé en bas de l’hexagramme, ce trait est toutefois en résonance avec le seul trait Yang par la double présence du Chef Accompli et de l’appréciation ouverture. Cela doit engager dès à présent à aller de l’avant avec la vaillance qui se développe au niveau de la place de transition."
+trait2: "Six en 2\n
+MODESTIE qui se fait entendre\n
+Présage d’ouverture"
+trait2_description: "Correcte, centrale et située au voisinage de la 3ème ligne où se trouve le point focal de l’hexagramme, cette place de Préfet représente un moment de tâches concrètes et de réalisations favorables à long terme.\n
+Si le moment n’est pas à parler haut, resserrer ses paroles ne signifie pas non plus se taire et bloquer toute communication. Cet engagement à l’expression et à la visibilité prolonge et amplifie le conseil d’action courageuse cité à la ligne précédente."
+trait3: "Neuf en 3\n
+MODESTIE qui peine\n
+Un Chef Accompli fait aboutir\n
+Ouverture"
+trait3_description: "La reprise à l’identique, dans le texte de ce trait, de la phrase principale du Jugement indique que cette place de Passage est le point focal de l’hexagramme. Occupé par la seule ligne Yang ce niveau est l’endroit où se concentre toute la fermeté nécessaire pour résoudre la difficulté de la situation : au lieu du contact avec l’extérieure, on doit pouvoir compter sur une réelle capacité intérieure.\n
+Le Chef Accompli, assumant la situation avec courage et perspicacité, prend sur lui d’aller au fond des problèmes. Il travaille au cœur de l’obscurité et se console de son labeur en sachant qu’il avance vers son objectif. Alors qu’il ne se trouve pas à une place hiérarchiquement importante, il rassemble toutes les forces afin d’être prêt à les déployer dans le contexte extérieur.\n
+La ténacité requise ici est en forte résonance avec celle décrite à l’hexagramme 2 ELAN RECEPTIF, dérivé de cette ligne, où sont également cités le Chef Accompli et la capacité à faire aboutir. Effort et patience, déjà engagés aux lignes précédentes, préparent les actions qui s’épanouissent aux deux lignes suivantes."
+trait4: "Six en 4\n
+Rien qui ne soit profitable\n
+MODESTIE qui agit"
+trait4_description: "A cette place de Ministre, premier niveau extérieur de l’hexagramme, le texte change de teneur. A la différence des quatre autres traits où le nom de l’hexagramme est cité, il s’ouvre sur une appréciation mantique, et l’une des plus favorables du Yi Jing : rien qui ne soit profitable, qui souligne que toute action entreprise ne peut que produire des résultats positifs. Cette insistance est un encouragement à exercer sans crainte au-dehors les forces rassemblées dans le bas de l’hexagramme.\n
+Correct et en relation de voisinage avec le seul Yang de la figure, ce trait indique que la retenue a suffisamment renforcé les bases pour que l’on puisse maintenant agir résolument et s’exposer sans hésitation : la proximité avec le trait principal de l’hexagramme permet de prolonger son action et de travailler au déploiement de la force accumulée."
+trait5: "Six en 5\n
+Pas d’enrichissement par les voisins\n
+Profitable d’opérer invasions et\n
+Soumission par les armes\n
+Rien qui ne soit profitable"
+trait5_description: "Ce trait est le seul dont le texte ne mentionne pas le nom de l’hexagramme. Au niveau souverain, la contention n’est plus de mise, pas plus que le commerce paisible avec autrui : une réserve discrète et affable serait à ce stade contre- productive. La retenue et la concentration caractéristiques de SE TENIR ne doivent pas empêcher d’assumer avec fermeté l’ensemble de la situation. Plutôt que d’attendre quoi que ce soit de l’entourage, il faut s’appuyer sur les forces qu’on a rassemblées et se manifester ouvertement pour combattre ce que trop de retenue porte à nuire.\n
+Bien qu’elle soit décrite en des termes d’une violence inhabituelle, la stratégie conseillée à ce trait, comme au précédent, est qualifiée par une des appréciations les plus favorables du Yi Jing : rien qui ne soit profitable. Soulignant que toute action entreprise ne peut que produire des résultats positifs, cette appréciation doit inciter à sortir de sa retenue et passer à l’action pour faire respecter ses principes. La tonalité guerrière du texte montre qu’il y a un réel combat à mener, à la fois pour s’affirmer personnellement et accomplir le travail nécessaire pour tenir l’ensemble de la situation."
+trait6: "En haut un six\n
+MODESTIE qui se fait entendre\n
+Profitable d’opérer la mise en route de l’ARMEE\n
+Et de mener expédition contre fiefs et pays"
+trait6_description: "A ce niveau de Sortie, la MODESTIE s’exprime, comme à la seconde ligne, mais de façon plus affirmée. Il convient de se manifester avec force et ainsi de parachever le travail d’ajustement entre tenue personnelle et relation avec l’extérieur qui est au cœur de cet hexagramme. Correct et en correspondance avec l’unique trait Yang de la figure, le trait est dans le prolongement de l’action déterminée enclenchée à la ligne précédente. On doit ici effectuer le rééquilibrage qui permet, par le resserrement intérieur des forces, de mettre fin à la désorganisation du territoire.\n
+Si cette stratégie doit être mise en pratique de manière aussi ferme, c’est que, la modestie risquant de tourner au laxisme, c’est le domaine propre qui est cette fois atteint. En effet, alors que l’expédition guerrière décrite à la ligne précédente symbolisait une action dirigée vers l’extérieur, la mention à ce trait des termes fief et pays précise que les expéditions punitives sont maintenant dirigées contre son propre territoire : il s’agit de s’imposer la discipline personnelle qui permet de défendre son domaine et d’y rétablir l’ordre. Renversement habituel de la 6ème ligne, alors que toutes les autres lignes comportent des appréciations mantiques favorables, la rigueur est ici la seule attitude présentée comme profitable."
+grande_image: "Au coeur de la terre il y a la montagne\n
+SE TENIR\n
+L’Etre Accompli ainsi\n
+Diminuant l’excessif AUGMENTANT l’insuffisant\n
+Ajuste les choses et répand l’apaisement"
+dixieme_aile: "SE TENIR vivacité et\n
+S’ENTHOUSIASMER inertie"
+nucleaire: '40 - Délivrance'
+oppose: '10 - Démarche'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "terre"
 numero: 15
+
+

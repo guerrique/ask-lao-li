@@ -1,10 +1,57 @@
+numero: 31
 nom: '31 - Inciter'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yang"
-trait6: "yin"
+description:
+jugement: "INCITER\n
+Favorisant\n
+Ténacité profitable\n
+Prendre femme ouverture"
+jugement_description: "Tandis que le texte des traits de cet hexagramme insiste sur les risques de déstabilisation que l’incitation entraîne, celui du Jugement met en valeur son caractère globalement fécond. L’attitude appropriée en de tels moments consiste à ne pas en rester au seul attrait involontaire, mais à mettre à profit l’éveil qu’il suscite en le déployant dans une action suivie. Que l’essor indiqué par favorisant ne soit pas qualifié par fondamentalement, modulation qui signale une capacité particulière à initialiser une situation nouvelle, confirme à la chinoise qu’INCITER est un déclic si rapide qu’on n’en maîtrise pas le surgissement. L’enclenchement qu’il provoque doit être nourri par le temps avant de pouvoir aboutir à des changements effectifs.\n
+L’allégorie de l’union rend compte de cette possibilité de réalisation : un coup de foudre est instantané, mais il peut devenir le point de départ d’une situation durable, à condition de ne pas en rester au stade de l’excitation superficielle. Plus généralement, prendre femme indique que la situation est ouverte pour qui sait adopter une stratégie Yin et faire durer l’incitation par l’endurance et la constance."
+trait1: "Au début un six\n
+INCITATION aux gros orteils"
+trait1_description: "Dès le premier trait, la stimulation a suffisamment d’impact pour provoquer des frétillements tels que le corps veut se mettre d’emblée en mouvement. Cette ligne est en correspondance avec la quatrième, ligne de forte influence, et l’incitation, bien que cachée, est profonde. Cependant, le niveau d’Entrée d’un hexagramme est rarement celui où se prennent les décisions, et le mouvement est ici purement réactif.\n
+Aucune formule mantique n’étant mentionnée, il est impossible à ce stade de déterminer l’aspect positif ou non de ce qui agite. Il importe toutefois à ce stade de rester attentif aux sollicitations du dehors sans s’y laisser immédiatement assujettir, mais en essayant de n’y donner suite qu’avec discernement."
+trait2: "Six en 2\n
+INCITATION aux mollets\n
+Fermeture\n
+Demeurer ouverture"
+trait2_description: "A ce stade, il s’agit encore de stabiliser un mouvement qui se décide ailleurs. Comme le pied mentionné à la ligne précédente, le mollet est entraîné par une INCITATION qui s’enclenche à un autre niveau. Il est l’image d’une avancée qui, se produisant dans un contexte de dépendance, risque de se solder par un échec.\n
+Toutefois, la centralité de la place, la correction du trait, Yin à une place Yin, et sa correspondance avec la ligne souveraine indiquent qu’il est possible de surseoir à des réactions impétueuses ou irréfléchies. C’est en restant fermement en place que l’on peut limiter et intégrer les effets des incitations diverses et faire évoluer la situation de manière favorable."
+trait3: "Neuf en 3\n
+INCITATION aux cuisses\n
+Retenir avec opiniâtreté l’envie de SUIVRE\n
+Aller gêne"
+trait3_description: "A cette ligne de Passage entre l’intérieur et l’extérieur, la stimulation atteint la région où s’effectue la transition entre le bas et le haut du corps. La position du trait à la lisière des forces Yin et Yang entraîne une hésitation entre deux attitudes : aider à la stabilisation des deux premiers traits souples, ou participer au mouvement des traits Yang supérieurs.\n
+La correction du trait, Yang à une place Yang, inciterait plutôt à aller de l’avant, mais le texte déconseille cette alternative. L’abdication de la maîtrise personnelle, attitude impliquée par le choix du caractère qui nomme l’hexagramme 17 SUIVRE, serait malvenue dans un contexte de déstabilisation. La tentation de se laisser entraîner doit être combattue, car elle ne pourrait qu’attirer des inconvénients. C’est vers la stabilisation des mouvements intérieurs déjà enclenchés qu’il faut se tourner."
+trait4: "Neuf en 4\n
+Présage d’ouverture\n
+Tout regret disparaît\n
+On va et vient indécis comme un enfant\n
+Les compagnons se conforment à tes pensées"
+trait4_description: "A la différence des autres lignes de l’hexagramme, il n’est mentionné ici ni INCITATION, ni référence directe au corps. C’est pourtant celle où le plus de possibilités sont annoncées. Que l’échange avec l’extérieur n’ait pas de point d’application précis ne signifie pas qu’il ait disparu. Il se produit seulement de manière plus invisible, au plan du cœur qui n’est pas seulement pour les Chinois le lieu des émotions mais le siège de toute la vie intérieure.\n
+Lorsqu’on reste proche de ses émotions, on est enclin à adopter une attitude naturelle, malléable, innocente semblable à celle d’un enfant. Pareille disposition peut induire versatilité et indécision, mais ce manque d’apprêt, cette absence de dirigisme sont également ce qui permet d’éveiller chez autrui une disposition compréhensive. Alors que la nature ferme du trait, situé au milieu de trois traits Yang, rendrait possible un comportement plus imposant, ce contact gardé avec la réalité du sentiment influence autrui et entraîne l’adhésion amicale de l’entourage. Ce défaut d’intention ou de jugement, qui permet de créer un mouvement de convergence, n’est pas si éloigné de l’attitude réservée mais présente prônée par certains lettrés chinois, tels Wang Fuzhi :\n
+« Si l’influence seule est efficace par rapport à l’action et à la parole, c’est parce qu’elle opère sans intention précise, de façon continûment diffuse et générale, alors que parole et action sont toujours préméditées, se réfèrent à un certain modèle, obéissent à un plan déterminé. »"
+trait5: "Neuf en 5\n
+INCITATION aux muscles du dos\n
+Pas de regrets"
+trait5_description: "A la ligne souveraine, la stimulation atteint la colonne vertébrale, suggérant une capacité à recevoir et prolonger les influences sans qu’il y ait déstabilisation. A la fois souple et solide, l’épine dorsale gouverne la tenue du corps. L’énergie qui la traverse, sans être aussi profonde que celle qui se propage à l’intérieur au trait précédent, est néanmoins insaisissable car située derrière soi.\n
+L’évocation du dos au niveau souverain fait écho au conseil donné au Jugement de STABILISER, où il ne faut pas chercher à exercer de contrôle rigide. La correction de la place, Yang à une place Yang, et la correspondance avec la ligne de Préfet montre qu’il est possible ici d’intégrer les différentes incitations qui traversent la situation. Se laisser toucher sans en être perturbé, et réagir avec souplesse, telle est la meilleure façon de donner consistance aux sollicitations du dehors."
+trait6: "En haut un six\n
+INCITATION aux os maxillaires\n
+Aux muscles des joues et à la langue"
+trait6_description: "Au niveau de Sortie, la stimulation se produit à l’endroit du corps le plus tourné vers l’extérieur : le visage, et plus particulièrement la bouche, essentielle dans les relations humaines par ce qu’elle suppose de contact, voire de séduction. Une curieuse accumulation d’idéogrammes mettant l’accent sur la mécanique labiale suggère plus une incitation superficielle, peut-être même une tendance au bavardage, qu’un échange profond. Cependant, comme à la première ligne, aucune formule mantique ne vient caractériser ce niveau d’une manière positive ou négative."
+grande_image: "Au-dessus de la montagne il y a la brume\n
+INCITER\n
+L’Être Accompli ainsi\n
+Grâce au vide\n
+Accueille tous les êtres humains"
+dixieme_aile: "INCITER\n
+Vite-invite"
+nucleaire: '44 - Etre Accueillant'
+oppose: '41 - Diminuer'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "brume"
-numero: 31
+
+

@@ -5,7 +5,7 @@ def trig_bas_feu(trig)
     '55 - Abondance'
   elsif trig == 'montagne'
     '22 - Embellir'
-  elsif trig == 'marais'
+  elsif trig == 'bois'
     '37 - Gens du Clan'
   elsif trig == 'brume'
     '49 - Révolution'

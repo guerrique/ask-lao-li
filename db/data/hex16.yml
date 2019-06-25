@@ -1,10 +1,58 @@
 nom: "16 - S'enthousiasmer"
-trait1: "yin"
-trait2: "yin"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "S’ENTHOUSIASMER\n
+Profitable d’instituer des vassaux\n
+Et de mettre en marche l’ARMEE"
+jugement_description: "S’ENTHOUSIASMER n’est pas une valeur a priori, ni une erreur en soi : aucune formule mantique ne vient caractériser la situation dans son ensemble. Cependant l’exaltation qu’elle représente risque de se résumer à un élan éphémère si rien ne vient l’organiser dans la durée. Comme dans d’autres situations où une forte impulsivité prédomine, l’aspect profitable dépend de la capacité à inscrire dans le réel la poussée qui entraîne en dehors des limites habituelles.\n
+Il faut pour cela prendre en main les forces qui se précipitent pour les canaliser et les discipliner. Le foisonnement suscité par l’enthousiasme appelle une hiérarchisation : parmi les envies et les idées qui fusent, on doit dégager des priorités afin que les ardeurs puissent converger en un mouvement concertant et se structurer en projet."
+trait1: "Au début un six\n
+ENTHOUSIASME qui se fait entendre\n
+Fermeture"
+trait1_description: "La première ligne d’un hexagramme représente souvent une approche inexpérimentée de la situation. Dans le contexte de S’ENTHOUSIASMER, où l’émotivité prédomine, cette tendance se traduit par des réactions impulsives et naïves qui peuvent entraîner des conséquences dommageables.\n
+Incorrect et en correspondance avec l’unique Yang de l’hexagramme, ce trait est celui où l’on répond de manière irréfléchie à la moindre exaltation. Comme le signale l’appréciation mantique la plus défavorable de l’hexagramme, manifester son enthousiasme de façon précipitée et tonitruante ne peut à ce niveau que conduire à une impasse."
+trait2: "Six en 2\n
+Séparation à la borne de pierre\n
+Pas jusqu’à la fin du jour\n
+Présage d’ouverture"
+trait2_description: "A ce niveau de Préfet se trouve la seule appréciation favorable de la situation et, comme à la ligne souveraine, l’autre place centrale, le nom de l’hexagramme n’est pas cité ; on n’y est donc guère enclin à se laisser ravir par l’enthousiasme. Sans attendre que la situation s’obscurcisse, on se refuse à aller au-delà du territoire dont on est sûr. En prenant calmement ses distances, on se désolidarise notamment des réactions bruyantes qui se manifestent à la ligne précédente et on se sépare de ce qui fascine ou s’élance sans ordre ni maîtrise.\n
+Ce trait est, avec le 6ème, l’un des deux seuls corrects de l’hexagramme ; il est par ailleurs sans aucune relation avec les autres lignes : on est ici en mesure de rester lucide et de ne pas se laisser impliquer dans des engouements échevelés."
+trait3: "Six en 3\n
+ENTHOUSIASME guignant vers le haut regrets\n
+A tarder il y a des regrets"
+trait3_description: "A cette place de transition, l’agitation va croissant. Yin en place impaire, le trait est incorrect et de plus situé au voisinage du seul trait Yang, pivot de tout l’hexagramme. Attiré par l’extérieur et en même temps retenu par l’inertie que représentent les trois traits Yin intérieurs, on est écartelé entre le désir qui entraîne vers le haut et la nonchalance craintive qui alourdit. Les regrets guettent à la fois l’avidité et l’immobilisme il est préférable de mettre fin à ces tergiversations et de répondre à l’appel en participant réellement à l’élan."
+trait4: "Neuf en 4\n
+ENTHOUSIASME sortant de terre\n
+Le Grand atteint des Réalisations\n
+Ne pas douter\n
+Les compagnons sont réunis\n
+Comme les cheveux par l’épingle de chignon"
+trait4_description: "Le seul trait Yang de l’hexagramme représente, par son pouvoir d’entraînement et de dynamisme, le point de convergence et l’unique pivot de fermeté de la situation. C’est à ce stade que le mouvement d’exaltation peut le plus aisément servir à des manifestations visibles et devenir le terreau de réalisations effectives. Bien qu’être en charge de telles possibilités puisse faire douter, c’est le moment de déployer des qualités d’initiative et de créativité rares dans un tel contexte.\n
+ A cette place de Ministre, l’aptitude à la communication permet de jouer le rôle de rassembleur et de coordinateur consistant à réunir les éléments épars et multiples qui se laissent emporter à tout vent, tout comme l’épingle à chignon organise et discipline la chevelure. Il ne s’agit pas en effet de seulement s’exalter, il faut aussi savoir puiser dans l’émotion l’énergie propre à entraîner l’entourage, et ainsi maîtriser son exaltation."
+trait5: "Six en 5\n
+Présage de fébrilité\n
+PERSISTANTE sans être mortelle"
+trait5_description: "Place souveraine, la 5ème ligne est celle d’où se gère l’ensemble de la situation. Mais comment diriger un mouvement d’exaltation ? Jouer ce rôle est d’autant plus malaisé que le seul moment où l’enthousiasme peut parvenir à des réalisations effectives est décrit au niveau précédent, celui du Ministre. Cette prééminence inusuelle remet en question le rôle de référence du souverain, qui se retrouve comme poussé au-delà de la limite qu’il incarne. Il en résulte une fébrilité, une hâte maladive, une fièvre éprouvante qu’il s’agit d’endurer avec courage.\n
+Incorrect et sans autre relation que de voisinage avec le seul Yang au niveau du Ministre, ce trait, où comme au second le nom de l’hexagramme n’apparaît pas, représente une position où l’on ne s’abandonne pas volontiers au mouvement d’ENTHOUSIASME. L’absence de correspondance avec la place de Préfet, où est indiquée la possibilité de se refuser aux emballements émotifs, est d’autant plus sensible. Pourtant cette situation de porte-à-faux est moins dramatique qu’il ne semble. Bien que le texte ne mentionne aucune appréciation mantique favorable, sa conclusion est un encouragement à la persévérance."
+trait6: "En haut un six\n
+ENTHOUSIASME dans les ténèbres\n
+Mener à terme amène à changer\n
+Absence de faute"
+trait6_description: "A ce trait de Sortie, l’ENTHOUSIASME atteint le point où il change de nature. Alors qu’aux autres lignes comportant le nom de l’hexagramme le mouvement est toujours décrit comme un élan vers l’extérieur, successivement bruyant, tâtonnant, jaillissant, il se ralentit ici pour devenir intérieur et sombre. Il est temps de calquer son attitude sur ce renversement : en s’obligeant à mener à terme les impulsions qui emportent malgré soi, on apprend à connaître ses motivations réelles et à vérifier leur bien-fondé.\n
+Isolé et sans relation, ce trait est toutefois correct, ce qui produit une résonance avec la seconde ligne, la seule autre correcte de la figure. Dans le prolongement de la résistance à la fébrilité décrite au stade précédent, on ne doit pas hésiter à donner plus de consistance à son comportement en apportant à son positionnement les modifications que le moment appelle."
+grande_image: "Tonnerre sort de Terre comme oiseau qu’on lâche\n
+S’ENTHOUSIASMER\n
+Les Anciens Rois ainsi\n
+En jouant de la musique magnifiaient les conduite\n
+En offrant de riches offrandes\n
+Au Souverain d’en haut\n
+S’appariaient ainsi à leurs grands-pères défunts."
+dixieme_aile: "SE TENIR vivacité et\n
+S’ENTHOUSIASMER inertie"
+nucleaire: '39 - Obstruction'
+oppose: '9 - Petit Apprivoise'
+renverse:
+image:
 trigramme_bas: "terre"
 trigramme_haut: "tonnerre"
 numero: 16
+

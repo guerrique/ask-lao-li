@@ -1,10 +1,70 @@
-nom: '47 - Epuisement'
-trait1: "yin"
-trait2: "yang"
-trait3: "yin"
-trait4: "yang"
-trait5: "yang"
-trait6: "yin"
+numero: 47
+nom: '47 - Épuisement'
+description:
+jugement: "ÉPUISEMENT\n
+Favorisant\n
+Présage d’ouverture pour un Être d’Envergure\n
+Absence de faute\n
+On parle sans être entendu"
+jugement_description: "Moment d’épreuve, ÉPUISEMENT n’est pas pour autant une situation stérile. Même si elle se présente sous un jour difficile, elle recèle un potentiel favorable qu’il faut savoir déployer. Cela exige de mobiliser toutes ses forces, presque comme en temps de guerre, et de mettre en jeu une force de caractère et une conviction à toute épreuve. Car si les circonstances recèlent des possibilités de réalisation, elles ne peuvent se concrétiser qu’au moyen d’une conduite supérieure dont l’Être d’Envergure est l’emblème.\n
+Dans le Yi Jing, l’Être d’Envergure est un personnage capable d’avoir une influence sur autrui. Son intervention directe, particulièrement rare, marque des moments exigeant une trempe particulière : les places centrales d’ADVERSITÉ, la ligne souveraine de RÉVOLUTION. ÉPUISEMENT est le seul hexagramme dont le Jugement – le conseil stratégique global – recommande de se comporter soi- même comme un Être d’Envergure, c’est-à-dire de faire preuve de la conviction nécessaire pour faire entendre ce qu’on a à dire.\n
+Cela demande courage et détermination, tant dans l’action que dans le choix du moment opportun pour agir. Les résistances rencontrées pour faire passer sa parole mettront durement les certitudes à l’épreuve. L’incompréhension et l’oppression ressenties doivent engager à puiser d’autant plus profondément dans ce qui enracine et relie."
+trait1: "Au début un six\n
+Sur les fesses ÉPUISÉ auprès d’une souche dépouillée\n
+Rentré dans un val retiré et solitaire\n
+Trois ans sans visites"
+trait1_description: "À ce niveau d’Entrée, l’ÉPUISEMENT se manifeste par le dénuement et la solitude. La position décrite, sur les fesses, est l’image d’un temps d’arrêt, pendant lequel on ne fait pas usage de ses jambes. L’atmosphère d’abattement est accentuée par l’évocation d’une souche, arbre sans tronc ni branche, c’est-à-dire privé de ce qui lui permet de tendre son fluide vital vers l’extérieur – image qui reprend en l’accusant celle de l’arbre enfermé décrit par le nom de l’hexagramme. Le personnage assis sur cette souche dénudée est-il un lettré que les échecs ou l’incompréhension poussent à se retirer de la vie publique ?\n
+Sans jambes, on n’est pas pour autant sans racines, c’est-à-dire sans possibilités de ressourcement. Comme l’indique l’image Yin du val où il se réfugie, c’est en se retirant au plus profond de soi qu’il faut traverser cette période ardue. La correspondance avec le 4ème trait, bien qu’il soit également incorrect, est à prendre comme un encouragement car une lente remise en mouvement y est évoquée. Cette période d’isolement, inévitable mais limitée dans le temps, doit permettre de se resituer et de retrouver au fond de soi le moyen de rejoindre ultérieurement le monde extérieur."
+trait2: "Neuf en 2\n
+ÉPUISÉ auprès des offrandes de vins et de nourriture\n
+Voici que survient la robe à galon vermillon\n
+Profitable d’accomplir les rites d’hommage aux ancêtres\n
+Impasse pour des expéditions\n
+Absence de faute"
+trait2_description: "A la place de Préfet, la question de la relation avec l’extérieur se pose de manière d’autant plus cruciale que la situation matérielle est précaire : l’EPUISEMENT se situe à présent au niveau des ressources. Alors que le stade précédent traite d’une période de retrait solitaire pendant laquelle on ne reçoit aucune visite, il y a ici une intervention extérieure qui se manifeste par la présentation d’une robe, symbole d’une invite à participer aux affaires publiques. Cependant, en place subalterne de Préfet, il n’est pas certain que l’habit que l’on propose d’endosser permette d’exercer ses talents comme on le souhaite et de faire passer sa parole propre (une robe, mais d’un rang supérieur, est également offerte au niveau de la ligne souveraine).\n
+Pour savoir comment il convient de répondre à cette offre, il est conseillé de se mettre en rapport avec les ancêtres, c’est-à-dire d’examiner attentivement la situation à partir des éléments qui constituent notre base la plus intime. Dans le prolongement du ressourcement qui s’effectue à la ligne précédente, c’est en confortant ses racines qu’il est possible de réviser de près ses convictions et de déterminer une position juste. Le trait, ferme à une place Yin, est incorrect et sans aucune relation avec les traits extérieurs. On doit d’abord s’assurer de sa force personnelle avant d’être en mesure de matérialiser son pouvoir au-dehors. Avoir une action sur les autres, surtout si elle demande de s’imposer, ne peut s’effectuer que si le lien avec ce qui soutient est sûr. Il serait malvenu à ce stade de chercher à s’affirmer par la manière forte."
+trait3: "Six en 3\n
+ÉPUISÉ auprès de la borne de pierre\n
+Appuyé auprès de chardons épineux\n
+Rentrant dans le palais\n
+L’épousée n’est pas visible\n
+Fermeture"
+trait3_description: "A la ligne de Passage, il n’y a pas comme aux places hiérarchiques de proposition venant de l’extérieur, mais une remise en question sérieuse de la parole qu’on défend. L’ÉPUISEMENT se situe maintenant au niveau de la borne de pierre, c’est- à-dire de la limite entre l’intérieur et l’extérieur, au point même où s’il s’agit de s’exprimer. Or l’accueil reçu, ou l’appui attendu, s’avère beaucoup plus épineux, voire hostile, qu’on ne l’avait escompté.\n
+On est donc amené à faire retour sur soi, et on constate, dans son palais intérieur, l’absence d’une force personnelle endurante et consistante. Or, il n’est possible d’influencer le dehors que si les convictions naissent d’un état d’esprit à la fois souple et solide. À ce trait, incorrect, enserré entre deux traits fermes et sans autre relation que le voisinage avec ces deux lignes où l’incertitude prédomine, il n’y a pas d’autre perspective qu’une revivification courageuse de ses ressources intérieures."
+trait4: "Neuf en 4\n
+Venir tout doucement\n
+ÉPUISÉ auprès du char doré\n
+Gêne\n
+Il y a aboutissement"
+trait4_description: "À la place de Ministre, premier niveau extérieur, l’encerclement, désormais moins étanche, évolue vers une perspective de déblocage lent. L’ÉPUISEMENT est à présent situé au niveau d’un char, symbole de couplage efficace et d’avancée. Ce char est doré : il est donc, comme la robe proposée aux second et 5ème traits, un cadeau officiel, une marque de participation aux affaires publiques. Pourtant, soit que cette proposition ne soit pas jugée suffisante, soit qu’elle n’émane pas de personnes suffisamment honorables, ou encore que l’on ne se sente pas en mesure d’assumer son éclat, cette proposition suscite l’embarras, la gêne.\n
+Le trait est incorrect et en relation, par correspondance ou voisinage, avec les deux traits Yin inférieurs, où sont décrits des mouvements de rentrée : dans un val retiré pour le premier, dans un palais confiné pour le 3ème. Ces attachements, accentués par l’absence de relation avec la place souveraine, retiennent de s’investir dans les possibilités offertes. Pris entre la tentation de l’abattement et des propositions somptuaires, il faut savoir tenir avec courage jusqu’à ce qu’adviennent de réelles possibilités d’agir."
+trait5: "Neuf en 5\n
+Amputation du nez et des pieds\n
+ÉPUISÉ auprès de la robe à galons écarlates\n
+Alors doucement il y a détente\n
+Profitable d’accomplir les rites d’offrande aux ancêtres"
+trait5_description: "À la place souveraine, l’évocation de châtiments sévères indique une prise en main vigoureuse de la situation, car, après avoir successivement concerné les ressources de nourriture, plus la limite du territoire, enfin des implications honorifiques, l’ÉPUISEMENT se situe à présent au niveau du pouvoir lui-même. La fonction représentée par la robe écarlate est plus importante que celle représentée au niveau du Préfet par la robe vermillon. Ici, la charge offerte, quoique les circonstances soient difficiles, offre la possibilité peu à peu d’imposer ses vues.\n
+Bien que sans relation avec les lignes de Préfet et de Ministre, toutes deux incorrectes, ce trait, Yang à une place impaire, est le premier de l’hexagramme à être correct. De plus, il se trouve au voisinage de l’autre trait correct, le 6ème, situé à l’autre place du Ciel, où l’unique appréciation positive encourage à sortir des blocages. On a ici la possibilité de faire passer sa parole de façon à ce qu’elle soit comprise et que la situation puisse se dénouer. Toutefois les responsabilités que l’on doit assumer impliquant d’être sûr de ce que l’on fait, il importe de s’assurer que les actes correspondent à un engagement réel. Le sacrifice évoqué, plus important que celui indiqué à la place de Préfet, est le signe d’une attitude authentique. Comme à la ligne souveraine de l’hexagramme 63 DÉJÀ TRAVERSÉE, il permet de revivifier le lien avec les sources profondes et ainsi de renforcer la parole que l’on défend."
+trait6: "En haut un six\n
+ÉPUISÉ auprès de plantes grimpantes\n
+Devant un mouvement périlleux\n
+A se dire bouger regrets il y a des regrets\n
+Ouverture pour des expéditions"
+trait6_description: "À ce niveau de Sortie, comme souvent au dernier trait d’un hexagramme, la situation franchit un cap : la possibilité de sortir de l’oppression se fait jour. L’ÉPUISEMENT est mentionné, comme aux autres lignes, mais alors qu’au niveau d’entrée de la situation il était en relation avec une souche dépouillée, c’est-à-dire un arbre n’ayant plus que ses racines, il concerne maintenant des plantes grimpantes, sorte de lierres qui s’entremêlent mais dont la vivacité indique le désir de se projeter loin des murs pour les franchir.\n
+Pareil élan est si inattendu à la fin d’une longue oppression qu’on se surprend à hésiter. Pourtant le moment d’agir fermement est venu. Il ne s’agit plus de rites et de renforcement intérieur comme à la plupart des lignes précédentes, mais de fermes expéditions de remise en ordre. Comme à la ligne souveraine, autre place du Ciel et seule autre ligne correcte de l’hexagramme, l’hésitation n’est plus de mise. Comment rester dubitatif quand le texte mentionne l’ouverture, la seule formule mantique favorable de tous les traits ? Elle peut prendre tout son sens à la sortie de cette situation d’encerclement, si on est capable d’aller de l’avant sans plus se laisser entortiller dans des complications et des discussions stériles."
+grande_image: "Brume sans eau\n
+ÉPUISEMENT\n
+L’Être Accompli ainsi\n
+En sacrifiant sa vie (son mandat)\n
+Fait avancer ses aspirations"
+dixieme_aile: "PUITS communication sans entraves et \n
+ÉPUISEMENT se trouver\n
+Mutuellement face à face"
+nucleaire:
+oppose:
+renverse:
+image:
 trigramme_bas: "eau"
 trigramme_haut: "brume"
-numero: 47
+
+

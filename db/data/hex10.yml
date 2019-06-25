@@ -1,10 +1,62 @@
 nom: '10 - Démarche'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
+description:
+jugement: "MARCHER sur la queue d’un tigre\n
+Il ne mord pas la personne\n
+Favorisant"
+jugement_description: "La situation dans son ensemble est décrite par une image audacieuse : la rencontre soudaine avec un tigre assoupi. Cette scène, nécessairement symbolique, évoque les moments où prédomine le risque de réveiller par inadvertance une énergie puissante. La conjoncture peut devenir à tout instant explosive et dangereuse, comme lorsqu’on s’avance en terrain miné. Mais le risque inhérent au moment est clairement posé, les conséquences néfastes qu’il peut avoir ne sont pas inéluctables. La seconde phrase du Jugement est optimiste : la rencontre peut ne pas entraîner de dommages. Il ne s’agit donc pas de s’effrayer mais d’être particulièrement attentif. Il est possible, en adoptant une démarche prudente et en respectant les formes requises, d’entrer en contact avec cette force sauvage – qui peut surgir de l’intérieur – et, en se l’appropriant, de la faire se déployer sans dommage.\n
+Emblème de l’hexagramme, le tigre n’est cité dans le texte des traits qu’aux 3ème et 4ème lignes, les deux niveaux de l’être humain, où sont détaillées les difficultés de la rencontre. Mais la DÉMARCHE est mentionnée à chacun des six traits, avec à chaque niveau des précisions sur le moyen de parvenir à canaliser cette puissance."
+trait1: "Au début un neuf\n
+DÉMARCHE simple\n
+Aller absence de faute"
+trait1_description: "Lorsqu’on se trouve à l’entrée d’une situation périlleuse, il importe de veiller à sa manière d’avancer. La DÉMARCHE peut être décidée tout en restant naturelle, dépourvue d’ornements ou de fanfaronnade. Que la circonstance soit potentiellement dangereuse ne doit ni effrayer ni décourager : aucune formule mantique, positive ou négative, ne vient qualifier ce niveau.\n
+La correction du trait, Yang à une place impaire, est un signe de vivacité ; l’absence de relation avec les autres lignes donne une certaine autonomie. Il ne faut pas hésiter à avancer, à condition de conserver un comportement naturel, sans inquiétude ni fermeté excessive."
+trait2: "Neuf en 2\n
+MARCHER sur un chemin\n
+Uniformément plat\n
+Etre retiré et solitaire présage Ouverture"
+trait2_description: "Au premier niveau Yin de l’hexagramme, il ne s’agit plus de veiller à la qualité de la démarche mais d’être conscient de la voie sur laquelle on avance. Le comportement naturel conseillé au trait initial prend maintenant un tour plus stratégique : que le chemin soit uniformément plat par choix personnel ou parce qu’on n’en perçoit pas les dangers cachés, il s’agit d’éviter de prendre des risques et de rester en dehors des aspérités et des confrontations. Le retrait conseillé ici l’est dans les mêmes termes à une autre place de Préfet, celle de MARIAGE DE LA CADETTE, où il est la réponse appropriée au défaut de perception symbolisé par le borgne mentionné ici à la ligne suivante. Ce retrait prudent peut permettre d’éviter les déconvenues qui surviennent à la place de passage.\n
+Le trait est incorrect et situé au voisinage de la ligne la plus incertaine de l’hexagramme. L’absence de correspondance avec la ligne souveraine indique un défaut de relation qui doit inciter à se préserver. Il est préférable d’aborder et d’apprivoiser la force instinctive sous-entendue dans tout l’hexagramme par une conduite naturelle et solitaire. Cette attitude indépendante peut être féconde : se refusant aux difficultés du partenariat, le solitaire peut se coupler avec l’immédiat et l’instantané. Cette conduite austère, c’est sa manière à lui de chevaucher le tigre."
+trait3: "Six en 3\n
+Un borgne peut observer\n
+Un boiteux peut MARCHER\n
+MARCHER sur la queue d’un tigre\n
+Il mord la personne fermeture\n
+Un guerrier agit en place\n
+D’un grand Chef"
+trait3_description: "A cette place de Passage, premier des deux niveaux directement associés à l’être humain, la reprise de la phrase emblématique du Jugement montre que le problème global de l’hexagramme se pose maintenant de manière cruciale : comment se comporter quand on est soudainement en présence d’une force sauvage, sans être blessé par sa violence ? La partie est inégale. Œil perçant et démarche souple, le tigre dispose d’une puissance à la mesure de ses appétits. De l’autre côté, borgne et boiteux évoquent une insuffisance des facultés de perception et de mobilité pour le moins dommageable en la circonstance.\n
+Le trait, Yin à une place Yang, est incorrect, et dénote un risque réel de se trouver, comme ces deux personnages inconscients de leur audace,
+ soudainement confronté à une intensité susceptible de submerger et d’entraîner dans des conjonctures impossibles à contrôler. A l’inverse du pronostic rassurant indiqué au Jugement, la rencontre se solde ici par une morsure, et cette blessure est soulignée par la seule appréciation mantique réellement négative de tout l’hexagramme. Toutefois, si la force est à ce niveau déficiente, elle n’est pas pour autant totalement absente : même si on se sent handicapé, on n’est ni aveugle ni paralysé. C’est l’arrogance de la DÉMARCHE qui est en cause. Le guerrier prétentieux, qui surestime ses capacités, se croit capable de diriger les opérations alors qu’il n’est qu’un bagarreur. L’affaire en effet n’est pas tant de courage que de perspicacité et d’expérience."
+trait4: "Neuf en 4\n
+MARCHER sur la queue d’un tigre\n
+Frayeur et effroi\n
+A la fin ouverture"
+trait4_description: "A cette place de Ministre, second des deux niveaux directement associés à l’être humain, le problème global de l’hexagramme – la rencontre soudaine d’une force qui nous dépasse – se pose à nouveau de manière cruciale, comme le montre la reprise à l’identique de la phrase initiale du Jugement. Cependant, si on est confronté à la puissance du tigre, comme à la ligne précédente où il mort la personne, les dommages peuvent ici être évités : la rencontre inopinée avec cette force explosive ne provoque aucun mal, juste un effroi, une frayeur salutaire. Ce ne sont pas là des peurs qui paralysent, mais des commotions qui rendent instantanément plus attentif au contexte, ce qui permet de corriger à temps l’erreur qu’on a pu commettre en marchant sur la queue du tigre.\n
+La nature de Yin de la place équilibrant la force du trait, il est possible de reprendre contenance et de retrouver la DÉMARCHE prudente, polie et respectueuse qui permet de conjurer les dangers. Dans une telle perspective, un chemin peut s’ouvrir au travers des périls."
+trait5: "Neuf en 5\n
+DÉMARCHE RESOLUE\n
+Présage de danger"
+trait5_description: "Le niveau souverain de cet hexagramme est occupé par un trait Yang donc correct, mais situé au milieu d’un bloc de trois traits Yang, ce qui accentue sa fermeté et fait écho à la force sauvage du tigre, emblème de la situation toute entière. Le caractère qui qualifie ici la DÉMARCHE n’est pas anodin : c’est le nom d’un autre hexagramme, qui décrit une situation d’expression déterminée : SE MONTRER RESOLU, au Jugement duquel il est question de se manifester à la cour du roi. Si du fait des rayures de leur pelage les tigres peuvent avoir l’idéogramme roi écrit sur leur front, les rois peuvent parfois avoir aussi le caractère violent du tigre.\n
+Comme pour répondre au présage de danger indiqué ici, le Jugement de SE MONTRER RESOLU est le seul, parmi lest 64 hexagrammes, à comporter la mention d’un danger effectif. Lorsque la force Yang menace de déborder, il importe de savoir retenir l’impétuosité et la propension à l’agressivité. Même en place de Souverain, on doit savoir se comporter avec souplesse."
+trait6: "En haut un neuf\n
+Observer la DÉMARCHE\n
+Scruter les augures\n
+Pour qui revient sur ses pas\n
+Fondamentalement ouvert"
+trait6_description: "A ce niveau de Sortie, comme souvent au 6ème trait des hexagrammes, la situation se renverse. Il ne s’agit plus de MARCHER, mais de porter un regard sur sa DÉMARCHE, ce que ne permettait pas la perception amoindrie du borgne cité en 3ème ligne. L’œil devenu maintenant aussi perçant que celui d’un tigre, on peut à la fois examiner son propre comportement et guetter les signes naissants d’une évolution riche de potentialités.\n
+Située au-delà des tensions décrites dans le reste de l’hexagramme, cette ligne en correspondance avec le seul trait Yin de la figure, indique des possibilités de relation plus fécondes. Son texte fait écho à celui de la première ligne où l’on allait alors qu’ici on revient. Dirigé vers l’arrière, ce qui permet un réexamen des éléments incorrects de la démarche passée, ce mouvement est gage de la capacité à mettre en route une situation nouvelle (fondamentalement). Cette possibilité de se repositionner de manière favorable est sanctionnée par une formule mantique tout à fait inhabituelle en 6ème ligne. Elle renforce la possibilité de réviser les fonctionnements passés pour amorcer un déroulement futur."
+grande_image: "Vers le haut le ciel vers le bas la brume\n
+DÉMARCHE\n
+L’Etre Accompli ainsi\n
+En distinguant haut et bas\n
+Fixe et tranquillise la volonté du peuple"
+dixieme_aile: "DÉMARCHE\n
+Ne pas se poser."
+nucleaire: '37 - Gens du Clan'
+oppose: '15 - Se Tenir'
+renverse:
+image:
 trigramme_bas: "brume"
 trigramme_haut: "ciel"
 numero: 10
+
+

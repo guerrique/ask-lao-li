@@ -1,10 +1,64 @@
+numero: 25
 nom: '25 - Spontanément'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
+description:
+jugement: "SPONTANÉMENT\n
+Fondamentalement favorisant\n
+Ténacité profitable\n
+Pour qui n’est pas en accord juste\n
+Il y a des fautes d’inadvertance\n
+Pas profitable d’avoir où aller"
+jugement_description: "SPONTANÉMENT appartient à un ensemble de sept hexagrammes dont le Jugement se caractérise par un groupement spécifique de formules mantiques appelé les Quatre Qualités du Ciel-Terre : fondamentalement favorisant et ténacité profitable. Ces quatre caractères marquent des moments durant lesquels la possibilité de se situer au point de départ d’une situation et de lui faire prendre son essor se conjugue avec l’endurance nécessaire pour en récolter les bienfaits. Ce dynamisme, qui est à l’origine de circonstances nouvelles, requiert ici, pour être saisi et développé de manière efficace, une vigilance constante : seule une grande attention et une capacité de réaction rapide permettent de s’ajuster continuellement au cours que prennent les événements. Trouver l’accord juste, comme un musicien qui règle son instrument, c’est inventer son attitude en fonction des circonstances.\n
+Les trois dernières phrases du texte peuvent être lues ensemble. Mal observer ce qui naît dans l’instant, ne pas en faire le point de départ de son orientation, c’est errer : qui s’accorde à une autre diapason que celui de la situation ne peut que jouer faux. Ce conseil global sera repris aux lignes trois et six de l’hexagramme, où excès de précaution et agitation excessive empêchent de régler correctement son action. Lorsqu’on ne se sent pas capable d’avoir cette attention et de trouver immédiatement l’attitude qui en découle, on doit s’abstenir de prendre des initiatives. Vouloir avancer à tout prix sans avoir cette vigilance ne peut conduire qu’à des catastrophes."
+trait1: "Au début un neuf\n
+Aller SPONTANE\n
+Ouverture"
+trait1_description: "Par sa position initiale, porche du point où ce qui est enfoui doit émerger, ce trait d’Entrée se trouve naturellement en harmonie avec la spontanéité qui donne tout son sens à l’hexagramme. Il est de plus en affinité avec la force Yang concentrée dans les lignes supérieures. Aucune détermination n’étant par avance établie, le mouvement peut s’y enclencher de manière juste, en conformité avec les forces créatives qui prédominent dans la situation.\n
+Que cette ligne soit la seule à bénéficier d’une formule nettement favorable est d’autant plus remarquable que les appréciations positives ne sont pas très fréquentes au début d’un hexagramme. Le chemin s’ouvre à qui répond aux sollicitations du dehors et avance sans arrière-pensées."
+trait2: "Six en 2\n
+Sans labourage\n
+Des moissons\n
+Sans défrichage\n
+Des terres nouvelles\n
+Donc il est profitable d’avoir où aller"
+trait2_description: "Cette ligne et la suivante – les deux seuls traits Yin de l’hexagramme – se ressemblent par leur ton et leur manière surprenante de décrire les aléas du cours spontané des choses. Bonheur et malheur apparaissent l’un comme l’autre sans tenir compte des critères humains : un ordre naturel, qui semble parfois injuste ou chaotique, s’impose librement au-delà de nos appréciations ou de nos efforts, selon un rythme ou une occurrence qu’il ne nous appartient pas de déterminer.\n
+A cette place de Préfet, le trait est correct et en correspondance avec la ligne souveraine : position bienvenue dans une situation où souplesse et disponibilité sont les qualités requises pour s’adapter à l’inattendu. Ces qualités sont évoquées par les images utilisées dans le texte : le terrain est tellement meuble qu’il produit sans avoir été travaillé ; le territoire s’étend sans qu’il soit nécessaire de forcer pour le défricher. La capacité à laisser parler une qualité personnelle coïncide de manière particulièrement heureuse avec le contexte, ce qui permet de se prêter à la réalisation de sa nature propre.\n
+Mais il importe de ne pas en rester là et de tirer les conséquences de cette conjoncture positive. Alors que le Jugement met en garde contre la fixation opiniâtre sur un objectif déterminé, le conseil donné ici est inverse. Le fait d’être en harmonie avec la situation implique de répondre aux possibilités qui se présentent : on se doit de les mener à bien quoi qu’il arrive."
+trait3: "Six en 3\n
+Désastre du SPONTANE\n
+D’aventure le boeuf attaché\n
+Devient gain du nomade\n
+Et désastre du paysan"
+trait3_description: "Cette ligne et la précédente se ressemblent par leur ton et leur manière choquante de décrire les aléas du cours spontané des choses. La vie, comme la nature, se déroule chaque jour selon un fonctionnement aléatoire qui passe aussi par des vicissitudes qu’aucune précaution ne peut prévenir ou endiguer. Le texte de ce second trait Yin en donne pour exemple un événement tout aussi déroutant que la récolte inattendue de la ligne précédente : un paysan attache son bœuf pour l’empêcher de divaguer et, malgré cette précaution, se le fait dérober par un « passant ».\n
+SPONTANÉMENT n’est pas un moment où l’on peut prendre des garanties définitives contre le cours des événements. Le gain n’est pas du côté du sédentaire, dont l’inclination à la précaution et au respect des règles se révèle en l’occurrence inefficace. Le nomade, plus ouvert à l’indéterminé, laisse volontiers libre cours à sa fantaisie. Il saisit de façon naturelle les opportunités telles qu’elles se présentent, sans égard pour les usages. Qui suit sa nature propre n’a que faire de liens et de cordes : il s’adapte instantanément au cours des choses sans avoir à prendre de précaution particulière, et rien ne peut l’en détacher. Qui subit des déconvenues peut découvrir un gain caché derrière ce qui semble au premier abord une perte. Laozi ne dit-il pas : « Faveur et disgrâce sont comme un surprise. Chéris un malheur comme ton propre corps »."
+trait4: "Neuf en 4\n
+Présage de possibilités\n
+Absence de faute"
+trait4_description: "Première du bloc de trois traits fermes qui surplombe l’hexagramme, cette ligne participe de la forte créativité qui traverse la situation. Cependant, située au début de cette force Yang, elle se laisse d’autant moins emporter qu’elle est freinée par les traits Yin qui la précèdent.\n
+L’absence du nom de l’hexagramme indique, ici comme à la seconde ligne, que le problème d’errer ne se pose pas à ce stade. A cette place de Ministre, située à la jonction des forces Yin et Yang, la grande vitalité de l’hexagramme peut se transmettre. On y est à même de saisir les opportunités et de les aider à se réaliser.\n
+Cette position, à la fois forte et retenue, est caractérisée par un couplage particulier de formules mantiques qui ne se retrouve qu’au moment de DIMINUER. On peut y voir l’évocation d’un resserrement Yin préalable au déploiement suggéré par AUGMENTER, l’hexagramme dérivé de ce trait. Cette bonne alternance entre réceptivité et créativité annonce des possibilités que l’on ne doit ni craindre ni précipiter."
+trait5: "Neuf en 5\n
+Fébrilité du SPONTANE\n
+Sans médecine la joie est là"
+trait5_description: "La 5ème ligne, place souveraine, est celle d’où l’on gouverne la situation. Or gouverner est une tâche malaisée lorsqu’on est soumis aux turbulences de l’imprévu, et qu’il faut s’y adapter sans chercher à imposer un contrôle autoritaire. Cette contradiction ressemble à celle décrite au même niveau au moment de S’ENTHOUSIASMER. Cependant la situation n’est pas aussi bloquée qu’il y paraît. Bien que contrainte et malmenée par la vitalité mouvementée à laquelle elle participe, cette ligne, Yang à une place impaire donc correcte, la transmet aux forces intérieures de l’hexagramme par sa correspondance avec le deuxième trait.\n
+L’antinomie entre force Yang impérieuse et nécessité de laisser se dérouler le mouvement sans contrôle se manifeste sous la forme d’une fièvre, une fébrilité qui caractérise dans le Yi Jing les moments d’affolement, d’impétuosité ou d’impatience. Sa contrepartie est la joie, une jubilation synonyme d’échange confiant, de parité et d’apaisement qui ne peut être que le résultat d’une confiance totale dans le cours naturel de la vie.\n
+On doit se garder du désir d’intervenir et laisser la situation se rétablir d’elle- même. A l’instar des deux autres situations où la maladie fait place à la joie, DIMINUER et ECHANGER, il convient d’adopter une stratégie de diminution des tensions et de confiance dans les bienfaits de la communication."
+trait6: "En haut un neuf\n
+Agir SPONTANE\n
+Il y a des fautes d’inadvertance\n
+Aucun lieu n’est profitable"
+trait6_description: "Située au sommet de l’hexagramme, incorrecte et poussée par les forces Yang qui la précèdent, cette ligne évoque un mouvement exagéré que l’on ne peut ni endiguer ni intégrer. La première phrase du texte, par sa construction identique à celle du premier trait, renforce la différence entre les verbes utilisés à l’Entrée et à la Sortie de la situation. Par comparaison avec aller, agir souligne un volontarisme qui outrepasse le cadre de la situation, notamment parce qu’on se trouve incapable de l’attention requise pour prendre des initiatives dans un tel contexte.\n
+Bien loin de la spontanéité innocente du début, agir SPONTANÉMENT n’est plus à ce niveau adéquation mais inattention. On est particulièrement concerné ici par la mise en garde donnée au Jugement : ne pas observer soigneusement ce qui naît dans l’instant conduit à l’errance."
+grande_image: "Sous le ciel le tonnerre circule-et-agit\n
+Tous les êtres s’unissent SPONTANÉMENT\n
+Les Anciens Rois ainsi\n
+Florissants par adéquation au moment\n
+Élevaient les dix mille êtres"
+dixieme_aile: "SPONTANÉMENT\n
+Désastre"
+nucleaire: '53 - Pas à Pas'
+oppose: '46 - Croissance'
+renverse:
+image:
 trigramme_bas: "tonnerre"
 trigramme_haut: "ciel"
-numero: 25
+

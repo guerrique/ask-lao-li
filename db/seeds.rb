@@ -1,4 +1,4 @@
-puts "destroying data"
+# puts "destroying data"
 Trait.destroy_all
 Tirage.destroy_all
 Trigramme.destroy_all
@@ -30,12 +30,27 @@ puts "creating hexagrammes"
 
 hex = Hexagramme.new(
   nom: hex_data["nom"],
+  description: hex_data["description"],
+  jugement: hex_data["jugement"],
+  jugement_description: hex_data["jugement_description"],
   trait1: hex_data["trait1"],
+  trait1_description: hex_data["trait1_description"],
   trait2: hex_data["trait2"],
+  trait2_description: hex_data["trait2_description"],
   trait3: hex_data["trait3"],
+  trait3_description: hex_data["trait3_description"],
   trait4: hex_data["trait4"],
+  trait4_description: hex_data["trait4_description"],
   trait5: hex_data["trait5"],
+  trait5_description: hex_data["trait5_description"],
   trait6: hex_data["trait6"],
+  trait6_description: hex_data["trait6_description"],
+  grande_image: hex_data["grande_image"],
+  dixieme_aile: hex_data["dixieme_aile"],
+  nucleaire: hex_data["nucleaire"],
+  oppose: hex_data["oppose"],
+  renverse: hex_data["renverse"],
+  image: hex_data["image"],
   trigramme_haut: hex_data["trigramme_haut"],
   trigramme_bas: hex_data["trigramme_bas"],
   numero: hex_data["numero"]
@@ -43,6 +58,6 @@ hex = Hexagramme.new(
 hex.save!
 end
 
-# puts "creating admin"
-# guerrique = Admin.new(email: "guerrique@bussiere.fr", password: "guerrique")
-
+puts "creating admin using User model"
+guerrique = User.new(email: "guerrique@bussiere.fr", password: "guerrique", admin: true)
+guerrique.save!

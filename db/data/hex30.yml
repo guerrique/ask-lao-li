@@ -1,10 +1,61 @@
+numero: 30
 nom: "30 - Filet d'oiseleur"
-trait1: "yang"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "FILET D’OISELEUR\n
+Ténacité profitable\n
+Favorisant\n
+APPRIVOISER la vache ouverture"
+jugement_description: "Le filet de l’oiseleur est un avertissement des dangers menaçant quiconque cherche à s’élever sans s’assurer des bases concrètes de son action : la réalité lui remettra brusquement les pieds sur terre, au prix d’errements dont le texte de certaines lignes de l’hexagramme donne idée.\n
+Si la ténacité est mise d’emblée en avant, c’est que la situation ne peut vraiment prendre son essor qu’à la condition de se tenir avec constance à ce que l’on fait en évitant dispersion, légèreté et inconséquence. Le choix du terme apprivoiser, qui paraît de prime abord incongru appliqué à une vache, sous-entend la présence d’éléments sauvages et fougueux auxquels il importe de ne pas laisser libre cours. Se préoccuper de sa vache, c’est en l’occurrence entretenir et renforcer son implantation dans le terre à terre et le quotidien. Dans une situation où le risque d’aveuglement est très présent, seul le réalisme permet à l’activité d’être féconde et aux idées de se concrétiser."
+trait1: "Au début un neuf\n
+DEMARCHE confuse\n
+Maîtrise de soi absence de faute"
+trait1_description: "A ce niveau d’Entrée, le flou et l’indécision des commencements prédominent. Le texte évoque la difficulté que l’on éprouve à déterminer clairement sa conduite. La position de la ligne à l’orée d’une situation d’éclairement suggère que ces atermoiements sont dus à l’inexpérience. L’allusion à l’hexagramme 10 DÉMARCHE doit inciter à l’attention et la lucidité. Yang à une place Yang, le trait est correct : il est possible de contrecarrer par un peu de fermeté ce comportement hasardeux et, en adoptant une attitude respectueuse et vigilante, de bénéficier de l’influence de la ligne voisine, la plus favorable de l’hexagramme."
+trait2: "Six en 2\n
+LUMIERE jaune\n
+Fondamentalement ouvert"
+trait2_description: "Central et correct, ce trait est le plus favorable de l’hexagramme. Sa position en place de Préfet, lieu souverain du Yin, renforce la capacité à mettre en œuvre le conseil indiqué au Jugement par l’image de la vache : se préoccuper d’enraciner son action dans des réalisations concrètes. A ce niveau, les différents sens de l’idéogramme nommant l’hexagramme se rejoignent de manière subtile : la lucidité permet d’étoffer l’activité, d’ancrer les élans dans un maillage organisé.\n
+Le jaune, couleur du centre, de la terre, du Yin, met particulièrement en valeur la notion de service qui caractérise la 2ème place. Cette couleur, associée à la même formule mantique favorable, rapproche le texte de ce trait et celui de la ligne souveraine d’ÉLAN RÉCEPTIF : cet écho accentue l’importance des qualités de souplesse et d’efficacité à mettre en œuvre ici. Éclat discret et intelligence de la situation sont à même de faire éclore les multiples possibilités d’action que le moment recèle."
+trait3: "Neuf en 3\n
+LUMIÈRE du soleil couchant\n
+Ne pas tambouriner les jarres d’argile et chanter\n
+Donc pousser des gémissements\n
+Comme les grands vieillards\n
+Fermeture"
+trait3_description: "La lumière jaune qui resplendit à la ligne précédente subit ici un déclin. Le couchant est ce moment imprécis entre chien et loup, obscurcissement ou disparition, dont la vision émeut car elle confronte à l’inconnu et à l’incertitude. C’est précisément à de tels moments que l’on ne doit pas perdre confiance. Le texte invite à refuser une attitude défaitiste et à lutter contre le spleen, en des termes curieux qui font songer à cette anecdote du Zhuangzi dans lequel le philosophe est montré « chantant et battant la mesure sur une écuelle » après la mort de sa femme. La morale en est la suivante : celui qui, face au déclin, se laisse vaincre par la tristesse et s’avère incapable de détachement sera également incapable de se défaire de la vie le moment venu.\n
+Les chants et tambours cités ici évoquent ce même mouvement d’allégresse propre à éloigner la tristesse, et surtout à se détacher des aléas de l’existence. Les gémissements, également mentionnés à la ligne souveraine mais accompagnés cette fois de la mention d’ouverture, ne sont pas à leur place ici. La 3ème ligne est un moment de passage et de transition où la mollesse n’est pas de mise."
+trait4: "Neuf en 4\n
+Jaillir\n
+En revenir\n
+Brûler\n
+Mourir\n
+Renoncer"
+trait4_description: "A cette ligne, incorrecte car trop ferme pour une place de Ministre, un excès de vivacité fait suite à l’excès de défaitisme qui obscurcit la ligne précédente. Le texte, dans un exemple saisissant de poésie archaïque au souffle incantatoire, décrit un mouvement enflammant tout sur son passage : cinq verbes s’enchaînent à vive allure comme pour rendre compte d’une succession météorique d’événements : un bond vers le dehors suivi d’un mouvement de retour vers soi, sorte d’aller-retour rapide auquel succèdent embrasement, mort et abandon.\n
+Désir exagéré d’intervenir ou de briller, action inefficace parce que trop emportée ou basée sur des références trop superficielles, ce trajet porte en lui- même les raisons de sa chute. Certains, comme Wang Bi, considèrent qu’il s’agit là d’une rébellion, celle à laquelle il est mis bon ordre au niveau du dernier trait. La présence du feu et de la mort indiquent en tout cas une combustion peut-être évitable pour qui sait renoncer sans avoir à en passer par de telles expériences."
+trait5: "Six en 5\n
+Comme verser des flots de larmes\n
+Comme être affligé et pousser des gémissements\n
+Ouverture"
+trait5_description: "La meilleure manière de résister aux illusions qui prédominent dans FILET D’OISELEUR est un réalisme auquel la souplesse du Yin peut grandement contribuer. La place souveraine exige d’assumer avec lucidité tous les errements, voire d’endurer les éclaboussures de comportements impulsifs tels que celui décrit au trait précédent. Cependant, l’incorrection de ce trait, Yin à la place souveraine, suggère une perméabilité peut-être excessive dans une situation où l’émotivité le dispute à une agitation inconsidérée.\n
+Ces larmes cathartiques expriment un retour cruel au réalisme après des excitations utopiques, lesquelles président souvent à l’activité humaine. Les mêmes gémissements sont mentionnés à l’hexagramme 60 MESURE, où ils sont causés par l’absence de modération. On retrouve également ces flots de larmes à l’hexagramme 45 REUNION, où le regroupement d’êtres humains provoque des situations imprévues. L’ouverture qui qualifie l’ensemble du trait n’est pas aussi fondamentalement favorable que celle mentionnée à la seconde ligne, mais les souffrances endurées ici constituent malgré tout une prise de conscience tout à fait positive."
+trait6: "En haut un neuf\n
+Le Roi opère sorties et expéditions\n
+Il est avantageux de soumettre les têtes\n
+Et de ne capturer aucun vilain\n
+Absence de faute"
+trait6_description: "Le texte de ce trait de Sortie marque une rupture de ton avec la couleur flamboyante des lignes précédentes. La tristesse décrite à la ligne souveraine laisse place à une fermeté radicale. Il s’agit maintenant de mettre le holà au désordre qui est la conclusion logique des aveuglements et des excès expérimentés dans tout l’hexagramme.\n
+Que la présence du Roi soit ici nécessaire indique à quel point la confusion s’est installée : il est temps de savoir imposer son autorité et de procéder à une remise en ordre vigoureuse. Toutefois cette autorité ne doit pas s’exercer aveuglément : si les forces qui ont cru pouvoir s’arroger le droit de s’élever pour diriger doivent être brisées, on préservera celles dont l’aveuglement n’est pas de leur fait. Cet assainissement de la situation s’effectue sans regret, la même formule mantique qu’en première ligne semblant promettre une aube nouvelle."
+grande_image: "LUMIERE deux fois agissante\n
+FILET D’OISELEUR\n
+Ainsi l’Etre Grand\n
+En se reliant à cette LUMIÈRE\n
+Éclaire les quatre régions"
+dixieme_aile: "FILET D’OISELEUR vers le haut et\n
+S’ENTRAINER AU PASSAGE DES RAVINS vers le bas"
+nucleaire: '28 - Grand Excès'
+oppose: '29 - Ravins'
+renverse:
+image:
 trigramme_bas: "feu"
 trigramme_haut: "feu"
-numero: 30
+

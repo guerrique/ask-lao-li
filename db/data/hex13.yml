@@ -1,10 +1,60 @@
 nom: "13 - S'entendre avec tous"
-trait1: "yang"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
+description:
+jugement: "S’ENTENDRE AVEC TOUS jusqu’aux confins\n
+Favorisant\n
+Profitable de passer le grand fleuve\n
+Profitable d’être tenace comme un Chef Accompli"
+jugement_description: "Le nom de l’hexagramme, directement inséré dans la première phrase, présente d’emblée l’objectif à atteindre : porter l’esprit de concorde le plus loin possible. Les confins désignent la limite des terres cultivées par la civilisation chinoise, au- delà desquelles ne se trouvent que les barbares. Le choix de ce terme indique dans quel état d’esprit doit être envisagée l’entente avec autrui : elle ne peut se développer de manière favorisante qui si l’on se sent en mesure de reconnaître et d’accepter ce qui paraît le plus autre, le plus éloigné, le plus radicalement différent.\n
+Un tel objectif ne peut être atteint si l’on reste sur son quant-à-soi. Il faut délaisser ses habitudes, faire l’effort de se jeter à l’eau, quitter le connu pour aller à la rencontre d’autres territoires. Cela exige non seulement du courage, mais aussi de la souplesse, de la perspicacité et de l’endurance, car le contact avec l’autre se produit rarement sans que les divergences d’opinions ou d’intérêt de fassent naître des différends et des malentendus."
+trait1: "Au début un neuf\n
+S’ENTENDRE AVEC TOUS jusqu’à la grand-porte\n
+Absence de faute"
+trait1_description: "Le stade initial de la recherche de l’entente est décrit par l’image de la grand- porte, qui marque à la fois la frontière de la maison et le seuil ouvrant sur l’extérieur. Le sentiment d’humanité et de concorde s’épanouit à ce stade sans difficultés particulières, car il ne s’exerce que dans un cadre limité et au contact de l’entourage immédiat. Cependant, position médiane entre le dedans et le dehors, la porte n’est pas que fermeture, elle est aussi ouverture sur l’extérieur ; se tenir sur le seuil permet de se prêter à des contacts plus riches ou plus diversifiés.\n
+Sans autre relation que le voisinage de la seconde ligne, où prédomine la tendance à réserver les efforts de bonne entente aux seuls gens de la maisonnée, le trait décrit une attitude limitée mais prudente, conforme au caractère inexpérimenté d’une première place."
+trait2: "Six en 2\n
+S’ENTENDRE AVEC TOUS jusqu’au temple familial\n
+Gêne"
+trait2_description: "Le temple familial où sont disposées les tablettes ancestrales est le pôle autour duquel se constitue et s’entretient le lien qui unit tous le membres du Clan et préserve la lignée. Que la cordialité parentale soit citée dans le texte de la Dixième Aile indique que le clan est la cellule fondamentale de l’organisation sociale et que la disposition intérieure évoquée par ce sentiment est le modèle à suivre ici. Cependant, symbolisant l’interne, le caché, le domaine intime et préservé vers lequel on a toujours tendance à revenir, le temple familial renvoie plus à la préservation des références personnelles qu’à l’ouverture au monde, objectif principal de S’ENTENDRE AVEC TOUS.\n
+La contradiction entre cette propension égocentrique et l’ouverture vers l’extérieur requise par la situation génère étroitesse et embarras. S’appuyer, dans le contact avec l’autre, sur des repères intérieurs ne signifie pas mettre des barrières. De là vient sans doute que ce trait, le seul Yin, se trouve qualifié par la plus mauvaise appréciation mantique de l’hexagramme, malgré l’excellence de sa position, correcte et centrale, et le fait qu’il entretient avec la ligne souveraine la seule relation de correspondance de la figure."
+trait3: "Neuf en 3\n
+Armes cachées dans les fourrés épais\n
+GRAVIR la haute colline ancestrale\n
+Trois ans sans que rien ne lève"
+trait3_description: "Ce niveau de Passage vers l’extérieur est le stade des déconvenues éprouvées aux premiers contacts réels avec les autres. Le texte ne mentionne plus le nom de l’hexagramme comme aux deux traits précédents : il n’y a plus d’entente, mais la description d’une confrontation difficile avec un monde extérieur ressenti comme inculte et hostile, ce qui entraîne méfiance et agressivité. Cette réaction négative – qu’elle soit due à un sentiment d’insuffisance personnelle ou de crainte face à un environnement trop vindicatif – se manifeste par un penchant à la dissimulation.\n
+Il n’est possible ni de s’en tenir à cette ambiance de suspicion, ni de rester enfermé dans son mécontentement, car de telles dispositions sont stériles. La communication horizontale étant bloquée, on se ressource au lien vertical entretenu par le clan en se référant à nouveau aux ancêtres, c’est-à-dire à ce sur quoi on se fonde. Ce retour à sa propre colline ancestrale ne s’effectue pas sans efforts : il oblige à pénétrer les choses plus à fond, à prendre sa source plus haut, à gravir des hauteurs c’est-à-dire à s’élever pour rehausser son point de vue. La position du trait, en place de transition mais retenu par le voisinage avec la seconde ligne, accentue la contradiction : à cette croisée des chemins entre la rencontre d’autrui et l’exploration de ses racines propres, un travail en profondeur doit être mené. Il serait vain d’espérer un changement rapide : un cycle complet doit s’écouler avant qu’il ne produise ses fruits."
+trait4: "Neuf en 4\n
+A califourchon sur le mur\n
+Incapable d’attaquer\n
+Ouverture"
+trait4_description: "Le texte de ce trait, comme celui de la ligne précédente, ne mentionne pas le nom de l’hexagramme : ce n’est pas non plus à ce stade que peut se réaliser l’entente avec tous. Pourtant, à ce premier niveau extérieur, un pas de plus est franchi vers le dehors. L’image utilisée est ironique : une personne juchée sur un mur, une jambe pendante de chaque côté. Se retrouver ainsi à califourchon sur ce mur d’enceinte présente un double avantage : d’une part cette position empêche de se jeter à l’assaut de l’autre, d’autre part elle permet d’avoir un regard aussi bien sur son propre territoire que sur ce qui se trouve au-delà.\n
+Accentuée par sa participation à un groupe de traits Yang, la fermeté du trait est compensée par sa proximité avec la ligne souveraine. L’agressivité décrite à la ligne précédente subsiste, mais se révèle inopérante. La situation se retourne et des possibilités de compréhension et de tolérance se font jour, marquées par la seule appréciation favorable de tout l’hexagramme."
+trait5: "Neuf en 5\n
+S’ENTENDRE AVEC TOUS\n
+D’abord pleurer et gémir\n
+Et ensuite rire\n
+De grands Maîtres d’Armes\n
+Sont capables de se rencontrer l’un l’autre"
+trait5_description: "A la place souveraine, le nom de l’hexagramme, absent des deux lignes précédentes, est à nouveau cité, mais dans une construction différente : la capacité à s’entendre avec autrui est là, cette fois décrite sans localisation précise. Cette particularité différencie ce niveau de tous les autres : on atteint ici le point central de la situation. La concorde n’est plus limitée à tel ou tel domaine, c’est désormais au niveau du cœur et des émotions qu’elle peut se réaliser. Les intentions égoïstes, sournoises ou belliqueuses qui ont jusqu’à présent prévalu laissent place à une confrontation franche et directe, qui ne va pas sans grincements. La présence de Maîtres d’Armes, par l’allusion qu’elle comporte à l’hexagramme 7 ARMEE, indique les turbulences que l’on est amené à endurer lorsqu’on cherche vraiment à s’entendre avec tous.\n
+Le trait appartient à un groupe de quatre traits Yang, ce qui rend difficile la réalisation de la correspondance avec la seule ligne Yin de l’hexagramme. Ce surcroît de force implique que l’on doit, pour concrétiser l’objectif de rencontre, regrouper ses forces et être prêt à en passer par des confrontations. Rechercher la concorde n’est pas se renier pour se mettre à la disposition de l’autre. C’est au contraire en s’armant et se renforçant sur ses bases, à la manière d’un maître
+ d’arts martiaux, qu’on se rend capable de se mettre au diapason de ce qui arrive. Accueillir et reconnaître l’autre se réalise au prix de cette dureté de contact, qui ouvre en fait la voie à une cordialité véritable."
+trait6: "En haut un neuf\n
+S’ENTENDRE AVEC TOUS jusqu’aux faubourgs\n
+Pas de regrets"
+trait6_description: "La place la plus extérieure se S’ENTENDRE AVEC TOUS est celle où sont tirées les leçons des difficultés que l’entente soulève. Si la présence du nom de l’hexagramme indique que la concorde est là, elle s’étend jusqu’aux faubourgs. Situés au-delà des murs de la ville, les faubourgs sont bien plus éloignés que la grand-porte citée au premier trait, où l’implication dans l’échange avec autrui se limite au cercle le plus proche. Toutefois, ils restent bien en deçà des confins auxquels le texte du Jugement propose d’étendre la concorde.\n
+Après les expérimentations mouvementées décrites aux lignes précédentes, l’idéal de l’acceptation de la différence est ici passé au crible de la réalité : au lieu d’envisager une ouverture étendue à l’ensemble du genre humain, on en revient à une position moins ambitieuse mais plus réaliste. Rien de regrettable dans ce pragmatisme bien chinois pour qui atteindre un objectif partiel est préférable à viser un but inaccessible."
+grande_image: "Le ciel uni au feu\n
+S’ENTENDRE AVEC TOUS\n
+L’Etre Accompli ainsi\n
+En classant par analogie\n
+Distingue les choses entre elles"
+dixieme_aile: "S’ENTENDRE AVEC TOUS\n
+Cordialité parentale"
+nucleaire: '44 - Etre Accueillant'
+oppose: '7 - Armée'
+renverse:
+image:
 trigramme_bas: "feu"
 trigramme_haut: "ciel"
 numero: 13
+
+

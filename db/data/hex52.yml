@@ -1,11 +1,63 @@
+numero: 52
 nom: '52 - Stabiliser'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "STABILISER le dos\n
+Sans saisir le corps\n
+Agir à la Cour\n
+Sans voir personne\n
+Absence de faute"
+jugement_description: "Pour STABILISER il faut commencer par établir le calme à l’intérieur sans chercher à dominer la situation, car cela n’aboutirait qu’à se diviser contre soi- même. Pour y parvenir, il ne faut pas se préoccuper de l’ensemble du corps, mais orienter son attention sans contrainte ni hâte sur la source : le dos, la partie de soi sur laquelle on s’appuie sans la voir, celle qui gouverne et structure l’ensemble de l’être humain, où tout s’enracine avant de s’étendre au reste du corps. Se rapprocher le plus possible de ce centre invisible ne peut se faire par une saisie volontariste ou crispée.\n
+Bien que cet exercice ait trouvé de multiples prolongements dans toutes les techniques de méditation développées depuis l’écriture du Yi Jing, STABILISER ne concerne pas que la personne en assise, il trait aussi de la personne en mouvement. Là encore, lorsqu’on est impliqué dans la vie publique, on ne doit pas se référer aux manifestations extérieures mais rester en contact avec la source du pouvoir : afin de ne pas perdre sa concentration, ne pas se laisser détourner de son objectif en réagissant à la présence des autres, ni entrer dans la dispersion provoquée par leur regard.\n
+« L’expérience du grand calme consiste d’abord en un sentiment accru de réalité – d’une réalité intérieure mais qui n’exclut pas la réalité extérieure. Celle-ci reste
+perceptible, mais elle est repoussée à la périphérie. »
+Jean-François Billeter\n
+Que l’action soit intérieure ou publique, le point important est d’unifier son énergie : à l’intérieur, ne pas se laisser diviser (comme au-dehors) ; à l’extérieur, maintenir son unité (comme au-dedans). L’exemple de la régularité à instaurer pour apprivoiser les soubresauts de la vie intérieure est donné par le rythme même des deux premières phrases du Jugement : trois caractères, puis quatre, le tout répété une seconde fois, comme deux sentences parallèles qui indiqueraient la manière d’harmoniser le pair et l’impair. Ce parallélisme se retrouve dans les verbes employés : saisir et voir évoquent tous deux une mainmise, une appropriation, alors que stabiliser et agir fonctionnent en référence à un centre qui doit rester libre et invisible. Ce dernier point sera illustré par la différence de valeur entre les lignes de l’hexagramme : le vrai travail n’a pas lieu au niveau du 5ème trait mais du 6ème, comme si la véritable souveraineté s’exerçait depuis un autre lieu que l’habituelle place de pouvoir."
+trait1: "Au début un six\n
+STABILISER les pieds\n
+Absence de faute\n
+Profitable de durablement tenir bon"
+trait1_description: "Pour stabiliser l’ensemble d’une situation, il faut commencer par s’appuyer sur une base solide. À ce trait d’Entrée, la première chose à faire est d’arrêter le mouvement et de se poser là où l’on est sans plus bouger, comme pour s’enraciner dans le sol. Aucune hésitation à avoir quant à cette immobilisation : comme l’indique la reprise de la seule indication mantique du Jugement, absence de faute, le travail qui s’y effectue est important pour l’ensemble du processus.\n
+La formule qui engage à durablement tenir bon est particulièrement significative. Qu’elle ne soit citée qu’à l’hexagramme ÉLAN RÉCEPTIF, et lors du cas rare où l’ensemble des six traits Yin est à l’œuvre, donne une indication précieuse quant à la conduite à tenir : il ne faut pas chercher à se mettre en avant, mais être constamment à l’écoute de son environnement aussi bien interne qu’externe, tout en évitant de se laisser aller à la moindre initiative qui pourrait troubler la réunion tranquille des énergies. Cette tenue rigoureuse est en résonance avec la stabilisation générale qui s’effectue à la 4ème ligne et se parachève à la dernière, où se trouve la seule autre formule mantique favorable."
+trait2: "Six en 2\n
+STABILISER les mollets\n
+Pas de délivrance pour qui SUIT\n
+Le coeur n’est pas joyeux"
+trait2_description: "À ce niveau de l’hexagramme, il importe de résister à la tendance à se laisser facilement entraîner. Dans la symbolique du corps telle qu’elle apparaît dans le Yi Jing, le mollet est ce qui SUIT le mouvement, l’emblème de ce qui répond à une impulsion dont le pied, cité au trait précédent, est l’image.\n
+Souple à une place Yin, la ligne indique une propension au relâchement qui ne s’accorde pas à la rigueur de la situation. SUIVRE, le nom de l’hexagramme 17, évoque une abdication de la maîtrise personnelle qui n’a en l’occurrence rien de libératoire. Il faut prendre conscience de son indolence et se ressaisir. Le moment n’est pas à la recherche de la facilité et du contentement : il s’agit au contraire de dépasser les sentiments de frustration et de tristesse que la nécessité de la fermeté entraîne."
+trait3: "Neuf en 3\n
+STABILISER la région lombaire\n
+Raidissement de la colonne vertébrale\n
+Danger\n
+Le coeur suffoque"
+trait3_description: "Au niveau de Passage, le processus de stabilisation, après avoir concerné les pieds, puis les mollets, atteint une limite imprécise située entre cuisse et nombril. Premier Yang de l’hexagramme, le trait est à l’image de cette région du corps où cesse la division des membres inférieurs. Tenir fermement cette ceinture ne doit pas pour autant se transformer en raidissement et empêcher la circulation des souffles. Comme souligné au Jugement, où sont évoqués à la fois le dos et la tentation de saisir, la tendance générale est d’y mettre trop de volonté, et de perdre ainsi la fluidité et la souplesse nécessaires au processus de stabilisation : l’axe de distribution de l’énergie vitale se bloque, la respiration, processus d’échange entre l’interne et l’externe, se fait mal et le cœur étouffe.\n
+Alors que la nature Yin du trait précédent accentue un risque de relâchement, la fermeté de celui-ci peine à tenir la situation sans se transformer en rigidité. Il importe de se calmer pour retrouver un peu de sérénité, car une crispation prolongée entraîne une fatigue qui risque de conduire à l’asphyxie."
+trait4: "Six en 4\n
+STABILISER le corps\n
+Absence de faute"
+trait4_description: "Au premier niveau extérieur, il devient possible de déployer dans l’ensemble de la personne tout le travail de stabilisation effectué intérieurement. Il ne s’agit plus d’affermir telle ou telle partie du corps comme aux trois traits précédents, mais de consolider l’ensemble en laissant le calme se diffuser lentement partout. Le texte reprend les termes utilisés au Jugement : le corps, ici stabilisé sans saisie volontariste, et la formule absence de faute qui, en écho au premier trait où elle est également citée, évoque un nouveau départ après le blocage de la ligne précédente. INCITER, l’autre figure où l’image du corps sert de toile de fond au déroulement de l’hexagramme, montre un palier semblable. L’incitation qui, de trait en trait, est repérée à des endroits précis du corps, disparaît au 4ème niveau : comme ici, aucune partie spécifique du corps n’y est plus précisée, car l’incitation se propage alors dans les profondeurs.\n
+La souplesse de ce trait, correct en place de Ministre – celle dévolue à la fonction de communication – en fait un lien précieux entre ce qui cherche à se réunifier au trait précédent et la relation avec l’extérieur qui s’établit à la ligne suivante."
+trait5: "Six en 5\n
+STABILISER les os maxillaires\n
+Les paroles sont ordonnées\n
+Tout regret disparaît"
+trait5_description: "STABILISER ne concerne pas que l’intériorité. Après la diffusion du calme dans l’ensemble du corps décrite au niveau précédent, il devient maintenant possible de se tourner vers l’extérieur. Il ne suffit pas en effet d’arriver à établir l’équilibre en soi, il faut aussi être capable de le maintenir lorsqu’on est en situation. Au niveau souverain, il s’agit de réaliser le second objectif décrit au Jugement : conserver sa sérénité dans l’action.\n
+La parole étant ce par quoi les humains communiquent, c’est par la maîtrise du langage que la stabilisation peut se propager dans l’entourage. Encore faut-il que le discours soit le calme reflet de la quiétude intérieure, et que les pensées s’expriment de façon régulière, en accord avec le cœur où elles prennent racine. C’est par cette disposition qu’un contact serein s’établit avec autrui et que s’effacent les résistances qui empêchent d’aller de l’avant."
+trait6: "En haut un neuf\n
+Magnifiquement STABILISER\n
+Ouverture"
+trait6_description: "À l’apogée de STABILISER, le dernier trait marque une double rupture. D’une part, la construction de son texte ne suit plus le rythme qui scande celui des autres traits. D’autre part, le renversement fréquemment décrit au stade ultime d’un hexagramme ne s’exprime pas ici par un lieu spécifique – il ne s’agit pas de calmer un endroit particulier du corps comme aux trois premiers traits et au trait précédent, ni même le corps tout entier comme au 4ème trait – mais par la manière même de STABILISER. Magnifiquement fait référence à une attitude solide, à la fois droite et généreuse, à même d’aider à se poser et s’affermir. L’idéogramme évoque des rituels, en accord avec cette seconde place du Ciel où une autorité capable de relier s’impose d’elle-même. Les deux autres hexagrammes où ce terme est cité, également aux places du Ciel, sont RETOUR et APPROCHE, deux situations printanières traitant de l’éveil et de l’accueil d’énergies neuves. Ce rapprochement éclaire le processus à l’œuvre au dernier trait de STABILISER : il consiste à régénérer les forces pour les rendre à la fois consistantes et fluides.\n
+Tout le mouvement de cet hexagramme, pourtant synonyme de rigueur et de fermeté, a donc pour objet le renouvellement des énergies. Cette rare capacité de transformation est soulignée par ouverture, la seule appréciation favorable de tout l’hexagramme. Non seulement on y parachève la stabilisation interne grâce au point de vue élevé d’une place supérieure, mais on y est en position de la relier à l’extérieur et ainsi d’apporter une cohésion à l’ensemble de la situation."
+grande_image: "Montagnes réunies\n
+STABILISER\n
+L’Être Accompli ainsi\n
+Par la pensée\n
+Ne va pas au-delà de la situation"
+dixieme_aile: "STABILISER\n
+S’arrêter"
+nucleaire: '40 - Délivrance'
+oppose: '58 - Echanger'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "montagne"
-numero: 52
 

@@ -1,10 +1,66 @@
+numero: 4
 nom: '4 - Jeune Fou'
-trait1: "yin"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "JEUNE FOU\n
+Favorisant\n
+Ce n’est pas moi qui recherche la jeunesse du JEUNE FOU\n
+C’est la jeunesse du JEUNE FOU qui me recherche\n
+Au premier tirage informations\n
+Un second un troisième c’est importuner\n
+Importuner donc plus d’informations\n
+Ténacité profitable"
+jugement_description: "Agir en JEUNE FOU n’est pas nécessairement une faute. L’élan vital qui porte la jeunesse est si favorisant qu’il permet d’entreprendre et de réussir là où parfois la prudence de l’âge amènerait à renoncer. Il faut faire confiance à l’ardeur juvénile, en se gardant simplement de ses défauts dont le principal est de ne pas tenir compte des conseils. Lorsqu’on interroge sans cesse, c’est souvent que l’on se refuse à écouter les réponses. Cela est vrai d’où que parvienne l’avertissement, fût-ce d’un livre de sagesse. Pourtant, qu’une réponse avisée ne paraisse pas satisfaisante a priori est normal, car c’est à celui qui interroge de faire une partie du chemin pour s’approcher de perspectives ou de domaines qu’il ne connaît pas. Un bon maître incite plus qu’il n’enseigne, il offre moins un savoir que les outils permettant de l’acquérir. Il faut du temps et de la régularité pour laisser décanter un enseignement, d’où le rappel dans ce Jugement de la ténacité nécessaire à tout apprentissage.\n
+Au-delà de la signification propre détaillée dans les traits, l’hexagramme JEUNE FOU peut aussi jouer un rôle particulier, unique parmi les 64 figures : il peut fonctionner comme une sorte de fusible afin que le dialogue qui s’instaure entre le Livre des Changements et celui qui le questionne ne tourne pas au bavardage. Alors qu’habituellement, à une interrogation sur une attitude à tenir le Yi Jing répond en proposant une stratégie, ici il court-circuite ce fonctionnement en ne répondant pas à la question mais en jugeant l’opportunité du questionnement. Ainsi, lorsque l’hexagramme 4 apparaît comme une réponse trop étrangère à la question posée, c’est que celle-ci n’avait pas lieu d’être. Se mettant en scène lui- même, le Yi Jing conseille alors à qui en use de façon intempestive de cesser de se comporter en jeune fou."
+trait1: "Au début un six\n
+Mise en route du JEUNE FOU\n
+Profitable d’employer règles et châtiments\n
+Détendre les entraves des pieds et des mains\n
+Et ainsi aller sans gêne"
+trait1_description: "Le trait initial d’un hexagramme représente le stade le plus neuf, le plus immature d’une situation. Ce niveau d’Entrée de JEUNE FOU correspond au moment où le processus d’apprentissage doit être lancé, étape d’autant plus difficile qu’elle repose sur une contradiction : initier un mouvement tout en le canalisant par des limites, ouvrir des perspectives tout en établissant des normes.\n
+Incorrect mais profitant du voisinage avec la ligne ferme et centrale en seconde place, ce trait indique un moment où l’on doit accepter de se soumettre. Il est conseillé d’imposer des règles, au besoin par des punitions, afin de créer les références qui permettent de se situer et donc de se libérer de la confusion. Il convient d’autre part de fixer dès le début des limites, de façon à empêcher des initiatives désordonnées qui pourraient à ce stade restreindre les possibilités de développement."
+trait2: "Neuf en 2\n
+Prendre en charge le JEUNE FOU ouverture\n
+Accueillir une épouse ouverture\n
+Le fils se montrera digne du CLAN"
+trait2_description: "A la mise en route de l’apprentissage marquée par l’établissement des règles décrit à la ligne précédente succède une phase de protection et d’affirmation. Pour rendre la situation féconde, il faut non seulement en embrasser toutes les possibilités, mais concentrer et orienter l’action afin de permettre aux différentes capacités de se développer. La nature Yang du trait évoque les forces neuves d’un jeune prince capable ici d’adopter l’attitude d’écoute conforme à une place de Préfet. A cette première ouverture, le texte en ajoute une autre qui souligne l’aspect favorable du passage à la maturité : accueillir une épouse, qui équivaut dans une société traditionnelle à prendre sa place dans la lignée, signifie plus généralement adopter l’attitude bienveillante qui rend possible la complémentarité."
+trait3: "Six en 3\n
+Ne pas agir\n
+Prendre femme\n
+L’or du mari est visible Pas sa personne\n
+Aucun lieu n’est profitable"
+trait3_description: "A ce niveau de passage, le seul où le nom de l’hexagramme n’est pas mentionné, il n’est pas question d’apprentissage, mais d’initiatives prématurées et de comportement équivoque. Comme au Jugement de ETRE ACCUEILLANT, le conseil de ne pas agir est complété par celui de prendre femme, expression qui engage à une attitude Yin permettant de rendre durables les impulsions fugaces. S’il est trop tôt pour s’affranchir de l’état d’apprenti, c’est que l’on n’est encore capable que des formes extérieures de la maturité. Ce porte-à-faux est représenté par une scène de fiançailles : le promis envoie les cadeaux usuels, mais aucune présence effective ne vient donner corps au rituel.\n
+L’incorrection du trait, souple à cette place impaire, indique un manque de fermeté ; sa correspondance avec la 6ème ligne renforce peut-être l’inadéquation d’un comportement trop pressé d’arriver au but. Clôturant le texte, l’appréciation aucun lieu n’est profitable évoque, comme au Jugement de MARIAGE DE LA CADETTE, la stérilité potentielle d’une situation incontrôlée. Que l’on agisse par puérilité, inexpérience ou manque de sincérité, de telles dispositions ne peuvent conduire nulle part.
+"
+trait4: "Six en 4\n
+Épuisement du JEUNE FOU\n
+Gêne"
+trait4_description: "Situé à mi-chemin des deux traits Yang de la figure, associés l’un au maître et l’autre à l’élève, ce trait est dans une position inconfortable. C’est à ce niveau de Ministre que l’apprentissage est le plus difficilement vécu, car on doit en même temps s’affirmer et rester à l’écoute. Sans relation de correspondance ni de voisinage, ce trait est isolé au milieu d’un groupe de 3 traits Yin. Qu’il soit le seul trait correct de la figure accentue encore un isolement qui peut se traduire par des réactions d’immobilisme ou un sentiment d’impuissance. Ce qui était enveloppement protecteur au niveau de la seconde ligne devient ici clôture, celle dessinée par le caractère EPUISEMENT, le nom de l’hexagramme 47. Cependant, si le choix de cet idéogramme sous-entend un moment d’enfermement, il évoque aussi le courage nécessaire pour faire entendre sa parole et, quoi qu’il en coûte, faire avancer ses aspirations.\n
+Le texte décrit cette position en seulement trois idéogrammes, ce qui renforce le poids de l’appréciation gêne. Le manque de fluidité qu’elle signale n’est plus le résultat d’un comportement comme à la première ligne, il concerne ici
+l’ensemble de la circonstance. Bien que cette situation ne soit qualifiée ni de fermée ni de dangereuse, elle n’en demeure pas moins un moment d’aridité qui requiert de consolider ses forces et de les forger au contact avec l’extérieur."
+trait5: "Six en 5\n
+Jeunesse du JEUNE FOU\n
+Ouverture"
+trait5_description: "La ligne souveraine est le point focal de la situation, le lieu où, exprimée en un texte particulièrement court, se concentre toute la dialectique de l’hexagramme. Le JEUNE FOU, jusqu’alors dauphin inexpérimenté, est à présent un jeune roi à même de maîtriser sa jeunesse. Après l’inconstance décrite à la 3ème ligne et l’enfermement évoqué au trait précédent, la situation s’ouvre. La reprise de l’expression du Jugement jeunesse du JEUNE FOU, associée cette fois à une appréciation positive, indique que l’on est désormais en mesure de dominer l’exubérance juvénile en en conservant toute la vitalité. Le rapport de l’élève, représenté par le 2ème trait, au maître représenté par le 6ème, change de nature : en position de souverain, l’élève a préséance sur son maître mais, encore inexpérimenté, il a toujours besoin de ses conseils pour apprendre à tenir les rênes du pouvoir.\n
+Le trait est en relation, par voisinage ou correspondance, avec les deux traits Yang de la figure. Sa nature Yin, incorrecte, vient ici heureusement équilibrer la position Yang de la place : elle montre l’importance de la souplesse pour faire le lient entre les règles édictées au trait supérieur et leur mise en œuvre au second trait. Soulignée par la même ouverture, la correspondance avec la place de Préfet permet de transmettre le regard expérimenté décrit à la ligne Yang voisine, et ainsi de le diffuser vers les niveaux inférieurs."
+trait6: "En haut un neuf\n
+Fustiger le JEUNE FOU\n
+Pas profitable de composer avec les brigands\n
+Profitable de s’opposer aux brigands"
+trait6_description: "Alors que souvent au dernier trait d’un hexagramme le mouvement se renverse, ici c’est le point de vue qui change. La situation n’est plus, comme aux quatre traits précédents, considérée du côté de l’élève, mais de celui qui a charge d’éduquer le JEUNE FOU. L’enseignement est dispensé sans mollesse : règles et châtiments, posées dès la première ligne, sont appliqués avec une fermeté que l’incorrection du trait, ferme à une place paire, peut pousser jusqu’à une discipline quasi militaire. La tentation de composer avec ce qu’on considère comme inculte, les brigands, doit être fermement repoussée. A ce stade, comme à la ligne de passage de PROGRESSER PAS A PAS, il ne faut pas hésiter à faire reculer le manque de civilité.\n
+La correspondance avec la 3ème ligne, où la suffisance prédomine, engage à faire preuve d’autorité. Le voisinage avec la place souveraine implique que le JEUNE FOU doit savoir se hisser au niveau du maître. Conforme à l’image d’austérité proverbiale des enseignants chinois, la dureté décrite ici s’oppose sans détour à la violence qu’elle entend résorber."
+grande_image: "Au pied de la montagne sort une source\n
+JEUNE FOU\n
+L’Etre Accompli ainsi\n
+En assumant son agir\n
+Elève sa conduite"
+dixieme_aile: "JEUNE FOU mélangé\n
+Et puis ordonné"
+nucleaire: '24 - Retour'
+oppose: '49 - Révolution'
+renverse:
+image:
 trigramme_bas: "eau"
 trigramme_haut: "montagne"
-numero: 4
+
+
+

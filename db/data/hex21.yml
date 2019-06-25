@@ -1,10 +1,62 @@
+numero: 21
 nom: '21 - Mordre et Unir'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "MORDRE ET UNIR\n
+Favorisant\n
+Profitable d’employer les procédures judiciaires"
+jugement_description: "Pour rétablir l’ordre dans une situation inextricable, il faut savoir trancher. Quand les accommodements ne sont plus de mise, seule une intervention active peut permettre de recréer les conditions d’une harmonie future. Contrairement aux situations décrites à l’hexagramme 6 PLAIDER SA CAUSE, qui évoque les joutes oratoires de plaignants, c’est pas une application beaucoup plus radicale de la justice que la situation peut se résoudre et se développer de manière favorable.\n
+Bien que les chinois n’aiment guère les procédures judiciaires – les juges chinois n’ont pas la réputation d’être des gens intègres – il est parfois indispensable d’y avoir recours. Cependant, si allusion est faite ici à un procès, elle est à prendre dans un sens plus général. Il s’agit tout d’abord de mener une enquête rigoureuse sur ce qui empêche la situation de fonctionner normalement. Une fois les manquements éclaircis, il faut les passer au crible des règles que l’on s’est données, décider des peines adaptées à la correction de ces dysfonctionnements, et enfin les appliquer sans tergiverser."
+trait1: "Au début un neuf\n
+CHAUSSE d’entraves de bois\n
+Les pieds sont anéantis\n
+Absence de faute"
+trait1_description: "Dans le Yi Jing, le pied apparaît presque toujours au début d’un hexagramme pour évoquer une démarche à retenir ou contrôler. Au stade initial d’une situation d’intervention active, ce conseil est poussé à l’extrême, puisqu’il s’agit d’une immobilisation complète. Les entraves, signe d’une impossibilité de bouger, peuvent également être comprises comme une incitation à empêcher de nuire. Au seuil d’une situation où les éclaircissements sont indispensables, ce blocage peut permettre d’éviter de se jeter tête baissée dans une résolution trop hâtive du problème."
+trait2: "Six en 2\n
+MORDRE la peau\n
+Le nez est anéanti\n
+Absence de faute"
+trait2_description: "Alors qu’au niveau d’Entrée, on aborde le problème par un freinage contraint, il est ici question de MORDRE, ce qui indique que l’on essaie de s’attaquer à ce qui bloque. Cependant, à la différences des lignes suivantes où l’on mord dans de la viande, le problème n’est encore traité qu’au niveau de la peau, c’est-à-dire seulement en surface. Le nez est la métaphore d’une capacité d’évaluation qui disparaît, s’avérant ainsi limitée ou insuffisante.\n
+Le trait est correct et poussé par sa relation de voisinage avec la première ligne. Même si l’appréciation mantique suggère que ces premières investigations sont adaptées, le mouvement est sans doute trop superficiel pour que le problème soit si rapidement résolu à ce niveau."
+trait3: "Six en 3\n
+MORDRE de la viande séchée à l’air\n
+Sans découpe\n
+Tomber sur du poison\n
+Petit gêne\n
+Absence de faute"
+trait3_description: "Alors que seule la surface est atteinte au niveau précédent, ce 3ème niveau est le premier de ceux où l’on tente de pénétrer activement au cœur du problème, en mordant dans de la viande. Bien que cette viande soir à ce stade préparée de manière simple, la découverte de poison indique la présence d’éléments troubles ou viciés dans la situation.\n
+Le trait est non seulement incorrect, mais en correspondance avec la 6ème ligne, où est mentionnée l’autre formule mantique négative de l’hexagramme. Il se trouve de plus au voisinage de la place de Ministre où la fermeté vis-à-vis de ce qui empoisonne s’exerce de la façon la plus énergique. Cette inconfortable position doit engager à éviter toute attitude mesquine ou agitée afin de sortir de la confusion."
+trait4: "Neuf en 4\n
+MORDRE de la viande séchée coupée avec les os\n
+Obtenir une flèche de bronze\n
+Présage de difficultés profitables\n
+Ouverture"
+trait4_description: "Situé au milieu de trois Yin, ce trait Yang correspond à un moment important de l’hexagramme. On n’est plus au niveau superficiel de la peau comme au 2ème trait, ni à celui de la viande sans découpe de la 3ème ligne. Celle dans laquelle on mord maintenant a subi une certaine préparation, ce qui indique un stade plus avancé des investigations.\n
+La place de Ministre est celle où l’on est appelé à affronter directement les obstacles qui empêchent une circulation fluide des énergies. L’incorrection du trait suggère de sortir de la retenue habituellement dévolue à cette place pour passer à l’action de manière habile et efficace. La flèche de bronze peut être la récompense honorifique d’une intervention méritoire, mais elle était aussi le tribut qui devait être payé pour un procès. C’est l’honneur d’un ministre en charge de la justice que de traverser les obstacles qui empêchent d’aller au bout des problèmes et d’appliquer les règles. Cette position est celle qui bénéficie de l’appréciation la plus favorable de tout l’hexagramme."
+trait5: "Six en 5\n
+MORDRE de la viande séchée découpée\n
+Préparée avec du sucre\n
+Obtenir le bronze jaune\n
+Présage de danger\n
+Absence de faute"
+trait5_description: "Point d’aboutissement de toutes les investigations précédentes, ce niveau est celui où le texte mentionne la viande la plus raffinée. Les éléments nécessaires à l’élimination de ce qui entrave un fonctionnement harmonieux ont été suffisamment préparés pour qu’une intervention déterminée puisse avoir lieu de manière souveraine. La présence du bronze, déjà cité à la ligne précédente comme matériau des flèches, s’il peut faire référence comme à la place de Ministre au déroulement d’un procès, indique surtout que le pouvoir de trancher est ici effectif.\n
+Cependant, si ce métal est le signe d’une puissance manifeste, l’inhabituelle précision de sa couleur – jaune, emblème du centre et de la terre – doit inciter à la souplesse et à l’impartialité. Comme à la 5ème ligne de l’hexagramme 10 DEMARCHE, l’avertissement d’un danger potentiel souligne les risques d’une action trop résolue. Lorsqu’on a le pouvoir de décider, un mélange équilibré de souplesse et de fermeté est le fondement d’une position véritablement souveraine."
+trait6: "En haut un neuf\n
+Revêtu d’entraves de bois\n
+Les oreilles sont anéanties\n
+Fermeture"
+trait6_description: "Au niveau d’Entrée et de Sortie de l’hexagramme, il n’est pas fait référence à l’action de MORDRE comme aux quatre traits centraux, mais à des entraves. Alors qu’au premier trait ces entraves bloquent le mouvement, ici elles immobilisent la tête et les mains, et empêchent d’agir.
+Incorrect et en correspondance avec la 3ème ligne où il est fait mention de poison, le dernier trait est le stade où, non seulement on n’est plus en mesure d’éliminer les obstructions, mais où on les accroît en se fermant à une communication réelle. En écho à l’étroitesse décrite au 3ème trait, cette attitude se solde par une impasse."
+grande_image: "Tonnerre éclair\n
+MORDRE ET UNIR\n
+Les Ancien Rois ainsi\n
+En clarifiant les châtiments\n
+Fixaient les lois par décret royal"
+dixieme_aile: "MORDRE ET UNIR\n
+Consommer"
+nucleaire: '39 - Obstruction'
+oppose: '48 - Puits'
+renverse:
+image:
 trigramme_bas: "tonnerre"
 trigramme_haut: "feu"
-numero: 21
+

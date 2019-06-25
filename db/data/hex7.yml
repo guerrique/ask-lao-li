@@ -1,10 +1,58 @@
+numero: 7
 nom: '7 - Armée'
-trait1: "yin"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "ARMÉE\n
+Présage d’ouverture pour un Etre Aguerri\n
+Absence de faute"
+jugement_description: "Dans une circonstance difficile comme ARMÉE, des tendances favorables ne peuvent se dégager que si l’action est menée avec rigueur, discipline et endurance. L’état de guerre est un moment de lutte soutenue qui exige la présence d’un être aguerri : la situation ne peut être féconde que si on a l’expérience nécessaire pour modérer la hardiesse des forces mises en jeu et le caractère trempé permettant de mener le combat à son terme.\n
+Lorsque le territoire est envahi, on doit pouvoir compter sur une capacité à regrouper et diriger toutes ses forces. Pareille lutte n’est pas affaire de héros, ni même de guerrier, mais requiert principalement des qualités de courage et de discernement.\n
+A un disciple qui lui demandait « si vous aviez une grande armée à commander, qui choisiriez-vous pour vous aider ? », Confucius répondit : « Certainement pas à un homme prêt à affronter un tigre à mains nues ou à traverser le fleuve à la nage, un casse-cou qui mourrait sans regrets. Il me faut quelqu’un qui aborde les problèmes avec circonspection et préfère réussir par la stratégie plutôt que par la témérité. »"
+trait1: "Au début un six\n
+L’ARMÉE sort au son des notes Yang\n
+S’interroger sur le butin fermeture"
+trait1_description: "Au premier niveau de l’ARMÉE, la guerre n’est pas engagée : c’est encore le stade des préparatifs. Les défilés militaires ont pour objectif d’entraîner les troupes à la discipline et de les galvaniser en vue des luttes à venir. Ils sont aussi l’occasion d’un étalage de puissance qui a pour but d’impressionner l’adversaire en lui montrant sa détermination.\n
+Yin à une place Yang, le trait est incorrect, ce qui peut être le signe d’une réticence à aller de l’avant. Mais son voisinage avec la seule ligne Yang de l’hexagramme, où se trouve le commandement de l’armée, implique l’idée d’une discipline à instaurer. La musique martiale n’est-elle pas ce qui entraîne et régularise la marche et donne aux troupes souffle et cadence ? Qui laisse ses troupes partir au combat en ordre dispersé, avec pour seule motivation l’appât du gain, est sûr de sa défaite."
+trait2: "Neuf en 2\n
+Etre dans l’ARMÉE au Milieu Juste Ouverture\n
+Absence de faute\n
+Le Roi par trois fois confère mandat"
+trait2_description: "Seul trait Yang de la figure, cette ligne, qui est également la seule à comporter une appréciation mantique favorable, est le pivot de l’hexagramme. C’est le moment où, tel le chef militaire au milieu de ses troupes, on doit être capable de rassembler et diriger les énergies afin de parer à un dangereux déferlement de violence. Circonstance exceptionnelle : le Roi apparaît à un niveau subalterne – la place de Préfet – pour confier avec ostentation le pouvoir au général. Celui-ci prend les affaires en main tout en respectant sa position de sujétion vis-à-vis du souverain qui lui a délégué son autorité. Etre au milieu juste, c’est non seulement savoir gérer des forces brutales sans se laisser déborder, mais ne pas oublier que ce mandat est temporaire.\n
+L’aspect inhabituel de la situation est souligné par l’incorrection du trait et sa relation privilégiée de correspondance avec la 5ème ligne, où le problème de commandement devient patent. L’appréciation ouverture suggère que cette position difficile, à mi-chemin de la force instinctive et du pouvoir, ne peut être tenue que par le personnage expérimenté cité au Jugement. Serviteur loyal, l’être aguerri prend sans hésitation la situation en main, sachant commander tout en restant vassal, sachant combattre la barbarie sans se laisser déborder."
+trait3: "Six en 3\n
+L’ARMÉE d’aventure charroie des cadavres\n
+Fermeture"
+trait3_description: "Niveau de Passage entre l’interne et l’externe, la troisième place est rarement de bon augure. La lutte est entrée ici dans sa phase active et le texte évoque la possibilité de coûteux revers. La guerre n’est pas perdue pour autant – mais elle débouche pour le moment sur une impasse – indiquée par fermeture, l’appréciation la plus défavorable de l’hexagramme.\n
+Comme le suggère l’accumulation de traits Yin qui surplombe celui-ci, c’est l’étape la plus pesante du combat. L’image des chariots remplis de cadavres est reprise dans les mêmes termes à la 5ème ligne où elle représente le résultat néfaste d’un commandement inexpérimenté. L’éventualité de malheurs graves doit engager à reconsidérer la stratégie utilisée."
+trait4: "Six en 4\n
+L’ARMÉE campe à gauche\n
+Absence de faute"
+trait4_description: "Après les combats désastreux décrits à la ligne précédente, le moment est venu du désengagement. Il ne s’agit pas de battre en retraite – un hexagramme entier, FAIRE RETRAITE, est consacré à cette stratégie – mais de profiter d’une trêve. Gauche indique que l’armée ne doit pas rechercher le combat, mais camper momentanément ses positions sur la place honorée en temps de paix.\n
+La correction du trait accentue l’aspect légitime de cette accalmie, qui intervient entre deux niveaux où les combats sont âpres et les déconvenues sévères. L’appréciation absence de faute souligne que l’on ne doit pas hésiter à refaire ses forces, car la lutte n’est pas terminée et de graves dangers menacent encore."
+trait5: "Six en 5\n
+Dans les champs il y a des oiseaux\n
+Profitable de retenir opiniâtrement les paroles\n
+Absence de faute
+Le fils aîné commande l’ARMÉE\n
+Le fils cadet charroie des cadavres\n
+Présage de fermeture"
+trait5_description: "Alors que la ligne précédente marque un temps d’accalmie, ce niveau est celui où le danger menace de toutes parts : le territoire est envahi par les barbares et la révolte gronde au quartier général. Il n’est plus temps de discuter : l’heure est trop grave pour entrer dans des rapports de force et laisser se développer les critiques ou les disputes.\n
+Incorrect et en correspondance avec la seule ligne ferme de l’hexagramme, ce trait représente un moment où l’autorité est sérieusement malmenée. Le problème du commandement des opérations, réglé avec justesse au second trait entre Préfet et Souverain, prend ici la forme d’un conflit aigu entre maturité et inexpérience. Trop enclin à « se précipiter dans le fleuve sans se soucier de survivre ou de mourir », le cadet n’a pas les qualités de l’Etre Aguerri mentionné au Jugement. Déjà suggérées à la 3ème ligne par l’image des cadavres, les conséquences néfastes de son impétuosité peuvent à ce niveau souverain se transformer en véritable défaite.\n
+Il est impératif qu’une autorité confirmée mette fin sans hésitation aux contestations et unisse les forces contre les dangers extérieurs, en privilégiant tout ce qui dans la situation peut permettre de rétablir la discipline et de tenir les rênes."
+trait6: "En haut un six\n
+Le Grand Chef réalise le mandat\n
+Des pays sont établis des CLANS promus\n
+Des Etres Petits ne sont pas employés"
+trait6_description: "A ce stade, comme souvent à la dernière ligne, s’opère un retournement de la situation. Alors que le nom de l’hexagramme était associé à chacun des traits précédents à une étape des opérations militaires, sa disparition à ce niveau de Sortie marque une rupture nette : l’état de guerre est terminé. Le retour à la paix et à la prééminence de l’ordre civil est marqué par les retrouvailles du souverain avec le pouvoir, spécifié comme pouvoir de donner mandat. C’est à l’autorité civile, symbolisée ici par le Grand Chef, qu’il incombe désormais de réorganiser le royaume. Dans le cadre de la féodalité de l’époque, le territoire est réagencé en fiefs et réparti selon les liens de hiérarchie parentale, base de l’organisation sociale dont traite ALLIANCE, hexagramme suivant et retourné de celui-ci.\n
+Il est temps de mettre un terme à tous les résidus du conflit et d’orienter ses efforts sur la remise en route de la norme. Seuls peuvent accomplir cette tâche ceux qui savent se dévouer de façon responsable et loyale, et non les êtres petits dont on a éventuellement pu utiliser et juguler les énergies en temps de guerre. Aucune mention particulièrement favorable n’accompagne le texte de ce trait, cependant le choix du mot CLAN, nom de l’hexagramme 37, souligne la possibilité d’instaurer une organisation durable."
+grande_image: "Au cœur de la terre il y a l’eau ARMÉE\n
+L’Etre Accompli ainsi\n
+En étant tolérant avec le peuple\n
+APPRIVOISE les foules"
+dixieme_aile: "ALLIANCE joies\n
+ARMÉE chagrins"
+nucleaire: '24 - Retour'
+oppose: "13 - S'entendre avec tous"
+renverse:
+image:
 trigramme_haut: "terre"
 trigramme_bas: "eau"
-numero: 7

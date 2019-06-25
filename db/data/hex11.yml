@@ -1,10 +1,72 @@
 nom: '11 - Prospérité'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "PROSPÉRITÉ\n
+Le Petit va\n
+Le Grand vient\n
+Ouverture\n
+Favorisant"
+jugement_description: "Constitué de seulement six caractères scandés deux par deux, le Jugement de PROSPERITE n’est composé que d’appréciations globales. Il ne décrit pas une situation particulière, mais un dispositif énergétique suffisamment ample pour s’appliquer à n’importe quel contexte. Bien que ce Jugement soit traditionnellement lu au travers du mouvement saisonnier des souffles – la chaleur progresse, le froid se retire – ce qu’il décrit en fait c’est la rencontre entre ce qui part et ce qui arrive. La prospérité ne vient pas d’un remplacement du Yin par le Yang, mais de la compénétration féconde entre le pouvoir germinateur de la Terre et le souffle créateur du Ciel. Comme le précise le texte de la ligne souveraine, c’est de cette union que naît l’essor bénéfique qui imprègne la situation dans son ensemble.\n
+L’entrecroisement des flux Yin et Yang produit une prospérité généralisée qui se manifeste par un foisonnement enivrant de possibilités. Les conseils donnés au niveau de chacun des traits, ainsi qu’à la Grande Image, vont indiquer comment procéder à leur développement. PROSPERITE ne se situe pas au début du mouvement printanier – il a commencé avant, dans le secret de la terre – mais au moment de sa manifestation extérieure, dont la plus visible est l’éclosion des bourgeons prometteurs de fruits futurs. Personne n’est maître du Printemps, en revanche chacun est en mesure d’en accompagner la fluidité."
+trait1: "Au début un neuf\n
+Arracher des roseaux à racines enchevêtrées\n
+Chacun selon son espèce\n
+Ouverture pour des expéditions"
+trait1_description: "Printemps et Automne, comme PROSPÉRITÉ et ADVERSITÉ, débutent de la même façon, par une poussée prolifique de végétation. Une main ferme vient mettre de l’ordre dans l’effervescence printanière, éclaircir le terrain et permettre ainsi aux plantes de se renforcer et de s’élever. Ce mouvement de croissance ne peut s’effectuer que si l’on se défait d’un enchevêtrement, image qui suggère de se désenlacer du proche et du semblable, ou encore de rompre avec des manières de faire dans lesquelles un entremêlement est imposé.\n
+La distinction entre espèces souligne que l’éclaircissement de cette profusion doit être opéré par regroupement analogique, c’est-à-dire en fonction de caractéristiques profondes. L’injonction à partir en expéditions, généralement déconseillée, montre que cette remise en ordre nécessite une vigueur certaine."
+trait2: "Neuf en 2\n
+Supporter l’immensité fruste et déserte\n
+Passer à cheval le gué de la rivière\n
+Ne pas s’éloigner de ce qu’on laisse\n
+Les compagnons disparaissent\n
+Atteindre au niveau supérieur\n
+Par un agir au Milieu Juste"
+trait2_description: "Alors qu’au premier trait est décrite une profusion à organiser, c’est à ce niveau une terre inculte et sauvage qu’il s’agit de prendre en charge. Cela exige de déployer une grande force personnelle, en commençant par accomplir le mouvement nécessaire pour s’en approcher et y déployer son activité. Le gué qu’il faut franchir marque la limite entre ce qu’on laisse derrière soi et le territoire désertique vers lequel on se dirige. Cette avancée déterminée ne signifie pas un abandon de son propre territoire, même si elle fait perdre de vue des compagnons peut-être désorientés par ce départ courageux vers le différent. Sa mise en œuvre doit se situer au Milieu Juste, c’est-à-dire dans un esprit d’impartialité attentif aussi bien à l’inconnu qu’au connu, à l’autre qu’au même, à ce vers quoi on se dirige qu’à ce qu’on laisser derrière soi.\n
+Aucune des appréciations mantiques usuelles du Livre des Changements ne caractérise le texte de ce trait. Le Milieu Juste en tient lieu, suggérant une capacité inhabituelle à se dépasser. Il y a une noblesse supérieure à s’investir dans une situation lorsqu’elle est amère et désertique, et non lorsqu’elle est déjà florissante."
+trait3: "Neuf en 3\n
+Pas de plaine sans côte\n
+Pas d’aller sans RETOUR\n
+Présage de difficultés absence de faute\n
+Pas de crainte à avoir sur l’onde porteuse\n
+Bonheur vers les aliments"
+trait3_description: "L’avancée du printemps n’est pas uniforme. A cette place de Passage se trouve le point de contact entre traits Yang et traits Yin, stade où ralentissement et pas en arrière sont inévitables. Un texte particulièrement long – la plus longue des 3ème lignes – et dont le début est tourné comme un proverbe ancien, avertit d’un cheminement à présent moins facile. Cette perspective ne doit pas décontenancer, car elle est conforme au mouvement de balancier propre à l’esprit dialectique.\n
+Comme le donnent à voir tant de peintures chinoises, un paysage paisible ne peut s’étendre à l’infini. De même, toute action a besoin de revenir à son point de départ pour s’y ressourcer. On doit à la fois garder confiance pour dépasser les difficultés, et mettre à profit les circonstances présentes pour consolider son parcours et se renforcer.\n
+« Etant grande, la Voie s’écoule ; s’écoulant, elle va plus loin ; au loin en allée, elle finit par opérer le retour » Cette phrase de Lao Zi est citée par François Cheng qui poursuit : « Le mouvement d’éloignement dans l’espace est en fait un mouvement circulaire qui revient et qui, par le renversement de la perspective et du regard, transforme finalement la relation du sujet-objet. Le sujet se projetant par degrés au-dehors, et le dehors devenant le paysage intérieur du sujet. »"
+trait4: "Six en 4\n
+Virevolte et voltige\n
+Pas d’enrichissement par les voisins\n
+Pas de mise en garde et ainsi onde porteuse"
+trait4_description: "En écho avec le premier trait où le Yang se dépense sur la terre ferme, cette première ligne Yin est le niveau où se découvre la liberté de l’espace aérien. Cependant, situé comme le trait précédent au point de jonction des forces Yin et Yang, à une place où les courants s’entrecroisent de près, il est poussé d’un côté et retenu de l’autre.\n
+Un vol gracile et souple permet d’échapper à ce voisinage contradictoire et de suivre avec agilité la fluidité des courants. A ce niveau, on doit savoir mettre soi- même à profit ces flux porteurs plutôt que de chercher à entrer en relation avec autrui. Il ne convient pas pour autant de se prémunir : souplesse et légèreté sont les garants de la confiance. Alors que la solitude demande un effort particulier à la place de Préfet, elle n’est pas pesante à cette place de Ministre : le souci n’est pas de mise dans un moment où l’on se sent porté."
+trait5: "Six en 5\n
+Le Souverain Yi\n
+MARIE sa CADETTE\n
+Causant ainsi une heureuse félicité\n
+Fondamentalement ouvert"
+trait5_description: "Au niveau souverain, la PROSPÉRITÉ devient effective. Elle prend la forme d’une union fastueuse, qui marquera un palier important dans la marche des Zhou vers la gloire. Le Fils du Ciel donne sa fille en mariage au chef du clan qui lui fournit les produits de la terre (c’était le clan des Zhou qui fournissait la cour royale en céréales et animaux rituels), faisant ainsi d’un simple vassal un membre par alliance de la famille royale. Même si les Zhou devront patienter encore une génération avant de remplacer les Shang sur le trône, ces épousailles avec une ancienne lignée ont lieu dans l’atmosphère d’arteur et de joie propre à l’hexagramme MARIAGE DE LA CADETTE, dont le personnage central assurera la descendance de la future dynastie – le mariage célébré ici y est évoqué dans les mêmes termes, également en ligne souveraine.\n
+Yin à la place d’honneur, ce trait représente un moment où l’union et l’échange permettent la prospérité. Ici se trouvent réunies les capacités pour engendrer une situation fondamentalement nouvelle qui trouvera son accomplissement avec le temps."
+trait6: "En haut un six\n
+Le rempart fait RETOUR au fossé\n
+Ne pas employer l’ARMÉE\n
+Depuis son propre fief proclamer mandat\n
+Présage de gêne"
+trait6_description: "A ce niveau, comme souvent au niveau de sortie d’un hexagramme, la situation bascule et un mouvement de repli se manifeste. Après avoir culminé à la ligne précédente, la PROSPÉRITÉ « se fane » comme l’ADVERSITÉ au dernier trait de l’hexagramme opposé.\n
+En écho avec les difficultés évoquées par le texte de la 3ème ligne et dans un mouvement descendant inverse de celui décrit au niveau d’entrée, l’interaction entre souffles créatif et réceptif cesse de se produire. L’échange se sclérose et tourne au rapport de forces. Les relations se transforment en rigidités défensives symbolisées par le rempart, dont l’écroulement évoque une retombée à la mesure de la position élevée atteinte au stade précédent. Cette chute est sanctionnée par la formule présage de gêne, seule appréciation mantique négative de tout l’hexagramme.\n
+Réagir à ce retournement en employant l’ARMÉE, c’est-à-dire d’une manière violente ou agressive, ne ferait qu’aggraver la situation. Il n’y a plus lieu d’envisager une action dirigée vers l’extérieur : c’est au contraire le moment de se tourner vers son propre territoire. Mettre de l’ordre dans son fief, restaurer ses bases, permet d’être en mesure de proclamer son mandat, c’est-à-dire d’assumer sa place."
+grande_image: "Ciel et Terre sont en relation\n
+PROSPÉRITÉ\n
+Les Souverains ainsi\n
+Par leur capacité à parachever\n
+Le Dao du Ciel-Terre\n
+Accompagnaient l’adéquation du Ciel-Terre\n
+Et aidaient ainsi au bien-être de tout le peuple"
+dixieme_aile: "ADVERSITÉ PROSPÉRITÉ\n
+Sont opposés par nature"
+nucleaire: '54 - Mariage de la Cadette'
+oppose: '12 - Adversité'
+renverse:
+image:
 trigramme_bas: "ciel"
 trigramme_haut: "terre"
 numero: 11
+
+

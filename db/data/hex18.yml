@@ -1,10 +1,59 @@
-nom: '18 - Remédier au Corrompu'
-trait1: "yin"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
-trigramme_bas: "marais"
-trigramme_haut: "montagne"
 numero: 18
+nom: '18 - Remédier au Corrompu'
+description: "REMÉDIER AU CORROMPU\n
+Fondamentalement favorisant\n
+Profitable de passer le grand fleuve\n
+Avant le jour jia trois jours\n
+Après le jour jia trois jours"
+jugement: "L ‘objectif de REMÉDIER est clair : rectifier le passé, réparer ce qui s’est dégradé avec le temps, recréer les conditions d’un nouveau départ. Pour déployer les possibilités de régénération présentes dans le contexte, l’accent doit être mis sur le dynamisme et la vitalité plus que sur une stratégie à long terme.
+Il ne faut plus rester enfermé dans un fonctionnement restreint résultant de conditionnements passés. Pour redevenir favorisante, la situation doit être repensée fondamentalement, c’est-à-dire de fond en comble, avec audace et selon des paramètres extérieurs au champ habituel. Un plan d’action précis doit être établi qui devra à la fois tenir compte des éléments porteurs d’avenir, et mettre un terme à ceux qui pourraient encore pourrir la situation. Le choix du terme jia est significatif – origine des temps Yang, il est une incitation à préparer activement la venue d’une saison nouvelle.
+"
+jugement_description:
+trait1: "Au début un six\n
+Traiter le CORROMPU du père\n
+Il y a un fils\n
+Pour le père défunt absence de faute\n
+Danger à la fin ouverture"
+trait1_description: "Dès l’Entrée dans la situation apparaît le leitmotiv qui scande le déroulement de tout l’hexagramme : traiter le CORROMPU. Il faut d’emblée prendre en compte le pourrissement de la situation et lui appliquer un remède radical, en commençant par s’assurer que les choses ne seront pas laissées en l’état mais reprises et poursuivies.\n
+Plus explicite que le signe Jia cité au Jugement, l’image du père fait référence à la capacité à générer le nouveau. Dans la mentalité de l’époque, la présence d’un fils est l’assurance que la lignée ne sera pas interrompue et que les esprits des défunts seront nourris. Cette garantie permet de libérer ascendants et descendants d’un sentiment d’insuffisance ou de dette. Cependant le rapport entre père et fils comporte aussi la notion plus large d’une transmission des forces créatives, qui permet d’assurer la perpétuation de la capacité à créer elle- même.\n
+Plus concrètement, il s’agit de discerner dans le contexte les éléments porteurs de vitalité et de devenir, afin de les préserver des périls qui pourraient les empêcher d’arriver à maturité. Ce n’est ici que le début d’un processus mais les germes de renouvellement qu’il comporte sont prometteurs."
+trait2: "Neuf en 2\n
+Traiter le CORROMPU de la mère\n
+Présage impossibilité"
+trait2_description: "A cette ligne, comme à chacune des 5 premières, il est question de traiter le CORROMPU, c’est-à-dire d’appliquer un remède radical à une situation dégradée. Mais ici, ce n’est pas, comme aux lignes voisines, au père que cette stratégie est appliquée, mais à la mère, symbole par excellence de qualités Yin de disponibilité et de générosité pleinement appropriées à cette place de Préfet.
+S’il s’agit toujours de remédier à des formes insuffisantes ou dégradées résultant de l’action passée, le faire de manière Yang serait à ce niveau voué à l’échec. Traiter évoque cette manière de faire, inadaptée à un contexte Yin, lequel requiert plutôt des qualités de même type : non pas agir de manière virulente, mais par la persuasion et le temps. Revenir sur ce que le temps a engendré est impossible : il est préférable de préserver l'inépuisable capacité Yin à engendrer de nouveau, et de préparer ainsi le terrain de réalisations nouvelles."
+trait3: "Neuf en 3\n
+Traiter le CORROMPU du père\n
+Regrets de peu\n
+Absence de grande faute"
+trait3_description: "A ce trait, comme aux cinq premiers niveaux de l’hexagramme, l’aptitude à remédier aux agencements issus du passé est le point essentiel. Cependant, c’est précisément à cette ligne de Passage, entre le haut et le bas – entre l’avant et l’après – qu’apparaissent les tiraillements entre attachement au passé et désir de s’en défaire. Il s’avère difficile à ce niveau de déterminer le traitement opportun et de le mettre en oeuvre.\n
+L’être de peu se laisse encombrer le cœur, hésitant peut-être entre une déférence reconnaissant les apports précédents et la volonté d’agir dans un sens nouveau. La fermeté du trait est correcte, mais la ligne est sans résonance avec le 6ème trait, où l’on parvient à tourner la page. Cette position ambiguë entraîne des réactions d’inconséquence ou d’impatience, qui semblent toutefois sans conséquence grave."
+trait4: "Six en 4\n
+Etre large envers le CORROMPU du père\n
+Aller fait apparaître la gêne"
+trait4_description: "A cette place de Ministre, second niveau Yin de l’hexagramme, le ton change. Il y est toujours question d’agir sur ce qui est CORROMPU, mais l’indication d’un traitement énergique, présente dans les trois traits inférieurs, disparaît, laissant place à la description d’une attitude indulgente et compréhensive par rapport au passé.\n
+Faiblesse, impossibilité ou générosité exceptionnelle, aucune appréciation ne permet de juger de la valeur de cette attitude Yin, qui s’accorde à la qualité de la place. Cependant, qu’elle soit un choix ou un état d’esprit, la largesse qu’elle décrit n’est pas la tournure d’esprit adaptée à des initiatives impétueuses. Une attitude Yang, faite de décisions prématurées ou d’entreprises volontaristes, serait déplacée car elle ne pourrait qu’empêcher des possibilités d’action ultérieures."
+trait5: "Six en 5\n
+Traiter le CORROMPU du père\n
+Accomplir éloges\n"
+trait5_description: "A cette ligne souveraine, une action déterminée de reprise en main de la situation est non seulement possible mais tout à fait adéquate. Comme à chacun des traits précédents, le nom de l’hexagramme signale la dégradation à laquelle remède doit être porté ; comme aux deux autres places impaires, il s’agit de traiter ce qui a été corrompu par le père, mais sans qu’il soit fait ici mention de danger ou de regrets qui pourraient grever l’action.\n
+Au lieu de cela, les éloges indiquent la reconnaissance promise à toute action énergique allant dans le sens de l’idée maîtresse de l’hexagramme : prendre la responsabilité du dispositif à son point actuel pour imprimer aux énergies qu’il recèle une nouvelle orientation. Se retourner de manière approfondie sur le passé est ainsi la meilleure manière de préparer la voie au saut qualitatif décrit à la ligne suivante."
+trait6: "En haut un neuf\n
+Ne plus servir rois et vassaux\n
+Estimer supérieur son propre service"
+trait6_description: "Dernier trait de l’hexagramme et culmination de la situation, la 6ème ligne indique généralement un moment de retombée, quand elle n’est pas comme ici le siège d’un saut qualitatif qui hausse la problématique à un niveau supérieur. Ce trait est le seul où il ne soit pas question de capacité à traiter le CORROMPU du passé, comme à chacun des traits précédents. Il n’y est plus question de rapports familiaux, même généralisés à la relation entre vassal et suzerain : la soumission hiérarchique n’est plus de mise.\n
+Il n’y a plus lieu désormais de se soucier de porter remède à ce qui est corrompu, ni de se situer par rapport à ce qu’on a hérité du passé. On dispose à ce niveau de la possibilité de prendre le problème de plus haut. Que le texte de ce trait ne comporte aucune indication mantique transforme en évidence la nécessité impérieuse de s’occuper de soi, trouver sa place, devenir adulte."
+grande_image: "Sous la montagne il y a le vent\n
+REMÉDIER AU CORROMPU\n
+L’Etre Accompli ainsi\n
+En remuant le peuple\n
+Elève sa conduite"
+dixieme_aile: "REMÉDIER AU CORROMPU\n
+Donc\n
+Mise en ordre"
+nucleaire: '54 - Mariage de la Cadette'
+oppose: '17 - Suivre'
+renverse:
+image:
+trigramme_bas: "bois"
+trigramme_haut: "montagne"

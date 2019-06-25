@@ -1,10 +1,74 @@
+numero: 55
 nom: '55 - Abondance'
-trait1: "yang"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: ABONDANCE\n
+Favorisant\n
+Le Roi s'y relie\n
+Ne pas s'attrister\n
+Il convient d'être le soleil au zénith
+jugement_description: "ABONDANCE est un moment de profusion féconde qui requiert la double capacité de favoriser l'épanouissement de l'élan vital et d'en contenir la prolifération. Dans le Yi Jing, cette aptitude a un emblème, le Roi, à la fois référence de l'organisation sociale et représentant de l'ordre universel. À la croisée du vertical et de l'horizontal, son rôle est de relier aux ancêtres, qui symbolisent les flux fondamentaux, les bases sur lesquelles on enracine son action.\n
+Établir un lien avec l'invisible et le manifester aux yeux de tous est une attitude royale. Elle requiert à la fois fermeté et abnégation : comme on coupe les pousses surabondantes, gourmands de la vigne ou surgeons des rosiers, on doit tailler dans la profusion pour empêcher l'ABONDANCE de s'étouffer. La tristesse que l'on peut en ressentir, et contre laquelle le Jugement met en garde, ressemble à celle éprouvée aux moments d'APPROCHE, lorsque l'on peine à canaliser l'effervescence printanière. Comme un Roi appelé à apparaître en pleine lumière tout en préservant ses sujets de la force qu'il convoque, on doit savoir conserver une position médiane, c'est-à-dire juste et centrée, quelque difficile qu'elle puisse être. À l'instar du soleil de midi qui illumine et consume à la fois, il faut dans un même mouvement manifester l'abondance et en maîtriser le foisonnement."
+trait1: "Au début un neuf\n
+Rencontrer par hasard un maître apparié\n
+Bien que pour une décade\n
+Absence de faute\n
+Aller amène à se surpasser"
+trait1_description: "Aux moments d'ABONDANCE, il s'agit de permettre à une vitalité foisonnante de s'exprimer de manière équilibrée. À cette ligne d'Entrée, niveau de découverte et d’inexpérience, cette attitude est momentanément trouvée par l'intermédiaire d'un maître apparié, quelqu'un dont on se sent proche, que l'on suit ou auquel on s'identifie. Ce couplage, par lequel une sorte d'égalisation énergétique est obtenue, ne peut être que passager: on doit en faire son deuil si on veut ne pas en rester à des facilités ou des illusions.\n
+Que cet appariement, pour légitime qu'il soit, ne puisse être durable, cela peut assombrir. Pourtant, ce sentiment, qui fait écho à la tristesse contre laquelle le Jugement met en garde, doit être surmonté pour aller de l'avant. Cette attitude passe autant par l'apprivoisement du vide que par la mise en rythme du plein, comme le montrent les deux autres situations où conseil est également donné de se surpasser : S'ENTRAÎNER AU PASSAGE DES RAVINS et MESURE. II s'agit bien à ce stade initial de renoncer à des contacts éphémères bien que brillants pour trouver une plus juste mesure. Cette optique de limitation ne doit pas décourager, car elle est en affinité avec le quatrième trait où il y a aussi rencontre avec un maître, et avec la ligne souveraine, le seul autre niveau où le nom de l'hexagramme n'est pas cité."
+trait2: "Six en 2\n
+ABONDANCE du voilage\n
+Le soleil au zénith le Boisseau du Nord est visible\n
+Aller n'obtient que doutes et fébrilité\n
+Il y a onde portant à se conformer à ce qui se manifeste\n
+Ouverture"
+trait2_description: "À ce trait comme aux deux suivants sont décrits les effets de l'ABONDANCE : une profusion telle qu'elle masque les repères habituels. L’image utilisée pour rendre compte de ce phénomène, qui sera reprise à la quatrième ligne, ne manque pas de grandeur : le soleil de midi est obscurci au point de laisser apercevoir la Grande Ourse. Bien que cette éclipse puisse affoler, elle ne signifie pas la fin de la lumière puisque à ce repère éclatant, image d'une position médiane bien qu'éphémère, se substitue un repère discret mais fixe : l'étoile polaire, axe immobile autour duquel tourne la multitude constellée du ciel nocturne, versant Yin de la fonction de pivot dont l'aspect Yang est mis en valeur au Jugement par le Roi.\n
+Lorsqu'une situation est à ce point foisonnante que l'on n'y voit plus clair, il est préférable de ne pas s'en remettre aux seules manifestations extérieures, mais de se repérer sur une lumière intérieure, plus terne mais plus solide. Cette luminosité Yin discrète mais constante trouve son prolongement dans le conseil de s'abstenir d'aller de l'avant : les initiatives extérieures ne peuvent qu'accroître le désordre et l'agitation, tandis que rester attentif à ce qui se met en route de soi-même permet de prendre confiance. Correcte et en relation avec les deux traits Yang voisins, cette ligne de Préfet est en résonance avec celle de Ministre, où se retrouve l'image de luminosité obscurcie, et en affinité avec la distinction décrite à la ligne souveraine. La fécondité d'une telle position est marquée, ici comme à ces deux traits, par la même mention d'ouverture.\n
+« Le Souverain d'en Haut, qu'à certaines époques on appelle le
+Ciel, habite normalement le Centre du Ciel. Son faible éclat est largement racheté par sa position. Ce n'est pas celui dont la majesté resplendit qui est le plus majestueux. Il sied à la profondeur secrète du pouvoir d'être enfouie dans le ciel bleu pourpre de la nuit. »"
+trait3: "Neuf en 3\n
+ABONDANCE de bannières\n
+Le soleil au zénith les étoiles sont visibles\n
+On se brise le bras droit\n
+Absence de faute"
+trait3_description: "À la ligne de Passage, l'obscurcissement provoqué par la profusion est à son comble. Comme aux deux traits voisins, l'horizon est envahi d'éléments qui empêchent d'y voir clair. La lumière de midi est voilée, sans que l'on puisse cette fois trouver un repère parmi les étoiles visibles. Si le Boisseau du Nord cité aux deux lignes voisines symbolise la présence cachée mais permanente du Souverain, ces petites étoiles semblent plutôt faire référence à sa cour. Cet entourage peut-il fournir une lumière suffisante, ou bien n'égare-t-il pas plus encore? Les étendards qui s'accumulent suggèrent une bataille et le bras droit, côté à l'honneur en temps de guerre, un activisme exagéré au point que la force d'action risque de s'en trouver brisée.\n
+Bien que correct, ce trait est pris dans des relations contradictoires : situé au voisinage d'une place de Préfet où une attitude confiante et réservée est possible, il est aussi en correspondance avec la sixième ligne, où l'abondance n'est plus maîtrisée, ce qui accentue l'impression d'incapacité. Bien qu'il puisse être légitime d'aller de l'avant, c'est là un avertissement qui doit prévenir d'une attitude inconséquente et agitée."
+trait4: "Neuf en 4\n
+ABONDANCE du voilage\n
+Le soleil au zénith le Boisseau du Nord est visible\n
+Rencontrer un maître CACHÉ\n
+Ouverture"
+trait4_description: "À ce trait comme aux deux précédents sont décrits les effets de !'ABONDANCE : une profusion telle qu'elle masque les repères habituels. L’image utilisée à cette place de Ministre est la même qu'à celle de Préfet : le soleil de midi est obscurci au point de laisser apercevoir la Grande Ourse. Bien que cette éclipse puisse affoler, elle ne signifie pas la fin de la lumière puisque à ce repère éclatant, image d'une position médiane bien qu'éphémère, se substitue un repère discret mais fixe : l'étoile polaire, axe immobile autour duquel tourne la multitude constellée du ciel nocturne, versant Yin de la fonction de pivot dont l'aspect Yang est mis en valeur au Jugement par le Roi.\n
+Lorsqu'une situation est à ce point foisonnante que l'on n'y voit plus clair, il est préférable de ne pas s'en remettre aux seules manifestations extérieures, mais de se repérer sur une lumière intérieure, plus terne mais plus solide. Cette luminosité Yin ouvre la voie à la perception de ce qui est caché, qui se traduit ici par la possibilité d'une rencontre, moins aléatoire que celle de la première ligne, avec un maître, principe ou personne capable, tel le Sire de Ji, de voiler son éclat afin de sauvegarder la lumière. Le voisinage de ce trait avec la ligne souveraine. où se retrouve la même mention d'ouverture, indique la possibilité d'une complémentarité heureuse.\n
+« Que l'on fixe l'étoile polaire pour contempler la sphère céleste, alors les mouvements de l'univers ne paraîtront pas stupéfiants. »\n
+Wang Bi"
+trait5: "Six en 5\n
+Distinction qui vient\n
+Il y a félicitations et éloges\n
+Ouverture"
+trait5_description: "Au niveau de la ligne souveraine, il devient possible de maîtriser l'ABONDANCE. Le texte l'évoque par une accumulation d'appréciations positives qui accentue l'absence du nom de l'hexagramme. Alors qu'aux deux autres places Yang, on réagit à la profusion par l'incertitude (trait 1) ou l'agitation (trait 3), alors qu'aux trois places Yin (2. 4 et 6), le voilage est nécessaire pour atténuer l'éclat, ici l'ABONDANCE s'harmonise d'elle-même par une qualité intérieure.\n
+La distinction est l'art de gérer le multiple. Indiquant à la ligne de passage d'ÉLAN RÉCEPTIF comment œuvrer sans se faire valoir, et à la ligne souveraine d'ÊTRE ACCUEILLANT comment chaque polarité s'ouvre à l'influence de l'autre, cette capacité à discerner dans le foisonnement ce qu'il faut mettre en avant ou retenir est ici décrite comme venant vers soi. Contenue quand le Yin prédomine, elle est ici en mouvement et se déploie par une attitude réservée, accueillante et noble, réponse discrète à la présence éclatante du Roi exposée au Jugement, comme si à ce niveau souverain était trouvé un point d'équilibre entre apparition et effacement.\n
+Simplement soutenue par le voisinage avec la ligne de Ministre, cette distinction est à l'image de l'éclat sobre mais constant du Boisseau du Nord ou du maître CACHÉ recherché à ce niveau. Cette aptitude à assumer une position centrale sans aveugler est louée et marquée, comme aux places de Préfet et de Ministre, par l'appréciation ouverture.\n
+« La multitude ne peut gouverner la multitude. Ce qui gouverne la multitude, c'est l'extrême minorité (l'unique, le seul, le Fils du Ciel)... Ce qui permet aux mouvements d'accomplir une révolution commune, c'est que leur origine est nécessairement unique. »\n
+Wang Bi"
+trait6: "En haut un six\n
+ABONDANCE de bâtiments\n
+Voilage de son CLAN\n
+Guetter à la dérobée par la porte intérieure\n
+S'apercevoir qu'il n'y a personne\n
+Trois ans sans visites\n
+Fermeture"
+trait6_description: "Dépassant la position équilibrée atteinte à la ligne souveraine, la situation tourne ici à la rigidité et à la lourdeur. L’ABONDANCE devient ici opulence, la profusion possession, et le voilage, image du jeu subtil entre ombre et lumière qui trame tout l'hexagramme, se transforme en murs épais. Si les bâtiments multiples évoquent la riche demeure d'un CLAN, les dissimuler suggère un refus de communiquer avec l'extérieur. C'est le signe d'un resserrement égocentrique sur une structure interne, en analogie avec ces moments où la propension à S'ENTENDRE AVEC TOUS se restreint au seul temple familial.\n
+Parcourant les cours intérieures des différents bâtiments, peut-être à l'affût d'intrus, on n'y trouve plus aucun habitant. À chercher qui aurait pu pénétrer de l'extérieur, on s'aperçoit que l'intérieur est déserté, et on réalise que l'abondance ne cache plus que vide et solitude. Cet appauvrissement du partenariat ressemble à l'encerclement évoqué aux moments d'EPUISEMENT, lorsqu'on reste également trois ans sans visites et qu'à l'intérieur du palais l'épousée n'est pas visible. La constante référence au Yin qui aux autres lignes tempère la trop forte luminosité fait ici défaut. S'enfermer dans son bien, le cacher non pour en harmoniser la profusion mais pour en profiter seul ne peut que faire le vide autour de soi. L’appréciation fermeture, seule mention négative de tout l'hexagramme, prend ici tout son sens : on retrouve à l'intérieur de soi les barrières que l'on dresse contre l'extérieur."
+grande_image: "Éclair Tonnerre ensemble arrivent à tout\n
+ABONDANCE\n
+L'Être Accompli ainsi\n
+En tranchant les procès\n
+Provoque l'exécution des peines"
+dixieme_aile: "ABONDANCE\n
+Beaucoup d'événements"
+nucleaire: '28 - Grand Excès'
+oppose: '59 - Dénouer'
+renverse:
+image:
 trigramme_bas: "feu"
 trigramme_haut: "tonnerre"
-numero: 55

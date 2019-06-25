@@ -1,10 +1,64 @@
+numero: 27
 nom: '27 - Nourrir'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "NOURRIR\n
+Présage d’ouverture\n
+REGARDER ce qui NOURRIT\n
+De là rechercher le plein en bouche"
+jugement_description: "Tout organisme a besoin d’être nourri, et s’en préoccuper ne peut que se révéler fructueux à longue échéance. Il importe toutefois de considérer ce que l’on cherche à entretenir en soi, et d’évaluer les moyens choisis pour répondre à ce désir, afin de voir s’ils aboutissent à une nourriture véritablement adaptée. Pour inciter à cette réflexion, les auteurs du texte ont choisi un terme significatif : REGARDER, le nom de l’hexagramme 20. S’il est ainsi recommandé de prendre de la hauteur, c’est que cette distanciation est particulièrement difficile dans un contexte où le manque peut entraîner la précipitation. Car s’il s’agit de combler une faim, encore faut-il trouver de quoi la satisfaire par une nourriture réellement consistante. En s’exerçant à concevoir la substance juste, le regard supérieur perçoit que c’est lui-même qu’il nourrit."
+trait1: "Au début un neuf\n
+Renoncer à cette tortue magique\n
+REGARDE-toi l’eau à la BOUCHE\n
+Fermeture"
+trait1_description: "Correcte et en affinité avec l’autre trait Yang qui domine la figure, cette première ligne est en deçà du vide intérieur de l’hexagramme : le problème n’y est pas de se sustenter mais de se rendre compte que – sans doute en raison du caractère inexpérimenté de la place initiale – on a « les yeux plus gros que le ventre ».\n
+La tortue magique fait d’abord référence à des pratiques hors normes auxquelles il semble préférable de renoncer ; elle est plus généralement une image d’avidité qui révèle un désir d’outrepasser les rythmes ordinaires. Cet aspect est accentué par la phrase suivante, qui décrit le mouvement d’une personne se tournant de manière envieuse vers une source extérieure de nourriture ou de plaisir. La reprise du nom de l’hexagramme 20 REGARDER, en écho au texte du Jugement, indique qu’une observation plus large de la situation est particulièrement importante ici : il faut être conscient à la fois de son désir et de ce qui le provoque. Se laisser conduire par la seule avidité ne peut mener nulle part."
+trait2: "Six en 2\n
+Égarement dans la NOURRITURE\n
+Écart de la norme\n
+Au tertre ancestral NOURRITURE\n
+Impasse pour des expéditions"
+trait2_description: "Correct mais sans correspondance avec le haut de l’hexagramme, ce trait est surtout en relation avec le trait Yang précédent, niveau où l’avidité prédomine. Cette position isolée se solde par une difficulté à s’orienter que traduisent les termes égarement et écart, repris aux lignes suivantes mais associés seulement dans celle-ci, comme pour insister sur un vertige ou un manque.\n
+Certains commentateurs considèrent que la règle normale est que les inférieurs soient nourris par les supérieurs, ce qui n’est pas le cas à ce stade où prévaut l’attirance vers le premier trait. D’autres considèrent au contraire qu’il est erroné d’espérer une nourriture venant d’en haut alors que l’aide se situerait à proximité. D’autres encore font allusion aux ermites qui s’écartent du monde pour se retirer dans les montagnes. Quels que soient les errements ou les restrictions, il importe à ce niveau de Préfet d’être conscient de l’inopportunité d’un quelconque mouvement vers l’extérieur. Il est préférable de se tourner vers l’intérieur pour se ressourcer et renforcer ses racines, toute entreprise d’extériorisation volontariste étant sans issue."
+trait3: "Six en 3\n
+Écart dans la NOURRITURE\n
+Présage de fermeture\n
+Dix années sans agir\n
+Aucun lieu n’est profitable"
+trait3_description: "Située à la place de Passage, la 3ème ligne décrit généralement une position inconfortable. C’est particulièrement le cas ici où ce trait, Yin à une place Yang donc incorrect, ne profite pas de sa correspondance avec la 6ème ligne. Il y est décrit une posture de refus vouée à l’échec complet. Alors qu’aux lignes voisines (2 et 4) l’égarement prédomine et qu’aux lignes centrales (2 et 5) on s’écarte des rythmes normaux de la régulation vitale, c’est ici de la nourriture elle-même dont on s’écarte, ce qui bloque complètement la situation.\n
+Une accumulation inhabituelle d’appréciations négatives engage à ne rien entreprendre dans un tel état d’esprit, et à ne pas persister dans cette position qui est de loin la moins favorable de l’hexagramme."
+trait4: "Six en 4\n
+Égarement dans la NOURRITURE\n
+Ouverture\n
+Le tigre guette avec les oreilles baissées\n
+Son désir s’efforcer de poursuivre et poursuivre encore\n
+Absence de faute"
+trait4_description: "Situé au premier niveau extérieur, ce trait ouvre la partie positive de l’hexagramme. Si on y mentionne le même égarement qu’au deuxième trait, le vertige ou la frénésie que ce terme signale a des conséquences très différentes, puisqu’on a ici les moyens de se mettre en chasse et ainsi de concrétiser son désir. Le tigre, à la démarche souple et puissante, est l’image d’une force de transformation et de maîtrise : seul l’Etre Grand peut lui être comparé. Chercher à honorer ses instincts, faim ou sexualité, n’a rien que de légitime, si on a les ressources nécessaires pour le faire et pour canaliser son vertige dans l’action.\n
+Contrairement à l’impatience avide de la tortue magique citée à la première ligne, le besoin impérieux symbolisé ici par le tigre est un moteur puissant. La place de Ministre, synonyme de communication, la correction du trait, la correspondance avec la première ligne indiquent que la chasse visant à s’octroyer la nourriture peut être utile à l’ensemble de la situation."
+trait5: "Six en 5\n
+Écart de la norme\n
+Demeurer présage ouverture\n
+On ne peut pas passer le grand fleuve"
+trait5_description: "La ligne souveraine de NOURRIR est la seule où le nom de l’hexagramme n’apparaît pas. Qu’il ne soit pas ici fait mention de nourriture peut signifier un besoin ou un manque gênant à ce stade de la situation. La proximité d’un trait Yang provoque une attirance similaire à celle qui s’exerce à la 2ème ligne, où se trouve la même tendance à s’écarter d’une règle normale. Mais ici ni impasse, ni égarement, possibilité au contraire d’adopter la seule attitude correcte : demeurer, rester en place, et ainsi assumer la maîtrise requise au niveau souverain d’un hexagramme. La reprise de la formule mantique présage ouverture utilisée au Jugement indique que cette constance est capable de favoriser le développement du potentiel contenu dans NOURRIR. Cependant la position est trop malaisée pour qu’on puisse prendre l’initiative d’aller vers l’extérieur : on n’a pas ici les moyens de sortir des limites de son domaine propre."
+trait6: "En haut un neuf
+NOURRITURE sortant de terre\n
+Danger\n
+Ouverture\n
+Profitable de passer le grand fleuve"
+trait6_description: "Surplombant l’ensemble de l’hexagramme, ce trait de Sortie associe la hauteur de la place avec une capacité Yang rare dans ce contexte : il représente la seule force capable de donner une orientation à la situation. On sait à ce stade faire éclore de quoi nourrir, et entretenir la vitalité de manière à ce que la croissance soit effective. La mention danger indique que le risque de précipitation ou de rigueur excessive n’est pas exclu mais, le travail s’effectuant au niveau indiqué au Jugement par REGARDER, il est possible de rendre fécond le pouvoir germinatif de la dominante Yin de la figure.\n
+Contrairement à la ligne souveraine, la traversée du fleuve est ici non seulement possible mais conseillée : il ne faut pas craindre d’aller au-delà du domaine connu pour élargir son potentiel à de nouveaux territoires."
+grande_image: "Sous la montagne il y a le tonnerre\n
+NOURRIR\n
+L’être accompli ainsi\n
+En étant prudent dans les paroles\n
+Qu’il prononce\n
+Est MESURE dans ce qu’il boit et mange"
+dixieme_aile: "NOURRIR\n
+Alimenter la rectitude"
+nucleaire: '2 - Elan Réceptif'
+oppose: '28 - Grand Excès'
+renverse:
+image:
 trigramme_bas: "tonnerre"
 trigramme_haut: "montagne"
-numero: 27
+
+

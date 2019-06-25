@@ -1,10 +1,67 @@
+numero: 51
 nom: '51 - Ebranler'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yang"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "ÉBRANLEMENT\n
+Favorisant\n
+L’ÉBRANLEMENT survient Aïe Aïe Aïe\n
+Paroles rieuses Ha Ha Ha\n
+L’ÉBRANLEMENT épouvante à cent lieues à la ronde\n
+Ne pas perdre la cuillère de vin de millet noir"
+jugement_description: "Quand la foudre s’abat d’un coup à grand fracas, on est tellement surpris qu’on se met à trembler de tous ses membres. À cette réaction de peur succède un rire cathartique dont l’éclat saccadé rappelle le roulement du tonnerre. Ce n’est pourtant pas le moment de céder à la stupeur : les époques où de telles secousses se produisent sont propices à un redémarrage. Il faut savoir se laisser traverser sans fléchir par la commotion, faire en sorte que ce mouvement puisse se propager de manière ample et féconde, et en profiter pour remettre en marche ce qui s’était assoupi.\n
+On n’est pas nécessairement l’objet de ces brusques réveils, on peut aussi avoir à les susciter soi-même. L’attitude à adopter alors doit être équivalente de l’aura de crainte respectueuse qui caractérise l’état d’esprit chinois lors des rituels. Celui décrit ici est particulier par l’importance donnée au Yin : l’odeur forte du vin de millet noir versé avec la cuillère rituelle vient réveiller les esprits Yin endormis dans les tréfonds de la Terre pour les ramener dans le monde visible. On ne doit pas se laisser impressionner par la puissance ainsi mise en jeu, si on ne veut pas que ce surgissement se réduise à un choc passager. Ce que l’on éveille, il s’agit de savoir le tenir et l’accompagner, afin que les effets dynamisants de l’impulsion puissent se déployer dans le temps. L’ÉBRANLEMENT n’est une force de renouveau que s’il est prolongé, cultivé et nourri par l’endurance. Que l’on en soit l’instigateur ou le récipiendaire, la secousse décrite par ÉBRANLER ne peut devenir féconde que si on est en mesure d’en intégrer les effets."
+trait1: "Au début un neuf\n
+L’ÉBRANLEMENT survient Aïe Aïe Aïe\n
+Ensuite paroles rieuses Ha Ha Ha\n
+Ouverture"
+trait1_description: "Le trait d’Entrée d’un hexagramme représente toujours un moment de mise en route. C’est d’autant plus le cas dans cet hexagramme d’éveil où L’ÉBRANLEMENT est immédiatement ressenti dans les tréfonds. Comme l’indique la reprise à l’identique des termes du Jugement, c’est ici le lieu même du réveil : un mouvement fort fait irruption et traverse tout sans pouvoir être contrôlé. Quand le tonnerre éclate, on est d’abord saisi, le souffle coupé, surpris par sa violence, avant qu’à ce moment de stupeur ne succède un rire libérateur.\n
+La présence à ce trait de la seule mention favorable de tout l’hexagramme, ouverture, indique que, malgré une apparition brutale et une réaction nerveuse, le coup de tonnerre produit un réveil salutaire : la secousse doit être vécue comme un point de départ aux conséquences fécondes."
+trait2: "Six en 2\n
+L’ÉBRANLEMENT survient\n
+Danger\n
+Présumer une perte de richesses\n
+Gravir les neuf collines ancestrales\n
+Ne pas s’efforcer de poursuivre\n
+Sept jours et obtenir"
+trait2_description: "Si le trait initial est le lieu même de l’ÉBRANLEMENT, c’est à ce niveau qu’il est ressenti dans ses répercussions profondes et ses aspects les plus violents. Ce 2ème trait est le seul en contact direct, par relation de voisinage, avec le point focal de l’hexagramme, c’est ici qu’on est le plus confronté aux effets du choc qu’il représente. Le tonnerre survient, comme à cette première ligne, mais rires et ouverture ont disparu pour laisser place au danger.\n
+L’ÉBRANLEMENT entraîne à la fois une fin et un renouveau. Le réaménagement profond qu’il provoque s’effectue en trois temps : perdre, gravir, laisser advenir. Il s’agit d’abord d’envisager les pertes que ce bouleversement implique ; d’accomplir ensuite le parcours difficile par lequel on fait retour à ses énergies profondes ; de faire confiance au temps enfin, qui doit nécessairement s’écouler avant qu’une situation nouvelle ne puisse éclore. La secousse subie représente l’achèvement d’un cycle et le passage par une période de ressourcement, pénible mais indispensable pour en intégrer les effets. L’amorce d’une situation neuve est à ce prix : contrairement à la secousse elle-même, le renouvellement ne peut surgir d’un coup, ni être recherché avec trop de volonté."
+trait3: "Six en 3\n
+L’ÉBRANLEMENT se ranime se ranime\n
+L’ÉBRANLEMENT circule-et-agit\n
+Absence de faute d’inadvertance"
+trait3_description: "À ce niveau, éloigné de la secousse initiale, l’ÉBRANLEMENT ne survient plus. Ses effets, violemment ressentis au trait précédent, se propagent à présent avec moins d’impétuosité. La relation de voisinage avec le 4ème trait accentue la stabilisation de la secousse. La place de passage assurant la transition entre le haut et le bas, le mouvement du tonnerre déploie sa vigueur tant au niveau interne par la vitalité qu’il ranime qu’au niveau externe par l’agir qu’il engendre.\n
+Plus de désarroi ici, on peut déployer son activité sans craindre de commettre d’erreurs d’appréciation : la commotion, intériorisée de manière positive, est à même de se diffuser de manière rythmée dans l’ensemble de la situation."
+trait4: "Neuf en 4\n
+L’ÉBRANLEMENT avance dans la vase"
+trait4_description: "À ce second trait Yang, l’ÉBRANLEMENT qui se manifeste bruyamment au premier trait, poursuit son mouvement de façon plus ralentie. Enfoui au milieu de quatre traits Yin, il se propage maintenant dans les profondeurs de la terre, comme un écho assourdi de la commotion initiale. La brièveté du texte, qui contraste avec les onomatopées utilisées aux lignes précédentes, indique moins la fin du mouvement que l’absence de manifestations extérieure. Comme la force électrique de l’orage dynamise les germes, c’est à l’intérieur que sa puissance se diffuse et que sa fécondité peut trouver à s’exprimer."
+trait5: "Six en 5\n
+L’ÉBRANLEMENT va et vient\n
+Danger\n
+Ne prévoir aucune perte\n
+Il y a à faire"
+trait5_description: "Au niveau Souverain, et bien mieux qu’au second trait, il est à la fois possible d’accueillir l’ÉBRANLEMENT et de le rendre efficient. Les deux lignes ont plus d’une similitude : toutes deux centrales, elles sont situées l’une et l’autre à la suite d’un trait Yang. Le texte reprend par ailleurs la mention d’une perte, l’appréciation danger, et une injonction à se projeter dans l’avenir, prévoir, cette fois dans une perspective positive.\n
+Éloigné du fracas de la première ligne, l’ÉBRANLEMENT, bien qu’il puisse encore se manifester par des à-coups dangereux, est maintenant moins brutal. Il prend plutôt à ce niveau l’allure d’un mouvement d’allers et retours, comme un train d’ondes allant et venant en une suite de croisements qui s’organisent d’eux- mêmes. On n’a plus ici à craindre les pertes que la commotion fait subir en place de Préfet. Il est temps d’agir énergiquement afin de se mettre au diapason du réveil à l’œuvre et d’en concrétiser les effets."
+trait6: "En haut un six\n
+L’ÉBRANLEMENT s’épuise\n
+Regards craintifs alentour\n
+Impasse pour des expéditions\n
+L’ÉBRANLEMENT n’est pas au niveau\n
+De sa personne mais à celui des voisins\n
+Absence de faute\n
+Il y a des mots à propos d’union par mariage"
+trait6_description: "Ce trait est situé au niveau le plus éloigné de l’impulsion décrite au trait initial, qui donne tout son sens à l’hexagramme. En plus de cet éloignement, il est le seul à n’avoir aucune relation avec les autres traits. Le réveil produit par l’ÉBRANLEMENT perd ici sa puissance de régénération pour ne plus provoquer qu’agitation épuisante et regards apeurés. Le sentiment d’impuissance donne envie de réagir par des initiatives impétueuses, auxquelles il est préférable de renoncer, car elles ne peuvent mener qu’à des impasses.\n
+Le texte de cette ligne – l’une des 6ème lignes les plus longues, toutes deux également empreintes d’une certaine impétuosité – évoque peut-être le dépit ressenti par les Zhou lorsque, après la contribution décisive du général Zhen aux campagnes de Wu Ding, ils durent se contenter de la position de vassaux des Shang, alors au faîte de leur puissance. Les discussions mentionnées rendent sans doute compte des tensions survenues dans les relations avec leurs suzerains, appelés ironiquement voisins.\n
+Que l’on soit à la lisière d’une force d’éveil dont le contrôle échappe ne doit pas déconcerter. Même non entièrement choisis, des partenariats sont préférables à un comportement nerveux qui ne peut qu’hypothéquer l’avenir."
+grande_image: "Coups de Tonnerre arrivant de façon répétée\n
+ÉRANLEMENT\n
+L’Être Accompli ainsi\n
+Grâce à la crainte et à l’inquiétude\n
+Aiguise la manière dont il s’examine"
+dixieme_aile: "ÉBRANLEMENT\n
+Se lever"
+nucleaire: '39 - Obstruction'
+oppose: '57 - Se Modeler'
+renverse:
+image:
 trigramme_bas: "tonnerre"
 trigramme_haut: "tonnerre"
-numero: 51
+

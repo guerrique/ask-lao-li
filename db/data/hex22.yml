@@ -1,10 +1,56 @@
+numero: 22
 nom: '22 - Embellir'
-trait1: "yang"
-trait2: "yin"
-trait3: "yang"
-trait4: "yin"
-trait5: "yin"
-trait6: "yang"
+description:
+jugement: "EMBELLIR\n
+Favoriser le Petit\n
+Profitable d’avoir où aller"
+jugement_description: "L’heure n’est pas à vouloir tout changer d’un seul coup ou à se conduire de façon incisive. EMBELLIR ne marque pas le début d’une situation nouvelle, mais propose une manière souple de développer le présent en le réagençant petit à petit, avec patience, en y mettant les formes et sans faire d’éclat.\n
+Beaucoup de désagréments peuvent être évités par le simple soin apporté au paraître : un comportement affable est immédiatement perçu, et permet souvent d’harmoniser une situation. Mais il ne s’agit pas non plus de perdre la tête et de se laisser égarer par les apparences. On doit se conduire avec tact et intelligence en fonction d’une direction. Le formel n’est pas une fin en soi, mais un art qui aide à conduire ses objectifs à leur terme."
+trait1: "Au début un neuf\n
+EMBELLIR ses pieds\n
+Renoncer au char et marcher"
+trait1_description: "Qu’au niveau d’Entrée, le plus intérieur de l’hexagramme, se manifeste un goût pour l’apparat peut sembler paradoxal. Mais le premier trait représente souvent l’abord le plus inexpérimentée, voire le plus superficiel d’une situation. Il s’agit ici de résister à la tendance à se laisser emporter dans l’action éclatante, de renoncer d’emblée à l’aspect honorifique du char, c’est-à-dire au désir d’intervenir avec superbe, et de se préoccuper de donner des formes plus simples et plus calmes à sa démarche.\n
+Le trait est correct et en correspondance avec la 4ème ligne, où la tentation d’agir avec éclat se manifeste aussi, cette fois par l’apparition d’un cheval magnifique. Il s’agit, ici comme là, de retenir cette impétuosité et d’adoucir sa conduite."
+trait2: "Six en 2\n
+EMBELLIR sa barbe"
+trait2_description: "Soigner sa mise, veiller à son aspect, faire bonne figure, telle est à ce moment de l’hexagramme la manière juste de se conduire. La présentation ne doit pas être tenue pour quantité négligeable, car elle est aussi une manière de retenir les énergie, aussi bien les siennes propres que celles d’autrui.\n
+Correcte et en relation avec les traits voisins, la ligne indique une sorte de polissage de la manière d’être important pour le contact avec l’entourage."
+trait3: "Six en 3\n
+EMBELLIR comme imprégner\n
+Rendre durable présage ouverture"
+trait3_description: "Alors que la 3ème ligne d’un hexagramme marque généralement un moment difficile, celle d’EMBELLIR est favorable car c’est à ce niveau de Passage que s’estompe la limite entre le dedans et le dehors. Construit sur un balancement comparatif renforcé par une forte assonance, le texte établit une équivalence entre embellissement et imprégnation. Ce qui dans les premiers traits est souci de l’apparence disparaît au profit d’une osmose véritable entre ce qui se voit et ce qui ne se voit pas. Ce changement est souligné par l’évolution des images : les objets tangibles mentionnés dans les traits précédents – le pied, le char, la barbe – sont remplacés par la description d’une action véritable indiquée par des verbes.\n
+Le moment est venu de se départir d’une conduite superficielle pour mettre ses actes et ses pensées en harmonie avec ce qui est réellement ressenti. En ne restant pas à la surface, mais en donnant à l’interne le temps de se couler dans des formes justes, on donne consistance et perspective à sa manière d’être."
+trait4: "Six en 4\n
+EMBELLIR comme blanchir\n
+Un cheval blanc comme paré de plumes blanches\n
+N’est pas brigand qui scelle l’union\n
+Par mariage"
+trait4_description: "Au premier niveau extérieur de l’hexagramme, la frontière entre le dedans et le dehors est appelée, comme à la ligne précédente, à s’estomper. Cependant cette atténuation ne s’opère pas ici par un processus d’imprégnation intérieure mais dans la manière de se comporter avec autrui. Le cheval blanc est à l’image de la vigueur avec laquelle on s’élance. Il importe, lorsqu’on va vers l’autre, de veiller à y mettre moins de fougue. De même lorsqu’on se trouve confronté à une certaine rudesse – qu’il s’agisse de celle des autres ou de la sienne propre – c’est en adoucissant les relations que cessent la confusion et les malentendus.\n
+Correct mais en relation de correspondance avec une première ligne où est également décrite une attitude impétueuse, ce trait est le niveau où l’on atténue l’éclat et calme le brigand. On doit favoriser à ce stade tout ce qui contribue à blanchir des manifestations trop voyantes ou trop vindicatives."
+trait5: "Six en 5\n
+EMBELLIR au jardin du tertre ancestral\n
+Un infime rouleau de soie grège\n
+Gêne\n
+A la fin ouverture"
+trait5_description: "Alors qu’il s’agit, au trait précédent, d’adoucir un comportement où l’éclat et l’impétuosité l’emportent, c’est le peu de préoccupation pour l’apparence qui prédomine à ce stade. Se trouver au jardin du tertre ancestral, avec seulement un infime rouleau de soie grège, suggère une attitude trop chiche en une telle circonstance.\n
+En écho à la seconde ligne où il est question de soigner sa mise, on ne peut à la ligne souveraine d’EMBELLIR faire l’économie du soin apporté au paraître. Le rituel est l’art de la forme, et il compte d’autant plus lorsqu’on se trouve à proximité des ancêtres, ou du moins dans le lieu qui leur est réservé.\n
+L’aspect naturel de la soie, indiqué par le qualificatif grège, accentue le voisinage avec la dernière ligne, où la transparence manifeste une harmonie entre le naturel et le visible. Ce doit être là un engagement à respecter les usages, car le rite est avant tout ce qui permet une tenue adéquate. Il s’agit donc d’assumer l’image et, pour préparer l’ouverture annoncée, d’adopter une attitude dans laquelle le respect transparaît même si les moyens sont limités."
+trait6: "En haut un neuf\n
+Pur EMBELLISSEMENT\n
+Absence de faute"
+trait6_description: "Dernier trait de l’hexagramme et culmination de la situation, la 6ème ligne est souvent un moment de retombée. Ici, au niveau le plus extérieur, elle marque l’achèvement du processus d’embellissement par un saut qualitatif qui le hausse à son niveau le plus sublime : le deuil de l’apparence.\n
+Le blanc, rendu ici par pur, est cité à nouveau, mais comme image d’un processus de clarification. Lumineux quand il désigne la couleur du cheval à la 4ème ligne, perdant de son éclat au trait suivant pour devenir le grège de la soie naturelle, le blanc ici ne qualifie plus aucun objet, mais la globalité d’une attitude : une manière d’être qui sait tenir compte du visible sans tomber dans les pièges du paraître. A ce stade, EMBELLIR devient un art où ne se cache aucune duplicité. En écho à l’imprégnation décrite à la 3ème ligne, la forme ne masque plus rien, elle laisse transparaître. La sobriété de l’appréciation mantique est à la mesure de cette luminosité discrète."
+grande_image: "Sous la montagne il y a le feu\n
+EMBELLIR\n
+L’Etre Accompli ainsi\n
+En clarifiant les affaires courantes\n
+N’ose pas trancher les procès"
+dixieme_aile: "EMBELLIR \n
+Sans fards"
+nucleaire: '40 - Délivrance'
+oppose: '47 - Epuisement'
+renverse:
+image:
 trigramme_bas: "feu"
 trigramme_haut: "montagne"
-numero: 22
+

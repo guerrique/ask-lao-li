@@ -1,10 +1,62 @@
-nom: '9 - Petit Apprivoise'
-trait1: "yang"
-trait2: "yang"
-trait3: "yang"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "ciel"
-trigramme_haut: "marais"
 numero: 9
+nom: '9 - Petit Apprivoise'
+description:
+jugement: "PETIT APPRIVOISE Favorisant\n
+Nuages épais pas de pluies\n
+En nos domaines de l’Ouest"
+jugement_description: "Bien qu’elle puisse paraître aride, la situation est porteuse d’une grande capacité d’essor. C’est une période de tension, symbolisée par les nuages qui représentent un processus de regroupement et de densification pendant lequel les formes sont changeantes et les forces retenues. Mais elle contient aussi la promesse d’une fécondité que la pluie apportera à son heure. Aucune appréciation mantique n’est citée, à l’exception de favorisant, aucune stratégie spécifique proposée, à l’exception de celle indiquée par une phrase devenue proverbiale tant la situation qu’elle décrit était évocatrice pour les anciens chinois.\n
+Au moment de PETIT APPRIVOISE, on se trouve analogiquement dans la même position que le Roi Wen en prison, appelé à accomplir une œuvre qui, bien que promise à un grand avenir, en est encore au stade de la gestation. Il convient donc de se comporter comme ce grand personnage qui, vassal modèle, réprima toute tendance à se dresser contre l’oppression injuste dont il était victime, se contentant d’utiliser avec patience l’enfermement qu’il subissait pour réaliser son œuvre et préparer les temps futurs. APPRIVOISER par le Yin, c’est entrer dans un processus intérieur qui consiste à retenir et affiner sa propre force : c’est par cette attitude que l’on exerce à la longue une influence déterminante sur l’ensemble de la situations."
+trait1: "Au début un neuf\n
+RETOUR de soi-même au cheminement\n
+En quoi cela serait une faute\n
+Ouverture"
+trait1_description: "L’Entrée dans une situation s’effectue souvent d’une manière impétueuse ou inexpérimentée, que le Yi Jing tempère par des conseils de modération. Située au départ d’un groupe de trois traits Yang, cette ligne pourrait être un lieu d’insoumission où l’on serait porté à refuser les aspects contraignants de l’apprivoisement.\n
+Cependant, la correction du trait et sa relation de correspondance favorable avec l’unique trait souple de l’hexagramme, indiquent qu’il est possible, dès ce stade initial, de comprendre le bien –fondé de la retenue. S’y plier naturellement n’est pas reculer, mais contribuer à un renouveau prometteur auquel il faut adhérer sans hésitation quelles que puissent être les contraintes."
+trait2: "Neuf en 2\n
+RETOUR tiré par une longe\n
+Ouverture"
+trait2_description: "Alors qu’au trait précédent l’adhésion au processus d’apprivoisement s’effectue de plein gré, sinon sans hésitations, il y a ici des résistances. La nature Yang du trait, incorrect et placé au milieu d’un groupe de trois Yang, indique une fermeté que la qualité yin de la place peut aider à contenir.\n
+La longe, cette longue rêne avec laquelle on tire les animaux qui refusent d’entrer ou sortir de l’enclos et avec laquelle on éduque les chevaux au manège, montre qu’il s’agit de retenir les forces en présence pour les apprivoiser et les guider. Encadrer la force d’une main ferme, c’est contribuer comme à la première ligne à un mouvement de renouveau, et favoriser une issue positive."
+trait3: "Neuf en 3\n
+Les essieux du chariot lâchent prise\n
+Mari et épousée se regardent de travers"
+trait3_description: "Situé au stade du passage vers l’extérieur et porté par le mouvement Yang des traits précédents, ce niveau est celui où, à l’approche de la seule ligne Yin de l’hexagramme, l’atmosphère d’enfermement s’exacerbe et l’énervement gagne. Le mouvement de couplage entre Yin et Yang se grippe : le chariot, dont les essieux sont trop sollicités par la charge, s’arrête. Le blocage suscite l’aigreur des époux qui se boudent.\n
+Absence de légèreté, attitude rigide et manifestations vindicatives aboutissent à l’arrêt du commerce Yin Yang nécessaire à la marche des choses. Cet empêchement est manifeste mais passager puisqu’il n’est sanctionné par aucune appréciation mantique défavorable."
+trait4: "Six en 4\n
+Il y a onde porteuse\n
+Le sang disparaît la vigilance apparaît\n
+Absence de faute"
+trait4_description: "Seule ligne Yin de l’hexagramme, ce trait est situé à une place importante, celle du Ministre réservé et fidèle à son suzerain comme le fut en toutes circonstances le Roi Wen. Dans un environnement aussi Yang, c’est une position difficile à tenir, et il importe d’agir de la manière la plus juste qui soit. On est encore sous le coup des tensions et des désaccords décrits à la ligne précédente, et l’évocation du sang, qu’il soit l’image de blessures ou de l’exorcisme par lequel on s’en protège, indique que la situation n’est pas dénuée de risques.\n
+Cependant il ne faut pas, à ce premier niveau extérieur, rester enfermé dans l’inquiétude. Le trait est correct et en relation de voisinage avec la ligne souveraine : la situation commence à tourner de manière plus propice. Il convient d’être attentif à cette évolution et d’y accorder son action par une attitude prudente et respectueuse. Le comportement adéquat consiste à défaire les tensions en écartant ferment les provocations et en privilégiant l’écoute confiante qui aide à dissoudre les rigidités."
+trait5: "Neuf en 5v
+Il y a onde porteuse\n
+Comme reliant à la manière des anneaux d’une chaîne\n
+Enrichissement par les voisins"
+trait5_description: "A ce niveau Souverain, l’APPRIVOISEMENT patient change de nature et porte enfin ses fruits. Le trait, Yang à une place Yang, est en relation de bon voisinage avec la place de Ministre, traversée par le même flux de confiance. La communication, si difficile aux deux places médianes, prend une dimension profonde qui n’a d’équivalent qu’au niveau Souverain de JUSTE CONFIANCE, moment d’apogée où la solidité d’un cœur vide de préjugés permet l’approche et l’échange fécond avec les autres.\n
+Fort de cette confiance retrouvée en soi-même, on est en mesure de faire tomber les murs dressés par la suspicion et de transformer les tensions provoquées par la malveillance en un partenariat bénéfique."
+trait6: "En haut un neuf\n
+Voici la pluie\n
+Voici le repos\n
+Etre en charge d’une position supérieure\n
+Pour l’épouse présage de danger\n
+A l’approche de la lune pleine\n
+Impasse pour les expéditions\n
+D’un Chef Accompli"
+trait6_description: "A ce niveau de Sortie, la pluie annoncée au Jugement se répand, dissolvant les tensions et permettant à chaque chose de trouver son lieu d’apaisement. Cette accalmie permet d’adopter à présent une conduite bienveillante, détachée des
+  réactions amères auxquelles le contexte pouvait entraîner. Pluie, épouse, lune, cette accumulation de symboles Yin indique que le PETIT trouve à cette place supérieure un lieu où s’exprimer. La montée de la lune cependant, si elle met en valeur l’APPRIVOISEMENT réalisé par la souplesse et la patience, indique un équilibre difficile à maintenir entre les deux polarités. La souplesse ayant permis d’amadouer petit à petit les tensions, il ne faut pas gâcher ce renforcement en se conduisant petitement.\n
+Adopter maintenant une attitude mesquine et vindicative ferait renaître les querelles et compromettrait l’acquis. Qu’une certaine position soit atteinte n’autorise pas à s’en prévaloir. Un Chef Accompli se doit de ne pas confondre courage et agressivité, et comprendre que le moment n’est pas à brusquer les choses."
+grande_image: "Le vent circule-et-agit au-dessus du ciel\n
+PETIT APPRIVOISE\n
+L’Etre Accompli ainsi\n
+Grâce à l’excellence\n
+Affine sa conduite"
+dixieme_aile: "PETIT APPRIVOISE\n
+Manquer"
+nucleaire: '38 - Divergence'
+oppose: "16 - S'enthousiasmer"
+renverse:
+image:
+trigramme_bas: "ciel"
+trigramme_haut: "bois"
+
+

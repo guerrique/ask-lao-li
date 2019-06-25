@@ -1,10 +1,67 @@
+numero: 24
 nom: '24 - Retour'
-trait1: "yang"
-trait2: "yin"
-trait3: "yin"
-trait4: "yin"
-trait5: "yin"
-trait6: "yin"
+description:
+jugement: "RETOUR\n
+Favorisant et rentrer sans fébrilité\n
+Des compagnons viennent\n
+Absence de faute\n
+En se retournant le chemin fait RETOUR\n
+Sept jours et vient le RETOUR\n
+Profitable d’avoir où aller"
+jugement_description: "Tout renouveau est un moment d’essor. Cependant RETOUR est une situation trop fragile pour que l’éclosion puisse se faire d’un seul coup. La circulation Yin Yang, productrice de l’énergie vitale, s’installe par petits essais successifs, alternance de déploiements et de replis qui ne doivent pas s’effectuer dans l’affolement, la hâte, ou la brusquerie. Toute avancée s’enracine par des pas en arrière ; ce rythme, dont l’hexagramme 53 PROGRESSER PAS A PAS expose le détail, est vécu ici en condensé, c’est-à-dire de manière plus vive. Sortir et rentrer peut également se lire comme une allusion à une respiration plus large, celle qui fait alterner l’engendrement des êtres et leur disparition : tel est le cours des choses, et il se déroule d’autant plus aisément qu’il est vécu sans dramatisation ni agitation excessive.\n
+Comme dans d’autres hexagrammes à dominante Yin, la présence des compagnons indique le mouvement de resserrement par lequel un souffle commun, vivificateur, est en train de prendre forme. Il serait donc prématuré de chercher à vaincre les difficultés par une volonté d’affirmation autoritaire. Le renouveau se fait au contraire dans un esprit de solidarité et d’amitié, et il y a lieu de se laisser porter sans hésitation par le soutien de ceux qu’un même souffle anime.\n
+C’est par un incessant mouvement de retour à l’indéterminé que les énergies de réalisation se régénèrent : revenir en arrière permet de repartir vers l’avant avec des forces neuves. RETOUR indique ce moment où, toutes les forces convergeant vers le bas, vers l’intérieur, un renversement s’opère qui amorce un redémarrage encore à peine visible. Un laps de temps est nécessaire à ce retournement : il faut d’abord que le mouvement cesse avant que, de l’indifférencié, puisse se dégager une tendance neuve. Si ce n’est pas le moment de prendre des initiatives, il convient en revanche de déterminer une orientation, en discernant de quelle action globale ce moment peut être le premier pas."
+trait1: "Au début un neuf\n
+RETOUR peu avancé\n
+Ne pas respecter regrets\n
+Fondamentalement ouvert"
+trait1_description: "Stade d’éveil d’une situation elle-même d’éveil, l’unique trait Yang, placé tout en bas de la figure, est au cœur de la situation. Il est le lieu où s’exprime une vitalité toute neuve et où se concentrent les potentialités propres au RETOUR. Encore à l’état de simple jaillissement, le renouveau n’a pas pris une consistance telle qu’il puisse être considéré comme établi. Une certaine prudence est nécessaire afin que ce début puisse être reçu et prolongé par les forces Yin qui l’entourent.\n
+On trouve à cette ligne une appréciation mantique parmi les plus favorables du Yi Jing en général et de cet hexagramme en particulier : cette faculté de démarrage doit être préservée en tant que matrice initiale d’un mouvement à déployer."
+trait2: "Six en 2\n
+RETOUR en pause\n
+Ouverture"
+trait2_description: "Le renouveau, qui s’exprime par le jaillissement Yang du premier trait, est suivi d’un temps d’arrêt, nécessaire à un mouvement encore jeune pour reprendre son souffle.\n
+Ce deuxième trait, souple à une place de Préfet donc correct, et complémentaire du premier trait avec lequel il est en relation de voisinage, représente un moment où peuvent s’exprimer les qualités permettant de recevoir et d’amortir le mouvement initial pour en épanouir les possibilités."
+trait3: "Six en 3\n
+RETOUR en hâte\n
+Danger\n
+Absence de faute"
+trait3_description: "A ce niveau de Passage vers l’extérieur est indiquée une contradiction entre le désir d’avancer et l’insuffisance des moyens qui permettraient de le faire. L’empressement est le signe d’une insistance désireuse d’agir pour que la situation avance plus vite. Bien que légitime, ce désir ne peut s’appuyer sur une fermeté suffisante et il ne peut entraîner que stérilité et complications. Se précipiter, s’affoler, c’est refuser de laisser les choses naître à leur rythme, et faire le lit d’un aventurisme instinctif qui se révèle désastreux à la 6ème ligne."
+trait4: "Six en 4\n
+Agir au Milieu Juste\n
+RETOUR solitaire"
+trait4_description: "Combinant les deux termes parmi les plus importants du Yi Jing, l’action créatrice du Ciel et l’attitude juste et centrale du sage, ce trait évoque une démarche de haute valeur. Par son rapport privilégié avec le premier trait – c’est la seule correspondance à l’œuvre dans cet hexagramme – il est à même de renforcer et prolonger le mouvement de renouveau qui naît au bas de la figure.\n
+On doit cependant être conscient de l’isolement dans lequel on se trouve, isolement souligné par la position du trait au milieu d’un ensemble de cinq traits Yin. Cela doit engager à une attitude courageuse, que rendent possible la correction du trait, Yin à une place Yin, et le potentiel de la place qu’il occupe, celle de Ministre. Disponibilité envers les différentes possibilités qui s’expriment et impartialité, telles sont les qualités sous-entendues par le Milieu Juste."
+trait5: "Six en 5\n
+RETOUR magnifié\n
+Pas de regrets"
+trait5_description: "En écho avec la deuxième ligne, où un moment d’arrêt permet de stabiliser le jaillissement initial, ce niveau Souverain est celui où on est à même de comprendre et de consolider le mouvement de renouveau. Cela ne signifie pas se laisser aller à toutes sortes de poussées chaotiques, mais être capable d’en saisir les impulsions pour les enraciner et en faire le vrai début d’une action durable. Il n’y a pas à regretter d’avoir à canaliser les turbulences initiales : maintenir et guider le renouveau est nécessaire pour en organiser les dispositions."
+trait6: "En haut un six\n
+RETOUR égaré\n
+Fermeture\n
+Il y a désastres et fautes d’inadvertance\n
+A opérer la mise en route de l’ARMEE\n
+A la fin il y a grande défaite\n
+Et ainsi pour le chef et son pays\n
+Fermeture\n
+Durant dix années\n
+On ne peut l’emporter dans\n
+Des expéditions"
+trait6_description: "Le texte du dernier trait de RETOUR, le plus éloigné de la source neuve qui affleure au trait initial, se détache des cinq autres par sa profusion et par une accumulation de formules mantiques négatives. S’exprimant par des tentatives volontaristes réitérées, l’incompréhension du processus de RETOUR est ici totale, et les potentialités risquent d’en être complètement gâchées. Il est rendu compte de cette attitude par la description d’une suite d’événements qui constitue un ensemble des plus sombres.\n
+Egarement et manque de discernement se soldent par des impasses et des calamités ; initiatives impétueuses et entreprises agressives répétées aboutissent systématiquement à des échecs ; le chef, qui n’est ici qualifié ni de grand ni d’accompli, s’avère incapable de mener à bien ses affaires et celles du pays. Qui se conduit ainsi ne comprend pas que le moment n’est pas à commander mais à donner à ce qui naît le temps de prendre forme. Ce gaspillage de possibilités de renouveau pourtant bien présentes est le résultat d’une tendance compulsive à vouloir à tout prix précipiter le mouvement."
+grande_image: "Le tonnerre se trouve au coeur de la terre\n
+RETOUR\n
+Les Anciens Rois ainsi\n
+Fermaient les passes au moment du solstice\n
+Marchands et VOYAGEURS\n
+Ne circulaient pas\n
+Le Souverain ne visite pas les régions"
+dixieme_aile: "RETOUR\n
+Retourner"
+nucleaire: '2 - Elan Réceptif'
+oppose: '44 - Etre Accueillant'
+renverse:
+image:
 trigramme_bas: "tonnerre"
 trigramme_haut: "terre"
-numero: 24
+

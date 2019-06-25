@@ -1,10 +1,57 @@
 nom: '33 - Retraite'
-trait1: "yin"
-trait2: "yin"
-trait3: "yang"
-trait4: "yang"
-trait5: "yang"
-trait6: "yang"
+description:
+jugement: "FAIRE RETRAITE\n
+Favoriser le Petit\n
+Ténacité profitable"
+jugement_description: "Se désengager d’une situation qui a fait son temps ne constitue un essor que si l’on procède pas à pas, sans contrainte ni hâte : une retraite convenablement accomplie n’est pas une fuite précipitée mais un repli organisé. Il convient pour cela de privilégier la souplesse et l’adaptabilité, qualités caractéristiques du comportement Yin évoqué par le Petit.\n
+Il convient également de ne pas se laisser désarçonner par les changements et les remodelages qu’implique le fait de se retirer de ce qui a été réalisé. La nécessité de procéder à la fois petit à petit et avec ténacité est caractéristique des moments de passage : elle est énoncée dans les mêmes termes à l’hexagramme 63 DÉJÀ TRAVERSÉE, autre renversement de tendance où empressement et inconstance sont également malvenus."
+trait1: "Au début un six\n
+La queue du PETIT COCHON\n
+Danger\n
+Ne pas agir\n
+Il y a où aller"
+trait1_description: "La RETAITE débute par un mouvement d’affolement, suggéré par l’image d’un petit cochon qui cherche à s’enfuir. La première ligne d’un hexagramme décrit souvent le moment le plus spontané ou le plus irréfléchi d’une situation ; ici c’est un geste instinctif d’esquive qui peut s’avérer dangereux s’il n’est pas contrôlé. La position initiale de la ligne et son incorrection rendent impossible toute réalisation rapide : il ne faut pas se laisser emporter par l’impétuosité, mais réfléchir calmement à ce qui provoque le désir de s’enfuir.\n
+A ce commencement de l’hexagramme, la stratégie conseillée est la même que celle indiquée au Jugement de DIFFICULTÉS INITIALES : plutôt que d’agir dans l’immédiat, déterminer une orientation claire ; prendre le temps de démêler l’important du secondaire, de discerner l’échéance par rapport à laquelle on veut agir. La RETRAITE aussi est l’amorce d’une période nouvelle."
+trait2: "Six en 2\n
+Retenir opiniâtrement\n
+A l’aide d’une PEAU de boeuf jaune\n
+Rien ne peut réussir à faire lâcher prise"
+trait2_description: "Cette ligne est la seule où le nom de l’hexagramme n’est pas mentionné, donc la seule où il n’est pas question de FAIRE RETRAITE. En revanche les incitations au freinage abondent : conseil de retenir, image d’une peau à la fois souple et solide pour envelopper et contenir, allusions au bœuf, symbole d’enracinement, et à la couleur jaune, associée à la terre et au centre.\n
+La nature Yin du trait, correcte en seconde place, ainsi que sa relation de correspondance avec le 5ème indiquent que cette retenue à contre-courant participe du mouvement général de l’hexagramme. Résistance ponctuelle dans une stratégie globale de repli, ce mouvement s’apparente à un contre-feu. Cette solide rétention transforme la retraite en une mue intérieure lente et profonde."
+trait3: "Neuf en 3\n
+RENTRAITE entravée\n
+Il y a fébrilité Danger\n
+RASSEMBLER serviteurs et concubines\n
+Ouverture"
+trait3_description: "Le premier trait ferme de l’hexagramme se trouve à une place de transition inconfortable. Il est à la fois entraîné par la force des autres traits Yang, et en contact direct avec les traits Yin qui freinent le mouvement de retrait. Cette contradiction se traduit par une certaine agitation où se mêlent un affolement analogue à celui de la première ligne – il est signalé par la même mention de danger – et un attachement au passé renforcé par le voisinage de la seconde ligne. Le problème du désengagement est donc particulièrement aigu à ce niveau de passage.\n
+Il est cependant possible de ne pas se laisser déborder. Pour garder le contrôle des opérations, il faut prendre en main les éléments désorientés de la situation qu’on cherche à quitter, rendus ici par des emblèmes Yin : les serviteurs, qui sous-entendent une hiérarchie, et les concubines, associées à l’idée d’une filiation, donc d’un futur. L’apprivoisement patient suggéré par le choix du verbe rassembler engage à maîtriser, sans brutalité mais avec force, le rythme des changements en cours."
+trait4: "Neuf en 4\n
+RETRAITE bonifiante\n
+Pour le Chef Accompli ouverture\n
+Pour l’Etre Petit ADVERSITE"
+trait4_description: "A cette place de Ministre, la situation est à même d’être sérieusement prise en main. Située au milieu d’un bloc de quatre traits Yang, cette ligne est celle où la retraite peut s’effectuer en bon ordre si l’on est capable d’en comprendre la nécessité et le processus. Une hésitation subsiste pourtant, amplifiée par la correspondance avec la première ligne où le recul est vécu comme une fuite. Soit on se comporte comme un Chef Accompli qui, en bon stratège, comprend les possibilités nouvelles que représente une retraite bien effectuée ; soit on en reste à l’attitude immature de l’Etre Petit, qui en méconnaît l’importance et la voit comme un blocage. Le détachement par rapport aux circonstances immédiates, une des grandes qualités du Chef Accompli, est au cœur de la situation que décrit l’hexagramme ADVERSITÉ, annoncé par le dérivé de la ligne précédente et évoqué ici par son nom."
+trait5: "Neuf en 5\n
+RETRAITE avantageuse\n
+Présage d’ouverture"
+trait5_description: "A la place souveraine de FAIRE RETRAITE, le mouvement de repli peut enfin s’accomplir de manière positive : il est clair désormais que se retirer est le meilleur moyen de faire évoluer la situation. Le trait est non seulement correct mais entouré d’autres traits Yang où la stratégie de recul est décrite comme de plus en plus profitable – ce qui renforce la possibilité de se défaire de l’emprise du passé.\n
+La relation de correspondance avec la 2ème ligne permet d’intégrer les résistances aux changements qu’implique la décision de retrait. L’avantage qu’on en tire est le même que celui décrit à la ligne souveraine de l’hexagramme 17 SUIVRE, où il marque le passage d’attachements contraints à une confiance porteuse."
+trait6: "En haut un neuf\n
+RETRAITE fertilisante\n
+Rien qui ne soit profitable"
+trait6_description: "La dernière ligne, située au sommet d’un bloc de quatre traits Yang, n’est plus soumise à aucune des pressions qui agitent le bas de l’hexagramme. Elle surplombe tout le mouvement de RETRAITE et permet d’en envisager les lendemains.\n
+Un retrait avisé s’accomplit en fonction d’un futur : le moment est venu d’en considérer les perspectives et de mettre à profit son potentiel de fertilité. Tout le mouvement de repli a eu pour but d’emmagasiner des forces maintenant susceptibles de se manifester de manières variées et nouvelles."
+grande_image: "Sous le ciel il y a la montagne\n
+FAIRE RETRAITE\n
+L’Etre Accompli ainsi\n
+En prenant ses distances avec l’Etre Petit\n
+Sans aversion inspire crainte et respect"
+dixieme_aile: "FAIRE RETRAITE\n
+Donc céder"
+nucleaire: '44 - Etre Accueillant'
+oppose: '19 - Approcher'
+renverse:
+image:
 trigramme_bas: "montagne"
 trigramme_haut: "ciel"
 numero: 33
+

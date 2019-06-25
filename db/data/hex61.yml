@@ -1,10 +1,75 @@
-nom: '61 - Juste Confiance'
-trait1: "yang"
-trait2: "yang"
-trait3: "yin"
-trait4: "yin"
-trait5: "yang"
-trait6: "yang"
-trigramme_bas: "brume"
-trigramme_haut: "marais"
 numero: 61
+nom: '61 - Juste Confiance'
+description: "JUSTE CONFIANCE est une marque d'une certitude. C'est la confiance qui vient du fond de soi quand, certain de se tenir à sa vraie place, on est porté à agir en parfaite adéquation avec le moment et l'entourage. C'est la force qui naît quand un cœur vide de préjugés se déploie une attitude juste et centrée. C'est la quiétude qui rend capable d'apaiser les querelles les plus vives et d'établir avec les autres des rapports sincères. Cet hexagramme, sans doute un des plus profonds du Livre des Changements, condensé des valeurs fondamentales de la spiritualité chinoise, prend tout son sens dans les relations d'échange, en montrant comment peuvent se créer les liens réunissant des temps et des mondes différents.\n
+Son nom rassemble en deux caractères les deux idées majeures : le Milieu, c'est- à-dire la justesse d'une attitude capable de mettre parfaitement en accord tous les éléments du moment présent, et la confiance, c'est-à-dire le sentiment d'être à sa place dans une continuité qui porte comme un flux.\n
+La forme de la figure donne à voir ce balancement par sa symétrie. Le ferme et le souple y sont disposés de façon circulaire, distribuées harmonieusement comme en anneau, chaque polarité se tenant au lieu de sa meilleure efficience : extériorisation Yang à la périphérie, intériorité Yin au centre. Majoritaires, les quatre traits Yang ne forment pas un bloc prépondérant, car ils sont scindés en deux groupes situés aux deux extrémités, entourant comme pour s'y ancrer les deux traits Yin regroupés au milieu de l'hexagramme. À l'image d'un cœur vide, ce dispositif crée aux deux places de l'être humain un espace libre, un lieu d'échange ouvert où convergent l'interne et l'externe, permettant un lien fluide entre Ciel et Terre.\n
+Porté par la foi en l'éternité de la vie que les Chinois placent au cœur de l’existence, JUSTE CONFIANCE engage à dépasser les appréhensions et à s’engager avec une conviction telle qu'il devient possible d’aller bien au-delà de ce que l’on croyait possible. La confiance en soi prend alors toute son ampleur dans la disposition à l'amitié et au partage."
+jugement: "JUSTE CONFIANCE\n
+Porc et poisson\n
+Ouverture\n
+Profitable de passer le grand fleuve\n
+Ténacité profitable"
+jugement_description: "Les deux animaux qui symbolisent la JUSTE CONFIANCE résument à eux seuls toute la spiritualité chinoise. Le porc représente les ascendants car la demi-tête de cochon était l'offrande de base du culte ancestral - à partir de là, il est l'image de tout ce qui a précédé. Le poisson représente les descendants, car un repas de mariage n'est pas concevable sans que soit servi un plat de poisson - à partir de là, il est l'image de tout ce qui suivra. Du couplage de ces deux symboles découle toute une conception de la vie, qui se manifeste dans le sentiment d'être à sa place juste dans le présent, comme un maillon vide et nécessaire dans une chaîne vivante d'ancêtres défunts et d'enfants à venir.\n
+Plus généralement, cette sensation d'une position juste est à la base d'une profonde confiance en soi qui donne le cœur de réaliser ce qu'on croyait impossible et la force de passer le grand fleuve, c'est-à-dire d'aller sans crainte à la rencontre de l'autre. Cependant, comme le suggère l'absence de la mention favorisant, l'accord n'est pas acquis d'emblée : l'échange est un parcours qui nécessite patience et ténacité. Qui s'appuie sur ce qui a été pour faire advenir ce qui sera envisage le présent avec confiance."
+trait1: "Au début un neuf\n
+Pour qui se prépare ouverture\n
+Qui en rajoute\n
+Perd la quiétude"
+trait1_description: "À ce niveau d'Entrée, le processus qui s'amorce bute sur les difficultés propres à tout début. Si une rencontre suppose la remise en jeu des certitudes, elle ne doit pas aller jusqu'à entraîner l'abandon des convictions personnelles. Avant que la confiance ne puisse s’instaurer, il faut s'éprouver au contact de l'autre, sans se laisser désarçonner par les premières escarmouches, afin d'apprécier ce qui est attendu aussi bien que ce qui peut être apporté dans la relation. Préserver sa quiétude est à ce stade la meilleure façon de se préparer à un échange véritable.\n
+Correct mais situé à un niveau où l'inexpérience prédomine, ce premier trait est en correspondance avec le quatrième, où est évoqué un partenariat tendu. Cette allusion à une rencontre difficile ne doit pas empêcher de se prêter à l'échange. Que la confiance ne puisse s'improviser ne doit pas décourager: comme l'indique la présence de l'unique appréciation favorable mentionnée dans les traits, tout est ouvert à qui sait se donner le temps d'inventer l'attitude permettant la rencontre."
+trait2: "Neuf en 2\n
+Une grue se fait entendre dans l'ombre\n
+Son joli prince lui fait écho\n
+Toi et moi renversons-le\n
+Avec prodigalité"
+trait2_description: "Appel, écho, agapes, toi et moi : imagé comme un poème, tout le texte de cette ligne est invitation à l'échange. Venue du fond le plus caché - de cette ombre qui servira à nommer le Yin - une invite aussi directe que discrète retentit au loin, et reçoit une réponse. C'est là une incitation à sortir du doute pour s'aventurer en confiance à la rencontre de l'autre. L’appel se double d'une proposition à boire qui résonne comme une exhortation à l'amitié et au partage.\n
+Bien qu'il soit sans correspondance directe, ce trait est une sorte d'écho à distance de la cinquième ligne : aux gobelets évoqués ici répondent plus haut les anneaux d'une chaîne. L’analogie des deux images, proches par leur forme circulaire et leur matériau métallique, indique une progression dans la symbolique de l'union. L’invite qui se fait jour à cette place centrale du Yin reflète ces moments où, à la lisière du monde intérieur, on trouve l'assurance nécessaire pour s'élancer vers le dehors."
+trait3: "Six en 3\n
+On atteint son double\n
+Parfois sonner la charge\n
+Parfois le cessez-le-feu\n
+Parfois pleurer en silence\n
+Parfois chanter à tue-tête"
+trait3_description: "À la première des deux places où sont décrits les aléas de la relation, l'invite devient rencontre, contact réel qui provoque accès d'émotivité et tourbillons d'incertitude. Ces turbulences sont décrites en termes imagés, qui peuvent être lus au sens guerrier aussi bien qu'amoureux : assauts suivis de retraits, bouffées de tristesse laissant place à des explosions de joie. La réalité inattendue de la rencontre désarçonne et ébranle la confiance en soi. Mais le flottement qu'elle provoque n'est pas préjudiciable : aucune formule mantique négative ne vient le sanctionner. Comme à la ligne de Passage de FILET D'OISELEUR, où l'émotivité est décrite en des termes similaires, il importe, aux moments où l'éclat peut tourner à l'éblouissement, de garder confiance.\n
+La souplesse du trait suggère un manque d'assurance, une versatilité incorrecte à cette place de passage. Sa correspondance avec la sixième ligne, où l'on parle trop haut et trop fort, accentue la tendance à l'agitation. Transformer la rencontre d'autrui en échange véritable suppose de trouver l'équilibre entre audace et légèreté."
+trait4: "Six en 4\n
+À l'approche de la lune pleine\n
+L’attelage est découplé\n
+Absence de faute"
+trait4_description: "À la seconde des deux places où sont décrits les aléas de la rencontre, la recherche de l'autre, qui s'opère dans une atmosphère chaotique au stade précédent, devient partenariat où l'on peine à s'accorder pour avancer de concert. La lune, emblème Yin par excellence, est face au soleil, à parité de rondeur avec lui. Comme à PETIT APPRIVOISE, ce face-à-face des deux luminaires suggère un appariement fécond, mais aussi un équilibre difficile à sauvegarder. À la fois signe de tension et promesse d'éclosion, l’image de la lune presque pleine se double d'un autre symbole de parité, l'attelage. Là encore, il s'agit de savoir maintenir un accord : pour diriger un chariot, le cocher doit pouvoir s'appuyer sur un des deux chevaux qu'il place légèrement en avant de l'autre. Que le partenaire tente de s'imposer au lieu de faire équipe, et l'attelage s'égare.\n
+Correct et en relation de voisinage avec la ligne souveraine, ce trait représente le stade où il faut tenir le rôle de communication conforme à une place de Ministre. Il importe ici de maintenir la position médiane qui donne tout son sens à l'hexagramme, afin de pouvoir retenir patiemment les énergies et faciliter une orientation commune. La correspondance avec la première ligne, stade des préparatifs, est en résonance avec l'idée d'un presque, qui doit inciter à se préparer à l'adéquation à venir."
+trait5: "Neuf en 5\n
+Il y a ONDE PORTEUSE\n
+Comme reliant à la manière\n
+Des anneaux d’une chaîne\n
+Absence de faute"
+trait5_description: "Que le nom de l'hexagramme - du moins le second caractère de son titre - n'apparaisse qu'à la ligne souveraine indique qu'ici se situe le point focal de la situation. Cette présence est d'autant plus importante que ce mot est aussi une appréciation mantique très répandue dans le Yi Jing, comme si l'ONDE PORTEUSE était une harmonique essentielle de l'art du changement. Alors que les deux traits précédents bouillonnent de tensions contradictoires, la confiance permet ici un échange fécond, indiquant l'aboutissement de la conjonction décrite à la quatrième ligne.\n
+Le lien qu'il est possible à ce stade d'établir a la solidité des anneaux d'une chaîne: bien quelle ne semble constituée que de vides entrecroisés, une chaîne est un soutien ferme, analogue à celui donné par l'assurance d'être à sa place dans une continuité. Comme la coupe en bronze citée à la seconde ligne, les anneaux sont à l'image de l'hexagramme lui-même : une forme ronde où un alliage de métal entoure un vide central. Ce vide, qui permet l'usage des coupes et l'enchaînement des anneaux, est analogue à la disposition qui permet au cœur de s'ouvrir librement à la communication et au partage. Si la coupe fait allusion à un rapprochement intime, la chaîne évoque plutôt l'aptitude à entretenir des relations : à PETIT APPRIVOISE, l'autre situation où cette image apparaît - au même niveau souverain et qualifiée par le même flux porteur - le Roi Wen est le symbole de qui sait, par son effacement, préserver les liens quelles que soient les tensions.\n
+Correct et soutenu par sa relation de voisinage avec la ligne de Ministre, ce trait concrétise et magnifie l'invite lancée au niveau de la seconde ligne. Apogée de la JUSTE CONFIANCE, il représente un moment de parfait équilibre entre force intérieure et possibilité d'ouverture au monde.\n
+Trente rayons se joignent en un moyeu unique\n
+Ce vide dans le char en permet l'usage\n
+D'une motte de glaise on façonne un vase\n
+Ce vide dans le vase en permet l'usage\n
+On ménage des portes et des fenêtres pour une pièce\n
+Ce vide dans la pièce en permet l'usage\n
+Lao Zi"
+trait6: "En haut un neuf\n
+Le cri du faisan s'élevant\n
+Jusqu’au ciel\n
+Présage fermeture"
+trait6_description: "Au-delà de la culmination atteinte à la ligne souveraine, la propension à l'accord s'estompe et la confiance retombe. Alors qu'au niveau de la seconde ligne, une grue dans l’ombre invite à la rencontre, le faisan à ce trait supérieur, n’a plus ni les pattes sur terre, ni aucun partenaire. Trop extériorisé et trop volontaire, son appel criard s'élève haut dans le ciel, détruisant l'équilibre délicat qui permettait l'union. Plus aucun écho ne répond : c'est l'annonce de la défiance qui prédomine à PETIT EXCÈS (62), hexagramme suivant et opposé de celui-ci, où ce cri est le signe d'une dangereuse présomption.\n
+Incorrect et sans autre relation que la correspondance avec une troisième ligne où l'agitation prédomine, ce trait est en dehors du mouvement de rencontre qui donne tout son sens à l‘hexagramme. Épilogue abrupt, accentué par la symétrie avec la première ligne : alors que la préparation à l'échange est ouverture à des potentiels de fécondité, la recherche de l'autre se réduit ici à une attitude fanfaronne qui ne peut conduire qu'à des impasses."
+grande_image: "Au-dessus de la brume il y a le vent\n
+JUSTE CONFIANCE\n
+L’Être Accompli ainsi\n
+En pesant les raisons des procès\n
+Sursoit à l'exécution des peines de mort"
+dixieme_aile: "JUSTE CONFIANCE\n
+Fidélité"
+nucleaire: '27 - Nourrir'
+oppose: '62 - Petit Excès'
+renverse:
+image:
+trigramme_bas: "brume"
+trigramme_haut: "bois"
+
