@@ -2,7 +2,7 @@ require_relative 'ciel'
 require_relative 'terre'
 require_relative 'tonnerre'
 require_relative 'montagne'
-require_relative 'marais'
+require_relative 'bois'
 require_relative 'brume'
 require_relative 'eau'
 require_relative 'feu'
@@ -15,7 +15,7 @@ class SetHexagramme
       trig_bas_tonnerre(trig2)
     elsif trig1 == 'montagne'
       trig_bas_montagne(trig2)
-    elsif trig1 == 'marais'
+    elsif trig1 == 'bois'
       trig_bas_bois(trig2)
     elsif trig1 == 'brume'
       trig_bas_brume(trig2)
