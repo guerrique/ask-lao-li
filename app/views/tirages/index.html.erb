@@ -1,0 +1,47 @@
+<div class="wrapper">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="maintitle open-font">
+          <h4>MES TIRAGES</h4>
+        </div>
+                <div>
+          <%= form_tag tirages_path, method: :get do %>
+          <%= text_field_tag :query,
+          params[:query],
+          class: "form-control form-control-sm search-layout",
+            placeholder: "Search a tirage"
+            %>
+            <% end %>
+        </div>
+      </div>
+    </div>
+    <% if current_user.tirages.present? %>
+    <% current_user.tirages.each do |tirage| %>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="list-item">
+          <div class="list-text">
+            <%= link_to tirage_path(tirage) do %>
+            <div class="list-tirage">
+              <%= tirage.question %>
+            </div>
+            <% end %>
+            <div class="list-hex">
+              <%= tirage.hexagramme.nom %> /
+              <%= tirage.perspective %>
+            </div>
+          </div>
+          <div class="list-date">
+            <%= tirage.created_at.strftime("%d/%m/%y") %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <% end %>
+    <% else %>
+    Vous n'avez pas encore de tirage
+    <% end %>
+  </div>
+</div>
+

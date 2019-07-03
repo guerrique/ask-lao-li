@@ -1,5 +1,17 @@
 class TiragesController < ApplicationController
   before_action :set_tirage, only: [:edit, :show, :set_hexagramme]
+
+  def index
+    if params[:query].present?
+      sql_query = " \
+      tirages.question ILIKE :query \
+      "
+      @tirages = Tirage.where(sql_query, query: "%#{params[:query]}%")
+    else
+      @tirages = Tirage.all.order("created_at DESC")
+    end
+  end
+
   def new
     @tirage = Tirage.new
   end

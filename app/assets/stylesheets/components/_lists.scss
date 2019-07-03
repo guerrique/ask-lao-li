@@ -1,0 +1,36 @@
+.list-item {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list-date {
+  color: $maintitles;
+  opacity: 0.6;
+  font-size: 12px;
+  flex: 1;
+}
+
+.list-text {
+  flex: 4;
+}
+
+.list-tirage {
+  color: $maintitles;
+  opacity: 0.9;
+  // font-weight: bold;
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.list-hex {
+  font-weight: light;
+  color: $maintitles;
+  opacity: 0.6;
+  font-size: 12px;
+}
