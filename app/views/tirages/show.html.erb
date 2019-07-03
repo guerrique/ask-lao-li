@@ -1,5 +1,8 @@
 <div class="wrapper">
   <div>
+    <div class="maintitle">
+      <h4><%= @tirage.question %></h4>
+    </div>
     Vous avez obtenu l'hexagramme <%= link_to hexagramme_path(@tirage.hexagramme.id)  do %>
     <%= @tirage.hexagramme.nom %>
     <% end %>

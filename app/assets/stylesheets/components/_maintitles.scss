@@ -6,3 +6,15 @@
     font-size: 20px;
   }
 }
+
+.open-font {
+  margin: 10px;
+  h4 {
+  color: $maintitles;
+  opacity: 0.8;
+  font-family: "Open Sans";
+  font-size: 20px;
+  // font-weight: bold;
+  // border-bottom: 1px solid red;
+  }
+}
