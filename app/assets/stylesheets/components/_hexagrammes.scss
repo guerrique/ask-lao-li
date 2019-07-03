@@ -1,0 +1,30 @@
+.hex-nom {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  color: $maintitles;
+}
+
+.jugement {
+  white-space: pre-line;
+  padding: 0 30px;
+  color: $maintitles;
+  opacity: 0.8;
+  font-size: 14px;
+  h4 {
+    color: $maintitles;
+    opacity: 0.8;
+    font-family: "Open Sans";
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.description {
+  color: $maintitles;
+  white-space: pre-line;
+  margin: 0 10px;
+  text-align: justify;
+  text-justify: inter-word;
+}
