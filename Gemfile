@@ -6,7 +6,7 @@ gem 'cloudinary', '~> 1.9.1'
 gem 'carrierwave', '~> 1.2'
 
 gem 'bootsnap', require: false
-gem 'devise'
+gem 'devise', '>= 4.7.1'
 gem 'jbuilder', '~> 2.0'
 gem 'pg', '~> 0.21'
 gem 'puma'
