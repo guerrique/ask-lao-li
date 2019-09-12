@@ -1,59 +1,98 @@
 <div class="wrapper">
-
-  <%= link_to edit_hexagramme_path(@hexagramme) do %>
-
-  <div class="large-btn">Edit</div>
-
-  <% end %>
-  <div>
-    <%= @hexagramme.nom %>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="maintitle open-font">
+          <h4><%= @hexagramme.nom %></h4>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="jugement">
+          <%= @hexagramme.jugement %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait1 %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait2 %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait3 %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait4 %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait5 %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait6 %>
+        </div>
+        <div class="jugement">
+          <h4>Grande Image</h4>
+          <%= @hexagramme.grande_image %>
+        </div>
+        <div class="jugement">
+          <h4>Dixième Aile</h4>
+          <%= @hexagramme.dixieme_aile %>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="jugement">
+          <h4>Jugement</h4>
+          <%= @hexagramme.jugement %>
+        </div>
+        <div class="description">
+          <%= @hexagramme.jugement_description %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait1 %>
+        </div>
+        <div class="description">
+          <%= @hexagramme.trait1_description %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait2 %>
+        </div>
+        <div class="description">
+          <%= @hexagramme.trait2_description %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait3 %>
+        </div>
+        <div class="description">
+          <%= @hexagramme.trait3_description %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait4 %>
+        </div>
+        <div class="description">
+          <%= @hexagramme.trait4_description %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait5 %>
+        </div>
+        <div class="description">
+          <%= @hexagramme.trait5_description %>
+        </div>
+        <div class="jugement">
+          <%= @hexagramme.trait6 %>
+        </div>
+        <div class="description">
+        <%= @hexagramme.trait6_description %>
+        </div>
+      </div>
+    </div>
+  <% if current_user.admin == true %>
+    <%= link_to edit_hexagramme_path(@hexagramme) do %>
+      <div class="large-btn">Edit</div>
+    <% end %>
+    <% end %>
   </div>
-  <div>
-    <%= @hexagramme.description %>
-  </div>
-  <div>
-    <%= @hexagramme.jugement %>
-  </div>
-  <div>
-    <%= @hexagramme.jugement_description %>
-  </div>
-  <div>
-    <%= @hexagramme.trait1 %>
-  </div>
-  <div>
-    <%= @hexagramme.trait1_description %>
-  </div>
-  <div>
-    <%= @hexagramme.trait2 %>
-  </div>
-  <div>
-    <%= @hexagramme.trait2_description %>
-  </div>
-  <div>
-    <%= @hexagramme.trait3 %>
-  </div>
-  <div>
-    <%= @hexagramme.trait3_description %>
-  </div>
-  <div>
-    <%= @hexagramme.trait4 %>
-  </div>
-  <div>
-    <%= @hexagramme.trait4_description %>
-  </div>
-  <div>
-    <%= @hexagramme.trait5 %>
-  </div>
-  <div>
-    <%= @hexagramme.trait5_description %>
-  </div>
-  <div>
-    <%= @hexagramme.trait6 %>
-  </div>
-  <div>
-    <%= @hexagramme.trait6_description %>
-  </div>
-</div>
 
 <!--     t.integer "numero"
     t.string "nom"

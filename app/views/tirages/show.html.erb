@@ -39,38 +39,68 @@
           <h4> <%= @tirage.hexagramme.nom %></h4>
         </div>
         <% end %>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-12 col-lg-6">
-        <div class="jugement">
+        <div class="jugement jugement-btn">
           <h4>Jugement</h4>
-        <%= @tirage.hexagramme.jugement %>
+          <%= @tirage.hexagramme.jugement %>
         </div>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-12 col-lg-6">
-        <div class="description">
-        <%= @tirage.hexagramme.jugement_description %>
+        <div class="description explanation" style="display: none;">
+          <%= @tirage.hexagramme.jugement_description %>
         </div>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-12 col-lg-6">
-    <% @tirage.traits.each_with_index do |trait, i| %>
-      <% if trait.nom.include? 'mutant' %>
+        <% @tirage.traits.each_with_index do |trait, i| %>
+        <% if trait.nom.include? 'mutant' %>
+        <% cn = "trait" + (i + 1).to_s %>
+        <div class="jugement trait-btn" id="<%= cn %>">
+          <%= @tirage.hexagramme["trait" + (i + 1).to_s] %>
+        </div>
+        <div class="description" id="<%= cn %>_description" style="display: none;">
+          <%= @tirage.hexagramme["trait" + (i + 1).to_s + "_description"] %>
+        </div>
+        <% end %>
+        <% end %>
+        <div class="open-font hex-nom perspective">
+          <h4>PERSPECTIVE</h4>
+        </div>
+        <div class="open-font hex-nom">
+          <h4> <%= @tirage.perspective %></h4>
+          <% h = Hexagramme.find_by nom: "#{@tirage.perspective}" %>
+        </div>
         <div class="jugement">
-      <%= @tirage.hexagramme["trait" + (i + 1).to_s] %>
+          <%= h.jugement %>
         </div>
-        <div class="description">
-      <%= @tirage.hexagramme["trait" + (i + 1).to_s + "_description"] %>
-        </div>
-      <% end %>
-    <% end %>
       </div>
     </div>
   </div>
 </div>
+</div>
+<script>
+  function showJugement(e) {
+    console.log(e);
+    console.log(e.toElement.className);
+  const explanation = document.querySelector(".explanation");
+  console.log(explanation.className);
+  if(explanation.style.display === "none") {
+    explanation.style.display = "block";
+  } else {
+    explanation.style.display = "none";
+  }
+}
 
+function showTrait(e) {
+  console.log(e.toElement.id);
+  const description = document.getElementById(`${e.toElement.id}_description`);
+  console.log(description);
+  if(description.style.display === "none") {
+    description.style.display = "block"
+  } else {
+    description.style.display = "none";
+  }
+}
+
+const jugementBtn = document.querySelector('.jugement-btn');
+jugementBtn.addEventListener('click', showJugement);
+
+const traitsBtn = document.querySelectorAll('.trait-btn');
+traitsBtn.forEach(trait => trait.addEventListener('click', showTrait));
+
+</script>
 
