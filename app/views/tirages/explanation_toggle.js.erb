@@ -1,0 +1,20 @@
+function showParagraph(e) {
+  console.log(e);
+  const explanation = document.querySelectorAll(".explanation");
+  console.log(explanation);
+  if(explanation.style.display === "none") {
+    explanation.style.display = "block";
+  } else {
+    explanation.style.display = "none";
+  }
+}
+
+const texteBtn = document.querySelectorAll('.texte-btn');
+texteBtn.forEach(tb => tb.addEventListener('click', showParagraph));
+// texteBtn.addEventListener('click', showParagraph);
+
+
+// faut que je puisse chercher dans le div cliqué
+// le nom du texte en display
+// pour que ça permette d'afficher le paragraphe correspondant
+// avec _description
