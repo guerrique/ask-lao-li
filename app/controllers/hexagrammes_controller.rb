@@ -1,5 +1,5 @@
 class HexagrammesController < ApplicationController
-  before_action :authenticate_admin!
+  before_action :must_be_admin, only: [:edit, :update]
   before_action :set_hex, only: [:edit, :update, :show]
 
   def index
@@ -19,11 +19,11 @@ class HexagrammesController < ApplicationController
 
   private
 
-  # def must_be_admin
-  #   unless current_user && current_user.admin?
-  #     redirect_to root_path, notice: "Must be admin"
-  #   end
-  # end
+  def must_be_admin
+    unless current_user && current_user.admin?
+      redirect_to root_path, notice: "Must be admin"
+    end
+  end
 
   def set_hex
     @hexagramme = Hexagramme.find(params[:id])

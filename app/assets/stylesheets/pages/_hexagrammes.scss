@@ -1,0 +1,19 @@
+.hex-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.hex-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: $maintitles;
+  font-size: 14px;
+  // width: 100px;
+  img {
+    height: 100px;
+    width: 100px;
+  }
+}
