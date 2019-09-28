@@ -1,25 +1,76 @@
 <div class="wrapper">
-  <div>
-    <div class="maintitle">
-      <h4><%= @tirage.question %></h4>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="maintitle open-font">
+          <h4><%= @tirage.question %></h4>
+        </div>
+      </div>
     </div>
-    Vous avez obtenu l'hexagramme <%= link_to hexagramme_path(@tirage.hexagramme.id)  do %>
-    <%= @tirage.hexagramme.nom %>
-    <% end %>
-  </div>
-
-  <div>
-    <%= @tirage.hexagramme.description  %>
-  </div>
-  <div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="tirage-hex">
+          <% arr_img = @tirage.reply_traits.split(', ') %>
+          <div>
+            <%= image_tag "#{arr_img[5]}.jpg", class:"img-traits" %>
+          </div>
+          <div>
+            <%= image_tag "#{arr_img[4]}.jpg", class:"img-traits" %>
+          </div>
+          <div>
+            <%= image_tag "#{arr_img[3]}.jpg", class:"img-traits" %>
+          </div>
+          <div>
+            <%= image_tag "#{arr_img[2]}.jpg", class:"img-traits" %>
+          </div>
+          <div>
+            <%= image_tag "#{arr_img[1]}.jpg", class:"img-traits" %>
+          </div>
+          <div>
+            <%= image_tag "#{arr_img[0]}.jpg", class:"img-traits" %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <%= link_to hexagramme_path(@tirage.hexagramme.id)  do %>
+        <div class="open-font hex-nom">
+          <h4> <%= @tirage.hexagramme.nom %></h4>
+        </div>
+        <% end %>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="jugement">
+          <h4>Jugement</h4>
+        <%= @tirage.hexagramme.jugement %>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
+        <div class="description">
+        <%= @tirage.hexagramme.jugement_description %>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-6">
     <% @tirage.traits.each_with_index do |trait, i| %>
       <% if trait.nom.include? 'mutant' %>
-      trait <%= (i + 1).to_s %>
+        <div class="jugement">
       <%= @tirage.hexagramme["trait" + (i + 1).to_s] %>
+        </div>
+        <div class="description">
+      <%= @tirage.hexagramme["trait" + (i + 1).to_s + "_description"] %>
+        </div>
       <% end %>
     <% end %>
-  </div>
-  <div>
-    Perspective: <%= @tirage.perspective %>
+      </div>
+    </div>
   </div>
 </div>
+
+
