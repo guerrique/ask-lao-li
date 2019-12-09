@@ -9,6 +9,5 @@
     "serialize-javascript": "^2.1.2"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.9.0"
   }
 }
